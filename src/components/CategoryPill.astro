@@ -1,0 +1,32 @@
+---
+import { getCategoryInfo } from '@/data/categories';
+import CategoryIcon from '@/components/CategoryIcon.astro';
+
+interface Props {
+  category: string;
+  size?: 'sm' | 'md';
+  linked?: boolean;
+}
+
+const { category, size = 'md', linked = false } = Astro.props;
+const info = getCategoryInfo(category);
+
+const classes = [
+  'category-badge transition-all duration-150',
+  info.color,
+  info.bgColor,
+  size === 'sm' ? 'text-[10px] px-2 py-0.5' : 'text-xs px-3 py-1',
+].join(' ');
+---
+
+{linked ? (
+  <a href={`/${category}`} class={classes}>
+    <CategoryIcon name={info.icon} size={18} />
+    {info.label}
+  </a>
+) : (
+  <span class={classes}>
+    <CategoryIcon name={info.icon} size={18} />
+    {info.label}
+  </span>
+)}

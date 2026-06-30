@@ -1,0 +1,182 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleCard from '@/components/ArticleCard.astro';
+import NewsletterBlock from '@/components/NewsletterBlock.astro';
+import { getCollection } from 'astro:content';
+import { getCategoryInfo } from '@/data/categories';
+import CategoryIcon from '@/components/CategoryIcon.astro';
+
+const cat = getCategoryInfo('quartiers');
+const allArticles = await getCollection('articles');
+const articles = allArticles
+  .filter((a) => a.data.category === 'quartiers')
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const neighborhoods = [
+  {
+    id: 'gueliz',
+    name: 'Guéliz',
+    desc: 'Le centre-ville moderne de Marrakech. Restaurants, galeries, boutiques, vie nocturne. Marché immobilier le plus liquide.',
+    type: 'Appartements, bureaux',
+    price: '14 000–22 000 MAD/m²',
+    profile: 'Investisseurs, jeunes actifs, expatriés',
+    pros: ['Excellente liquidité', 'Forte demande locative', 'Accès services'],
+    cons: ['Densité urbaine', 'Peu de plein air'],
+  },
+  {
+    id: 'hivernage',
+    name: 'Hivernage',
+    desc: 'Quartier hôtelier et résidentiel premium, entre les palaces et les résidences de prestige. La vitrine internationale de Marrakech.',
+    type: 'Résidences haut de gamme, suites',
+    price: '18 000–26 000 MAD/m²',
+    profile: 'Investisseurs premium, clientèle du Golfe, UHNW',
+    pros: ['Image de marque', 'Valeur locative élevée', 'Environnement sécurisé'],
+    cons: ['Budget d\'entrée élevé', 'Marché étroit'],
+  },
+  {
+    id: 'palmeraie',
+    name: 'Palmeraie',
+    desc: 'L\'adresse des grandes villas et complexes de luxe. Golf, piscines, espaces verts. La retraite dorée à 10 minutes du centre.',
+    type: 'Villas luxe, complexes résidentiels',
+    price: '10–50 M MAD (villa)',
+    profile: 'Clientèle internationale, familles aisées',
+    pros: ['Cadre de vie exceptionnel', 'Potentiel location premium', 'Propriétés uniques'],
+    cons: ['Dépendance voiture', 'Marché peu liquide'],
+  },
+  {
+    id: 'medina',
+    name: 'Médina',
+    desc: 'Le cœur historique classé UNESCO. Riads, derbs, maisons d\'hôtes. Investissement patrimonial à fort potentiel touristique.',
+    type: 'Riads, maisons d\'hôtes, dars',
+    price: '10 000–38 500 MAD/m² (rénové)',
+    profile: 'Investisseurs expérimentés, amoureux du patrimoine',
+    pros: ['Rendement locatif élevé', 'Valeur patrimoniale', 'Authenticité'],
+    cons: ['Rénovation complexe', 'Gestion opérationnelle', 'Accessibilité limitée'],
+  },
+  {
+    id: 'agdal',
+    name: 'Agdal',
+    desc: 'Quartier résidentiel en développement, prisé des familles marocaines. Projets neufs, écoles, commerces en expansion.',
+    type: 'Appartements neufs, villas',
+    price: '10 000–18 000 MAD/m²',
+    profile: 'Familles, résidents primaires, MRE',
+    pros: ['Rapport qualité-prix', 'Croissance urbaine', 'Bonne infrastructure'],
+    cons: ['Moins premium', 'Moins de potentiel touristique'],
+  },
+  {
+    id: 'route-amizmiz',
+    name: 'Route d\'Amizmiz',
+    desc: 'Zone d\'expansion vers le sud-ouest. Off-plan, villas spacieuses, accès à l\'Atlas. L\'une des zones les plus actives du moment.',
+    type: 'Villas neuf, projets off-plan',
+    price: '8 000–14 000 MAD/m²',
+    profile: 'Investisseurs recherchant la plus-value, acheteurs de résidence secondaire',
+    pros: ['Prix d\'entrée accessibles', 'Potentiel de plus-value', 'Grands espaces'],
+    cons: ['Infrastructure en cours', 'Moins de commodités immédiates'],
+  },
+  {
+    id: 'targa',
+    name: 'Targa',
+    desc: 'Périphérie nord en développement. Projets immobiliers neufs à prix compétitifs, idéaux pour les primo-accédants.',
+    type: 'Appartements neufs',
+    price: '8 000–13 000 MAD/m²',
+    profile: 'Primo-accédants, investisseurs budgétaires',
+    pros: ['Prix abordables', 'Projets récents', 'Bonne connexion route'],
+    cons: ['Éloigné du centre', 'Moins mature'],
+  },
+  {
+    id: 'route-ourika',
+    name: 'Route de l\'Ourika',
+    desc: 'Axe touristique vers l\'Atlas. Eco-lodges, grands domaines, riads de campagne. Tourisme de nature et bien-être.',
+    type: 'Domaines, eco-lodges, riads de campagne',
+    price: 'Variable selon surface',
+    profile: 'Projets éco-touristiques, investisseurs vision long terme',
+    pros: ['Cadre naturel unique', 'Tourisme en croissance', 'Prix fonciers attractifs'],
+    cons: ['Saisonnalité', 'Gestion logistique'],
+  },
+];
+---
+
+<BaseLayout
+  title="Quartiers de Marrakech — Guide immobilier par zone"
+  description="Guide complet des quartiers de Marrakech : Guéliz, Hivernage, Palmeraie, Médina, Agdal, Route d'Amizmiz. Prix, profils d'acheteurs et potentiel locatif."
+>
+  <section class="py-16 bg-rdm-bg border-b border-rdm-border">
+    <div class="container-rdm">
+      <div class="flex items-center gap-2 mb-3 text-rdm-orange">
+        <CategoryIcon name={cat.icon} size={18} />
+        <p class="section-label">Guide quartier par quartier</p>
+      </div>
+      <h1 class="text-headline font-black text-rdm-black mb-4">
+        Les quartiers<br />
+        <span class="text-rdm-orange">de Marrakech</span>
+      </h1>
+      <p class="text-rdm-gray max-w-lg leading-relaxed">
+        Chaque quartier de Marrakech a sa propre dynamique, ses prix, ses avantages et ses contraintes. Ce guide vous aide à identifier où investir ou vous installer selon votre profil.
+      </p>
+    </div>
+  </section>
+
+  <!-- Neighborhood cards -->
+  <section class="py-14">
+    <div class="container-rdm">
+      <div class="space-y-8">
+        {neighborhoods.map((n) => (
+          <div id={n.id} class="rounded-2xl border border-rdm-border bg-white p-7 lg:p-9 shadow-card reveal">
+            <div class="flex flex-col lg:flex-row lg:items-start lg:justify-between gap-4 mb-5">
+              <div>
+                <h2 class="text-title font-black text-rdm-black mb-1">{n.name}</h2>
+                <p class="text-rdm-gray">{n.desc}</p>
+              </div>
+              <div class="flex-shrink-0 text-right">
+                <div class="inline-block px-4 py-2 rounded-xl bg-rdm-orange-soft border border-rdm-orange/20">
+                  <p class="text-xs text-rdm-gray">Prix indicatif</p>
+                  <p class="font-bold text-rdm-orange text-sm">{n.price}</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-5">
+              <div class="p-4 rounded-xl bg-rdm-bg">
+                <p class="text-[10px] font-bold uppercase tracking-widest text-rdm-gray mb-1">Typologies</p>
+                <p class="text-sm font-medium text-rdm-black">{n.type}</p>
+              </div>
+              <div class="p-4 rounded-xl bg-rdm-bg sm:col-span-2">
+                <p class="text-[10px] font-bold uppercase tracking-widest text-rdm-gray mb-1">Profil d'acheteur</p>
+                <p class="text-sm font-medium text-rdm-black">{n.profile}</p>
+              </div>
+            </div>
+
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+              <div>
+                <p class="text-[10px] font-bold uppercase tracking-widest text-emerald-600 mb-2">✓ Points forts</p>
+                <ul class="space-y-1">
+                  {n.pros.map((p) => <li class="text-sm text-rdm-gray flex items-start gap-2"><span class="text-emerald-500 mt-0.5">•</span>{p}</li>)}
+                </ul>
+              </div>
+              <div>
+                <p class="text-[10px] font-bold uppercase tracking-widest text-red-500 mb-2">⚠ Points de vigilance</p>
+                <ul class="space-y-1">
+                  {n.cons.map((c) => <li class="text-sm text-rdm-gray flex items-start gap-2"><span class="text-red-400 mt-0.5">•</span>{c}</li>)}
+                </ul>
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Related articles -->
+  {articles.length > 0 && (
+    <section class="py-12 bg-rdm-bg">
+      <div class="container-rdm">
+        <h2 class="text-xl font-black text-rdm-black mb-8">Articles sur les quartiers</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {articles.map((a) => <ArticleCard article={a} />)}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <NewsletterBlock />
+</BaseLayout>

@@ -1,0 +1,45 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { SITE } from '@/data/site';
+---
+
+<BaseLayout
+  title="Politique de confidentialité"
+  description="Politique de confidentialité et traitement des données personnelles du site Le Vrai Maroc."
+  noindex={true}
+>
+  <section class="py-16">
+    <div class="container-rdm max-w-2xl">
+      <h1 class="text-2xl font-black text-rdm-black mb-8">Politique de confidentialité</h1>
+      <div class="prose prose-rdm max-w-none">
+        <h2>Données collectées</h2>
+        <p>
+          {SITE.name} collecte uniquement les données que vous nous transmettez volontairement :
+          adresse email (newsletter), nom et message (formulaire de contact).
+        </p>
+
+        <h2>Utilisation des données</h2>
+        <p>
+          Vos données sont utilisées exclusivement pour vous envoyer nos analyses éditoriales (newsletter)
+          ou pour répondre à votre message (contact). Elles ne sont jamais vendues ni transmises à des tiers.
+        </p>
+
+        <h2>Cookies</h2>
+        <p>
+          Ce site peut utiliser des cookies techniques nécessaires à son bon fonctionnement.
+          Aucun cookie de tracking publicitaire n'est utilisé.
+        </p>
+
+        <h2>Vos droits</h2>
+        <p>
+          Conformément au RGPD, vous disposez d'un droit d'accès, de rectification, de suppression et
+          de portabilité de vos données. Pour exercer ces droits, contactez-nous à{' '}
+          <a href={`mailto:${SITE.email}`}>{SITE.email}</a>.
+        </p>
+
+        <h2>Contact</h2>
+        <p>Pour toute question relative à vos données personnelles : <a href={`mailto:${SITE.email}`}>{SITE.email}</a></p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

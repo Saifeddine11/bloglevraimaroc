@@ -1,0 +1,253 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { SITE } from '@/data/site';
+---
+
+<BaseLayout
+  title="Contact"
+  description="Contactez l'équipe éditoriale Le Vrai Maroc pour des suggestions d'articles, questions d'investisseurs, ou demandes de partenariat éditorial."
+>
+  <section class="py-20">
+    <div class="container-rdm">
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-start">
+        <!-- Left: info -->
+        <div>
+          <p class="section-label mb-4">Nous écrire</p>
+          <h1 class="text-headline font-black text-rdm-black mb-5">
+            Contactez<br />
+            <span class="text-rdm-orange">la rédaction</span>
+          </h1>
+          <p class="text-rdm-gray leading-relaxed mb-8">
+            Vous avez une question sur le marché immobilier de Marrakech, une suggestion d'article,
+            ou vous souhaitez nous signaler une information ? Nous lisons tous les messages.
+          </p>
+
+          <div class="space-y-5">
+            <div class="flex items-start gap-4">
+              <div class="w-10 h-10 rounded-xl bg-rdm-orange-soft flex items-center justify-center flex-shrink-0">
+                <svg class="w-5 h-5 text-rdm-orange" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0019.5 4.5h-15a2.25 2.25 0 00-2.25 2.25m19.5 0v.243a2.25 2.25 0 01-1.07 1.916l-7.5 4.615a2.25 2.25 0 01-2.36 0L3.32 8.91a2.25 2.25 0 01-1.07-1.916V6.75" />
+                </svg>
+              </div>
+              <div>
+                <p class="font-semibold text-rdm-black text-sm mb-0.5">Email éditorial</p>
+                <a href={`mailto:${SITE.email}`} class="text-rdm-orange text-sm hover:underline">{SITE.email}</a>
+              </div>
+            </div>
+
+            <div class="flex items-start gap-4">
+              <div class="w-10 h-10 rounded-xl bg-rdm-orange-soft flex items-center justify-center flex-shrink-0">
+                <svg class="w-5 h-5 text-rdm-orange" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M9.879 7.519c1.171-1.025 3.071-1.025 4.242 0 1.172 1.025 1.172 2.687 0 3.712-.203.179-.43.326-.67.442-.745.361-1.45.999-1.45 1.827v.75M21 12a9 9 0 11-18 0 9 9 0 0118 0zm-9 5.25h.008v.008H12v-.008z" />
+                </svg>
+              </div>
+              <div>
+                <p class="font-semibold text-rdm-black text-sm mb-0.5">Suggestions d'articles</p>
+                <p class="text-rdm-gray text-sm">Vous avez connaissance d'un projet, d'une tendance, d'une donnée pertinente ? Partagez-la avec nous.</p>
+              </div>
+            </div>
+
+            <div class="flex items-start gap-4">
+              <div class="w-10 h-10 rounded-xl bg-rdm-orange-soft flex items-center justify-center flex-shrink-0">
+                <svg class="w-5 h-5 text-rdm-orange" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M15 19.128a9.38 9.38 0 002.625.372 9.337 9.337 0 004.121-.952 4.125 4.125 0 00-7.533-2.493M15 19.128v-.003c0-1.113-.285-2.16-.786-3.07M15 19.128v.106A12.318 12.318 0 018.624 21c-2.331 0-4.512-.645-6.374-1.766l-.001-.109a6.375 6.375 0 0111.964-3.07M12 6.375a3.375 3.375 0 11-6.75 0 3.375 3.375 0 016.75 0zm8.25 2.25a2.625 2.625 0 11-5.25 0 2.625 2.625 0 015.25 0z" />
+                </svg>
+              </div>
+              <div>
+                <p class="font-semibold text-rdm-black text-sm mb-0.5">Partenariats éditoriaux</p>
+                <p class="text-rdm-gray text-sm">Nous sommes ouverts aux collaborations éditoriales qui respectent notre ligne indépendante.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="mt-8 p-4 rounded-xl bg-amber-50 border border-amber-200">
+            <p class="text-xs text-amber-700">
+              <strong>Avertissement :</strong> Nous ne fournissons pas de conseils d'investissement personnalisés, ni d'avis juridiques ou fiscaux. Pour toute décision, consultez des professionnels qualifiés.
+            </p>
+          </div>
+        </div>
+
+        <!-- Right: form -->
+        <div>
+          <form
+            id="contact-form"
+            action={SITE.contactFormEndpoint}
+            method="POST"
+            class="rounded-2xl border border-rdm-border bg-white p-8 shadow-card space-y-5"
+            novalidate
+            aria-label="Formulaire de contact"
+          >
+            <!-- Formspree hidden fields -->
+            <input type="hidden" name="_subject" value="Nouveau message — Le Vrai Maroc" />
+            <input type="hidden" name="_language" value="fr" />
+            <input type="hidden" name="form_type" value="contact" />
+            <input type="hidden" name="source" value="Le Vrai Maroc" />
+            <!-- Honeypot anti-spam (must stay empty) -->
+            <input type="text" name="_gotcha" class="hidden" tabindex="-1" autocomplete="off" aria-hidden="true" />
+            <div>
+              <label for="contact-name" class="block text-sm font-semibold text-rdm-black mb-1.5">
+                Nom complet <span class="text-rdm-orange">*</span>
+              </label>
+              <input
+                type="text"
+                id="contact-name"
+                name="name"
+                required
+                autocomplete="name"
+                placeholder="Votre nom"
+                class="w-full px-4 py-3 rounded-xl border border-rdm-border text-rdm-black text-sm placeholder:text-rdm-gray focus:outline-none focus:ring-2 focus:ring-rdm-orange/20 focus:border-rdm-orange transition-all"
+              />
+            </div>
+
+            <div>
+              <label for="contact-email" class="block text-sm font-semibold text-rdm-black mb-1.5">
+                Adresse email <span class="text-rdm-orange">*</span>
+              </label>
+              <input
+                type="email"
+                id="contact-email"
+                name="email"
+                required
+                autocomplete="email"
+                placeholder="votre@email.com"
+                class="w-full px-4 py-3 rounded-xl border border-rdm-border text-rdm-black text-sm placeholder:text-rdm-gray focus:outline-none focus:ring-2 focus:ring-rdm-orange/20 focus:border-rdm-orange transition-all"
+              />
+            </div>
+
+            <div>
+              <label for="contact-subject" class="block text-sm font-semibold text-rdm-black mb-1.5">
+                Sujet <span class="text-rdm-orange">*</span>
+              </label>
+              <select
+                id="contact-subject"
+                name="subject"
+                required
+                class="w-full px-4 py-3 rounded-xl border border-rdm-border text-rdm-black text-sm focus:outline-none focus:ring-2 focus:ring-rdm-orange/20 focus:border-rdm-orange transition-all bg-white"
+              >
+                <option value="">Choisir un sujet…</option>
+                <option value="suggestion">Suggestion d'article</option>
+                <option value="question">Question sur le marché</option>
+                <option value="partenariat">Partenariat éditorial</option>
+                <option value="correction">Correction / signalement</option>
+                <option value="autre">Autre</option>
+              </select>
+            </div>
+
+            <div>
+              <label for="contact-message" class="block text-sm font-semibold text-rdm-black mb-1.5">
+                Message <span class="text-rdm-orange">*</span>
+              </label>
+              <textarea
+                id="contact-message"
+                name="message"
+                required
+                rows="5"
+                placeholder="Votre message…"
+                class="w-full px-4 py-3 rounded-xl border border-rdm-border text-rdm-black text-sm placeholder:text-rdm-gray focus:outline-none focus:ring-2 focus:ring-rdm-orange/20 focus:border-rdm-orange transition-all resize-none"
+              ></textarea>
+            </div>
+
+            <button
+              type="submit"
+              id="contact-submit"
+              class="btn-orange w-full justify-center py-3.5"
+            >
+              <span id="contact-btn-label">Envoyer le message</span>
+              <svg id="contact-btn-arrow" class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M6 12L3.269 3.126A59.768 59.768 0 0121.485 12 59.77 59.77 0 013.27 20.876L5.999 12zm0 0h7.5" />
+              </svg>
+              <svg id="contact-btn-spinner" class="w-4 h-4 hidden animate-spin" viewBox="0 0 24 24" fill="none">
+                <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"></path>
+              </svg>
+            </button>
+
+            <p id="form-feedback" class="text-sm text-center hidden" role="status" aria-live="polite"></p>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<script>
+  const form = document.getElementById('contact-form') as HTMLFormElement | null;
+  const feedback = document.getElementById('form-feedback');
+  const submitBtn = document.getElementById('contact-submit') as HTMLButtonElement | null;
+  const btnLabel = document.getElementById('contact-btn-label');
+  const btnArrow = document.getElementById('contact-btn-arrow');
+  const btnSpinner = document.getElementById('contact-btn-spinner');
+
+  const FALLBACK_EMAIL = 'contact@levraimaroc.com';
+
+  function setLoading(loading: boolean) {
+    if (!submitBtn) return;
+    submitBtn.disabled = loading;
+    if (btnLabel) btnLabel.textContent = loading ? 'Envoi en cours…' : 'Envoyer le message';
+    if (btnArrow) btnArrow.classList.toggle('hidden', loading);
+    if (btnSpinner) btnSpinner.classList.toggle('hidden', !loading);
+  }
+
+  function showMsg(text: string, success: boolean) {
+    if (!feedback) return;
+    feedback.textContent = text;
+    feedback.className = [
+      'text-sm text-center font-medium mt-2',
+      success ? 'text-emerald-600' : 'text-red-600',
+    ].join(' ');
+    feedback.classList.remove('hidden');
+  }
+
+  form?.addEventListener('submit', async (e) => {
+    e.preventDefault();
+
+    const data = new FormData(form);
+    const name = data.get('name')?.toString().trim();
+    const email = data.get('email')?.toString().trim();
+    const subject = data.get('subject')?.toString();
+    const message = data.get('message')?.toString().trim();
+
+    if (!name || !email || !subject || !message) {
+      showMsg('Veuillez remplir tous les champs obligatoires.', false);
+      return;
+    }
+
+    const action = form.getAttribute('action') || '';
+    if (action.includes('REPLACE_WITH')) {
+      const mailSubject = encodeURIComponent('Nouveau message — Le Vrai Maroc');
+      const mailBody = encodeURIComponent(
+        `Nom : ${name}\nEmail : ${email}\nSujet : ${subject}\n\nMessage :\n${message}`
+      );
+      window.open(`mailto:${FALLBACK_EMAIL}?subject=${mailSubject}&body=${mailBody}`);
+      showMsg(`Vous pouvez aussi nous écrire directement à ${FALLBACK_EMAIL}.`, true);
+      return;
+    }
+
+    setLoading(true);
+    feedback?.classList.add('hidden');
+
+    try {
+      const res = await fetch(action, {
+        method: 'POST',
+        body: data,
+        headers: { Accept: 'application/json' },
+      });
+
+      if (res.ok) {
+        showMsg('Merci. Votre message a bien été envoyé à la rédaction Le Vrai Maroc.', true);
+        form.reset();
+      } else {
+        const json = await res.json().catch(() => ({}));
+        const msg = (json?.errors as { message: string }[])?.map((err) => err.message).join(', ') || '';
+        showMsg(
+          msg || `Une erreur est survenue. Vous pouvez nous écrire directement à ${FALLBACK_EMAIL}`,
+          false
+        );
+      }
+    } catch {
+      showMsg(`Une erreur est survenue. Vous pouvez nous écrire directement à ${FALLBACK_EMAIL}`, false);
+    } finally {
+      setLoading(false);
+    }
+  });
+</script>

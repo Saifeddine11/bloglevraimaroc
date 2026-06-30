@@ -1,0 +1,192 @@
+---
+import { SITE } from '@/data/site';
+
+interface Props {
+  variant?: 'section' | 'inline';
+}
+const { variant = 'section' } = Astro.props;
+---
+
+{variant === 'section' && (
+  <section id="newsletter" class="py-20 bg-rdm-bg" aria-labelledby="newsletter-heading">
+    <div class="container-rdm">
+      <div class="max-w-2xl mx-auto text-center">
+        <p class="section-label mb-4 reveal">Restez informé</p>
+        <h2 id="newsletter-heading" class="text-headline font-black text-rdm-black mb-4 reveal reveal-delay-1">
+          L'essentiel de Marrakech,<br />
+          <span class="text-rdm-orange">chaque semaine</span>
+        </h2>
+        <p class="text-rdm-gray mb-8 reveal reveal-delay-2">
+          Analyses marché, nouvelles opportunités, alertes prix et décryptages exclusifs.
+          Zéro spam. Désabonnement en un clic.
+        </p>
+
+        <form
+          id="newsletter-form-section"
+          action="/send-newsletter.php"
+          method="POST"
+          class="flex flex-col sm:flex-row gap-3 max-w-md mx-auto reveal reveal-delay-3"
+          novalidate
+          aria-label="Formulaire d'inscription à la newsletter"
+        >
+          <!-- Honeypot anti-spam: must stay empty -->
+          <input type="text" name="website" class="hidden" tabindex="-1" autocomplete="off" aria-hidden="true" />
+
+          <label for="email-newsletter-section" class="sr-only">Votre adresse email</label>
+          <input
+            type="email"
+            id="email-newsletter-section"
+            name="email"
+            placeholder="votre@email.com"
+            required
+            class="newsletter-input flex-1"
+            autocomplete="email"
+          />
+          <button
+            type="submit"
+            id="newsletter-btn-section"
+            class="btn-orange flex-shrink-0 justify-center"
+          >
+            <span class="btn-label">S'inscrire</span>
+            <svg class="w-4 h-4 btn-arrow" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
+            </svg>
+            <svg class="w-4 h-4 btn-spinner hidden animate-spin" viewBox="0 0 24 24" fill="none">
+              <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+              <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"></path>
+            </svg>
+          </button>
+        </form>
+
+        <p id="newsletter-feedback-section" class="text-sm mt-4 hidden" role="status" aria-live="polite"></p>
+
+        <p class="text-xs text-rdm-gray mt-4 reveal reveal-delay-4">
+          En vous inscrivant, vous acceptez de recevoir nos analyses éditoriales.
+          Vos données ne sont jamais partagées.
+        </p>
+      </div>
+    </div>
+  </section>
+)}
+
+{variant === 'inline' && (
+  <div class="rounded-2xl bg-gradient-to-br from-rdm-black to-rdm-black/90 p-8 text-white">
+    <div class="flex items-start gap-4 mb-5">
+      <div class="w-10 h-10 rounded-xl bg-rdm-orange flex items-center justify-center flex-shrink-0">
+        <svg class="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0019.5 4.5h-15a2.25 2.25 0 00-2.25 2.25m19.5 0v.243a2.25 2.25 0 01-1.07 1.916l-7.5 4.615a2.25 2.25 0 01-2.36 0L3.32 8.91a2.25 2.25 0 01-1.07-1.916V6.75" />
+        </svg>
+      </div>
+      <div>
+        <h3 class="font-bold text-white mb-1">Newsletter Le Vrai Maroc</h3>
+        <p class="text-white/60 text-sm">Analyses et opportunités chaque semaine, directement dans votre boîte mail.</p>
+      </div>
+    </div>
+
+    <form
+      id="newsletter-form-inline"
+      action="/send-newsletter.php"
+      method="POST"
+      class="flex flex-col sm:flex-row gap-3"
+      novalidate
+      aria-label="Inscription à la newsletter"
+    >
+      <!-- Honeypot anti-spam: must stay empty -->
+      <input type="text" name="website" class="hidden" tabindex="-1" autocomplete="off" aria-hidden="true" />
+
+      <label class="sr-only" for="email-newsletter-inline">Votre adresse email</label>
+      <input
+        type="email"
+        id="email-newsletter-inline"
+        name="email"
+        placeholder="votre@email.com"
+        required
+        autocomplete="email"
+        class="flex-1 px-4 py-2.5 rounded-full bg-white/10 border border-white/20 text-white text-sm placeholder:text-white/40 focus:outline-none focus:border-rdm-orange transition-colors"
+      />
+      <button
+        type="submit"
+        id="newsletter-btn-inline"
+        class="btn-orange flex-shrink-0 py-2.5 justify-center text-sm"
+      >
+        <span class="btn-label">S'inscrire</span>
+        <svg class="w-3.5 h-3.5 btn-spinner hidden animate-spin" viewBox="0 0 24 24" fill="none">
+          <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+          <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"></path>
+        </svg>
+      </button>
+    </form>
+
+    <p id="newsletter-feedback-inline" class="text-sm mt-3 hidden" role="status" aria-live="polite"></p>
+  </div>
+)}
+
+<script>
+  function setupNewsletterForm(formId, feedbackId, btnId) {
+    const form = document.getElementById(formId);
+    const feedback = document.getElementById(feedbackId);
+    const btn = document.getElementById(btnId);
+    if (!form || !feedback || !btn) return;
+
+    const label = btn.querySelector('.btn-label');
+    const arrow = btn.querySelector('.btn-arrow');
+    const spinner = btn.querySelector('.btn-spinner');
+
+    function setLoading(loading) {
+      btn.disabled = loading;
+      if (label) label.textContent = loading ? 'Envoi…' : "S'inscrire";
+      if (arrow) arrow.classList.toggle('hidden', loading);
+      if (spinner) spinner.classList.toggle('hidden', !loading);
+    }
+
+    function showMessage(text, success) {
+      feedback.textContent = text;
+      feedback.className = [
+        'text-sm mt-4 font-medium',
+        success ? 'text-emerald-600' : 'text-red-600',
+      ].join(' ');
+      feedback.classList.remove('hidden');
+    }
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+
+      const emailInput = form.querySelector('input[type="email"]');
+      const email = emailInput?.value.trim() ?? '';
+
+      if (!email || !emailInput.validity.valid) {
+        showMessage('Veuillez entrer une adresse email valide.', false);
+        emailInput?.focus();
+        return;
+      }
+
+      setLoading(true);
+      feedback.classList.add('hidden');
+
+      try {
+        const data = new FormData(form);
+        const res = await fetch('/send-newsletter.php', {
+          method: 'POST',
+          body: data,
+          headers: { Accept: 'application/json' },
+        });
+
+        if (res.ok) {
+          showMessage('Merci. Votre inscription a bien été prise en compte.', true);
+          form.reset();
+        } else {
+          console.error('Newsletter error:', res.status);
+          showMessage('Une erreur est survenue. Veuillez réessayer.', false);
+        }
+      } catch (err) {
+        console.error('Newsletter fetch failed:', err);
+        showMessage('Une erreur est survenue. Veuillez réessayer.', false);
+      } finally {
+        setLoading(false);
+      }
+    });
+  }
+
+  setupNewsletterForm('newsletter-form-section', 'newsletter-feedback-section', 'newsletter-btn-section');
+  setupNewsletterForm('newsletter-form-inline', 'newsletter-feedback-inline', 'newsletter-btn-inline');
+</script>

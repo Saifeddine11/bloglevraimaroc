@@ -1,0 +1,50 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleCard from '@/components/ArticleCard.astro';
+import NewsletterBlock from '@/components/NewsletterBlock.astro';
+import { getCollection } from 'astro:content';
+import { getCategoryInfo } from '@/data/categories';
+import CategoryIcon from '@/components/CategoryIcon.astro';
+
+const cat = getCategoryInfo('analyses');
+const allArticles = await getCollection('articles');
+const articles = allArticles
+  .filter((a) => a.data.category === 'analyses')
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+
+<BaseLayout
+  title="Analyses de marché Marrakech — Immobilier et tourisme"
+  description="Analyses de fond sur l'immobilier et le tourisme à Marrakech. Perspectives de marché, scénarios 2026–2030, données macroéconomiques."
+>
+  <section class="py-16 bg-rdm-bg border-b border-rdm-border">
+    <div class="container-rdm">
+      <div class="flex items-center gap-3 mb-4">
+        <CategoryIcon name={cat.icon} size={28} class={cat.color} />
+        <p class="section-label">{cat.label}</p>
+      </div>
+      <h1 class="text-headline font-black text-rdm-black mb-4">
+        Analyses<br />
+        <span class="text-rdm-orange">de marché</span>
+      </h1>
+      <p class="text-rdm-gray max-w-lg leading-relaxed">
+        Nos analyses de fond sur l'immobilier, le tourisme et les dynamiques économiques de Marrakech.
+        Des textes longs, sourcés, écrits pour comprendre — pas pour vendre.
+      </p>
+    </div>
+  </section>
+
+  <section class="py-14">
+    <div class="container-rdm">
+      {articles.length > 0 ? (
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {articles.map((a) => <ArticleCard article={a} />)}
+        </div>
+      ) : (
+        <p class="text-rdm-gray py-12 text-center">Analyses à venir dans cette rubrique.</p>
+      )}
+    </div>
+  </section>
+
+  <NewsletterBlock />
+</BaseLayout>

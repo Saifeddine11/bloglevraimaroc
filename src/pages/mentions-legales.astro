@@ -1,0 +1,44 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { SITE } from '@/data/site';
+---
+
+<BaseLayout
+  title="Mentions légales"
+  description="Mentions légales du site Le Vrai Maroc."
+  noindex={true}
+>
+  <section class="py-16">
+    <div class="container-rdm max-w-2xl">
+      <h1 class="text-2xl font-black text-rdm-black mb-8">Mentions légales</h1>
+      <div class="prose prose-rdm max-w-none">
+        <h2>Éditeur du site</h2>
+        <p>
+          Le site <strong>{SITE.name}</strong> ({SITE.url}) est un média éditorial indépendant.
+        </p>
+        <p>Contact : <a href={`mailto:${SITE.email}`}>{SITE.email}</a></p>
+
+        <h2>Hébergement</h2>
+        <p>Ce site est hébergé sur une infrastructure statique. Les informations d'hébergement seront précisées après déploiement.</p>
+
+        <h2>Propriété intellectuelle</h2>
+        <p>
+          L'ensemble du contenu publié sur ce site (textes, analyses, mise en forme) est la propriété de {SITE.name}, sauf mention contraire.
+          Toute reproduction partielle ou totale sans autorisation écrite est interdite.
+        </p>
+
+        <h2>Avertissement</h2>
+        <p>
+          Les analyses publiées sur {SITE.name} sont de nature éditoriale et informative. Elles ne constituent en aucun cas des conseils financiers, juridiques, fiscaux ou d'investissement.
+          Les lecteurs sont invités à consulter des professionnels qualifiés avant toute décision.
+        </p>
+
+        <h2>Données personnelles</h2>
+        <p>
+          Les données personnelles collectées via le formulaire de contact ou la newsletter sont utilisées uniquement à des fins de communication éditoriale et ne sont jamais transmises à des tiers.
+          Conformément au RGPD, vous disposez d'un droit d'accès, de rectification et de suppression de vos données. Contactez-nous à {SITE.email}.
+        </p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

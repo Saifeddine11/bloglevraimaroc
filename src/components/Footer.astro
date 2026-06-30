@@ -1,0 +1,111 @@
+---
+import { SITE } from '@/data/site';
+import { CATEGORIES } from '@/data/categories';
+import CategoryIcon from '@/components/CategoryIcon.astro';
+
+const year = new Date().getFullYear();
+---
+
+<footer class="bg-rdm-black text-white mt-24">
+  <!-- Main footer -->
+  <div class="container-rdm py-16">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
+      <!-- Brand -->
+      <div class="lg:col-span-2">
+        <div class="flex items-center gap-3 mb-5">
+          <div class="w-9 h-9 rounded-lg bg-rdm-orange flex items-center justify-center flex-shrink-0">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+              <path
+                d="M12 2 L13.5 9 L20 7 L15 12 L20 17 L13.5 15 L12 22 L10.5 15 L4 17 L9 12 L4 7 L10.5 9 Z"
+                fill="white"
+                stroke="none"
+              />
+            </svg>
+          </div>
+          <div class="leading-none">
+            <div class="font-black text-white text-[13px] tracking-[0.04em] uppercase">Le Vrai</div>
+            <div class="font-black text-rdm-orange text-[16px] tracking-[0.02em] uppercase -mt-0.5">Maroc</div>
+          </div>
+        </div>
+        <p class="text-white/60 text-sm leading-relaxed max-w-sm mb-6">
+          {SITE.footer.description}
+        </p>
+        <div class="flex items-center gap-3">
+          <a
+            href="/#newsletter"
+            class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-rdm-orange text-white text-sm font-semibold hover:bg-rdm-orange-mid transition-colors"
+          >
+            <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0019.5 4.5h-15a2.25 2.25 0 00-2.25 2.25m19.5 0v.243a2.25 2.25 0 01-1.07 1.916l-7.5 4.615a2.25 2.25 0 01-2.36 0L3.32 8.91a2.25 2.25 0 01-1.07-1.916V6.75" />
+            </svg>
+            S'inscrire à la newsletter
+          </a>
+        </div>
+      </div>
+
+      <!-- Rubriques -->
+      <div>
+        <h3 class="text-xs font-bold uppercase tracking-widest text-white/40 mb-5">Rubriques</h3>
+        <ul class="space-y-3">
+          {Object.values(CATEGORIES).map((cat) => (
+            <li>
+              <a
+                href={`/${cat.slug}`}
+                class="text-sm text-white/70 hover:text-rdm-orange transition-colors duration-150 flex items-center gap-2"
+              >
+                <CategoryIcon name={cat.icon} size={20} />
+                {cat.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <!-- Informations -->
+      <div>
+        <h3 class="text-xs font-bold uppercase tracking-widest text-white/40 mb-5">Informations</h3>
+        <ul class="space-y-3">
+          <li>
+            <a href="/a-propos" class="text-sm text-white/70 hover:text-rdm-orange transition-colors">À propos</a>
+          </li>
+          <li>
+            <a href="/contact" class="text-sm text-white/70 hover:text-rdm-orange transition-colors">Contact</a>
+          </li>
+          <li>
+            <a href="/blog" class="text-sm text-white/70 hover:text-rdm-orange transition-colors">Tous les articles</a>
+          </li>
+          <li>
+            <a href="/rss.xml" class="text-sm text-white/70 hover:text-rdm-orange transition-colors flex items-center gap-1.5">
+              <svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
+                <path d="M6.18 15.64a2.18 2.18 0 012.18 2.18C8.36 19.01 7.38 20 6.18 20C4.98 20 4 19.01 4 17.82a2.18 2.18 0 012.18-2.18M4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44m0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z" />
+              </svg>
+              Flux RSS
+            </a>
+          </li>
+        </ul>
+        <div class="mt-8">
+          <p class="text-xs text-white/40 mb-2">Contact éditorial</p>
+          <a href={`mailto:${SITE.email}`} class="text-sm text-white/60 hover:text-rdm-orange transition-colors">
+            {SITE.email}
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bottom bar -->
+  <div class="border-t border-white/10">
+    <div class="container-rdm py-5 flex flex-col sm:flex-row items-center justify-between gap-3">
+      <p class="text-xs text-white/40">
+        © {year} {SITE.name}. Tous droits réservés.
+      </p>
+      <div class="flex items-center gap-5">
+        {SITE.footer.legal.map((link) => (
+          <a href={link.href} class="text-xs text-white/40 hover:text-white/70 transition-colors">
+            {link.label}
+          </a>
+        ))}
+      </div>
+    </div>
+  </div>
+</footer>

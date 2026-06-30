@@ -1,0 +1,114 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import NewsletterBlock from '@/components/NewsletterBlock.astro';
+import { SITE } from '@/data/site';
+---
+
+<BaseLayout
+  title="À propos"
+  description="Le Vrai Maroc est un média éditorial indépendant dédié à l'analyse objective de l'immobilier, du tourisme et de l'investissement à Marrakech."
+>
+  <!-- Hero -->
+  <section class="py-20 bg-rdm-bg border-b border-rdm-border">
+    <div class="container-rdm max-w-3xl">
+      <p class="section-label mb-4">Qui sommes-nous ?</p>
+      <h1 class="text-headline font-black text-rdm-black mb-6">
+        Un regard <span class="text-rdm-orange">indépendant</span><br />
+        sur Marrakech
+      </h1>
+      <p class="text-lg text-rdm-gray leading-relaxed">
+        Le Vrai Maroc est un média éditorial indépendant dédié à l'analyse de l'immobilier,
+        du tourisme et de l'investissement à Marrakech. Nous ne sommes pas une agence immobilière,
+        ni un promoteur, ni un opérateur touristique.
+      </p>
+    </div>
+  </section>
+
+  <!-- Mission -->
+  <section class="py-16">
+    <div class="container-rdm max-w-3xl">
+      <div class="prose prose-rdm prose-lg max-w-none">
+        <h2>Notre mission</h2>
+        <p>
+          Marrakech est une ville fascinante, dynamique, et souvent mal comprise. Entre l'optimisme
+          commercial des agences, les discours marketing des promoteurs, et la réalité parfois plus
+          nuancée du terrain, il manquait un espace éditorial honnête.
+        </p>
+        <p>
+          <strong>Le Vrai Maroc</strong> est cet espace. Nous analysons les données disponibles,
+          nous citons nos sources, nous nuançons nos propos, et nous écrivons pour des lecteurs
+          intelligents qui veulent comprendre avant d'agir.
+        </p>
+
+        <h2>Ce que nous faisons</h2>
+        <ul>
+          <li>Analyse des tendances du marché immobilier à Marrakech</li>
+          <li>Décryptage des dynamiques touristiques et hôtelières</li>
+          <li>Guides pratiques pour investisseurs, acheteurs et expatriés</li>
+          <li>Portraits de quartiers et zones d'expansion</li>
+          <li>Perspectives à moyen terme : 2026–2030</li>
+          <li>Éclairages sur la fiscalité, la réglementation et les risques</li>
+        </ul>
+
+        <h2>Ce que nous ne faisons pas</h2>
+        <ul>
+          <li>Nous ne vendons pas de biens immobiliers.</li>
+          <li>Nous ne percevons pas de commissions d'agences ou de promoteurs.</li>
+          <li>Nous ne publions pas de communiqués promotionnels déguisés en articles.</li>
+          <li>Nous n'inventons pas de statistiques ni ne fabriquons des projections sans base factuelle.</li>
+          <li>Nous ne prétendons pas être une autorité réglementaire ou fiscale.</li>
+        </ul>
+
+        <blockquote>
+          Toutes nos analyses sont de nature éditoriale. Pour toute décision d'achat, d'investissement
+          ou juridique, consultez des professionnels qualifiés et agréés.
+        </blockquote>
+
+        <h2>Notre approche éditoriale</h2>
+        <p>
+          Chaque article est rédigé en se basant sur des sources vérifiables : données officielles
+          du ministère du Tourisme marocain, indices immobiliers disponibles publiquement, rapports
+          d'organisations internationales, et médias économiques de référence. Nos sources sont
+          citées dans chaque article.
+        </p>
+        <p>
+          Notre ton est éditorial, non publicitaire. Nous mettons en avant les opportunités mais
+          aussi les risques et les limites. Nous écrivons pour des personnes capables de lire une
+          analyse avec esprit critique.
+        </p>
+
+        <h2>Contact</h2>
+        <p>
+          Pour toute question éditoriale, suggestion d'article, ou demande de partenariat,
+          contactez-nous via notre{' '}
+          <a href="/contact">formulaire de contact</a>
+          {' '}ou à l'adresse{' '}
+          <a href={`mailto:${SITE.email}`}>{SITE.email}</a>.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Values -->
+  <section class="py-14 bg-rdm-bg">
+    <div class="container-rdm">
+      <h2 class="text-2xl font-black text-rdm-black mb-10 text-center">Nos engagements éditoriaux</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
+        {[
+          { icon: '✓', title: 'Sources citées', desc: 'Chaque chiffre est rattaché à une source identifiable.' },
+          { icon: '⚖', title: 'Indépendance', desc: 'Aucune rémunération commerciale ne conditionne nos analyses.' },
+          { icon: '⚠', title: 'Nuance', desc: 'Nous présentons les opportunités ET les risques.' },
+          { icon: '↻', title: 'Mise à jour', desc: 'Les articles sont actualisés quand les données changent.' },
+        ].map((v) => (
+          <div class="glass-card p-6 text-center">
+            <div class="text-3xl mb-3">{v.icon}</div>
+            <h3 class="font-bold text-rdm-black mb-2">{v.title}</h3>
+            <p class="text-sm text-rdm-gray leading-relaxed">{v.desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <NewsletterBlock />
+</BaseLayout>

@@ -1,0 +1,62 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleCard from '@/components/ArticleCard.astro';
+import NewsletterBlock from '@/components/NewsletterBlock.astro';
+import { getCollection } from 'astro:content';
+import { getCategoryInfo } from '@/data/categories';
+import CategoryIcon from '@/components/CategoryIcon.astro';
+
+const cat = getCategoryInfo('investissement');
+const allArticles = await getCollection('articles');
+const articles = allArticles
+  .filter((a) => a.data.category === 'investissement')
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const featured = articles[0];
+const rest = articles.slice(1);
+---
+
+<BaseLayout
+  title="Investissement immobilier à Marrakech — Rendements, risques et opportunités"
+  description="Guides et analyses sur l'investissement immobilier à Marrakech : rendement locatif, fiscalité, short-term rental, riads, villas et profils d'investisseurs."
+>
+  <section class="py-16 bg-rdm-bg border-b border-rdm-border">
+    <div class="container-rdm">
+      <div class="flex items-center gap-3 mb-4">
+        <CategoryIcon name={cat.icon} size={28} class={cat.color} />
+        <p class="section-label">{cat.label}</p>
+      </div>
+      <h1 class="text-headline font-black text-rdm-black mb-4">
+        Investissement<br />
+        <span class="text-rdm-orange">immobilier</span>
+      </h1>
+      <p class="text-rdm-gray max-w-lg leading-relaxed">{cat.description}</p>
+      <div class="mt-5 p-4 rounded-xl bg-amber-50 border border-amber-200 max-w-lg">
+        <p class="text-xs text-amber-700">
+          <strong>Note :</strong> Les analyses publiées ici sont de nature éditoriale et ne constituent pas des conseils financiers ou fiscaux.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-14">
+    <div class="container-rdm">
+      {featured && (
+        <div class="mb-12">
+          <p class="text-xs font-semibold uppercase tracking-widest text-rdm-gray mb-6">Article récent</p>
+          <ArticleCard article={featured} variant="featured" eager />
+        </div>
+      )}
+      {rest.length > 0 && (
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {rest.map((article) => <ArticleCard article={article} />)}
+        </div>
+      )}
+      {articles.length === 0 && (
+        <p class="text-rdm-gray py-12 text-center">Articles à venir dans cette rubrique.</p>
+      )}
+    </div>
+  </section>
+
+  <NewsletterBlock />
+</BaseLayout>

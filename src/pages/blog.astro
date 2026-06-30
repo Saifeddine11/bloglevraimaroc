@@ -1,0 +1,140 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleCard from '@/components/ArticleCard.astro';
+import CategoryPill from '@/components/CategoryPill.astro';
+import SearchBar from '@/components/SearchBar.astro';
+import CategoryIcon from '@/components/CategoryIcon.astro';
+import { getCollection } from 'astro:content';
+import { CATEGORIES } from '@/data/categories';
+
+const allArticles = await getCollection('articles');
+const sorted = allArticles.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const categoryFilters = Object.values(CATEGORIES);
+---
+
+<BaseLayout
+  title="Blog — Toutes les analyses"
+  description="Toutes nos analyses éditoriales sur l'immobilier, le tourisme et l'investissement à Marrakech. Filtrez par catégorie ou recherchez un sujet."
+>
+  <!-- Page header -->
+  <section class="py-16 bg-rdm-bg border-b border-rdm-border">
+    <div class="container-rdm">
+      <p class="section-label mb-3">Toutes les analyses</p>
+      <h1 class="text-headline font-black text-rdm-black mb-4">
+        Le blog <span class="text-rdm-orange">Le Vrai Maroc</span>
+      </h1>
+      <p class="text-rdm-gray max-w-xl mb-8">
+        Analyses de marché, guides pratiques, décryptages. Tout ce qu'il faut comprendre avant d'acheter, d'investir ou de visiter Marrakech.
+      </p>
+
+      <!-- Search + filters -->
+      <div class="flex flex-col md:flex-row gap-4 items-start md:items-center">
+        <div class="w-full md:w-72">
+          <SearchBar placeholder="Rechercher un article…" />
+        </div>
+        <div class="flex flex-wrap gap-2" role="group" aria-label="Filtrer par catégorie">
+          <button
+            data-filter="all"
+            class="category-filter-btn active category-badge bg-rdm-black text-white text-xs"
+          >
+            Tout
+          </button>
+          {categoryFilters.map((cat) => (
+            <button
+              data-filter={cat.slug}
+              class:list={[
+                'category-filter-btn category-badge text-xs transition-all duration-150',
+                cat.color,
+                cat.bgColor,
+                'hover:opacity-80',
+              ]}
+            >
+              <CategoryIcon name={cat.icon} size={18} />
+              {cat.label}
+            </button>
+          ))}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Articles grid -->
+  <section class="py-14">
+    <div class="container-rdm">
+      <p class="text-sm text-rdm-gray mb-6" id="results-count">
+        {sorted.length} article{sorted.length !== 1 ? 's' : ''}
+      </p>
+
+      <div
+        id="articles-grid"
+        class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"
+      >
+        {sorted.map((article) => (
+          <div
+            data-category={article.data.category}
+            data-title={article.data.title.toLowerCase()}
+            data-excerpt={article.data.excerpt.toLowerCase()}
+            data-tags={article.data.tags.join(' ').toLowerCase()}
+            class="article-item"
+          >
+            <ArticleCard article={article} />
+          </div>
+        ))}
+      </div>
+
+      <div id="no-results" class="hidden text-center py-16">
+        <p class="text-xl font-bold text-rdm-black mb-2">Aucun résultat trouvé</p>
+        <p class="text-rdm-gray text-sm">Essayez d'autres mots-clés ou explorez les catégories.</p>
+        <button data-filter="all" class="category-filter-btn btn-secondary mt-6 text-sm">
+          Voir tous les articles
+        </button>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<script>
+  let currentCategory = 'all';
+  let currentQuery = '';
+
+  const grid = document.getElementById('articles-grid');
+  const items = document.querySelectorAll('.article-item') as NodeListOf<HTMLElement>;
+  const noResults = document.getElementById('no-results');
+  const resultsCount = document.getElementById('results-count');
+  const filterBtns = document.querySelectorAll('.category-filter-btn') as NodeListOf<HTMLButtonElement>;
+  const searchInput = document.getElementById('search-input') as HTMLInputElement | null;
+
+  function applyFilters() {
+    let visible = 0;
+    items.forEach((item) => {
+      const cat = item.dataset.category ?? '';
+      const text = [item.dataset.title, item.dataset.excerpt, item.dataset.tags].join(' ');
+      const catMatch = currentCategory === 'all' || cat === currentCategory;
+      const queryMatch = !currentQuery || text.includes(currentQuery.toLowerCase());
+      const show = catMatch && queryMatch;
+      item.style.display = show ? '' : 'none';
+      if (show) visible++;
+    });
+
+    const noResultsEl = noResults;
+    if (noResultsEl) noResultsEl.classList.toggle('hidden', visible > 0);
+    if (resultsCount) resultsCount.textContent = `${visible} article${visible !== 1 ? 's' : ''}`;
+  }
+
+  filterBtns.forEach((btn) => {
+    btn.addEventListener('click', () => {
+      currentCategory = btn.dataset.filter ?? 'all';
+      filterBtns.forEach((b) => {
+        b.classList.remove('active', 'bg-rdm-black', 'text-white');
+      });
+      btn.classList.add('active', 'bg-rdm-black', 'text-white');
+      applyFilters();
+    });
+  });
+
+  searchInput?.addEventListener('input', () => {
+    currentQuery = searchInput.value.trim();
+    applyFilters();
+  });
+</script>

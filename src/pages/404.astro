@@ -1,0 +1,40 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Page introuvable"
+  description="La page que vous recherchez n'existe pas ou a été déplacée."
+  noindex={true}
+>
+  <section class="py-32 flex-1">
+    <div class="container-rdm max-w-xl mx-auto text-center">
+
+      <!-- 404 number -->
+      <p
+        class="text-[120px] sm:text-[160px] font-black leading-none text-rdm-border select-none mb-2"
+        aria-hidden="true"
+      >404</p>
+
+      <h1 class="text-3xl font-black text-rdm-black mb-4">Page introuvable</h1>
+
+      <p class="text-rdm-gray leading-relaxed mb-10 max-w-sm mx-auto">
+        Cette page n'existe pas ou a été déplacée.
+        Revenez à l'accueil ou consultez nos dernières analyses sur Marrakech.
+      </p>
+
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <a href="/" class="btn-orange justify-center">
+          <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 12l8.954-8.955c.44-.439 1.152-.439 1.591 0L21.75 12M4.5 9.75v10.125c0 .621.504 1.125 1.125 1.125H9.75v-4.875c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21h4.125c.621 0 1.125-.504 1.125-1.125V9.75M8.25 21h8.25" />
+          </svg>
+          Retour à l'accueil
+        </a>
+        <a href="/blog" class="btn-secondary justify-center">
+          Voir les articles
+        </a>
+      </div>
+
+    </div>
+  </section>
+</BaseLayout>

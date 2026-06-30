@@ -1,0 +1,50 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleCard from '@/components/ArticleCard.astro';
+import NewsletterBlock from '@/components/NewsletterBlock.astro';
+import { getCollection } from 'astro:content';
+import { getCategoryInfo } from '@/data/categories';
+import CategoryIcon from '@/components/CategoryIcon.astro';
+
+const cat = getCategoryInfo('guides');
+const allArticles = await getCollection('articles');
+const articles = allArticles
+  .filter((a) => a.data.category === 'guides')
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+
+<BaseLayout
+  title="Guides pratiques Marrakech — Achat, investissement, installation"
+  description="Guides pratiques pour acheter, investir, louer ou s'installer à Marrakech. Procédures, pièges à éviter, conseils d'experts."
+>
+  <section class="py-16 bg-rdm-bg border-b border-rdm-border">
+    <div class="container-rdm">
+      <div class="flex items-center gap-3 mb-4">
+        <CategoryIcon name={cat.icon} size={28} class={cat.color} />
+        <p class="section-label">{cat.label}</p>
+      </div>
+      <h1 class="text-headline font-black text-rdm-black mb-4">
+        Guides<br />
+        <span class="text-rdm-orange">pratiques</span>
+      </h1>
+      <p class="text-rdm-gray max-w-lg leading-relaxed">
+        Tout ce que vous devez savoir avant d'acheter, d'investir ou de vous installer à Marrakech.
+        Des guides clairs, vérifiés et régulièrement mis à jour.
+      </p>
+    </div>
+  </section>
+
+  <section class="py-14">
+    <div class="container-rdm">
+      {articles.length > 0 ? (
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {articles.map((a) => <ArticleCard article={a} />)}
+        </div>
+      ) : (
+        <p class="text-rdm-gray py-12 text-center">Guides à venir dans cette rubrique.</p>
+      )}
+    </div>
+  </section>
+
+  <NewsletterBlock />
+</BaseLayout>
