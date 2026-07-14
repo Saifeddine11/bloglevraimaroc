@@ -53,6 +53,14 @@ Les pages du cluster S.A.F.E utilisent provisoirement des images locales déjà 
 | Hero homepage | `public/images/hero-marrakech.webp` | [Marrakech](https://commons.wikimedia.org/wiki/File:Marrakech_(25561912075).jpg) | CC BY 2.0 / Ty Terrasso | Installé |
 | Open Graph par défaut | `public/images/og/default.webp` | [Marrakech](https://commons.wikimedia.org/wiki/File:Marrakech_(25561912075).jpg) | CC BY 2.0 / Ty Terrasso | Installé |
 
+## Réutilisations multi-images (articles avec plusieurs photos)
+
+Le sandbox d'automatisation ne peut pas télécharger de nouvelles photos depuis Internet (proxy réseau restreint à une allowlist qui bloque Pexels, Unsplash, Wikimedia, etc.). En attendant une solution technique, les articles à plusieurs images réutilisent des photos déjà installées et licenciées ci-dessus, sur des sections différentes, plutôt que d'importer de nouvelles images.
+
+| Article | Images réutilisées (hero + sections) | Statut |
+|---|---|---|
+| Fiscalité immobilière à Marrakech en 2026 (`fiscalite-immobiliere-marrakech-2026`) | Hero : `dahir-maroc-immobilier-acheteur.webp` · Section achat : `acheter-bien-marrakech-erreurs.webp` · Section location : `location-courte-duree-marrakech.webp` · Section revente : `immobilier-marrakech-2026.webp` | Installé (réutilisation) |
+
 ## Fichiers mis à jour
 
 - `src/content/articles/*.md` : frontmatter `heroImage` et `imageAlt`.
