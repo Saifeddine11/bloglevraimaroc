@@ -2,12 +2,13 @@
 interface Props {
   placeholder?: string;
   initialQuery?: string;
+  label?: string;
 }
-const { placeholder = 'Rechercher un article…', initialQuery = '' } = Astro.props;
+const { placeholder = 'Rechercher un article…', initialQuery = '', label = 'Rechercher' } = Astro.props;
 ---
 
 <div class="relative" role="search">
-  <label for="search-input" class="sr-only">Rechercher</label>
+  <label for="search-input" class="sr-only">{label}</label>
   <svg
     class="absolute left-4 top-1/2 -translate-y-1/2 w-4 h-4 text-rdm-gray pointer-events-none"
     fill="none"

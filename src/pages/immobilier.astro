@@ -5,9 +5,10 @@ import NewsletterBlock from '@/components/NewsletterBlock.astro';
 import CategoryIcon from '@/components/CategoryIcon.astro';
 import { getCollection } from 'astro:content';
 import { getCategoryInfo } from '@/data/categories';
+import { articleLocale } from '@/i18n/articles';
 
 const cat = getCategoryInfo('immobilier');
-const allArticles = await getCollection('articles');
+const allArticles = (await getCollection('articles')).filter((article) => articleLocale(article) === 'fr');
 const articles = allArticles
   .filter((a) => a.data.category === 'immobilier')
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());

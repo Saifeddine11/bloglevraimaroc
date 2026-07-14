@@ -1,0 +1,583 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import SafeBadge from '@/components/SafeBadge.astro';
+import { SITE } from '@/data/site';
+import { SAFE_BRAND } from '@/data/safeCluster';
+
+const seoTitle = 'S.A.F.E — Secure Approved For Estate : certification immobilière au Maroc';
+const pageTitle = SAFE_BRAND;
+const metaDescription =
+  'S.A.F.E — Secure Approved For Estate est une certification propriétaire qui analyse les projets immobiliers selon les principaux critères de confiance : promoteur, dossier, paiements, matériaux, prix, livraison, transparence et profil acheteur.';
+const canonicalURL = new URL('/safe-certification-immobiliere', SITE.url).href;
+
+const checks = [
+  {
+    label: 'Fiabilité du promoteur',
+    text: 'Identification de l’opérateur, historique de livraison, réputation, projets témoins et capacité réelle à conduire le programme.',
+  },
+  {
+    label: 'Clarté du dossier',
+    text: 'Lecture des documents disponibles, des autorisations communiquées, du montage du projet et des points qui restent à confirmer.',
+  },
+  {
+    label: 'Protection des paiements',
+    text: 'Analyse des modalités de réservation, de l’échéancier, des conditions d’appel de fonds et de la compréhension du parcours acheteur.',
+  },
+  {
+    label: 'Qualité de construction',
+    text: 'Étude des matériaux, finitions, plans, prestations, parties communes, équipements et cohérence globale de la qualité annoncée.',
+  },
+  {
+    label: 'Cohérence du prix',
+    text: 'Comparaison avec l’emplacement, les surfaces, le positionnement, la rareté, le potentiel locatif et la logique patrimoniale.',
+  },
+  {
+    label: 'Livraison et avancement',
+    text: 'Évaluation de l’état d’avancement, du calendrier annoncé, des dépendances du projet et des signaux de faisabilité opérationnelle.',
+  },
+  {
+    label: 'Transparence des informations',
+    text: 'Vérification de la lisibilité des informations transmises, des zones floues et de la capacité à répondre aux questions clés.',
+  },
+  {
+    label: 'Adéquation avec le profil acheteur',
+    text: 'Lecture du projet selon l’usage visé : résidence principale, pied-à-terre, investissement locatif ou stratégie patrimoniale.',
+  },
+  {
+    label: 'Risques identifiés',
+    text: 'Mise en évidence des limites, incertitudes, documents manquants et points à faire vérifier avant tout engagement définitif.',
+  },
+  {
+    label: 'Lecture finale',
+    text: 'Synthèse de qualification pour décider si le projet peut être présenté, approfondi, mis en attente ou écarté.',
+  },
+];
+
+const levels = [
+  {
+    label: 'S.A.F.E Review',
+    text: 'Le projet est en cours d’analyse. Les premiers éléments sont cohérents, mais certains documents, informations ou confirmations restent nécessaires avant validation complète.',
+  },
+  {
+    label: 'S.A.F.E Certified',
+    text: 'Le projet respecte les critères essentiels de la grille S.A.F.E : promoteur identifiable, dossier lisible, prix cohérent, informations claires, cadre de paiement compréhensible et qualité globale suffisante pour être présenté.',
+  },
+  {
+    label: 'S.A.F.E Prime',
+    text: 'Le projet présente un niveau supérieur de cohérence : emplacement fort, promoteur fiable, qualité perçue élevée, potentiel confirmé, dossier solide et très bonne lisibilité pour l’acheteur.',
+  },
+  {
+    label: 'S.A.F.E Confidential',
+    text: 'Le projet est qualifié selon la grille S.A.F.E, mais son dossier complet n’est pas publié en ligne. Les informations détaillées sont transmises uniquement sur demande à des acheteurs qualifiés.',
+  },
+];
+
+const formulas = [
+  {
+    label: 'Phrase courte',
+    text: 'S.A.F.E certifie qu’un projet immobilier a été analysé selon les principaux critères de confiance d’un achat : promoteur, dossier, paiements, matériaux, prix, livraison, transparence et adéquation avec le profil de l’acheteur.',
+  },
+  {
+    label: 'Phrase média',
+    text: 'S.A.F.E est une certification propriétaire conçue pour répondre aux peurs réelles des acheteurs immobiliers. Elle analyse la fiabilité du promoteur, la clarté du dossier, la protection des paiements, la qualité des matériaux, la cohérence du prix, l’avancement du projet et les conditions de livraison avant présentation à l’acheteur.',
+  },
+  {
+    label: 'Phrase premium',
+    text: 'Un projet certifié S.A.F.E n’est pas seulement une opportunité. C’est un projet passé par une grille d’exigence qui vérifie ce que l’acheteur ne voit pas toujours au premier regard.',
+  },
+  {
+    label: 'Phrase de curiosité',
+    text: 'Le détail complet de l’évaluation S.A.F.E n’est pas publié en ligne. Il est transmis sur demande aux acheteurs qualifiés afin de préserver la méthode d’analyse, la confidentialité des projets et la valeur des opportunités étudiées.',
+  },
+  {
+    label: 'Phrase de protection',
+    text: 'S.A.F.E est une certification propriétaire. Elle ne remplace pas les vérifications juridiques, notariales, techniques ou financières nécessaires avant toute acquisition. Elle constitue une grille de présélection et d’analyse destinée à mieux qualifier un projet avant décision.',
+  },
+];
+
+const faqItems = [
+  {
+    question: 'S.A.F.E est-elle une certification officielle ?',
+    answer:
+      'Non. S.A.F.E — Secure Approved For Estate est une certification propriétaire créée par Le Vrai Maroc. Elle n’est pas une certification gouvernementale, administrative ou institutionnelle.',
+  },
+  {
+    question: 'S.A.F.E garantit-elle qu’un projet est sans risque ?',
+    answer:
+      'Non. S.A.F.E ne promet pas qu’un projet est sans risque. Elle indique qu’un projet a été étudié selon une grille propriétaire avant d’être présenté à l’acheteur.',
+  },
+  {
+    question: 'Que vérifie S.A.F.E avant de présenter un projet ?',
+    answer:
+      'S.A.F.E analyse notamment la fiabilité du promoteur, la clarté du dossier, les paiements, les matériaux, la cohérence du prix, la livraison, la transparence et l’adéquation avec le profil de l’acheteur.',
+  },
+  {
+    question: 'Pourquoi S.A.F.E est utile pour un achat sur plan ?',
+    answer:
+      'Un achat sur plan expose l’acheteur à des zones d’incertitude : livraison future, qualité réelle, paiements, documents et suivi du projet. S.A.F.E aide à structurer ces questions avant la présentation du projet.',
+  },
+  {
+    question: 'Quelle est la différence entre S.A.F.E Review, S.A.F.E Certified, S.A.F.E Prime et S.A.F.E Confidential ?',
+    answer:
+      'S.A.F.E Review désigne un projet encore en analyse. S.A.F.E Certified signale une validation des critères essentiels. S.A.F.E Prime correspond à un niveau supérieur de cohérence. S.A.F.E Confidential qualifie un projet dont le dossier détaillé n’est transmis qu’à des acheteurs qualifiés.',
+  },
+  {
+    question: 'Est-ce que S.A.F.E remplace le notaire ou les vérifications juridiques ?',
+    answer:
+      'Non. S.A.F.E ne remplace jamais les vérifications juridiques, notariales, techniques ou financières nécessaires avant une acquisition. Elle constitue un premier filtre de confiance et de qualification.',
+  },
+];
+
+const internalLinks = [
+  {
+    href: '/articles/dahir-maroc-immobilier-acheteur',
+    title: 'Dahir au Maroc et immobilier',
+    text: 'Comprendre le rôle des textes officiels avant d’acheter.',
+  },
+  {
+    href: '/articles/erreurs-acheter-marrakech',
+    title: 'Les erreurs à éviter avant d’acheter',
+    text: 'Comprendre les pièges fréquents d’un achat immobilier à Marrakech.',
+  },
+  {
+    href: '/articles/immobilier-marrakech-2026',
+    title: 'Immobilier Marrakech 2026',
+    text: 'Lire les tendances de prix, de demande et de projets neufs.',
+  },
+  {
+    href: '/articles/pourquoi-investir-marrakech',
+    title: 'Pourquoi investir à Marrakech',
+    text: 'Analyser les fondamentaux qui attirent les investisseurs.',
+  },
+  {
+    href: '/articles/marrakech-accessible-investisseurs',
+    title: 'Marrakech reste-t-elle accessible ?',
+    text: 'Comparer les budgets d’entrée et les profils d’acheteurs.',
+  },
+  {
+    href: '/investissement',
+    title: 'Investissement',
+    text: 'Explorer les analyses patrimoniales et locatives.',
+  },
+  {
+    href: '/immobilier',
+    title: 'Immobilier',
+    text: 'Retrouver les guides et articles sur le marché immobilier.',
+  },
+];
+
+const clusterLinks = [
+  {
+    href: '/acheter-sur-plan-maroc',
+    title: 'Acheter sur plan au Maroc',
+    text: 'Risques, garanties et vérifications essentielles avant de réserver.',
+  },
+  {
+    href: '/acheter-sur-plan-marrakech',
+    title: 'Acheter sur plan à Marrakech',
+    text: 'Analyser un programme neuf selon le quartier, le prix et le promoteur.',
+  },
+  {
+    href: '/risques-achat-immobilier-maroc',
+    title: 'Risques d’un achat immobilier au Maroc',
+    text: 'Identifier les points à vérifier avant de signer ou de verser.',
+  },
+  {
+    href: '/comment-verifier-promoteur-immobilier-maroc',
+    title: 'Vérifier un promoteur immobilier',
+    text: 'Lire l’historique, les références et la clarté d’un opérateur.',
+  },
+  {
+    href: '/vefa-maroc-garanties-risques',
+    title: 'VEFA au Maroc',
+    text: 'Comprendre les garanties, risques et limites d’un achat futur.',
+  },
+  {
+    href: '/documents-achat-immobilier-maroc',
+    title: 'Documents à vérifier avant achat',
+    text: 'Préparer les pièces à demander et les points à faire relire.',
+  },
+  {
+    href: '/livraison-appartement-neuf-maroc',
+    title: 'Livraison d’un appartement neuf',
+    text: 'Checklist avant remise des clés et suivi des réserves.',
+  },
+  {
+    href: '/prix-immobilier-marrakech',
+    title: 'Prix immobilier à Marrakech',
+    text: 'Comprendre la cohérence du prix avant d’acheter.',
+  },
+];
+
+const webPageSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: pageTitle,
+  headline: pageTitle,
+  description: metaDescription,
+  url: canonicalURL,
+  inLanguage: 'fr',
+  isPartOf: {
+    '@type': 'WebSite',
+    name: SITE.name,
+    url: SITE.url,
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: SITE.name,
+    url: SITE.url,
+  },
+};
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Accueil', item: SITE.url },
+    { '@type': 'ListItem', position: 2, name: 'S.A.F.E', item: canonicalURL },
+  ],
+};
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqItems.map((item) => ({
+    '@type': 'Question',
+    name: item.question,
+    acceptedAnswer: {
+      '@type': 'Answer',
+      text: item.answer,
+    },
+  })),
+};
+---
+
+<BaseLayout
+  title={seoTitle}
+  description={metaDescription}
+  canonicalURL={canonicalURL}
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(webPageSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+  </Fragment>
+
+  <section class="relative overflow-hidden bg-rdm-black text-white" aria-labelledby="safe-hero-title">
+    <div class="absolute inset-0" aria-hidden="true">
+      <img
+        src="/images/hero-marrakech.webp"
+        alt=""
+        class="h-full w-full object-cover opacity-25"
+        loading="eager"
+        fetchpriority="high"
+        width="1920"
+        height="1080"
+      />
+      <div class="absolute inset-0 bg-black/70"></div>
+    </div>
+    <div class="container-rdm relative py-16 lg:py-20">
+      <nav aria-label="Fil d'Ariane" class="mb-10 flex items-center gap-2 text-sm text-white/60">
+        <a href="/" class="hover:text-rdm-orange transition-colors">Accueil</a>
+        <span aria-hidden="true">/</span>
+          <span class="text-white">S.A.F.E</span>
+      </nav>
+
+      <div class="grid gap-10 lg:grid-cols-[minmax(0,1fr)_360px] lg:items-end">
+        <div class="max-w-4xl">
+          <p class="mb-5 text-xs font-bold uppercase text-rdm-orange">Méthode de confiance immobilière</p>
+          <h1 id="safe-hero-title" class="max-w-4xl text-4xl font-black leading-[1.04] sm:text-5xl lg:text-6xl">
+            {SAFE_BRAND}
+          </h1>
+          <p class="mt-4 text-base font-semibold text-rdm-orange">
+            Certification propriétaire de projets immobiliers
+          </p>
+          <p class="mt-6 max-w-2xl text-lg leading-relaxed text-white/75">
+            Une grille d’analyse conçue pour mieux qualifier les projets immobiliers avant leur présentation à l’acheteur.
+          </p>
+          <p class="mt-6 max-w-3xl text-base leading-relaxed text-white/70">
+            {SAFE_BRAND} répond à une réalité simple : dans un achat immobilier, surtout sur plan, l’acheteur ne craint pas seulement le prix. Il craint de choisir le mauvais promoteur, de ne pas être livré, de ne pas comprendre le montage du projet, de découvrir des informations trop tard ou de ne pas recevoir ce qui lui a été présenté.
+          </p>
+          <div class="mt-9 flex flex-wrap gap-3">
+            <a href="#methode-safe" class="btn-orange">
+              Comprendre la méthode S.A.F.E
+              <svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M12 5v14m0 0 6-6m-6 6-6-6" />
+              </svg>
+            </a>
+            <a href="#criteres-safe" class="inline-flex items-center gap-2 rounded-full border border-white/30 px-6 py-3 text-sm font-semibold text-white transition-colors hover:border-white/60 hover:bg-white/10">
+              Voir les critères analysés
+              <svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M9 5h11M9 12h11M9 19h11M4 5h.01M4 12h.01M4 19h.01" />
+              </svg>
+            </a>
+          </div>
+        </div>
+        <SafeBadge class="w-full max-w-sm justify-self-start lg:justify-self-end" />
+      </div>
+    </div>
+  </section>
+
+  <section id="methode-safe" class="scroll-mt-24 bg-white py-18 lg:py-24" aria-labelledby="methode-heading">
+    <div class="container-rdm">
+      <div class="grid gap-10 lg:grid-cols-[0.9fr_1.1fr] lg:items-start">
+        <div>
+          <p class="section-label mb-3">Définition</p>
+          <h2 id="methode-heading" class="text-3xl font-black leading-tight text-rdm-black sm:text-4xl">
+            Une présélection structurée avant la présentation d’un projet
+          </h2>
+        </div>
+        <div class="space-y-5 text-lg leading-relaxed text-rdm-gray">
+          <p>
+            {SAFE_BRAND} est une certification propriétaire créée pour mieux qualifier les projets immobiliers avant leur présentation à l’acheteur.
+          </p>
+          <p>
+            Un projet certifié S.A.F.E n’est pas simplement un projet disponible. C’est un projet analysé selon une grille de vérification structurée, construite autour des principaux points de risque d’un achat immobilier : promoteur, dossier juridique, paiements, matériaux, prix, livraison, transparence et adéquation avec le profil de l’acheteur.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="bg-rdm-bg py-18 lg:py-24" aria-labelledby="pillars-heading">
+    <div class="container-rdm">
+      <div class="mb-10 max-w-2xl">
+        <p class="section-label mb-3">Les 4 piliers S.A.F.E</p>
+        <h2 id="pillars-heading" class="text-3xl font-black leading-tight text-rdm-black sm:text-4xl">
+          Quatre lectures pour qualifier un projet immobilier
+        </h2>
+      </div>
+
+      <div class="grid gap-5 md:grid-cols-2">
+        <article class="rounded-lg border border-rdm-border bg-white/80 p-6 shadow-card backdrop-blur">
+          <div class="mb-5 flex h-12 w-12 items-center justify-center rounded-lg bg-rdm-black text-white">
+            <svg class="h-6 w-6 text-rdm-orange" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M12 3 5 6v5c0 4.2 2.7 7.7 7 9 4.3-1.3 7-4.8 7-9V6l-7-3Z" />
+              <path stroke-linecap="round" stroke-linejoin="round" d="m9.5 12 1.7 1.7 3.8-4" />
+            </svg>
+          </div>
+          <p class="mb-2 text-sm font-bold text-rdm-orange">S — Sécurité du projet</p>
+          <p class="text-sm leading-relaxed text-rdm-gray">
+            La première condition S.A.F.E concerne la solidité du projet dans son ensemble. Le promoteur doit être identifiable, son historique doit pouvoir être étudié, et le projet doit présenter des éléments concrets permettant d’évaluer sa crédibilité : projets déjà livrés, projets témoins, réputation, qualité observée, autorisations disponibles et capacité réelle à mener le programme jusqu’à la livraison.
+          </p>
+          <p class="mt-5 border-t border-rdm-border pt-4 text-sm font-semibold text-rdm-black">
+            Le projet sera-t-il réellement livré, par un opérateur fiable ?
+          </p>
+        </article>
+
+        <article class="rounded-lg border border-rdm-border bg-white/80 p-6 shadow-card backdrop-blur">
+          <div class="mb-5 flex h-12 w-12 items-center justify-center rounded-lg bg-rdm-black text-white">
+            <svg class="h-6 w-6 text-rdm-orange" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M4 19h16M7 16l3.5-4 3 2.8L18 8" />
+              <path stroke-linecap="round" stroke-linejoin="round" d="M18 8h-4m4 0v4" />
+            </svg>
+          </div>
+          <p class="mb-2 text-sm font-bold text-rdm-orange">A — Analyse d’investissement</p>
+          <p class="text-sm leading-relaxed text-rdm-gray">
+            Un projet peut être beau sans être cohérent. S.A.F.E analyse donc le prix, l’emplacement, la rareté, les surfaces, les prestations, le potentiel locatif, le potentiel de revente et la logique patrimoniale du projet.
+          </p>
+          <p class="mt-5 border-t border-rdm-border pt-4 text-sm font-semibold text-rdm-black">
+            Est-ce que ce projet est un achat cohérent ou seulement une belle présentation ?
+          </p>
+        </article>
+
+        <article class="rounded-lg border border-rdm-border bg-white/80 p-6 shadow-card backdrop-blur">
+          <div class="mb-5 flex h-12 w-12 items-center justify-center rounded-lg bg-rdm-black text-white">
+            <svg class="h-6 w-6 text-rdm-orange" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M4 7.5 12 3l8 4.5-8 4.5L4 7.5Z" />
+              <path stroke-linecap="round" stroke-linejoin="round" d="M4 12.5 12 17l8-4.5M4 17.5 12 22l8-4.5" />
+            </svg>
+          </div>
+          <p class="mb-2 text-sm font-bold text-rdm-orange">F — Fiabilité d’exécution</p>
+          <p class="text-sm leading-relaxed text-rdm-gray">
+            S.A.F.E vérifie la cohérence entre ce qui est annoncé et ce qui peut réellement être livré. Cela inclut les matériaux, les finitions, les plans, le cahier des charges, les prestations prévues, les parties communes, les équipements, l’avancement du projet et le niveau réel de qualité attendu.
+          </p>
+          <p class="mt-5 border-t border-rdm-border pt-4 text-sm font-semibold text-rdm-black">
+            Est-ce que le projet peut réellement tenir le niveau annoncé ?
+          </p>
+        </article>
+
+        <article class="rounded-lg border border-rdm-border bg-white/80 p-6 shadow-card backdrop-blur">
+          <div class="mb-5 flex h-12 w-12 items-center justify-center rounded-lg bg-rdm-black text-white">
+            <svg class="h-6 w-6 text-rdm-orange" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M6 3h9l3 3v15H6V3Z" />
+              <path stroke-linecap="round" stroke-linejoin="round" d="M14 3v4h4M9 12h6M9 16h6" />
+            </svg>
+          </div>
+          <p class="mb-2 text-sm font-bold text-rdm-orange">E — Encadrement acheteur</p>
+          <p class="text-sm leading-relaxed text-rdm-gray">
+            S.A.F.E analyse aussi le cadre de décision : modalités de paiement, réservation, échéancier, documents transmis, passage notarial si applicable, conditions de livraison, frais, garanties disponibles et informations nécessaires avant engagement.
+          </p>
+          <p class="mt-5 border-t border-rdm-border pt-4 text-sm font-semibold text-rdm-black">
+            Mon argent, ma décision et mon engagement sont-ils correctement encadrés ?
+          </p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section id="criteres-safe" class="scroll-mt-24 bg-white py-18 lg:py-24" aria-labelledby="criteria-heading">
+    <div class="container-rdm">
+      <div class="mb-10 grid gap-6 lg:grid-cols-[0.75fr_1fr] lg:items-end">
+        <div>
+          <p class="section-label mb-3">Critères analysés</p>
+          <h2 id="criteria-heading" class="text-3xl font-black leading-tight text-rdm-black sm:text-4xl">
+            Les 10 points vérifiés par S.A.F.E
+          </h2>
+        </div>
+        <p class="max-w-2xl text-rdm-gray leading-relaxed">
+          La grille S.A.F.E ne cherche pas à remplacer une vérification professionnelle. Elle organise les questions qui permettent de réduire les zones floues avant de présenter un projet à un acheteur.
+        </p>
+      </div>
+
+      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-5">
+        {checks.map((item, index) => (
+          <article class="rounded-lg border border-rdm-border bg-rdm-bg p-5">
+            <div class="mb-5 flex h-9 w-9 items-center justify-center rounded-lg bg-rdm-black text-sm font-black text-white">
+              {String(index + 1).padStart(2, '0')}
+            </div>
+            <h3 class="mb-2 text-sm font-black leading-snug text-rdm-black">{item.label}</h3>
+            <p class="text-xs leading-relaxed text-rdm-gray">{item.text}</p>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="bg-rdm-black py-18 text-white lg:py-24" aria-labelledby="levels-heading">
+    <div class="container-rdm">
+      <div class="mb-10 flex flex-col gap-6 lg:flex-row lg:items-end lg:justify-between">
+        <div class="max-w-2xl">
+          <p class="mb-3 text-xs font-bold uppercase text-rdm-orange">Niveaux S.A.F.E</p>
+          <h2 id="levels-heading" class="text-3xl font-black leading-tight sm:text-4xl">
+            Une qualification adaptée au niveau de lecture disponible
+          </h2>
+        </div>
+        <SafeBadge class="w-full max-w-xs" />
+      </div>
+
+      <div class="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
+        {levels.map((level) => (
+          <article class="rounded-lg border border-white/10 bg-white/[0.06] p-5 backdrop-blur">
+            <h3 class="mb-3 text-lg font-black text-white">{level.label}</h3>
+            <p class="text-sm leading-relaxed text-white/70">{level.text}</p>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="bg-white py-18 lg:py-24" aria-labelledby="promise-heading">
+    <div class="container-rdm">
+      <div class="mx-auto max-w-4xl rounded-lg border border-rdm-border bg-rdm-bg p-7 sm:p-10">
+        <p class="section-label mb-3">La promesse S.A.F.E</p>
+        <h2 id="promise-heading" class="mb-6 text-3xl font-black leading-tight text-rdm-black sm:text-4xl">
+          Une méthode, pas une promesse de risque nul
+        </h2>
+        <div class="space-y-5 text-lg leading-relaxed text-rdm-gray">
+          <p class="font-semibold text-rdm-black">S.A.F.E ne promet pas qu’un projet est sans risque.</p>
+          <p class="font-semibold text-rdm-black">
+            S.A.F.E garantit seulement qu’un projet a été étudié selon une grille propriétaire avant d’être présenté à l’acheteur.
+          </p>
+          <p>
+            La certification ne remplace pas les vérifications juridiques, notariales, techniques ou financières nécessaires avant toute acquisition. Elle constitue un premier filtre de confiance, conçu pour mieux qualifier les projets, réduire les zones floues et permettre à l’acheteur d’avancer avec plus de méthode.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="bg-rdm-bg py-18 lg:py-24" aria-labelledby="formules-heading">
+    <div class="container-rdm">
+      <div class="mb-10 max-w-2xl">
+        <p class="section-label mb-3">Formules S.A.F.E</p>
+        <h2 id="formules-heading" class="text-3xl font-black leading-tight text-rdm-black sm:text-4xl">
+          Les formulations publiques de la méthode
+        </h2>
+      </div>
+      <div class="grid gap-4 lg:grid-cols-2">
+        {formulas.map((formula) => (
+          <article class="rounded-lg border border-rdm-border bg-white p-6 shadow-card">
+            <p class="mb-3 text-xs font-bold uppercase text-rdm-orange">{formula.label}</p>
+            <p class="text-sm leading-relaxed text-rdm-gray">{formula.text}</p>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="bg-white py-18 lg:py-24" aria-labelledby="faq-heading">
+    <div class="container-rdm">
+      <div class="mx-auto max-w-3xl">
+        <p class="section-label mb-3">FAQ</p>
+        <h2 id="faq-heading" class="mb-8 text-3xl font-black leading-tight text-rdm-black sm:text-4xl">
+          Questions fréquentes sur S.A.F.E
+        </h2>
+        <div class="divide-y divide-rdm-border rounded-lg border border-rdm-border bg-white">
+          {faqItems.map((item) => (
+            <details class="group p-5">
+              <summary class="flex cursor-pointer list-none items-center justify-between gap-4 text-left font-bold text-rdm-black">
+                {item.question}
+                <svg class="h-5 w-5 flex-shrink-0 text-rdm-orange transition-transform group-open:rotate-45" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M12 5v14M5 12h14" />
+                </svg>
+              </summary>
+              <p class="mt-4 text-sm leading-relaxed text-rdm-gray">{item.answer}</p>
+            </details>
+          ))}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="bg-rdm-black py-18 text-white lg:py-24" aria-labelledby="links-heading">
+    <div class="container-rdm">
+      <div class="mb-10 flex flex-col gap-4 lg:flex-row lg:items-end lg:justify-between">
+        <div class="max-w-2xl">
+          <p class="mb-3 text-xs font-bold uppercase text-rdm-orange">Lecture recommandée</p>
+          <h2 id="links-heading" class="text-3xl font-black leading-tight sm:text-4xl">
+            Continuer l’analyse avant d’acheter
+          </h2>
+        </div>
+        <p class="max-w-md text-sm leading-relaxed text-white/60">
+          Ces guides complètent la méthode S.A.F.E pour comprendre le marché, le budget, les risques et les critères de confiance d’un projet immobilier.
+        </p>
+      </div>
+      <div class="mb-12">
+        <h3 class="mb-5 text-xl font-black text-white">Guides S.A.F.E pour acheter avec méthode</h3>
+        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+          {clusterLinks.map((link) => (
+            <a href={link.href} class="group rounded-lg border border-white/10 bg-white/[0.06] p-5 transition-colors hover:border-rdm-orange/70 hover:bg-white/[0.1]">
+              <h3 class="mb-2 font-black text-white group-hover:text-rdm-orange">{link.title}</h3>
+              <p class="text-sm leading-relaxed text-white/60">{link.text}</p>
+              <span class="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-rdm-orange">
+                Lire
+                <svg class="h-4 w-4 transition-transform group-hover:translate-x-1" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
+                </svg>
+              </span>
+            </a>
+          ))}
+        </div>
+      </div>
+
+      <div>
+        <h3 class="mb-5 text-xl font-black text-white">Articles éditoriaux liés</h3>
+        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {internalLinks.map((link) => (
+          <a href={link.href} class="group rounded-lg border border-white/10 bg-white/[0.06] p-5 transition-colors hover:border-rdm-orange/70 hover:bg-white/[0.1]">
+            <h3 class="mb-2 font-black text-white group-hover:text-rdm-orange">{link.title}</h3>
+            <p class="text-sm leading-relaxed text-white/60">{link.text}</p>
+            <span class="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-rdm-orange">
+              Lire
+              <svg class="h-4 w-4 transition-transform group-hover:translate-x-1" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
+              </svg>
+            </span>
+          </a>
+          ))}
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,245 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { SITE } from '@/data/site';
+import { SAFE_BRAND, SAFE_CLUSTER_PAGES } from '@/data/safeCluster';
+import type { SafeClusterPage } from '@/data/safeCluster';
+
+export function getStaticPaths() {
+  return SAFE_CLUSTER_PAGES.map((page) => ({
+    params: { slug: page.slug },
+    props: { page },
+  }));
+}
+
+const { page } = Astro.props as { page: SafeClusterPage };
+const canonicalURL = new URL(`/${page.slug}`, SITE.url).href;
+
+const webPageSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: page.h1,
+  headline: page.h1,
+  description: page.metaDescription,
+  url: canonicalURL,
+  inLanguage: 'fr',
+  keywords: [page.primaryKeyword, ...page.secondaryKeywords],
+  isPartOf: {
+    '@type': 'WebSite',
+    name: SITE.name,
+    url: SITE.url,
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: SITE.name,
+    url: SITE.url,
+  },
+};
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Accueil', item: SITE.url },
+    { '@type': 'ListItem', position: 2, name: page.h1, item: canonicalURL },
+  ],
+};
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: page.faq.map((item) => ({
+    '@type': 'Question',
+    name: item.question,
+    acceptedAnswer: {
+      '@type': 'Answer',
+      text: item.answer,
+    },
+  })),
+};
+---
+
+<BaseLayout
+  title={page.metaTitle}
+  description={page.metaDescription}
+  canonicalURL={canonicalURL}
+  ogImage={page.image}
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(webPageSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+  </Fragment>
+
+  <section class="relative overflow-hidden bg-rdm-black text-white" aria-labelledby="page-title">
+    <div class="absolute inset-0" aria-hidden="true">
+      <img
+        src={page.image}
+        alt=""
+        class="h-full w-full object-cover opacity-25"
+        loading="eager"
+        fetchpriority="high"
+        width="1600"
+        height="900"
+      />
+      <div class="absolute inset-0 bg-black/70"></div>
+    </div>
+
+    <div class="container-rdm relative py-16 lg:py-20">
+      <nav aria-label="Fil d'Ariane" class="mb-10 flex flex-wrap items-center gap-2 text-sm text-white/60">
+        <a href="/" class="hover:text-rdm-orange transition-colors">Accueil</a>
+        <span aria-hidden="true">/</span>
+        <a href="/safe-certification-immobiliere" class="hover:text-rdm-orange transition-colors">Méthode S.A.F.E</a>
+        <span aria-hidden="true">/</span>
+        <span class="text-white">{page.primaryKeyword}</span>
+      </nav>
+
+      <div class="max-w-4xl">
+        <p class="mb-5 text-xs font-bold uppercase text-rdm-orange">{page.eyebrow}</p>
+        <h1 id="page-title" class="text-4xl font-black leading-[1.04] sm:text-5xl lg:text-6xl">
+          {page.h1}
+        </h1>
+        <div class="mt-7 max-w-3xl space-y-5 text-lg leading-relaxed text-white/75">
+          {page.intro.map((paragraph) => <p>{paragraph}</p>)}
+        </div>
+        <div class="mt-9 flex flex-wrap gap-3">
+          <a href="#checklist" class="btn-orange">
+            Voir la checklist
+            <svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M12 5v14m0 0 6-6m-6 6-6-6" />
+            </svg>
+          </a>
+          <a href="/safe-certification-immobiliere" class="inline-flex items-center gap-2 rounded-full border border-white/30 px-6 py-3 text-sm font-semibold text-white transition-colors hover:border-white/60 hover:bg-white/10">
+            Découvrir {SAFE_BRAND}
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="bg-white py-18 lg:py-24" aria-labelledby="analysis-heading">
+    <div class="container-rdm">
+      <div class="grid gap-10 lg:grid-cols-[minmax(0,1fr)_320px] lg:items-start">
+        <div>
+          <p class="section-label mb-3">Analyse</p>
+          <h2 id="analysis-heading" class="mb-8 text-3xl font-black leading-tight text-rdm-black sm:text-4xl">
+            Les points à examiner avant de décider
+          </h2>
+
+          <div class="space-y-10">
+            {page.sections.map((section) => (
+              <article class="border-b border-rdm-border pb-10 last:border-b-0 last:pb-0">
+                <h3 class="mb-4 text-2xl font-black leading-tight text-rdm-black">{section.heading}</h3>
+                <div class="space-y-4 text-base leading-relaxed text-rdm-gray">
+                  {section.body.map((paragraph) => <p>{paragraph}</p>)}
+                </div>
+                {section.bullets && (
+                  <ul class="mt-5 grid gap-3 sm:grid-cols-2">
+                    {section.bullets.map((item) => (
+                      <li class="rounded-lg border border-rdm-border bg-rdm-bg p-4 text-sm leading-relaxed text-rdm-gray">
+                        {item}
+                      </li>
+                    ))}
+                  </ul>
+                )}
+              </article>
+            ))}
+          </div>
+        </div>
+
+        <aside class="lg:sticky lg:top-28">
+          <div class="rounded-lg border border-rdm-border bg-rdm-bg p-6">
+            <p class="section-label mb-3">Méthode S.A.F.E</p>
+            <h2 class="text-xl font-black leading-tight text-rdm-black">{SAFE_BRAND}</h2>
+            <p class="mt-4 text-sm leading-relaxed text-rdm-gray">
+              Une certification propriétaire qui analyse les critères de confiance d’un projet immobilier : promoteur, dossier, paiements, matériaux, prix, livraison, transparence et profil acheteur.
+            </p>
+            <a href="/safe-certification-immobiliere" class="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-rdm-orange hover:underline">
+              Lire la grille S.A.F.E
+              <svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
+              </svg>
+            </a>
+          </div>
+
+          {page.disclaimer && (
+            <p class="mt-5 rounded-lg border border-rdm-border bg-white p-5 text-xs leading-relaxed text-rdm-gray">
+              {page.disclaimer}
+            </p>
+          )}
+        </aside>
+      </div>
+    </div>
+  </section>
+
+  <section id="checklist" class="scroll-mt-24 bg-rdm-bg py-18 lg:py-24" aria-labelledby="checklist-heading">
+    <div class="container-rdm">
+      <div class="mb-10 max-w-2xl">
+        <p class="section-label mb-3">Checklist</p>
+        <h2 id="checklist-heading" class="text-3xl font-black leading-tight text-rdm-black sm:text-4xl">
+          {page.checklistTitle}
+        </h2>
+      </div>
+
+      <ol class="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+        {page.checklistItems.map((item, index) => (
+          <li class="rounded-lg border border-rdm-border bg-white p-5 shadow-card">
+            <span class="mb-4 flex h-9 w-9 items-center justify-center rounded-lg bg-rdm-black text-sm font-black text-white">
+              {String(index + 1).padStart(2, '0')}
+            </span>
+            <p class="text-sm leading-relaxed text-rdm-gray">{item}</p>
+          </li>
+        ))}
+      </ol>
+    </div>
+  </section>
+
+  <section class="bg-white py-18 lg:py-24" aria-labelledby="related-heading">
+    <div class="container-rdm">
+      <div class="mb-10 max-w-2xl">
+        <p class="section-label mb-3">Liens utiles</p>
+        <h2 id="related-heading" class="text-3xl font-black leading-tight text-rdm-black sm:text-4xl">
+          Continuer l’analyse
+        </h2>
+      </div>
+
+      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+        {page.relatedLinks.map((link) => (
+          <a href={link.href} class="group rounded-lg border border-rdm-border bg-white p-5 shadow-card transition-all hover:-translate-y-1 hover:shadow-card-hover">
+            <h3 class="mb-2 text-base font-black leading-tight text-rdm-black group-hover:text-rdm-orange">{link.title}</h3>
+            <p class="text-sm leading-relaxed text-rdm-gray">{link.text}</p>
+            <span class="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-rdm-orange">
+              Lire
+              <svg class="h-4 w-4 transition-transform group-hover:translate-x-1" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
+              </svg>
+            </span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="bg-rdm-black py-18 text-white lg:py-24" aria-labelledby="faq-heading">
+    <div class="container-rdm">
+      <div class="mx-auto max-w-3xl">
+        <p class="mb-3 text-xs font-bold uppercase text-rdm-orange">FAQ</p>
+        <h2 id="faq-heading" class="mb-8 text-3xl font-black leading-tight sm:text-4xl">
+          Questions fréquentes
+        </h2>
+        <div class="divide-y divide-white/10 rounded-lg border border-white/10 bg-white/[0.06]">
+          {page.faq.map((item) => (
+            <details class="group p-5">
+              <summary class="flex cursor-pointer list-none items-center justify-between gap-4 text-left font-bold text-white">
+                {item.question}
+                <svg class="h-5 w-5 flex-shrink-0 text-rdm-orange transition-transform group-open:rotate-45" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M12 5v14M5 12h14" />
+                </svg>
+              </summary>
+              <p class="mt-4 text-sm leading-relaxed text-white/65">{item.answer}</p>
+            </details>
+          ))}
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

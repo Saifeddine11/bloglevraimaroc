@@ -32,6 +32,8 @@ Ces deux questions méritent des réponses claires et honnêtes, sans le filtre 
 
 Après plusieurs années de hausse, les prix à Marrakech se situent à des niveaux inédits pour de nombreux acquéreurs. Voici une cartographie honnête du marché.
 
+Pour replacer ces fourchettes dans une lecture plus large, consultez aussi notre guide des [prix immobilier à Marrakech](/prix-immobilier-marrakech), qui distingue quartiers, typologies et usages.
+
 ### Le segment appartements
 
 **Appartements abordables (studios, T2 anciens)** dans des immeubles non rénovés à Guéliz ou dans des quartiers intermédiaires : il est encore possible de trouver des biens entre **8 000 et 11 000 MAD/m²**. Pour un studio de 45 m², cela représente 360 000 à 495 000 MAD.
@@ -85,6 +87,8 @@ Les fondamentaux touristiques sont solides et en croissance continue. La Coupe d
 La hausse de 8 à 12 % sur deux ans a réduit les marges de sécurité. Certains biens sont surévalués. Une correction légère (5 à 10 %) est possible si la demande internationale ralentit ou si les projets d'infrastructure prennent du retard. Patienter 12 à 18 mois peut permettre d'acheter un bien de qualité à un prix plus raisonnable.
 
 > « La question n'est pas "est-ce le bon moment ?" mais "ai-je trouvé le bon bien à un prix juste ?" Un bien bien situé, sous-évalué par rapport au marché, vaut toujours la peine d'être acheté. Un bien surévalué ne le vaut jamais, quel que soit le moment. »
+
+Pour les programmes neufs, la [certification propriétaire S.A.F.E — Secure Approved For Estate](/safe-certification-immobiliere) ajoute une lecture structurée du promoteur, du dossier, des paiements, du prix et de la livraison annoncée. Le guide [acheter sur plan à Marrakech](/acheter-sur-plan-marrakech) permet de transformer cette lecture en checklist avant réservation.
 
 ## Le financement : ce qui est possible pour les étrangers
 

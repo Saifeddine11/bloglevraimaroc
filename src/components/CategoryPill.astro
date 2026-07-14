@@ -1,15 +1,22 @@
 ---
 import { getCategoryInfo } from '@/data/categories';
 import CategoryIcon from '@/components/CategoryIcon.astro';
+import { type Locale } from '@/i18n/config';
+import { categoryCopies } from '@/i18n/pages';
+import { categoryRouteKeys, localizedPath } from '@/i18n/routes';
 
 interface Props {
   category: string;
   size?: 'sm' | 'md';
   linked?: boolean;
+  locale?: Locale;
 }
 
-const { category, size = 'md', linked = false } = Astro.props;
+const { category, size = 'md', linked = false, locale = 'fr' } = Astro.props;
 const info = getCategoryInfo(category);
+const categoryKey = category as keyof typeof categoryRouteKeys;
+const label = categoryCopies[locale][categoryKey]?.label ?? info.label;
+const href = categoryRouteKeys[categoryKey] ? localizedPath(locale, categoryRouteKeys[categoryKey]) : `/${category}`;
 
 const classes = [
   'category-badge transition-all duration-150',
@@ -20,13 +27,13 @@ const classes = [
 ---
 
 {linked ? (
-  <a href={`/${category}`} class={classes}>
+  <a href={href} class={classes}>
     <CategoryIcon name={info.icon} size={18} />
-    {info.label}
+    {label}
   </a>
 ) : (
   <span class={classes}>
     <CategoryIcon name={info.icon} size={18} />
-    {info.label}
+    {label}
   </span>
 )}

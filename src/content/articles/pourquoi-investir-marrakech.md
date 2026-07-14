@@ -52,7 +52,7 @@ Le Maroc a adopté des règles permettant aux étrangers d'acquérir des biens i
 
 Le régime fiscal marocain applique un **abattement de 40 % sur les revenus locatifs bruts** avant imposition. Les revenus nets de location sont soumis à l'impôt sur le revenu selon un barème progressif. Pour les non-résidents, les retenues à la source et les conventions fiscales bilatérales peuvent simplifier la situation — mais il est indispensable de consulter un fiscaliste local avant tout investissement.
 
-La TVA récupérable sur les biens neufs (20 %) constitue également un avantage pour les acquéreurs qui achètent en VEFA (vente en l'état futur d'achèvement), sous conditions.
+La TVA récupérable sur les biens neufs (20 %) constitue également un avantage pour les acquéreurs qui achètent en VEFA (vente en l'état futur d'achèvement), sous conditions. Avant d'intégrer cet avantage dans un plan financier, il faut relire les [garanties et risques d'une VEFA au Maroc](/vefa-maroc-garanties-risques) avec un professionnel.
 
 ## L'effet multiplicateur de 2030
 
@@ -93,5 +93,7 @@ Marrakech n'est pas pour tout le monde. La ville convient mieux à :
 Marrakech reste une destination d'investissement immobilier légitime, portée par des fondamentaux touristiques solides et un cadre fiscal relativement favorable. Les rendements réels existent — mais ils demandent du travail, de la prudence et un horizon de placement long.
 
 Les investisseurs qui arrivent avec des attentes réalistes, une due diligence sérieuse et un partenaire local de confiance peuvent trouver à Marrakech des actifs intéressants. Ceux qui arrivent attirés par les brochures et les promesses de rendements à deux chiffres risquent de déchanter.
+
+Avant de regarder un projet neuf, il est utile de relire les [critères de confiance d'un projet immobilier](/safe-certification-immobiliere) : promoteur, dossier, paiements, qualité, prix, livraison et transparence. Cela commence souvent par [vérifier un promoteur immobilier](/comment-verifier-promoteur-immobilier-maroc), surtout lorsqu'un programme est vendu avant livraison.
 
 La différence, comme toujours, tient à la qualité de la préparation.

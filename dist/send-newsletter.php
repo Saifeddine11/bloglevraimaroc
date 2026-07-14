@@ -24,6 +24,7 @@ if (empty($email) || !filter_var($email, FILTER_VALIDATE_EMAIL)) {
 }
 
 $email = filter_var($email, FILTER_SANITIZE_EMAIL);
+$locale = isset($_POST['locale']) ? preg_replace('/[^a-z]/', '', (string) $_POST['locale']) : 'fr';
 
 // Build notification email
 $to      = 'contact@levraimaroc.com';
@@ -36,6 +37,7 @@ $userAgent = isset($_SERVER['HTTP_USER_AGENT'])
 
 $body  = "Nouvelle inscription newsletter sur Le Vrai Maroc.\n\n";
 $body .= "Email inscrit : {$email}\n\n";
+$body .= "Langue : {$locale}\n";
 $body .= "Source : Le Vrai Maroc — https://levraimaroc.com\n";
 $body .= "User-Agent : {$userAgent}\n";
 $body .= "IP : {$ip}\n";

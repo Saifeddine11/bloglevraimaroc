@@ -24,6 +24,8 @@ disclaimer: false
 
 Marrakech est une ville qui fait rêver. C'est aussi une ville où des acheteurs mal préparés se retrouvent avec des problèmes qu'ils n'avaient pas anticipés : biens sans titre clair, rénovations hors budget, rendements locatifs surestimés, voisinage bruyant, charges cachées. Ce guide ne vise pas à décourager — il vise à protéger.
 
+Pour les projets neufs ou sur plan, la [grille S.A.F.E — Secure Approved For Estate](/safe-certification-immobiliere) permet aussi de structurer l'analyse avant la présentation d'une opportunité.
+
 Voici les huit erreurs les plus courantes observées sur le marché immobilier de Marrakech.
 
 ## Erreur 1 : Acheter sans vérifier le titre foncier
@@ -33,6 +35,8 @@ C'est l'erreur la plus grave et, malheureusement, pas la plus rare. Au Maroc, la
 La moulkiya est légale et historiquement reconnue, mais elle comporte des risques réels : difficultés à prouver la propriété en cas de litige, impossibilité d'obtenir un prêt hypothécaire sur ce type de bien, et complications en cas de succession.
 
 **Ce qu'il faut faire :** Avant toute promesse d'achat, demandez un extrait de titre foncier à l'ANCFCC et vérifiez qu'il ne comporte pas d'hypothèques, de saisies ou de servitudes non déclarées. Cette vérification coûte peu et peut vous éviter des années de litiges.
+
+Avant d'aller plus loin, gardez une liste écrite des [documents à vérifier avant achat](/documents-achat-immobilier-maroc) et faites relire les pièces engageantes par un professionnel.
 
 ## Erreur 2 : Sous-estimer les frais d'acquisition
 
@@ -109,6 +113,8 @@ Ces intermédiaires peuvent mener à des situations délicates : bien présenté
 La pression de vente est forte à Marrakech. Les agences invoquent régulièrement "un autre acheteur intéressé", "un prix qui va remonter demain", "une offre à saisir dans les 48 heures". Ces techniques sont universelles dans l'immobilier, mais elles sont particulièrement fréquentes sur un marché où les acheteurs viennent de loin et ont peu de temps.
 
 **Règle absolue :** Un bien immobilier sérieux n'est jamais un achat impulsif. Si la pression pour signer vite est forte, c'est souvent le signal que quelque chose ne va pas. Prenez le temps de vérifier, de visiter une deuxième fois, et de consulter un conseiller indépendant.
+
+La pression commerciale fait partie des [risques d'un achat immobilier au Maroc](/risques-achat-immobilier-maroc) : elle doit déclencher plus de méthode, pas moins.
 
 ## Ce qu'il faut retenir
 

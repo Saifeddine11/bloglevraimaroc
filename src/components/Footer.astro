@@ -2,14 +2,33 @@
 import { SITE } from '@/data/site';
 import { CATEGORIES } from '@/data/categories';
 import CategoryIcon from '@/components/CategoryIcon.astro';
+import { type Locale } from '@/i18n/config';
+import { categoryCopies } from '@/i18n/pages';
+import { categoryRouteKeys, localizedPath } from '@/i18n/routes';
+import { ui } from '@/i18n/ui';
 
+interface Props {
+  locale?: Locale;
+}
+
+const { locale = 'fr' } = Astro.props;
 const year = new Date().getFullYear();
+const currentUi = ui[locale];
+const aboutLabel = locale === 'fr' ? 'À propos' : locale === 'en' ? 'About' : locale === 'es' ? 'Sobre nosotros' : 'Over ons';
+const categories = Object.values(CATEGORIES).map((cat) => {
+  const key = cat.slug as keyof typeof categoryCopies[typeof locale];
+  return {
+    ...cat,
+    label: categoryCopies[locale][key].label,
+    href: localizedPath(locale, categoryRouteKeys[key]),
+  };
+});
 ---
 
 <footer class="bg-rdm-black text-white mt-24">
   <!-- Main footer -->
   <div class="container-rdm py-16">
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-12">
       <!-- Brand -->
       <div class="lg:col-span-2">
         <div class="flex items-center gap-3 mb-5">
@@ -28,29 +47,29 @@ const year = new Date().getFullYear();
           </div>
         </div>
         <p class="text-white/60 text-sm leading-relaxed max-w-sm mb-6">
-          {SITE.footer.description}
+          {currentUi.footer.description}
         </p>
         <div class="flex items-center gap-3">
           <a
-            href="/#newsletter"
+            href={`${localizedPath(locale, 'home')}#newsletter`}
             class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-rdm-orange text-white text-sm font-semibold hover:bg-rdm-orange-mid transition-colors"
           >
             <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
               <path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0019.5 4.5h-15a2.25 2.25 0 00-2.25 2.25m19.5 0v.243a2.25 2.25 0 01-1.07 1.916l-7.5 4.615a2.25 2.25 0 01-2.36 0L3.32 8.91a2.25 2.25 0 01-1.07-1.916V6.75" />
             </svg>
-            S'inscrire à la newsletter
+            {currentUi.footer.newsletterCta}
           </a>
         </div>
       </div>
 
       <!-- Rubriques -->
       <div>
-        <h3 class="text-xs font-bold uppercase tracking-widest text-white/40 mb-5">Rubriques</h3>
+        <h3 class="text-xs font-bold uppercase tracking-widest text-white/40 mb-5">{currentUi.labels.categories}</h3>
         <ul class="space-y-3">
-          {Object.values(CATEGORIES).map((cat) => (
+          {categories.map((cat) => (
             <li>
               <a
-                href={`/${cat.slug}`}
+                href={cat.href}
                 class="text-sm text-white/70 hover:text-rdm-orange transition-colors duration-150 flex items-center gap-2"
               >
                 <CategoryIcon name={cat.icon} size={20} />
@@ -61,30 +80,59 @@ const year = new Date().getFullYear();
         </ul>
       </div>
 
-      <!-- Informations -->
+      <!-- Confiance / Méthode -->
       <div>
-        <h3 class="text-xs font-bold uppercase tracking-widest text-white/40 mb-5">Informations</h3>
+        <h3 class="text-xs font-bold uppercase tracking-widest text-white/40 mb-5">{currentUi.labels.trust}</h3>
         <ul class="space-y-3">
           <li>
-            <a href="/a-propos" class="text-sm text-white/70 hover:text-rdm-orange transition-colors">À propos</a>
+            <a href={localizedPath(locale, 'safe')} class="text-sm text-white/70 hover:text-rdm-orange transition-colors">
+              {currentUi.footer.trustLinks.safe}
+            </a>
           </li>
           <li>
-            <a href="/contact" class="text-sm text-white/70 hover:text-rdm-orange transition-colors">Contact</a>
+            <a href={localizedPath(locale, 'acheterSurPlanMaroc')} class="text-sm text-white/70 hover:text-rdm-orange transition-colors">
+              {currentUi.footer.trustLinks.offPlan}
+            </a>
           </li>
           <li>
-            <a href="/blog" class="text-sm text-white/70 hover:text-rdm-orange transition-colors">Tous les articles</a>
+            <a href={localizedPath(locale, 'verifierPromoteur')} class="text-sm text-white/70 hover:text-rdm-orange transition-colors">
+              {currentUi.footer.trustLinks.developer}
+            </a>
+          </li>
+          <li>
+            <a href={localizedPath(locale, 'risquesAchatMaroc')} class="text-sm text-white/70 hover:text-rdm-orange transition-colors">
+              {currentUi.footer.trustLinks.risks}
+            </a>
+          </li>
+        </ul>
+      </div>
+
+      <!-- Informations -->
+      <div>
+        <h3 class="text-xs font-bold uppercase tracking-widest text-white/40 mb-5">{currentUi.labels.information}</h3>
+        <ul class="space-y-3">
+          <li>
+            <a href={localizedPath(locale, 'about')} class="text-sm text-white/70 hover:text-rdm-orange transition-colors">
+              {aboutLabel}
+            </a>
+          </li>
+          <li>
+            <a href={localizedPath(locale, 'contact')} class="text-sm text-white/70 hover:text-rdm-orange transition-colors">{currentUi.labels.contact}</a>
+          </li>
+          <li>
+            <a href={localizedPath(locale, 'blog')} class="text-sm text-white/70 hover:text-rdm-orange transition-colors">{currentUi.labels.allArticles}</a>
           </li>
           <li>
             <a href="/rss.xml" class="text-sm text-white/70 hover:text-rdm-orange transition-colors flex items-center gap-1.5">
               <svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24">
                 <path d="M6.18 15.64a2.18 2.18 0 012.18 2.18C8.36 19.01 7.38 20 6.18 20C4.98 20 4 19.01 4 17.82a2.18 2.18 0 012.18-2.18M4 4.44A15.56 15.56 0 0119.56 20h-2.83A12.73 12.73 0 004 7.27V4.44m0 5.66a9.9 9.9 0 019.9 9.9h-2.83A7.07 7.07 0 004 12.93V10.1z" />
               </svg>
-              Flux RSS
+              {currentUi.footer.rss}
             </a>
           </li>
         </ul>
         <div class="mt-8">
-          <p class="text-xs text-white/40 mb-2">Contact éditorial</p>
+          <p class="text-xs text-white/40 mb-2">{currentUi.labels.editorialContact}</p>
           <a href={`mailto:${SITE.email}`} class="text-sm text-white/60 hover:text-rdm-orange transition-colors">
             {SITE.email}
           </a>
@@ -97,12 +145,12 @@ const year = new Date().getFullYear();
   <div class="border-t border-white/10">
     <div class="container-rdm py-5 flex flex-col sm:flex-row items-center justify-between gap-3">
       <p class="text-xs text-white/40">
-        © {year} {SITE.name}. Tous droits réservés.
+        © {year} {SITE.name}. {currentUi.footer.rights}
       </p>
       <div class="flex items-center gap-5">
-        {SITE.footer.legal.map((link) => (
-          <a href={link.href} class="text-xs text-white/40 hover:text-white/70 transition-colors">
-            {link.label}
+        {currentUi.footer.legal.map(([label, key]) => (
+          <a href={localizedPath(locale, key)} class="text-xs text-white/40 hover:text-white/70 transition-colors">
+            {label}
           </a>
         ))}
       </div>

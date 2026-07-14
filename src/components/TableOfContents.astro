@@ -7,16 +7,17 @@ interface Heading {
 
 interface Props {
   headings: Heading[];
+  title?: string;
 }
 
-const { headings } = Astro.props;
+const { headings, title = 'Dans cet article' } = Astro.props;
 const filtered = headings.filter((h) => h.depth === 2 || h.depth === 3);
 ---
 
 {filtered.length > 0 && (
   <nav aria-label="Table des matières" class="toc-scroll">
     <p class="text-xs font-bold uppercase tracking-widest text-rdm-gray mb-4">
-      Dans cet article
+      {title}
     </p>
     <ul class="space-y-1">
       {filtered.map((heading) => (

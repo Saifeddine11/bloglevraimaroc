@@ -42,6 +42,8 @@ La Médina présente un cas particulier : le prix médian du mètre carré d'un 
 
 > « La hausse des prix est réelle, mais elle n'efface pas les risques. Un bien surévalué à Marrakech reste un mauvais investissement, même avec la Coupe du Monde en toile de fond. »
 
+Pour comparer ces niveaux sans se perdre dans les moyennes, notre guide des [prix immobilier à Marrakech](/prix-immobilier-marrakech) détaille les écarts par quartier, typologie et usage.
+
 ## Ce qui tire les prix vers le haut
 
 Plusieurs facteurs structurels expliquent la dynamique actuelle.
@@ -99,6 +101,8 @@ Le profil des acquéreurs a évolué. On distingue aujourd'hui plusieurs catégo
 Outre les quartiers établis, plusieurs zones méritent attention.
 
 La **Route d'Amizmiz** concentre l'essentiel des projets off-plan du moment. Les prix d'entrée y restent accessibles (8 000 à 14 000 MAD/m²) et le potentiel de plus-value est réel, à condition que l'infrastructure se développe comme prévu.
+
+Sur ce type de programme, une [analyse S.A.F.E — Secure Approved For Estate pour un projet sur plan](/safe-certification-immobiliere) aide à relire le promoteur, le dossier, les paiements, les matériaux, le prix et les conditions de livraison avant de présenter l'opportunité. Le guide [acheter sur plan à Marrakech](/acheter-sur-plan-marrakech) reprend cette logique avant toute réservation.
 
 **Targa** attire les promoteurs qui ciblent les primo-accédants marocains et les budgets plus serrés. Moins glamour, mais potentiellement intéressant pour les investisseurs qui parient sur la densification urbaine.
 

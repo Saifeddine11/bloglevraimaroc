@@ -2,18 +2,36 @@
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Hero from '@/components/Hero.astro';
 import ArticleCard from '@/components/ArticleCard.astro';
-import CategoryPill from '@/components/CategoryPill.astro';
 import StatCard from '@/components/StatCard.astro';
 import NewsletterBlock from '@/components/NewsletterBlock.astro';
 import CategoryIcon from '@/components/CategoryIcon.astro';
 import { getCollection } from 'astro:content';
 import { CATEGORIES } from '@/data/categories';
+import { articleLocale } from '@/i18n/articles';
 
-const allArticles = await getCollection('articles');
+const allArticles = (await getCollection('articles')).filter((article) => articleLocale(article) === 'fr');
 const sorted = allArticles.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
-const featured = sorted.find((a) => a.data.featured) ?? sorted[0];
-const latest = sorted.filter((a) => a.id !== featured?.id).slice(0, 6);
-const recent3 = sorted.slice(0, 3);
+
+const latestArticles = sorted.slice(0, 5);
+const immobilierArticles = sorted.filter(a => a.data.category === 'immobilier').slice(0, 3);
+const tourismeArticles   = sorted.filter(a => a.data.category === 'tourisme').slice(0, 2);
+
+const safeRecent = {
+  title: 'S.A.F.E — Secure Approved For Estate',
+  href: '/safe-certification-immobiliere',
+  excerpt:
+    'Certification propriétaire et grille d’analyse pour qualifier les projets immobiliers avant leur présentation à l’acheteur.',
+  image: '/images/hero-marrakech.webp',
+  imageAlt: 'Vue de Marrakech illustrant la méthode S.A.F.E pour les projets immobiliers.',
+  date: new Date('2026-07-01T00:00:00.000Z'),
+  readingTime: '8 min',
+};
+
+const safeRecentDate = new Intl.DateTimeFormat('fr-FR', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+}).format(safeRecent.date);
 
 const stats = [
   {
@@ -35,7 +53,7 @@ const stats = [
   {
     value: '6–12 %',
     label: 'Rendement locatif brut',
-    description: 'Entre 6 % et 12 % selon le type de bien et le mode de location (saisonnier vs longue durée).',
+    description: 'Entre 6 % et 12 % selon le type de bien et le mode de location.',
     trend: '',
     trendUp: true,
     source: 'Analyses éditoriales, 2025',
@@ -50,63 +68,207 @@ const stats = [
   },
 ];
 
+const editionCards = [
+  {
+    title: 'Immobilier à Marrakech',
+    desc: 'Prix du m², tendances 2026, programmes neufs et conseils achat.',
+    href: '/immobilier',
+    icon: 'building-2' as const,
+    color: 'text-blue-700',
+    bg: 'bg-blue-50',
+    border: 'border-blue-100',
+  },
+  {
+    title: 'Quartiers de Marrakech',
+    desc: 'Guéliz, Hivernage, Médina, Palmeraie : décryptage complet de chaque quartier.',
+    href: '/quartiers',
+    icon: 'map-pin' as const,
+    color: 'text-purple-700',
+    bg: 'bg-purple-50',
+    border: 'border-purple-100',
+  },
+  {
+    title: 'Investir à Marrakech',
+    desc: 'Rendements, fiscalité, risques et opportunités pour les investisseurs.',
+    href: '/investissement',
+    icon: 'trending-up' as const,
+    color: 'text-rdm-orange',
+    bg: 'bg-rdm-orange-soft',
+    border: 'border-orange-100',
+  },
+  {
+    title: 'Tourisme & lifestyle',
+    desc: 'Hôtels, restaurants, expériences locales et analyse du marché touristique.',
+    href: '/tourisme',
+    icon: 'plane' as const,
+    color: 'text-emerald-700',
+    bg: 'bg-emerald-50',
+    border: 'border-emerald-100',
+  },
+];
+
+const guideLinks = [
+  {
+    title: 'Les erreurs à éviter quand on achète à Marrakech',
+    desc: 'Pièges classiques, mauvaises surprises et checklist pour un achat sécurisé.',
+    href: '/articles/erreurs-acheter-marrakech',
+  },
+  {
+    title: 'Où investir à Marrakech ?',
+    desc: 'Quartiers à privilégier, rentabilité attendue et conseils terrain pour l\'investisseur.',
+    href: '/investissement',
+  },
+  {
+    title: 'Comprendre Guéliz',
+    desc: 'Le quartier moderne de Marrakech décrypté : prix, ambiance et profil acheteur.',
+    href: '/quartiers',
+  },
+  {
+    title: 'Les quartiers à suivre en 2026',
+    desc: 'Palmeraie, Route de l\'Ourika, Agdal : les zones en devenir à surveiller.',
+    href: '/quartiers',
+  },
+  {
+    title: 'Louer à Marrakech',
+    desc: 'Location courte durée vs longue durée : rentabilité comparée et aspects légaux.',
+    href: '/articles/location-courte-duree-marrakech',
+  },
+  {
+    title: 'Acheter un bien au Maroc en tant que non-résident',
+    desc: 'Procédure, frais de notaire, financement et statut fiscal pour les étrangers.',
+    href: '/guides',
+  },
+];
+
 const neighborhoods = [
   { name: 'Guéliz', desc: 'Centre moderne, commerces, restaurants, bonne liquidité.', slug: 'gueliz', price: '14 000–22 000 MAD/m²' },
   { name: 'Hivernage', desc: 'Quartier premium, hôtels luxe, résidences de prestige.', slug: 'hivernage', price: '18 000–26 000 MAD/m²' },
-  { name: 'Palmeraie', desc: 'Villas luxe, golf, nature, clientèle internationale.', slug: 'palmeraie', price: '10–50 M MAD (villa)' },
-  { name: 'Route d\'Amizmiz', desc: 'Expansion urbaine, off-plan, villas abordables.', slug: 'route-amizmiz', price: '8 000–14 000 MAD/m²' },
-  { name: 'Agdal', desc: 'Quartier résidentiel en développement, families.', slug: 'agdal', price: '10 000–18 000 MAD/m²' },
   { name: 'Médina', desc: 'Riads, maisons d\'hôtes, investissement patrimonial.', slug: 'medina', price: '10 000–38 500 MAD/m²' },
-  { name: 'Targa', desc: 'Zone périurbaine, projets neufs, bon rapport qualité-prix.', slug: 'targa', price: '8 000–13 000 MAD/m²' },
-  { name: 'Route de l\'Ourika', desc: 'Eco-lodges, grands domaines, tourisme nature.', slug: 'route-ourika', price: 'Variable' },
+  { name: 'Route de l\'Ourika', desc: 'Eco-lodges, grands domaines, tourisme de nature.', slug: 'route-ourika', price: 'Variable' },
+  { name: 'Palmeraie', desc: 'Villas luxe, golf, nature, clientèle internationale.', slug: 'palmeraie', price: '10–50 M MAD (villa)' },
+  { name: 'Majorelle', desc: 'Quartier artistique et résidentiel, proche du jardin Majorelle.', slug: 'majorelle', price: '12 000–20 000 MAD/m²' },
+  { name: 'Agdal', desc: 'Quartier résidentiel en développement, familles et primo-accédants.', slug: 'agdal', price: '10 000–18 000 MAD/m²' },
 ];
+
+const immobilierTopics = ['Prix du m²', 'Tendances marché', 'Programmes neufs', 'Conseils achat', 'Rentabilité locative'];
+const tourismeTopics   = ['Où sortir', 'Où séjourner', 'Expériences locales', 'Pièges à éviter', 'Le vrai Marrakech'];
 ---
 
 <BaseLayout
   title={undefined}
-  description="Le Vrai Maroc décrypte l'immobilier, le tourisme, les quartiers et les opportunités d'investissement à Marrakech."
+  description="Le Vrai Maroc décrypte l'immobilier, le tourisme, l'investissement et les tendances urbaines au Maroc, avec une première édition consacrée à Marrakech."
 >
-  <!-- HERO -->
+
+  <!-- ── HERO ────────────────────────────────────────────────────────────── -->
   <Hero
     eyebrow="Média éditorial indépendant"
-    title="Comprendre le |vrai Marrakech|"
-    subtitle="Le Vrai Maroc décrypte l'immobilier, le tourisme, l'investissement et les tendances urbaines à Marrakech."
-    cta1={{ label: 'Lire les analyses', href: '/blog' }}
-    cta2={{ label: 'Explorer les quartiers', href: '/quartiers' }}
+    title="Comprendre le |vrai Maroc|"
+    accentLine="À commencer par Marrakech"
+    subtitle="Le Vrai Maroc décrypte l'immobilier, le tourisme, l'investissement et les tendances urbaines, avec une première édition consacrée à Marrakech."
+    cta1={{ label: 'Explorer Marrakech', href: '/blog' }}
+    cta2={{ label: 'Lire les analyses', href: '/analyses' }}
     bgImage="/images/hero-marrakech.webp"
   />
 
-  <!-- FEATURED ARTICLE -->
-  {featured && (
-    <section class="py-20" aria-labelledby="featured-heading">
-      <div class="container-rdm">
-        <div class="flex items-center gap-4 mb-8 reveal">
-          <div class="w-8 h-px bg-rdm-orange"></div>
-          <p id="featured-heading" class="section-label">Article à la une</p>
-        </div>
-        <div class="reveal reveal-delay-1">
-          <ArticleCard article={featured} variant="featured" eager />
-        </div>
+  <!-- ── ÉDITION MARRAKECH ───────────────────────────────────────────────── -->
+  <section class="py-20" aria-labelledby="edition-heading">
+    <div class="container-rdm">
+      <div class="text-center max-w-2xl mx-auto mb-12">
+        <p class="section-label mb-3 reveal">Première verticale éditoriale</p>
+        <h2 id="edition-heading" class="text-headline font-black text-rdm-black reveal reveal-delay-1">
+          Édition <span class="text-rdm-orange">Marrakech</span>
+        </h2>
+        <p class="text-rdm-gray mt-4 leading-relaxed reveal reveal-delay-2">
+          Notre première édition locale décrypte Marrakech : quartiers, immobilier, tourisme,
+          investissements, adresses utiles et réalités du terrain.
+        </p>
       </div>
-    </section>
-  )}
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
+        {editionCards.map((card, i) => (
+          <a
+            href={card.href}
+            class:list={['group glass-card p-7 hover:shadow-card-hover transition-all duration-300 block reveal', `reveal-delay-${i + 1}`]}
+          >
+            <div class:list={['w-11 h-11 rounded-xl flex items-center justify-center mb-5 border', card.bg, card.border]}>
+              <span class:list={[card.color]}>
+                <CategoryIcon name={card.icon} size={20} />
+              </span>
+            </div>
+            <h3 class="text-base font-black text-rdm-black mb-2 group-hover:text-rdm-orange transition-colors leading-tight">
+              {card.title}
+            </h3>
+            <p class="text-sm text-rdm-gray leading-relaxed mb-5">{card.desc}</p>
+            <span class:list={['text-sm font-semibold flex items-center gap-1 group-hover:gap-2 transition-all', card.color]}>
+              Découvrir
+              <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
+              </svg>
+            </span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
 
-  <!-- LATEST ARTICLES GRID -->
-  {latest.length > 0 && (
-    <section class="py-4 pb-20" aria-labelledby="latest-heading">
+  <!-- ── DERNIÈRES ANALYSES ─────────────────────────────────────────────── -->
+  {latestArticles.length > 0 && (
+    <section class="py-20 bg-rdm-bg" aria-labelledby="latest-heading">
       <div class="container-rdm">
-        <div class="flex items-center justify-between mb-8">
-          <div class="flex items-center gap-4 reveal">
-            <div class="w-8 h-px bg-rdm-orange"></div>
-            <h2 id="latest-heading" class="text-xl font-black text-rdm-black">Dernières analyses</h2>
+        <div class="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4 mb-10">
+          <div>
+            <p class="section-label mb-2 reveal">Éditorial</p>
+            <h2 id="latest-heading" class="text-headline font-black text-rdm-black reveal reveal-delay-1">
+              Dernières <span class="text-rdm-orange">analyses</span>
+            </h2>
           </div>
           <a href="/blog" class="text-sm font-semibold text-rdm-orange hover:underline hidden sm:block reveal">
-            Voir tout →
+            Voir toutes les analyses →
           </a>
         </div>
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-          {latest.slice(0, 6).map((article, i) => (
-            <div class:list={['reveal', i > 0 && `reveal-delay-${Math.min(i, 4)}`]}>
+          <div class="reveal reveal-delay-1">
+            <article class="group card-lift rounded-2xl overflow-hidden bg-white border border-rdm-border shadow-card h-full flex flex-col">
+              <a href={safeRecent.href} class="block flex-1 flex flex-col cursor-pointer focus-visible:outline-rdm-orange" aria-label={`Lire la page : ${safeRecent.title}`}>
+                <div class="aspect-square-card overflow-hidden flex-shrink-0 bg-rdm-black">
+                  <img
+                    src={safeRecent.image}
+                    alt={safeRecent.imageAlt}
+                    class="w-full h-full object-cover opacity-70 transition-transform duration-500 group-hover:scale-105"
+                    loading="lazy"
+                    width="600"
+                    height="450"
+                  />
+                </div>
+                <div class="p-5 flex flex-col flex-1">
+                  <div class="flex items-center gap-2 mb-3">
+                    <span class="inline-flex items-center gap-1.5 rounded-full bg-rdm-orange-soft px-2 py-0.5 text-[10px] font-semibold uppercase tracking-widest text-rdm-orange">
+                      <svg class="h-3.5 w-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M12 3 5 6v5c0 4.2 2.7 7.7 7 9 4.3-1.3 7-4.8 7-9V6l-7-3Z" />
+                        <path stroke-linecap="round" stroke-linejoin="round" d="m9.5 12 1.7 1.7 3.8-4" />
+                      </svg>
+                      S.A.F.E
+                    </span>
+                    <span class="text-[10px] text-rdm-gray">{safeRecent.readingTime}</span>
+                  </div>
+                  <h2 class="text-base font-bold text-rdm-black mb-2 group-hover:text-rdm-orange transition-colors duration-150 leading-snug line-clamp-2 flex-1">
+                    {safeRecent.title}
+                  </h2>
+                  <p class="text-xs text-rdm-gray leading-relaxed line-clamp-2 mb-4">{safeRecent.excerpt}</p>
+                  <div class="mt-auto flex items-center justify-between gap-3">
+                    <time datetime={safeRecent.date.toISOString()} class="text-[10px] text-rdm-gray">{safeRecentDate}</time>
+                    <span class="inline-flex items-center gap-1 text-[11px] font-semibold text-rdm-orange group-hover:gap-1.5 transition-all duration-150">
+                      Lire la méthode
+                      <svg class="w-3.5 h-3.5 transition-transform duration-150 group-hover:translate-x-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
+                      </svg>
+                    </span>
+                  </div>
+                </div>
+              </a>
+            </article>
+          </div>
+          {latestArticles.map((article, i) => (
+            <div class:list={['reveal', `reveal-delay-${Math.min(i + 1, 4)}`]}>
               <ArticleCard article={article} />
             </div>
           ))}
@@ -118,36 +280,39 @@ const neighborhoods = [
     </section>
   )}
 
-  <!-- THREE PILLARS -->
-  <section class="py-20 bg-rdm-bg" aria-labelledby="pillars-heading">
+  <!-- ── 6 RUBRIQUES ÉDITORIALES ────────────────────────────────────────── -->
+  <section class="py-20" aria-labelledby="rubriques-heading">
     <div class="container-rdm">
       <div class="text-center max-w-xl mx-auto mb-12">
-        <p class="section-label mb-3 reveal">Notre mission éditoriale</p>
-        <h2 id="pillars-heading" class="text-headline font-black text-rdm-black reveal reveal-delay-1">
-          Trois piliers,<br />
-          <span class="text-rdm-orange">une ville</span>
+        <p class="section-label mb-3 reveal">Le Vrai Maroc</p>
+        <h2 id="rubriques-heading" class="text-headline font-black text-rdm-black reveal reveal-delay-1">
+          6 rubriques,<br />
+          <span class="text-rdm-orange">une ambition</span>
         </h2>
+        <p class="text-rdm-gray mt-4 leading-relaxed reveal reveal-delay-2">
+          Immobilier, tourisme, investissement, quartiers, guides pratiques et analyses de marché —
+          Le Vrai Maroc couvre le Maroc réel.
+        </p>
       </div>
-
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-        {Object.values(CATEGORIES).slice(0, 3).map((cat, i) => (
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        {Object.values(CATEGORIES).map((cat, i) => (
           <a
             href={`/${cat.slug}`}
             class:list={[
               'group glass-card p-8 hover:shadow-card-hover transition-all duration-300 block reveal',
-              `reveal-delay-${i + 1}`,
+              `reveal-delay-${Math.min(i + 1, 4)}`,
             ]}
           >
-            <div class:list={['mb-4 inline-flex text-current', cat.color]}>
-              <CategoryIcon name={cat.icon} size={30} />
+            <div class:list={['mb-4 inline-flex', cat.color]}>
+              <CategoryIcon name={cat.icon} size={28} />
             </div>
             <h3 class="text-lg font-black text-rdm-black mb-2 group-hover:text-rdm-orange transition-colors">
               {cat.label}
             </h3>
             <p class="text-sm text-rdm-gray leading-relaxed mb-5">{cat.description}</p>
             <span class="text-sm font-semibold text-rdm-orange flex items-center gap-1 group-hover:gap-2 transition-all">
-              Explorer {cat.label.toLowerCase()}
-              <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              Explorer
+              <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
               </svg>
             </span>
@@ -157,8 +322,161 @@ const neighborhoods = [
     </div>
   </section>
 
-  <!-- MARRAKECH EN CHIFFRES -->
-  <section class="py-20" aria-labelledby="stats-heading">
+  <!-- ── GUIDES PRATIQUES ───────────────────────────────────────────────── -->
+  <section class="py-20 bg-rdm-bg" aria-labelledby="guides-heading">
+    <div class="container-rdm">
+      <div class="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4 mb-10">
+        <div>
+          <p class="section-label mb-2 reveal">Pratique</p>
+          <h2 id="guides-heading" class="text-headline font-black text-rdm-black reveal reveal-delay-1">
+            Guides <span class="text-rdm-orange">pratiques</span>
+          </h2>
+        </div>
+        <a href="/guides" class="text-sm font-semibold text-rdm-orange hover:underline hidden sm:block reveal">
+          Voir tous les guides →
+        </a>
+      </div>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        {guideLinks.map((guide, i) => (
+          <a
+            href={guide.href}
+            class:list={[
+              'group glass-card p-6 hover:shadow-card-hover transition-all duration-300 block reveal',
+              `reveal-delay-${Math.min(i + 1, 4)}`,
+            ]}
+          >
+            <h3 class="font-black text-rdm-black mb-2 group-hover:text-rdm-orange transition-colors leading-snug">
+              {guide.title}
+            </h3>
+            <p class="text-sm text-rdm-gray leading-relaxed mb-5">{guide.desc}</p>
+            <span class="text-sm font-semibold text-rdm-orange flex items-center gap-1 group-hover:gap-2 transition-all">
+              Lire
+              <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
+              </svg>
+            </span>
+          </a>
+        ))}
+      </div>
+      <div class="text-center mt-8 sm:hidden reveal">
+        <a href="/guides" class="btn-secondary">Voir tous les guides</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── QUARTIERS DE MARRAKECH ─────────────────────────────────────────── -->
+  <section class="py-20" aria-labelledby="neighborhoods-heading">
+    <div class="container-rdm">
+      <div class="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4 mb-10">
+        <div>
+          <p class="section-label mb-2 reveal">Marrakech quartier par quartier</p>
+          <h2 id="neighborhoods-heading" class="text-headline font-black text-rdm-black reveal reveal-delay-1">
+            Quartiers<br />
+            <span class="text-rdm-orange">à suivre</span>
+          </h2>
+        </div>
+        <a href="/quartiers" class="text-sm font-semibold text-rdm-orange hover:underline hidden sm:block reveal">
+          Guide complet des quartiers →
+        </a>
+      </div>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        {neighborhoods.map((n, i) => (
+          <a
+            href={`/quartiers#${n.slug}`}
+            class:list={[
+              'group glass-card p-5 hover:shadow-card-hover transition-all duration-300 reveal',
+              `reveal-delay-${Math.min(i + 1, 4)}`,
+            ]}
+          >
+            <h3 class="font-bold text-rdm-black mb-1.5 group-hover:text-rdm-orange transition-colors">
+              {n.name}
+            </h3>
+            <p class="text-xs text-rdm-gray leading-relaxed mb-3">{n.desc}</p>
+            <div class="pt-3 border-t border-rdm-border">
+              <span class="text-[11px] font-semibold text-rdm-orange">{n.price}</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ── IMMOBILIER À MARRAKECH ─────────────────────────────────────────── -->
+  {immobilierArticles.length > 0 && (
+    <section class="py-20 bg-rdm-bg" aria-labelledby="immobilier-heading">
+      <div class="container-rdm">
+        <div class="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4 mb-6">
+          <div>
+            <p class="section-label mb-2 reveal">Marché immobilier</p>
+            <h2 id="immobilier-heading" class="text-headline font-black text-rdm-black reveal reveal-delay-1">
+              Immobilier<br />
+              <span class="text-rdm-orange">à Marrakech</span>
+            </h2>
+          </div>
+          <a href="/immobilier" class="text-sm font-semibold text-rdm-orange hover:underline hidden sm:block reveal">
+            Toutes les analyses immobilier →
+          </a>
+        </div>
+        <div class="flex flex-wrap gap-2 mb-8 reveal">
+          {immobilierTopics.map(topic => (
+            <span class="px-3 py-1.5 rounded-full bg-blue-50 text-blue-700 text-xs font-semibold border border-blue-100">
+              {topic}
+            </span>
+          ))}
+        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {immobilierArticles.map((article, i) => (
+            <div class:list={['reveal', `reveal-delay-${Math.min(i + 1, 4)}`]}>
+              <ArticleCard article={article} />
+            </div>
+          ))}
+        </div>
+        <div class="text-center mt-8 sm:hidden reveal">
+          <a href="/immobilier" class="btn-secondary">Voir tout l'immobilier</a>
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- ── TOURISME À MARRAKECH ───────────────────────────────────────────── -->
+  {tourismeArticles.length > 0 && (
+    <section class="py-20" aria-labelledby="tourisme-heading">
+      <div class="container-rdm">
+        <div class="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4 mb-6">
+          <div>
+            <p class="section-label mb-2 reveal">Tourisme & lifestyle</p>
+            <h2 id="tourisme-heading" class="text-headline font-black text-rdm-black reveal reveal-delay-1">
+              Tourisme<br />
+              <span class="text-rdm-orange">à Marrakech</span>
+            </h2>
+          </div>
+          <a href="/tourisme" class="text-sm font-semibold text-rdm-orange hover:underline hidden sm:block reveal">
+            Toutes les analyses tourisme →
+          </a>
+        </div>
+        <div class="flex flex-wrap gap-2 mb-8 reveal">
+          {tourismeTopics.map(topic => (
+            <span class="px-3 py-1.5 rounded-full bg-emerald-50 text-emerald-700 text-xs font-semibold border border-emerald-100">
+              {topic}
+            </span>
+          ))}
+        </div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+          {tourismeArticles.map((article, i) => (
+            <div class:list={['reveal', `reveal-delay-${Math.min(i + 1, 3)}`]}>
+              <ArticleCard article={article} />
+            </div>
+          ))}
+        </div>
+        <div class="text-center mt-8 sm:hidden reveal">
+          <a href="/tourisme" class="btn-secondary">Voir tout le tourisme</a>
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- ── MARRAKECH EN CHIFFRES ──────────────────────────────────────────── -->
+  <section class="py-20 bg-rdm-bg" aria-labelledby="stats-heading">
     <div class="container-rdm">
       <div class="mb-12">
         <p class="section-label mb-3 reveal">Données clés 2025–2026</p>
@@ -175,47 +493,13 @@ const neighborhoods = [
         ))}
       </div>
       <p class="text-xs text-rdm-gray mt-6 reveal">
-        * Données issues de sources officielles et de médias économiques marocains. Consultez chaque article pour les références complètes.
+        * Données issues de sources officielles et de médias économiques marocains.
+        Consultez chaque article pour les références complètes.
       </p>
     </div>
   </section>
 
-  <!-- QUARTIERS À SUIVRE -->
-  <section class="py-20 bg-rdm-bg" aria-labelledby="neighborhoods-heading">
-    <div class="container-rdm">
-      <div class="flex flex-col lg:flex-row lg:items-end lg:justify-between gap-4 mb-10">
-        <div>
-          <p class="section-label mb-3 reveal">Marrakech quartier par quartier</p>
-          <h2 id="neighborhoods-heading" class="text-headline font-black text-rdm-black reveal reveal-delay-1">
-            Quartiers<br />
-            <span class="text-rdm-orange">à suivre</span>
-          </h2>
-        </div>
-        <a href="/quartiers" class="text-sm font-semibold text-rdm-orange hover:underline reveal">
-          Guide complet des quartiers →
-        </a>
-      </div>
-
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-        {neighborhoods.map((n, i) => (
-          <a
-            href={`/quartiers#${n.slug}`}
-            class:list={[
-              'group glass-card p-5 hover:shadow-card-hover transition-all duration-300 reveal',
-              `reveal-delay-${Math.min(i + 1, 4)}`,
-            ]}
-          >
-            <h3 class="font-bold text-rdm-black mb-1.5 group-hover:text-rdm-orange transition-colors">{n.name}</h3>
-            <p class="text-xs text-rdm-gray leading-relaxed mb-3">{n.desc}</p>
-            <div class="pt-3 border-t border-rdm-border">
-              <span class="text-[11px] font-semibold text-rdm-orange">{n.price}</span>
-            </div>
-          </a>
-        ))}
-      </div>
-    </div>
-  </section>
-
-  <!-- NEWSLETTER -->
+  <!-- ── NEWSLETTER ─────────────────────────────────────────────────────── -->
   <NewsletterBlock />
+
 </BaseLayout>

@@ -77,13 +77,13 @@ import { SITE } from '@/data/site';
             novalidate
             aria-label="Formulaire de contact"
           >
-            <!-- Formspree hidden fields -->
             <input type="hidden" name="_subject" value="Nouveau message — Le Vrai Maroc" />
             <input type="hidden" name="_language" value="fr" />
+            <input type="hidden" name="locale" value="fr" />
             <input type="hidden" name="form_type" value="contact" />
             <input type="hidden" name="source" value="Le Vrai Maroc" />
             <!-- Honeypot anti-spam (must stay empty) -->
-            <input type="text" name="_gotcha" class="hidden" tabindex="-1" autocomplete="off" aria-hidden="true" />
+            <input type="text" name="website" class="hidden" tabindex="-1" autocomplete="off" aria-hidden="true" />
             <div>
               <label for="contact-name" class="block text-sm font-semibold text-rdm-black mb-1.5">
                 Nom complet <span class="text-rdm-orange">*</span>
@@ -212,22 +212,11 @@ import { SITE } from '@/data/site';
       return;
     }
 
-    const action = form.getAttribute('action') || '';
-    if (action.includes('REPLACE_WITH')) {
-      const mailSubject = encodeURIComponent('Nouveau message — Le Vrai Maroc');
-      const mailBody = encodeURIComponent(
-        `Nom : ${name}\nEmail : ${email}\nSujet : ${subject}\n\nMessage :\n${message}`
-      );
-      window.open(`mailto:${FALLBACK_EMAIL}?subject=${mailSubject}&body=${mailBody}`);
-      showMsg(`Vous pouvez aussi nous écrire directement à ${FALLBACK_EMAIL}.`, true);
-      return;
-    }
-
     setLoading(true);
     feedback?.classList.add('hidden');
 
     try {
-      const res = await fetch(action, {
+      const res = await fetch('/send-contact.php', {
         method: 'POST',
         body: data,
         headers: { Accept: 'application/json' },

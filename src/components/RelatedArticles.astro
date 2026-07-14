@@ -1,13 +1,17 @@
 ---
 import ArticleCard from './ArticleCard.astro';
 import type { CollectionEntry } from 'astro:content';
+import { type Locale } from '@/i18n/config';
+import { ui } from '@/i18n/ui';
 
 interface Props {
   articles: CollectionEntry<'articles'>[];
   title?: string;
+  locale?: Locale;
 }
 
-const { articles, title = 'Articles liés' } = Astro.props;
+const { articles, locale = 'fr' } = Astro.props;
+const title = Astro.props.title ?? ui[locale].labels.relatedArticles;
 ---
 
 {articles.length > 0 && (
@@ -19,7 +23,7 @@ const { articles, title = 'Articles liés' } = Astro.props;
       </div>
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
         {articles.slice(0, 3).map((article) => (
-          <ArticleCard article={article} />
+          <ArticleCard article={article} locale={locale} />
         ))}
       </div>
     </div>

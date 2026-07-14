@@ -25,6 +25,27 @@ Toutes les images de production sont des fichiers WebP locaux, optimisés et pla
 | Marrakech avant 2030 : tourisme, infrastructures et nouvelles opportunités | `public/images/articles/marrakech-2030-infrastructures-tourisme.webp` | [Entrance of the Airport of Marrakech](https://commons.wikimedia.org/wiki/File:Entrance_of_the_Airport_of_Marrakech.jpg) | CC BY-SA 4.0 / Reda Kerbush | Infrastructures de Marrakech illustrant les opportunités liées au tourisme et à l’horizon 2030. | Installé |
 | Marrakech 2026-2030 : perspectives de marché et scénarios pour l'immobilier | `public/images/articles/marrakech-perspectives-marche-2026-2030.webp` | [Gare de Marrakech](https://commons.wikimedia.org/wiki/File:Gare_de_Marrakech.jpg) | CC BY-SA 4.0 / Maarten Wasmoeth | Gare de Marrakech illustrant les perspectives du marché immobilier entre 2026 et 2030. | Installé |
 
+## Articles à illustrer manuellement
+
+| Article | Image requise | Source suggérée | Requêtes exactes | Fichier cible | Alt text cible | Statut |
+|---|---|---|---|---|---|---|
+| Dahir au Maroc : ce qu’un acheteur immobilier doit comprendre avant d’acheter | Signature d’un document juridique, main tenant un stylo sur un contrat. | [Rawpixel / PxHere public domain CC0 photo](https://www.rawpixel.com/image/5903963/photo-image-background-public-domain-hand) | `Morocco notary office real estate documents`, `Moroccan property documents notary`, `real estate contract Morocco`, `Marrakech property documents`, `Moroccan architecture legal document desk` | `public/images/articles/dahir-maroc-immobilier-acheteur.webp` | Documents immobiliers au Maroc illustrant l’importance du cadre juridique et des dahirs dans un achat immobilier. | installé |
+
+## Pages S.A.F.E cluster
+
+Les pages du cluster S.A.F.E utilisent provisoirement des images locales déjà installées et vérifiées ci-dessus, afin d’éviter tout placeholder. Les images éditoriales plus spécifiques ci-dessous restent à sourcer ou produire manuellement avec licence vérifiable.
+
+| Page URL | Image requise | Source suggérée | Requête exacte | Fichier cible | Alt text cible | Statut |
+|---|---|---|---|---|---|---|
+| `/acheter-sur-plan-maroc` | Chantier ou immeuble neuf au Maroc avec contexte urbain identifiable. | Wikimedia Commons, Unsplash licence, ou photo propriétaire Le Vrai Maroc. | `immeuble neuf Maroc chantier achat sur plan photo libre de droits` | `public/images/safe/acheter-sur-plan-maroc.webp` | Programme immobilier neuf au Maroc illustrant un achat sur plan. | to replace manually |
+| `/acheter-sur-plan-marrakech` | Programme neuf ou résidence moderne à Marrakech, idéalement quartier urbain. | Wikimedia Commons, Unsplash licence, ou photo propriétaire Le Vrai Maroc. | `résidence neuve Marrakech programme immobilier photo libre de droits` | `public/images/safe/acheter-sur-plan-marrakech.webp` | Résidence neuve à Marrakech pour analyser un achat sur plan. | to replace manually |
+| `/risques-achat-immobilier-maroc` | Scène de visite ou façade immobilière marocaine évoquant la vérification avant achat. | Wikimedia Commons ou photo propriétaire Le Vrai Maroc. | `visite immobilière Maroc achat appartement photo libre de droits` | `public/images/safe/risques-achat-immobilier-maroc.webp` | Visite immobilière au Maroc avant vérification d’un achat. | to replace manually |
+| `/comment-verifier-promoteur-immobilier-maroc` | Immeuble résidentiel livré ou bureau de vente immobilier au Maroc. | Wikimedia Commons ou photo propriétaire Le Vrai Maroc. | `promoteur immobilier Maroc résidence livrée photo libre de droits` | `public/images/safe/verifier-promoteur-immobilier-maroc.webp` | Résidence livrée au Maroc pour vérifier un promoteur immobilier. | to replace manually |
+| `/vefa-maroc-garanties-risques` | Chantier résidentiel propre ou immeuble en construction au Maroc. | Wikimedia Commons ou photo propriétaire Le Vrai Maroc. | `chantier résidentiel Maroc VEFA photo libre de droits` | `public/images/safe/vefa-maroc-garanties-risques.webp` | Chantier résidentiel au Maroc pour expliquer la VEFA. | to replace manually |
+| `/documents-achat-immobilier-maroc` | Documents, plans ou dossier immobilier posé sur table, sans données personnelles. | Photo propriétaire Le Vrai Maroc recommandée. | `documents achat immobilier plans appartement Maroc photo libre de droits` | `public/images/safe/documents-achat-immobilier-maroc.webp` | Dossier et plans à vérifier avant un achat immobilier au Maroc. | to replace manually |
+| `/livraison-appartement-neuf-maroc` | Appartement neuf livré ou détail de finition intérieure au Maroc. | Photo propriétaire Le Vrai Maroc recommandée. | `appartement neuf livré Maroc finition intérieure photo libre de droits` | `public/images/safe/livraison-appartement-neuf-maroc.webp` | Appartement neuf au Maroc avant remise des clés. | to replace manually |
+| `/prix-immobilier-marrakech` | Vue urbaine de Marrakech montrant logements, avenue ou quartier moderne. | Wikimedia Commons, Unsplash licence, ou photo propriétaire Le Vrai Maroc. | `quartier moderne Marrakech immobilier prix photo libre de droits` | `public/images/safe/prix-immobilier-marrakech.webp` | Quartier moderne de Marrakech pour comprendre les prix immobiliers. | to replace manually |
+
 ## Images globales
 
 | Usage | Fichier local | Source | Licence / auteur | Statut |

@@ -1,28 +1,33 @@
 ---
 import CategoryPill from './CategoryPill.astro';
 import type { CollectionEntry } from 'astro:content';
+import { type Locale } from '@/i18n/config';
+import { articleHref } from '@/i18n/articles';
+import { ui } from '@/i18n/ui';
 
 interface Props {
   article: CollectionEntry<'articles'>;
   variant?: 'default' | 'featured' | 'compact' | 'horizontal';
   eager?: boolean;
+  locale?: Locale;
 }
 
-const { article, variant = 'default', eager = false } = Astro.props;
+const { article, variant = 'default', eager = false, locale = article.data.locale ?? 'fr' } = Astro.props;
 const { title, category, date, readingTime, excerpt, heroImage, imageAlt } = article.data;
+const currentUi = ui[locale];
 
-const formattedDate = new Intl.DateTimeFormat('fr-FR', {
+const formattedDate = new Intl.DateTimeFormat(locale === 'fr' ? 'fr-FR' : locale === 'en' ? 'en-US' : locale === 'es' ? 'es-ES' : 'nl-NL', {
   year: 'numeric',
   month: 'long',
   day: 'numeric',
 }).format(date);
 
-const url = `/articles/${article.id}`;
+const url = articleHref(article);
 ---
 
 {variant === 'featured' && (
   <article class="group card-lift rounded-2xl overflow-hidden bg-white border border-rdm-border shadow-card relative">
-    <a href={url} class="block" aria-label={title}>
+    <a href={url} class="block cursor-pointer focus-visible:outline-rdm-orange" aria-label={`${currentUi.labels.readArticle}: ${title}`}>
       <!-- Image -->
       <div class="aspect-[16/9] overflow-hidden">
         <img
@@ -37,8 +42,8 @@ const url = `/articles/${article.id}`;
       <!-- Content -->
       <div class="p-7 lg:p-9">
         <div class="flex items-center gap-3 mb-4">
-          <CategoryPill category={category} linked />
-          <span class="text-xs text-rdm-gray">{readingTime} min de lecture</span>
+          <CategoryPill category={category} locale={locale} />
+          <span class="text-xs text-rdm-gray">{readingTime} {currentUi.labels.minutesRead}</span>
         </div>
         <h2 class="text-title font-black text-rdm-black mb-3 group-hover:text-rdm-orange transition-colors duration-200 leading-tight">
           {title}
@@ -47,7 +52,7 @@ const url = `/articles/${article.id}`;
         <div class="flex items-center justify-between">
           <time datetime={date.toISOString()} class="text-xs text-rdm-gray">{formattedDate}</time>
           <span class="inline-flex items-center gap-1.5 text-sm font-semibold text-rdm-orange group-hover:gap-2.5 transition-all duration-200">
-            Lire l'article
+            {currentUi.labels.readArticle}
             <svg class="w-4 h-4 transition-transform duration-200 group-hover:translate-x-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
               <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
             </svg>
@@ -60,7 +65,7 @@ const url = `/articles/${article.id}`;
 
 {variant === 'default' && (
   <article class="group card-lift rounded-2xl overflow-hidden bg-white border border-rdm-border shadow-card h-full flex flex-col">
-    <a href={url} class="block flex-1 flex flex-col" aria-label={title}>
+    <a href={url} class="block flex-1 flex flex-col cursor-pointer focus-visible:outline-rdm-orange" aria-label={`${currentUi.labels.readArticle}: ${title}`}>
       <!-- Image -->
       <div class="aspect-square-card overflow-hidden flex-shrink-0">
         <img
@@ -75,14 +80,22 @@ const url = `/articles/${article.id}`;
       <!-- Content -->
       <div class="p-5 flex flex-col flex-1">
         <div class="flex items-center gap-2 mb-3">
-          <CategoryPill category={category} size="sm" linked />
-          <span class="text-[10px] text-rdm-gray">{readingTime} min</span>
+          <CategoryPill category={category} size="sm" locale={locale} />
+          <span class="text-[10px] text-rdm-gray">{readingTime} {currentUi.labels.minuteShort}</span>
         </div>
         <h2 class="text-base font-bold text-rdm-black mb-2 group-hover:text-rdm-orange transition-colors duration-150 leading-snug line-clamp-2 flex-1">
           {title}
         </h2>
         <p class="text-xs text-rdm-gray leading-relaxed line-clamp-2 mb-4">{excerpt}</p>
-        <time datetime={date.toISOString()} class="text-[10px] text-rdm-gray mt-auto">{formattedDate}</time>
+        <div class="mt-auto flex items-center justify-between gap-3">
+          <time datetime={date.toISOString()} class="text-[10px] text-rdm-gray">{formattedDate}</time>
+          <span class="inline-flex items-center gap-1 text-[11px] font-semibold text-rdm-orange group-hover:gap-1.5 transition-all duration-150">
+            {currentUi.labels.readArticle}
+            <svg class="w-3.5 h-3.5 transition-transform duration-150 group-hover:translate-x-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
+            </svg>
+          </span>
+        </div>
       </div>
     </a>
   </article>
@@ -90,7 +103,7 @@ const url = `/articles/${article.id}`;
 
 {variant === 'compact' && (
   <article class="group flex items-start gap-4 py-4 border-b border-rdm-border last:border-0">
-    <a href={url} class="flex-shrink-0" aria-label={title}>
+    <a href={url} class="flex-shrink-0 cursor-pointer" aria-label={`${currentUi.labels.readArticle}: ${title}`}>
       <div class="w-20 h-16 rounded-xl overflow-hidden">
         <img
           src={heroImage}
@@ -103,8 +116,8 @@ const url = `/articles/${article.id}`;
       </div>
     </a>
     <div class="flex-1 min-w-0">
-      <CategoryPill category={category} size="sm" linked />
-      <a href={url}>
+      <CategoryPill category={category} size="sm" linked locale={locale} />
+      <a href={url} class="cursor-pointer" aria-label={`${currentUi.labels.readArticle}: ${title}`}>
         <h3 class="text-sm font-semibold text-rdm-black mt-1 mb-1 group-hover:text-rdm-orange transition-colors line-clamp-2 leading-snug">
           {title}
         </h3>
@@ -116,7 +129,7 @@ const url = `/articles/${article.id}`;
 
 {variant === 'horizontal' && (
   <article class="group card-lift rounded-2xl overflow-hidden bg-white border border-rdm-border shadow-card">
-    <a href={url} class="flex gap-0" aria-label={title}>
+    <a href={url} class="flex gap-0 cursor-pointer focus-visible:outline-rdm-orange" aria-label={`${currentUi.labels.readArticle}: ${title}`}>
       <!-- Image -->
       <div class="w-48 md:w-64 flex-shrink-0 overflow-hidden">
         <img
@@ -131,14 +144,22 @@ const url = `/articles/${article.id}`;
       <!-- Content -->
       <div class="p-6 flex flex-col justify-center">
         <div class="flex items-center gap-3 mb-3">
-          <CategoryPill category={category} size="sm" linked />
-          <span class="text-[10px] text-rdm-gray">{readingTime} min</span>
+          <CategoryPill category={category} size="sm" locale={locale} />
+          <span class="text-[10px] text-rdm-gray">{readingTime} {currentUi.labels.minuteShort}</span>
         </div>
         <h2 class="text-base font-bold text-rdm-black mb-2 group-hover:text-rdm-orange transition-colors line-clamp-2 leading-snug">
           {title}
         </h2>
         <p class="text-sm text-rdm-gray line-clamp-2 leading-relaxed mb-3">{excerpt}</p>
-        <time datetime={date.toISOString()} class="text-xs text-rdm-gray">{formattedDate}</time>
+        <div class="flex items-center justify-between gap-3">
+          <time datetime={date.toISOString()} class="text-xs text-rdm-gray">{formattedDate}</time>
+          <span class="inline-flex items-center gap-1.5 text-xs font-semibold text-rdm-orange group-hover:gap-2 transition-all duration-150">
+            {currentUi.labels.readArticle}
+            <svg class="w-3.5 h-3.5 transition-transform duration-150 group-hover:translate-x-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
+            </svg>
+          </span>
+        </div>
       </div>
     </a>
   </article>

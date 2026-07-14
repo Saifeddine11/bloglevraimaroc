@@ -2,6 +2,7 @@
 interface Props {
   title: string;
   subtitle?: string;
+  accentLine?: string;
   cta1?: { label: string; href: string };
   cta2?: { label: string; href: string };
   eyebrow?: string;
@@ -11,6 +12,7 @@ interface Props {
 const {
   title,
   subtitle,
+  accentLine,
   cta1,
   cta2,
   eyebrow,
@@ -21,7 +23,7 @@ const {
 <section class="relative min-h-[85vh] flex items-center overflow-hidden bg-rdm-black" aria-label="Hero">
   <!-- Background image with parallax -->
   <div
-    class="absolute inset-0 hero-parallax"
+    class="absolute inset-0 hero-parallax pointer-events-none"
     id="hero-bg"
     aria-hidden="true"
     style="will-change: transform;"
@@ -53,13 +55,19 @@ const {
         </div>
       )}
 
-      <h1 class="text-display font-black text-white mb-6 reveal reveal-delay-1">
+      <h1 class="text-display font-black text-white mb-4 reveal reveal-delay-1">
         {title.split('|').map((part, i) => (
           i % 2 === 1
             ? <span class="text-rdm-orange">{part}</span>
             : <span>{part}</span>
         ))}
       </h1>
+
+      {accentLine && (
+        <p class="text-rdm-orange font-semibold text-lg lg:text-xl mb-5 reveal reveal-delay-2">
+          — {accentLine}
+        </p>
+      )}
 
       {subtitle && (
         <p class="text-lg lg:text-xl text-white/70 leading-relaxed mb-10 max-w-xl reveal reveal-delay-2">

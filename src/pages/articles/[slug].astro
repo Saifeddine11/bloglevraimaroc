@@ -1,11 +1,12 @@
 ---
 import { getCollection, render } from 'astro:content';
 import ArticleLayout from '@/layouts/ArticleLayout.astro';
+import { articleAlternates, articleLocale, articleSlug } from '@/i18n/articles';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles');
-  return articles.map((article) => ({
-    params: { slug: article.id },
+  return articles.filter((article) => articleLocale(article) === 'fr').map((article) => ({
+    params: { slug: articleSlug(article) },
     props: { article },
   }));
 }
@@ -15,12 +16,13 @@ const { Content, headings } = await render(article);
 
 // Get related articles (same category, excluding current)
 const allArticles = await getCollection('articles');
+const alternates = articleAlternates(article, allArticles);
 const related = allArticles
-  .filter((a) => a.id !== article.id && a.data.category === article.data.category)
+  .filter((a) => a.id !== article.id && articleLocale(a) === 'fr' && a.data.category === article.data.category)
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
   .slice(0, 3);
 ---
 
-<ArticleLayout article={article} relatedArticles={related} headings={headings}>
+<ArticleLayout article={article} relatedArticles={related} headings={headings} alternates={alternates}>
   <Content />
 </ArticleLayout>

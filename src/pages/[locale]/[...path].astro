@@ -1,0 +1,25 @@
+---
+import LocalizedPage from '@/components/LocalizedPage.astro';
+import { nonDefaultLocales, type Locale } from '@/i18n/config';
+import { routeSlugs, type RouteKey } from '@/i18n/routes';
+
+export function getStaticPaths() {
+  const staticRouteKeys = Object.keys(routeSlugs.en).filter((key) => key !== 'home') as RouteKey[];
+  return nonDefaultLocales.flatMap((locale) =>
+    staticRouteKeys.map((routeKey) => ({
+      params: {
+        locale,
+        path: routeSlugs[locale][routeKey],
+      },
+      props: {
+        locale,
+        routeKey,
+      },
+    }))
+  );
+}
+
+const { locale, routeKey } = Astro.props as { locale: Locale; routeKey: RouteKey };
+---
+
+<LocalizedPage locale={locale} routeKey={routeKey} />

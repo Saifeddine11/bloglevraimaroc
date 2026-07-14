@@ -2,6 +2,9 @@
 import { SITE } from '@/data/site';
 import Header from '@/components/Header.astro';
 import Footer from '@/components/Footer.astro';
+import { getLocaleFromPathname, localeMeta, type Locale } from '@/i18n/config';
+import { alternatesForPath, localizedPath, type RouteKey } from '@/i18n/routes';
+import { homeCopy } from '@/i18n/pages';
 import '../styles/global.css';
 
 interface Props {
@@ -12,20 +15,29 @@ interface Props {
   article?: boolean;
   publishDate?: Date;
   noindex?: boolean;
+  locale?: Locale;
+  alternates?: Record<Locale | 'x-default', string>;
+  routeKey?: RouteKey;
 }
 
 const {
   title,
-  description = SITE.description,
+  description,
   ogImage = SITE.ogImage,
   canonicalURL = new URL(Astro.url.pathname, SITE.url).href,
   article = false,
   publishDate,
   noindex = false,
+  locale = getLocaleFromPathname(Astro.url.pathname),
+  alternates = alternatesForPath(Astro.url.pathname),
+  routeKey,
 } = Astro.props;
 
-const pageTitle = title ? `${title} | ${SITE.name}` : `${SITE.name} — ${SITE.tagline}`;
+const localeInfo = localeMeta[locale];
+const pageDescription = description ?? homeCopy[locale].metaDescription;
+const pageTitle = title ? `${title} | ${SITE.name}` : homeCopy[locale].metaTitle;
 const ogImageAbsolute = ogImage.startsWith('http') ? ogImage : `${SITE.url}${ogImage}`;
+const searchUrl = new URL(localizedPath(locale, 'blog'), SITE.url).href;
 
 const organizationSchema = {
   '@context': 'https://schema.org',
@@ -46,18 +58,18 @@ const websiteSchema = {
   '@type': 'WebSite',
   name: SITE.name,
   url: SITE.url,
-  description: SITE.description,
-  inLanguage: 'fr',
+  description: homeCopy[locale].metaDescription,
+  inLanguage: localeInfo.htmlLang,
   potentialAction: {
     '@type': 'SearchAction',
-    target: `${SITE.url}/blog?q={search_term_string}`,
+    target: `${searchUrl}?q={search_term_string}`,
     'query-input': 'required name=search_term_string',
   },
 };
 ---
 
 <!DOCTYPE html>
-<html lang="fr" class="scroll-smooth">
+<html lang={localeInfo.htmlLang} class="scroll-smooth">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -65,32 +77,34 @@ const websiteSchema = {
 
   <!-- Primary Meta -->
   <title>{pageTitle}</title>
-  <meta name="description" content={description} />
+  <meta name="description" content={pageDescription} />
   {noindex && <meta name="robots" content="noindex, nofollow" />}
   <link rel="canonical" href={canonicalURL} />
+  {alternates && Object.entries(alternates).map(([hreflang, href]) => (
+    <link rel="alternate" hreflang={hreflang} href={href} />
+  ))}
 
   <!-- Open Graph -->
   <meta property="og:type" content={article ? 'article' : 'website'} />
   <meta property="og:url" content={canonicalURL} />
   <meta property="og:title" content={pageTitle} />
-  <meta property="og:description" content={description} />
+  <meta property="og:description" content={pageDescription} />
   <meta property="og:image" content={ogImageAbsolute} />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
   <meta property="og:site_name" content={SITE.name} />
-  <meta property="og:locale" content={SITE.locale} />
+  <meta property="og:locale" content={localeInfo.ogLocale} />
   {publishDate && <meta property="article:published_time" content={publishDate.toISOString()} />}
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content={SITE.twitter} />
   <meta name="twitter:title" content={pageTitle} />
-  <meta name="twitter:description" content={description} />
+  <meta name="twitter:description" content={pageDescription} />
   <meta name="twitter:image" content={ogImageAbsolute} />
 
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title={SITE.name} href="/rss.xml" />
@@ -106,11 +120,11 @@ const websiteSchema = {
   <slot name="head" />
 </head>
 <body class="min-h-screen flex flex-col">
-  <Header />
+  <Header locale={locale} alternates={alternates} routeKey={routeKey} />
   <main id="main-content" class="flex-1">
     <slot />
   </main>
-  <Footer />
+  <Footer locale={locale} />
 
   <!-- Scroll reveal script -->
   <script>

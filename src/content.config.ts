@@ -6,6 +6,9 @@ const articles = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: './src/content/articles' }),
   schema: z.object({
     title: z.string(),
+    slug: z.string().optional(),
+    locale: z.enum(['fr', 'en', 'es', 'nl']).optional().default('fr'),
+    translationKey: z.string().optional(),
     metaTitle: z.string().optional(),
     metaDescription: z.string(),
     category: z.enum(['immobilier', 'tourisme', 'investissement', 'quartiers', 'guides', 'analyses']),

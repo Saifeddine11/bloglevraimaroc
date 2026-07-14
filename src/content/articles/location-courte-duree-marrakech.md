@@ -130,4 +130,6 @@ La location courte durée à Marrakech reste une opportunité viable — mais el
 
 C'est supérieur à la plupart des marchés européens. Mais ce n'est pas la machine à cash que certains promoteurs suggèrent.
 
+Avant d'acheter un bien pour l'exploiter en Airbnb, relisez les [risques d'un achat immobilier au Maroc](/risques-achat-immobilier-maroc) et la liste des [documents à vérifier avant achat](/documents-achat-immobilier-maroc), car la rentabilité ne compense pas un dossier fragile.
+
 Les investisseurs qui réussissent en location courte durée à Marrakech sont ceux qui traitent cette activité comme une entreprise : système de gestion structuré, qualité constante, conformité réglementaire, et révision régulière de la stratégie tarifaire. Ceux qui pensent que l'appartement va "se gérer seul" se trompent.

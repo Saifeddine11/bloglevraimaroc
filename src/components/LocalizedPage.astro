@@ -1,0 +1,481 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Hero from '@/components/Hero.astro';
+import ArticleCard from '@/components/ArticleCard.astro';
+import NewsletterBlock from '@/components/NewsletterBlock.astro';
+import CategoryIcon from '@/components/CategoryIcon.astro';
+import SearchBar from '@/components/SearchBar.astro';
+import FaqBlock from '@/components/FaqBlock.astro';
+import { CATEGORIES } from '@/data/categories';
+import { SITE } from '@/data/site';
+import { type Locale, localeMeta } from '@/i18n/config';
+import { articleLocale, sortArticlesByDate } from '@/i18n/articles';
+import { categoryCopies, homeCopy, safeClusterCopies, safePageCopies, staticPages } from '@/i18n/pages';
+import { absoluteUrl, categoryRouteKeys, localizedPath, staticAlternates, withXDefault, type RouteKey } from '@/i18n/routes';
+import { ui } from '@/i18n/ui';
+
+interface Props {
+  locale: Locale;
+  routeKey: RouteKey;
+}
+
+const { locale, routeKey } = Astro.props;
+const copy = ui[locale];
+const localeInfo = localeMeta[locale];
+const canonicalURL = absoluteUrl(localizedPath(locale, routeKey));
+const alternates = withXDefault(staticAlternates(routeKey));
+const allArticles = await getCollection('articles');
+const articles = sortArticlesByDate(allArticles.filter((article) => articleLocale(article) === locale));
+const categoryEntries = Object.values(CATEGORIES).map((cat) => {
+  const key = cat.slug as keyof typeof categoryCopies[typeof locale];
+  return {
+    ...cat,
+    ...categoryCopies[locale][key],
+    href: localizedPath(locale, categoryRouteKeys[key]),
+  };
+});
+const currentCategoryKey = Object.entries(categoryRouteKeys).find(([, key]) => key === routeKey)?.[0] as keyof typeof categoryCopies[typeof locale] | undefined;
+const isCategoryPage = !!currentCategoryKey;
+const clusterPage = safeClusterCopies[locale].find((page) => page.routeKey === routeKey);
+const safeCopy = routeKey === 'safe' ? safePageCopies[locale] : undefined;
+const staticCopy =
+  routeKey === 'blog' || routeKey === 'about' || routeKey === 'legal' || routeKey === 'privacy' || routeKey === 'notFound'
+    ? staticPages[locale][routeKey]
+    : undefined;
+
+const pageTitle =
+  routeKey === 'home'
+    ? undefined
+    : isCategoryPage && currentCategoryKey
+      ? categoryCopies[locale][currentCategoryKey].metaTitle
+      : clusterPage?.metaTitle ?? safeCopy?.metaTitle ?? staticCopy?.metaTitle;
+const pageDescription =
+  routeKey === 'home'
+    ? homeCopy[locale].metaDescription
+    : isCategoryPage && currentCategoryKey
+      ? categoryCopies[locale][currentCategoryKey].metaDescription
+      : clusterPage?.metaDescription ?? safeCopy?.metaDescription ?? staticCopy?.metaDescription ?? homeCopy[locale].metaDescription;
+
+const webPageSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: pageTitle ?? homeCopy[locale].metaTitle,
+  headline: pageTitle ?? homeCopy[locale].metaTitle,
+  description: pageDescription,
+  url: canonicalURL,
+  inLanguage: localeInfo.htmlLang,
+  isPartOf: { '@type': 'WebSite', name: SITE.name, url: SITE.url },
+  publisher: { '@type': 'Organization', name: SITE.name, url: SITE.url },
+};
+
+const faqItems = safeCopy?.faq ?? clusterPage?.faq ?? [];
+const faqSchema = faqItems.length
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      inLanguage: localeInfo.htmlLang,
+      mainEntity: faqItems.map((item) => ({
+        '@type': 'Question',
+        name: item.question,
+        acceptedAnswer: { '@type': 'Answer', text: item.answer },
+      })),
+    }
+  : undefined;
+
+const home = homeCopy[locale];
+const latestArticles = articles.slice(0, 6);
+---
+
+<BaseLayout
+  title={pageTitle}
+  description={pageDescription}
+  canonicalURL={canonicalURL}
+  locale={locale}
+  alternates={alternates}
+  routeKey={routeKey}
+  noindex={routeKey === 'notFound' || routeKey === 'legal' || routeKey === 'privacy'}
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(webPageSchema)} />
+    {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
+  </Fragment>
+
+  {routeKey === 'home' && (
+    <>
+      <Hero
+        eyebrow={home.heroEyebrow}
+        title={home.heroTitle}
+        accentLine={home.heroAccent}
+        subtitle={home.heroSubtitle}
+        cta1={{ label: home.ctaPrimary, href: localizedPath(locale, 'blog') }}
+        cta2={{ label: home.ctaSecondary, href: localizedPath(locale, 'analyses') }}
+        bgImage="/images/hero-marrakech.webp"
+      />
+
+      <section class="py-20" aria-labelledby="edition-heading">
+        <div class="container-rdm">
+          <div class="text-center max-w-2xl mx-auto mb-12">
+            <p class="section-label mb-3 reveal">{home.editionEyebrow}</p>
+            <h2 id="edition-heading" class="text-headline font-black text-rdm-black reveal reveal-delay-1">
+              {home.editionTitle} <span class="text-rdm-orange">{home.editionAccent}</span>
+            </h2>
+            <p class="text-rdm-gray mt-4 leading-relaxed reveal reveal-delay-2">{home.editionText}</p>
+          </div>
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
+            {categoryEntries.slice(0, 4).map((card, i) => (
+              <a href={card.href} class:list={['group glass-card p-7 hover:shadow-card-hover transition-all duration-300 block reveal', `reveal-delay-${i + 1}`]}>
+                <div class:list={['w-11 h-11 rounded-xl flex items-center justify-center mb-5 border', card.bgColor, 'border-rdm-border']}>
+                  <span class:list={[card.color]}><CategoryIcon name={card.icon} size={20} /></span>
+                </div>
+                <h3 class="text-base font-black text-rdm-black mb-2 group-hover:text-rdm-orange transition-colors leading-tight">{card.label}</h3>
+                <p class="text-sm text-rdm-gray leading-relaxed mb-5">{card.description}</p>
+              </a>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section class="py-20 bg-rdm-bg" aria-labelledby="latest-heading">
+        <div class="container-rdm">
+          <div class="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4 mb-10">
+            <div>
+              <p class="section-label mb-2 reveal">{home.latestEyebrow}</p>
+              <h2 id="latest-heading" class="text-headline font-black text-rdm-black reveal reveal-delay-1">
+                {home.latestTitle} <span class="text-rdm-orange">{home.latestAccent}</span>
+              </h2>
+            </div>
+            <a href={localizedPath(locale, 'blog')} class="text-sm font-semibold text-rdm-orange hover:underline hidden sm:block reveal">
+              {copy.labels.allArticles}
+            </a>
+          </div>
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {latestArticles.map((article) => <ArticleCard article={article} locale={locale} />)}
+          </div>
+        </div>
+      </section>
+
+      <section class="py-20" aria-labelledby="rubriques-heading">
+        <div class="container-rdm">
+          <div class="text-center max-w-xl mx-auto mb-12">
+            <p class="section-label mb-3 reveal">{home.rubriquesEyebrow}</p>
+            <h2 id="rubriques-heading" class="text-headline font-black text-rdm-black reveal reveal-delay-1">
+              {home.rubriquesTitle}<br /><span class="text-rdm-orange">{home.rubriquesAccent}</span>
+            </h2>
+            <p class="text-rdm-gray mt-4 leading-relaxed reveal reveal-delay-2">{home.rubriquesText}</p>
+          </div>
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+            {categoryEntries.map((cat) => (
+              <a href={cat.href} class="group glass-card p-6 hover:shadow-card-hover transition-all duration-300">
+                <div class:list={['w-10 h-10 rounded-xl flex items-center justify-center mb-4', cat.bgColor]}>
+                  <span class:list={[cat.color]}><CategoryIcon name={cat.icon} size={20} /></span>
+                </div>
+                <h3 class="font-black text-rdm-black mb-2 group-hover:text-rdm-orange transition-colors">{cat.labelPlural}</h3>
+                <p class="text-sm text-rdm-gray leading-relaxed">{cat.description}</p>
+              </a>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <NewsletterBlock locale={locale} />
+    </>
+  )}
+
+  {routeKey === 'blog' && staticCopy && (
+    <>
+      <section class="py-16 bg-rdm-bg border-b border-rdm-border">
+        <div class="container-rdm">
+          <p class="section-label mb-3">{staticCopy.eyebrow}</p>
+          <h1 class="text-headline font-black text-rdm-black mb-4">{staticCopy.h1}</h1>
+          <p class="text-rdm-gray max-w-xl mb-8">{staticCopy.intro}</p>
+          <div class="flex flex-col md:flex-row gap-4 items-start md:items-center">
+            <div class="w-full md:w-72">
+              <SearchBar placeholder={`${copy.labels.search}…`} label={copy.labels.search} />
+            </div>
+            <div class="flex flex-wrap gap-2" role="group" aria-label={copy.labels.categories}>
+              <button data-filter="all" class="category-filter-btn active category-badge bg-rdm-black text-white text-xs">{copy.labels.all}</button>
+              {categoryEntries.map((cat) => (
+                <button data-filter={cat.key} class:list={['category-filter-btn category-badge text-xs transition-all duration-150', cat.color, cat.bgColor]}>
+                  <CategoryIcon name={cat.icon} size={18} />{cat.label}
+                </button>
+              ))}
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="py-14">
+        <div class="container-rdm">
+          <p class="text-sm text-rdm-gray mb-6" id="results-count">{articles.length} {copy.labels.allArticles.toLowerCase()}</p>
+          <div id="articles-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {articles.map((article) => (
+              <div data-category={article.data.category} data-title={article.data.title.toLowerCase()} data-excerpt={article.data.excerpt.toLowerCase()} data-tags={article.data.tags.join(' ').toLowerCase()} class="article-item">
+                <ArticleCard article={article} locale={locale} />
+              </div>
+            ))}
+          </div>
+          <div id="no-results" class="hidden text-center py-16">
+            <p class="text-xl font-bold text-rdm-black mb-2">{copy.labels.noResults}</p>
+            <p class="text-rdm-gray text-sm">{copy.labels.noResultsHint}</p>
+          </div>
+        </div>
+      </section>
+    </>
+  )}
+
+  {isCategoryPage && currentCategoryKey && (
+    <>
+      <section class="py-16 bg-rdm-bg border-b border-rdm-border">
+        <div class="container-rdm">
+          <div class="flex items-center gap-3 mb-4">
+            <CategoryIcon name={CATEGORIES[currentCategoryKey].icon} size={30} class={CATEGORIES[currentCategoryKey].color} />
+            <p class="section-label">{categoryCopies[locale][currentCategoryKey].label}</p>
+          </div>
+          <h1 class="text-headline font-black text-rdm-black mb-4">
+            {categoryCopies[locale][currentCategoryKey].title}<br />
+            <span class="text-rdm-orange">{categoryCopies[locale][currentCategoryKey].accent}</span>
+          </h1>
+          <p class="text-rdm-gray max-w-lg leading-relaxed">{categoryCopies[locale][currentCategoryKey].description}</p>
+        </div>
+      </section>
+      <section class="py-14">
+        <div class="container-rdm">
+          {articles.filter((article) => article.data.category === currentCategoryKey).length > 0 ? (
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+              {articles.filter((article) => article.data.category === currentCategoryKey).map((article) => <ArticleCard article={article} locale={locale} />)}
+            </div>
+          ) : (
+            <p class="text-rdm-gray py-12 text-center">{copy.labels.articleComing}</p>
+          )}
+        </div>
+      </section>
+      <NewsletterBlock locale={locale} />
+    </>
+  )}
+
+  {(routeKey === 'about' || routeKey === 'legal' || routeKey === 'privacy' || routeKey === 'notFound') && staticCopy && (
+    <>
+      <section class="py-20 bg-rdm-bg border-b border-rdm-border">
+        <div class="container-rdm max-w-3xl">
+          <p class="section-label mb-4">{staticCopy.eyebrow}</p>
+          <h1 class="text-headline font-black text-rdm-black mb-6">{staticCopy.h1}</h1>
+          <p class="text-lg text-rdm-gray leading-relaxed">{staticCopy.intro}</p>
+        </div>
+      </section>
+      <section class="py-16">
+        <div class="container-rdm max-w-3xl">
+          <div class="prose prose-rdm prose-lg max-w-none">
+            {staticCopy.sections?.map((section) => (
+              <>
+                <h2>{section.heading}</h2>
+                {section.body.map((paragraph) => <p>{paragraph}</p>)}
+                {section.bullets && <ul>{section.bullets.map((item) => <li>{item}</li>)}</ul>}
+              </>
+            ))}
+            {routeKey === 'notFound' && (
+              <p>
+                <a href={localizedPath(locale, 'home')}>{copy.labels.home}</a> · <a href={localizedPath(locale, 'blog')}>{copy.labels.allArticles}</a>
+              </p>
+            )}
+          </div>
+        </div>
+      </section>
+      {routeKey === 'about' && <NewsletterBlock locale={locale} />}
+    </>
+  )}
+
+  {routeKey === 'contact' && (
+    <section class="py-20">
+      <div class="container-rdm">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-start">
+          <div>
+            <p class="section-label mb-4">{copy.form.writeUs}</p>
+            <h1 class="text-headline font-black text-rdm-black mb-5">
+              {copy.form.title}<br /><span class="text-rdm-orange">{copy.form.accent}</span>
+            </h1>
+            <p class="text-rdm-gray leading-relaxed mb-8">{copy.form.body}</p>
+            <div class="space-y-5">
+              <div class="flex items-start gap-4"><div class="w-10 h-10 rounded-xl bg-rdm-orange-soft flex items-center justify-center flex-shrink-0">✉</div><div><p class="font-semibold text-rdm-black text-sm mb-0.5">{copy.form.emailEditorial}</p><a href={`mailto:${SITE.email}`} class="text-rdm-orange text-sm hover:underline">{SITE.email}</a></div></div>
+              <div class="flex items-start gap-4"><div class="w-10 h-10 rounded-xl bg-rdm-orange-soft flex items-center justify-center flex-shrink-0">?</div><div><p class="font-semibold text-rdm-black text-sm mb-0.5">{copy.form.suggestions}</p><p class="text-rdm-gray text-sm">{copy.form.suggestionsText}</p></div></div>
+              <div class="flex items-start gap-4"><div class="w-10 h-10 rounded-xl bg-rdm-orange-soft flex items-center justify-center flex-shrink-0">+</div><div><p class="font-semibold text-rdm-black text-sm mb-0.5">{copy.form.partnerships}</p><p class="text-rdm-gray text-sm">{copy.form.partnershipsText}</p></div></div>
+            </div>
+            <div class="mt-8 p-4 rounded-xl bg-amber-50 border border-amber-200">
+              <p class="text-xs text-amber-700"><strong>{copy.labels.disclaimerTitle} :</strong> {copy.form.warning}</p>
+            </div>
+          </div>
+          <form id="contact-form" action="/send-contact.php" method="POST" class="rounded-2xl border border-rdm-border bg-white p-8 shadow-card space-y-5" novalidate aria-label={copy.labels.contact}>
+            <input type="hidden" name="_subject" value={`Nouveau message — Le Vrai Maroc (${locale})`} />
+            <input type="hidden" name="locale" value={locale} />
+            <input type="hidden" name="form_type" value="contact" />
+            <input type="text" name="website" class="hidden" tabindex="-1" autocomplete="off" aria-hidden="true" />
+            <div>
+              <label for="contact-name" class="block text-sm font-semibold text-rdm-black mb-1.5">{copy.form.name} <span class="text-rdm-orange">*</span></label>
+              <input id="contact-name" name="name" type="text" required autocomplete="name" placeholder={copy.form.namePlaceholder} class="w-full px-4 py-3 rounded-xl border border-rdm-border text-rdm-black text-sm placeholder:text-rdm-gray focus:outline-none focus:ring-2 focus:ring-rdm-orange/20 focus:border-rdm-orange transition-all" />
+            </div>
+            <div>
+              <label for="contact-email" class="block text-sm font-semibold text-rdm-black mb-1.5">{copy.form.email} <span class="text-rdm-orange">*</span></label>
+              <input id="contact-email" name="email" type="email" required autocomplete="email" placeholder={copy.newsletter.emailPlaceholder} class="w-full px-4 py-3 rounded-xl border border-rdm-border text-rdm-black text-sm placeholder:text-rdm-gray focus:outline-none focus:ring-2 focus:ring-rdm-orange/20 focus:border-rdm-orange transition-all" />
+            </div>
+            <div>
+              <label for="contact-subject" class="block text-sm font-semibold text-rdm-black mb-1.5">{copy.form.subject} <span class="text-rdm-orange">*</span></label>
+              <select id="contact-subject" name="subject" required class="w-full px-4 py-3 rounded-xl border border-rdm-border text-rdm-black text-sm focus:outline-none focus:ring-2 focus:ring-rdm-orange/20 focus:border-rdm-orange transition-all bg-white">
+                <option value="">{copy.form.chooseSubject}</option>
+                {copy.form.subjects.map(([value, label]) => <option value={value}>{label}</option>)}
+              </select>
+            </div>
+            <div>
+              <label for="contact-message" class="block text-sm font-semibold text-rdm-black mb-1.5">{copy.form.message} <span class="text-rdm-orange">*</span></label>
+              <textarea id="contact-message" name="message" required rows="5" placeholder={copy.form.messagePlaceholder} class="w-full px-4 py-3 rounded-xl border border-rdm-border text-rdm-black text-sm placeholder:text-rdm-gray focus:outline-none focus:ring-2 focus:ring-rdm-orange/20 focus:border-rdm-orange transition-all resize-none"></textarea>
+            </div>
+            <button type="submit" id="contact-submit" class="btn-orange w-full justify-center py-3.5"><span id="contact-btn-label">{copy.labels.sendMessage}</span></button>
+            <p id="form-feedback" class="text-sm text-center hidden" role="status" aria-live="polite"></p>
+          </form>
+        </div>
+      </div>
+    </section>
+  )}
+
+  {safeCopy && (
+    <>
+      <section class="relative overflow-hidden bg-rdm-black text-white">
+        <div class="container-rdm py-16 lg:py-20">
+          <p class="mb-5 text-xs font-bold uppercase text-rdm-orange">{safeCopy.eyebrow}</p>
+          <h1 class="text-4xl font-black leading-[1.04] sm:text-5xl lg:text-6xl">{safeCopy.h1}</h1>
+          <p class="mt-7 max-w-3xl text-lg leading-relaxed text-white/75">{safeCopy.intro}</p>
+        </div>
+      </section>
+      <section class="py-16">
+        <div class="container-rdm">
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
+            {safeCopy.checks.map((item) => (
+              <div class="glass-card p-6"><h2 class="font-black text-rdm-black mb-2">{item.label}</h2><p class="text-sm text-rdm-gray leading-relaxed">{item.text}</p></div>
+            ))}
+          </div>
+        </div>
+      </section>
+      <section class="py-16 bg-rdm-bg">
+        <div class="container-rdm">
+          <h2 class="text-2xl font-black text-rdm-black mb-8">S.A.F.E</h2>
+          <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
+            {safeCopy.levels.map((item) => <div class="bg-white border border-rdm-border rounded-xl p-5"><h3 class="font-black text-rdm-black mb-2">{item.label}</h3><p class="text-sm text-rdm-gray">{item.text}</p></div>)}
+          </div>
+        </div>
+      </section>
+      <FaqBlock items={safeCopy.faq} />
+    </>
+  )}
+
+  {clusterPage && (
+    <>
+      <section class="relative overflow-hidden bg-rdm-black text-white">
+        <div class="absolute inset-0" aria-hidden="true"><img src={clusterPage.image} alt="" class="h-full w-full object-cover opacity-25" /><div class="absolute inset-0 bg-black/70"></div></div>
+        <div class="container-rdm relative py-16 lg:py-20">
+          <p class="mb-5 text-xs font-bold uppercase text-rdm-orange">{clusterPage.eyebrow}</p>
+          <h1 class="text-4xl font-black leading-[1.04] sm:text-5xl lg:text-6xl">{clusterPage.h1}</h1>
+          <p class="mt-7 max-w-3xl text-lg leading-relaxed text-white/75">{clusterPage.intro}</p>
+        </div>
+      </section>
+      <section class="py-16">
+        <div class="container-rdm max-w-4xl">
+          <div class="prose prose-rdm prose-lg max-w-none">
+            {clusterPage.sections?.map((section) => (
+              <>
+                <h2>{section.heading}</h2>
+                {section.body.map((paragraph) => <p>{paragraph}</p>)}
+                {section.bullets && <ul>{section.bullets.map((item) => <li>{item}</li>)}</ul>}
+              </>
+            ))}
+            <h2>{clusterPage.checklistTitle}</h2>
+            <ul>{clusterPage.checklistItems.map((item) => <li>{item}</li>)}</ul>
+            <blockquote>{clusterPage.disclaimer}</blockquote>
+          </div>
+        </div>
+      </section>
+      <FaqBlock items={clusterPage.faq} />
+      <section class="py-16 bg-rdm-bg">
+        <div class="container-rdm">
+          <h2 class="text-lg font-black text-rdm-black mb-6">{copy.labels.relatedArticles}</h2>
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-5">
+            {clusterPage.relatedRouteKeys.slice(0, 3).map((key) => (
+              <a href={localizedPath(locale, key)} class="glass-card p-5 block hover:shadow-card-hover transition-shadow">
+                <h3 class="font-black text-rdm-black mb-2">{key === 'safe' ? 'S.A.F.E' : key}</h3>
+                <p class="text-sm text-rdm-gray">{copy.labels.readArticle}</p>
+              </a>
+            ))}
+          </div>
+        </div>
+      </section>
+    </>
+  )}
+</BaseLayout>
+
+<script define:vars={{ contactMessages: { loading: copy.form.loading, idle: copy.labels.sendMessage, required: copy.form.required, success: copy.form.success, error: copy.form.error } }}>
+  const contactForm = document.getElementById('contact-form');
+  const feedback = document.getElementById('form-feedback');
+  const submitBtn = document.getElementById('contact-submit');
+  const btnLabel = document.getElementById('contact-btn-label');
+
+  function showContactMessage(text, success) {
+    if (!feedback) return;
+    feedback.textContent = text;
+    feedback.className = ['text-sm text-center font-medium mt-2', success ? 'text-emerald-600' : 'text-red-600'].join(' ');
+    feedback.classList.remove('hidden');
+  }
+
+  contactForm?.addEventListener('submit', async (event) => {
+    event.preventDefault();
+    const data = new FormData(contactForm);
+    if (!data.get('name') || !data.get('email') || !data.get('subject') || !data.get('message')) {
+      showContactMessage(contactMessages.required, false);
+      return;
+    }
+    if (submitBtn) submitBtn.disabled = true;
+    if (btnLabel) btnLabel.textContent = contactMessages.loading;
+    try {
+      const res = await fetch('/send-contact.php', { method: 'POST', body: data, headers: { Accept: 'application/json' } });
+      if (res.ok) {
+        showContactMessage(contactMessages.success, true);
+        contactForm.reset();
+      } else {
+        showContactMessage(contactMessages.error, false);
+      }
+    } catch {
+      showContactMessage(contactMessages.error, false);
+    } finally {
+      if (submitBtn) submitBtn.disabled = false;
+      if (btnLabel) btnLabel.textContent = contactMessages.idle;
+    }
+  });
+
+  let currentCategory = 'all';
+  let currentQuery = '';
+  const items = document.querySelectorAll('.article-item');
+  const noResults = document.getElementById('no-results');
+  const resultsCount = document.getElementById('results-count');
+  const filterBtns = document.querySelectorAll('.category-filter-btn');
+  const searchInput = document.getElementById('search-input');
+
+  function applyFilters() {
+    let visible = 0;
+    items.forEach((item) => {
+      const cat = item.dataset.category ?? '';
+      const text = [item.dataset.title, item.dataset.excerpt, item.dataset.tags].join(' ');
+      const show = (currentCategory === 'all' || cat === currentCategory) && (!currentQuery || text.includes(currentQuery.toLowerCase()));
+      item.style.display = show ? '' : 'none';
+      if (show) visible += 1;
+    });
+    noResults?.classList.toggle('hidden', visible > 0);
+    if (resultsCount) resultsCount.textContent = `${visible}`;
+  }
+
+  filterBtns.forEach((btn) => btn.addEventListener('click', () => {
+    currentCategory = btn.dataset.filter ?? 'all';
+    filterBtns.forEach((b) => b.classList.remove('active', 'bg-rdm-black', 'text-white'));
+    btn.classList.add('active', 'bg-rdm-black', 'text-white');
+    applyFilters();
+  }));
+  searchInput?.addEventListener('input', () => {
+    currentQuery = searchInput.value.trim();
+    applyFilters();
+  });
+</script>

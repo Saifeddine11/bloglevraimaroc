@@ -6,8 +6,9 @@ import SearchBar from '@/components/SearchBar.astro';
 import CategoryIcon from '@/components/CategoryIcon.astro';
 import { getCollection } from 'astro:content';
 import { CATEGORIES } from '@/data/categories';
+import { articleLocale } from '@/i18n/articles';
 
-const allArticles = await getCollection('articles');
+const allArticles = (await getCollection('articles')).filter((article) => articleLocale(article) === 'fr');
 const sorted = allArticles.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
 const categoryFilters = Object.values(CATEGORIES);

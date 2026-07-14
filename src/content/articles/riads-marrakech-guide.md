@@ -117,6 +117,8 @@ Tous les emplacements en Médina ne se valent pas pour un investissement locatif
 
 Le riad est un actif immobilier à part entière. Il peut générer d'excellents rendements — mais il nécessite une préparation sérieuse, un budget complet (achat + rénovation + mise en conformité + gestion), et un suivi dans la durée.
 
+Avant de signer, la priorité reste de réunir les [documents à vérifier avant un achat immobilier au Maroc](/documents-achat-immobilier-maroc) et de mesurer les [risques d'un achat immobilier au Maroc](/risques-achat-immobilier-maroc) propres aux biens anciens, à la Médina et à l'exploitation touristique.
+
 Pour que le projet soit viable :
 - **Budget total minimum** : 5 à 7 millions de MAD pour un riad petit/moyen rénové et opérationnel
 - **Horizon de placement** : 7 à 10 ans minimum

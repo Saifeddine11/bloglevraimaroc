@@ -1,0 +1,38 @@
+---
+import { getCollection, render } from 'astro:content';
+import ArticleLayout from '@/layouts/ArticleLayout.astro';
+import { articleRootByLocale } from '@/i18n/routes';
+import { articleAlternates, articleLocale, articleSlug } from '@/i18n/articles';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles');
+  return articles
+    .filter((article) => articleLocale(article) !== 'fr')
+    .map((article) => {
+      const locale = articleLocale(article);
+      return {
+        params: {
+          locale,
+          articleRoot: articleRootByLocale[locale],
+          slug: articleSlug(article),
+        },
+        props: { article },
+      };
+    });
+}
+
+const { article } = Astro.props;
+const locale = articleLocale(article);
+
+const { Content, headings } = await render(article);
+const allArticles = await getCollection('articles');
+const alternates = articleAlternates(article, allArticles);
+const related = allArticles
+  .filter((candidate) => candidate.id !== article.id && articleLocale(candidate) === locale && candidate.data.category === article.data.category)
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .slice(0, 3);
+---
+
+<ArticleLayout article={article} relatedArticles={related} headings={headings} alternates={alternates}>
+  <Content />
+</ArticleLayout>

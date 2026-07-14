@@ -1,24 +1,35 @@
 ---
 import { SITE } from '@/data/site';
+import { type Locale } from '@/i18n/config';
+import { ui } from '@/i18n/ui';
 
 interface Props {
   variant?: 'section' | 'inline';
+  locale?: Locale;
 }
-const { variant = 'section' } = Astro.props;
+const { variant = 'section', locale = 'fr' } = Astro.props;
+const copy = ui[locale].newsletter;
+const labels = ui[locale].labels;
+const messages = {
+  loading: copy.loading,
+  idle: labels.subscribe,
+  invalid: copy.invalid,
+  success: copy.success,
+  error: copy.error,
+};
 ---
 
 {variant === 'section' && (
   <section id="newsletter" class="py-20 bg-rdm-bg" aria-labelledby="newsletter-heading">
     <div class="container-rdm">
       <div class="max-w-2xl mx-auto text-center">
-        <p class="section-label mb-4 reveal">Restez informé</p>
+        <p class="section-label mb-4 reveal">{copy.eyebrow}</p>
         <h2 id="newsletter-heading" class="text-headline font-black text-rdm-black mb-4 reveal reveal-delay-1">
-          L'essentiel de Marrakech,<br />
-          <span class="text-rdm-orange">chaque semaine</span>
+          {copy.title}<br />
+          <span class="text-rdm-orange">{copy.accent}</span>
         </h2>
         <p class="text-rdm-gray mb-8 reveal reveal-delay-2">
-          Analyses marché, nouvelles opportunités, alertes prix et décryptages exclusifs.
-          Zéro spam. Désabonnement en un clic.
+          {copy.body}
         </p>
 
         <form
@@ -27,17 +38,18 @@ const { variant = 'section' } = Astro.props;
           method="POST"
           class="flex flex-col sm:flex-row gap-3 max-w-md mx-auto reveal reveal-delay-3"
           novalidate
-          aria-label="Formulaire d'inscription à la newsletter"
+          aria-label={copy.inlineTitle}
         >
           <!-- Honeypot anti-spam: must stay empty -->
           <input type="text" name="website" class="hidden" tabindex="-1" autocomplete="off" aria-hidden="true" />
+          <input type="hidden" name="locale" value={locale} />
 
-          <label for="email-newsletter-section" class="sr-only">Votre adresse email</label>
+          <label for="email-newsletter-section" class="sr-only">{copy.emailLabel}</label>
           <input
             type="email"
             id="email-newsletter-section"
             name="email"
-            placeholder="votre@email.com"
+            placeholder={copy.emailPlaceholder}
             required
             class="newsletter-input flex-1"
             autocomplete="email"
@@ -47,7 +59,7 @@ const { variant = 'section' } = Astro.props;
             id="newsletter-btn-section"
             class="btn-orange flex-shrink-0 justify-center"
           >
-            <span class="btn-label">S'inscrire</span>
+            <span class="btn-label">{labels.subscribe}</span>
             <svg class="w-4 h-4 btn-arrow" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
               <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
             </svg>
@@ -61,8 +73,7 @@ const { variant = 'section' } = Astro.props;
         <p id="newsletter-feedback-section" class="text-sm mt-4 hidden" role="status" aria-live="polite"></p>
 
         <p class="text-xs text-rdm-gray mt-4 reveal reveal-delay-4">
-          En vous inscrivant, vous acceptez de recevoir nos analyses éditoriales.
-          Vos données ne sont jamais partagées.
+          {copy.consent}
         </p>
       </div>
     </div>
@@ -78,8 +89,8 @@ const { variant = 'section' } = Astro.props;
         </svg>
       </div>
       <div>
-        <h3 class="font-bold text-white mb-1">Newsletter Le Vrai Maroc</h3>
-        <p class="text-white/60 text-sm">Analyses et opportunités chaque semaine, directement dans votre boîte mail.</p>
+        <h3 class="font-bold text-white mb-1">{copy.inlineTitle}</h3>
+        <p class="text-white/60 text-sm">{copy.inlineBody}</p>
       </div>
     </div>
 
@@ -89,17 +100,18 @@ const { variant = 'section' } = Astro.props;
       method="POST"
       class="flex flex-col sm:flex-row gap-3"
       novalidate
-      aria-label="Inscription à la newsletter"
+      aria-label={copy.inlineTitle}
     >
       <!-- Honeypot anti-spam: must stay empty -->
       <input type="text" name="website" class="hidden" tabindex="-1" autocomplete="off" aria-hidden="true" />
+      <input type="hidden" name="locale" value={locale} />
 
-      <label class="sr-only" for="email-newsletter-inline">Votre adresse email</label>
+      <label class="sr-only" for="email-newsletter-inline">{copy.emailLabel}</label>
       <input
         type="email"
         id="email-newsletter-inline"
         name="email"
-        placeholder="votre@email.com"
+        placeholder={copy.emailPlaceholder}
         required
         autocomplete="email"
         class="flex-1 px-4 py-2.5 rounded-full bg-white/10 border border-white/20 text-white text-sm placeholder:text-white/40 focus:outline-none focus:border-rdm-orange transition-colors"
@@ -109,7 +121,7 @@ const { variant = 'section' } = Astro.props;
         id="newsletter-btn-inline"
         class="btn-orange flex-shrink-0 py-2.5 justify-center text-sm"
       >
-        <span class="btn-label">S'inscrire</span>
+        <span class="btn-label">{labels.subscribe}</span>
         <svg class="w-3.5 h-3.5 btn-spinner hidden animate-spin" viewBox="0 0 24 24" fill="none">
           <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
           <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z"></path>
@@ -121,8 +133,8 @@ const { variant = 'section' } = Astro.props;
   </div>
 )}
 
-<script>
-  function setupNewsletterForm(formId, feedbackId, btnId) {
+<script define:vars={{ messages }}>
+  function setupNewsletterForm(formId, feedbackId, btnId, messages) {
     const form = document.getElementById(formId);
     const feedback = document.getElementById(feedbackId);
     const btn = document.getElementById(btnId);
@@ -134,7 +146,7 @@ const { variant = 'section' } = Astro.props;
 
     function setLoading(loading) {
       btn.disabled = loading;
-      if (label) label.textContent = loading ? 'Envoi…' : "S'inscrire";
+      if (label) label.textContent = loading ? messages.loading : messages.idle;
       if (arrow) arrow.classList.toggle('hidden', loading);
       if (spinner) spinner.classList.toggle('hidden', !loading);
     }
@@ -155,7 +167,7 @@ const { variant = 'section' } = Astro.props;
       const email = emailInput?.value.trim() ?? '';
 
       if (!email || !emailInput.validity.valid) {
-        showMessage('Veuillez entrer une adresse email valide.', false);
+        showMessage(messages.invalid, false);
         emailInput?.focus();
         return;
       }
@@ -172,21 +184,21 @@ const { variant = 'section' } = Astro.props;
         });
 
         if (res.ok) {
-          showMessage('Merci. Votre inscription a bien été prise en compte.', true);
+          showMessage(messages.success, true);
           form.reset();
         } else {
           console.error('Newsletter error:', res.status);
-          showMessage('Une erreur est survenue. Veuillez réessayer.', false);
+          showMessage(messages.error, false);
         }
       } catch (err) {
         console.error('Newsletter fetch failed:', err);
-        showMessage('Une erreur est survenue. Veuillez réessayer.', false);
+        showMessage(messages.error, false);
       } finally {
         setLoading(false);
       }
     });
   }
 
-  setupNewsletterForm('newsletter-form-section', 'newsletter-feedback-section', 'newsletter-btn-section');
-  setupNewsletterForm('newsletter-form-inline', 'newsletter-feedback-inline', 'newsletter-btn-inline');
+  setupNewsletterForm('newsletter-form-section', 'newsletter-feedback-section', 'newsletter-btn-section', messages);
+  setupNewsletterForm('newsletter-form-inline', 'newsletter-feedback-inline', 'newsletter-btn-inline', messages);
 </script>

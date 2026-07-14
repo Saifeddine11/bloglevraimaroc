@@ -5,6 +5,22 @@
     "title": {
       "type": "string"
     },
+    "slug": {
+      "type": "string"
+    },
+    "locale": {
+      "default": "fr",
+      "type": "string",
+      "enum": [
+        "fr",
+        "en",
+        "es",
+        "nl"
+      ]
+    },
+    "translationKey": {
+      "type": "string"
+    },
     "metaTitle": {
       "type": "string"
     },
