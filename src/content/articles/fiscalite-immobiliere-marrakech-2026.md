@@ -8,8 +8,8 @@ tags: ["fiscalité immobilière Maroc", "frais notaire Marrakech", "taxe profit 
 date: 2026-07-14
 readingTime: 6
 excerpt: "Entre droits d'enregistrement, taxe d'habitation, impôt sur les loyers et taxe sur le profit immobilier, la fiscalité peut représenter plus de 10 % du prix d'achat et 20 % de la plus-value à la revente. Voici le détail, poste par poste."
-heroImage: "/images/articles/marrakech-investisseurs-immobiliers.webp"
-imageAlt: "Villa et jardin à Marrakech, illustrant les coûts réels d'un investissement immobilier premium."
+heroImage: "/images/articles/fiscalite-immobiliere-marrakech-2026.webp"
+imageAlt: "Cour intérieure d'une demeure marocaine avec fontaine, illustrant les coûts réels d'un investissement immobilier premium."
 featured: false
 sources:
   - label: "Masaken — Frais de notaire au Maroc 2026"

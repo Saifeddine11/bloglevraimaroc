@@ -25,6 +25,8 @@ Toutes les images de production sont des fichiers WebP locaux, optimisés et pla
 | Location courte durée à Marrakech : opportunité réelle ou marché sous pression ? | `public/images/articles/location-courte-duree-marrakech.webp` | [El Fenn Marrakech](https://commons.wikimedia.org/wiki/File:(c)_Cecile_Treal_-_El_Fenn_9566_2.jpg) | CC BY-SA 4.0 / Laurendorman1 | Appartement meublé ou terrasse à Marrakech pour illustrer la location courte durée. | Installé |
 | Marrakech avant 2030 : tourisme, infrastructures et nouvelles opportunités | `public/images/articles/marrakech-2030-infrastructures-tourisme.webp` | [Entrance of the Airport of Marrakech](https://commons.wikimedia.org/wiki/File:Entrance_of_the_Airport_of_Marrakech.jpg) | CC BY-SA 4.0 / Reda Kerbush | Infrastructures de Marrakech illustrant les opportunités liées au tourisme et à l’horizon 2030. | Installé |
 | Marrakech 2026-2030 : perspectives de marché et scénarios pour l'immobilier | `public/images/articles/marrakech-perspectives-marche-2026-2030.webp` | [Gare de Marrakech](https://commons.wikimedia.org/wiki/File:Gare_de_Marrakech.jpg) | CC BY-SA 4.0 / Maarten Wasmoeth | Gare de Marrakech illustrant les perspectives du marché immobilier entre 2026 et 2030. | Installé |
+| Acheter un bien immobilier au Maroc : la procédure étape par étape en 2026 | `public/images/articles/procedure-achat-immobilier-maroc-etape-par-etape.webp` | [Photo Unsplash](https://unsplash.com/photos/NwT-VBe2QF8) | Licence Unsplash / Macia Serrano | Porte sculptée traditionnelle d'un riad à Marrakech, symbolisant les étapes d'un achat immobilier au Maroc. | Installé |
+| Fiscalité immobilière à Marrakech en 2026 | `public/images/articles/fiscalite-immobiliere-marrakech-2026.webp` | [Photo Unsplash](https://unsplash.com/photos/KdMNrs40q_8) | Licence Unsplash / Peter Thomas | Cour intérieure d'une demeure marocaine avec fontaine, illustrant les coûts réels d'un investissement immobilier premium. | Installé |
 
 ## Articles à illustrer manuellement
 
@@ -56,15 +58,15 @@ Les pages du cluster S.A.F.E utilisent provisoirement des images locales déjà 
 
 ## Réutilisations multi-images (articles avec plusieurs photos)
 
-Le sandbox d'automatisation ne peut pas télécharger de nouvelles photos depuis Internet (proxy réseau restreint à une allowlist qui bloque Pexels, Unsplash, Wikimedia, etc.). En attendant une solution technique, les articles à plusieurs images réutilisent des photos déjà installées et licenciées ci-dessus, sur des sections différentes, plutôt que d'importer de nouvelles images.
+Le sandbox d'automatisation ne peut pas télécharger de nouvelles photos depuis Internet (proxy réseau restreint à une allowlist qui bloque Pexels, Unsplash, Wikimedia, etc.). Les images de SECTION (à l'intérieur du corps des articles, pas le hero) réutilisent donc des photos déjà installées ci-dessus.
 
-| Article | Images réutilisées (hero + sections) | Statut |
+| Article | Images de section réutilisées | Statut |
 |---|---|---|
-| Fiscalité immobilière à Marrakech en 2026 (`fiscalite-immobiliere-marrakech-2026`) | Hero : `marrakech-investisseurs-immobiliers.webp` · Section achat : `acheter-bien-marrakech-erreurs.webp` · Section location : `location-courte-duree-marrakech.webp` · Section revente : `immobilier-marrakech-2026.webp` | Installé (réutilisation) |
-| Acheter un bien immobilier au Maroc : la procédure étape par étape en 2026 (`procedure-achat-immobilier-maroc-etape-par-etape`) | Hero : `immobilier-marrakech-2026.webp` · Section documents : `acheter-bien-marrakech-erreurs.webp` · Section procuration MRE : `marrakech-accessible-investisseurs.webp` | Installé (réutilisation — sandbox sans accès réseau à Unsplash/Pexels/Wikimedia, cf. note ci-dessous) |
+| Fiscalité immobilière à Marrakech en 2026 (`fiscalite-immobiliere-marrakech-2026`) | Section achat : `acheter-bien-marrakech-erreurs.webp` · Section location : `location-courte-duree-marrakech.webp` · Section revente : `immobilier-marrakech-2026.webp` | Installé (réutilisation, hero dédié depuis le 15/07) |
+| Acheter un bien immobilier au Maroc : la procédure étape par étape en 2026 (`procedure-achat-immobilier-maroc-etape-par-etape`) | Section documents : `acheter-bien-marrakech-erreurs.webp` · Section procuration MRE : `marrakech-accessible-investisseurs.webp` | Installé (réutilisation, hero dédié depuis le 15/07) |
 | Dahir au Maroc : ce qu'un acheteur immobilier doit comprendre (`dahir-maroc-immobilier-acheteur`) | Hero : `dahir-maroc-immobilier-acheteur.webp` (image dédiée d'origine, inchangée) | Installé |
 
-**2026-07-15 — correctif diversité visuelle** : ces trois articles (les plus récents) partageaient tous la même image hero (`dahir-maroc-immobilier-acheteur.webp`), ce qui rendait la page blog illisible (3 vignettes identiques côte à côte). Rediversifié en réattribuant fiscalité et procédure d'achat à d'autres photos déjà installées. Limite connue : faute d'accès réseau aux banques d'images dans cet environnement, ces photos sont aussi les hero natifs d'autres articles plus anciens du site (moins visibles car plus bas dans la liste) — une vraie solution durable nécessite de nouvelles photos sourcées manuellement par Sif Eddine.
+**2026-07-15 — correctif diversité visuelle (résolu via Claude in Chrome)** : ces trois articles (les plus récents) partageaient tous la même image hero, ce qui rendait la page blog illisible (3 vignettes identiques côte à côte). Le sandbox d'automatisation seul ne peut pas atteindre Unsplash/Pexels/Wikimedia (proxy bloqué), mais en pilotant le navigateur Brave de Sif Eddine via l'extension Claude in Chrome (accès réseau normal côté utilisateur), deux photos Unsplash dédiées ont été téléchargées, recadrées en 1600x900 WebP et installées pour fiscalité et procédure d'achat. Dahir garde son image d'origine (documents/signature), déjà pertinente. Les 3 vignettes du blog sont maintenant visuellement distinctes.
 
 ## Fichiers mis à jour
 

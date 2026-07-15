@@ -10,8 +10,8 @@ tags: ["aankoopprocedure vastgoed Marokko", "vastgoed kopen Marokko buitenlander
 date: 2026-07-15
 readingTime: 6
 excerpt: "Sinds 1 januari 2025 weigert het Kadaster systematisch elke verkoopakte zonder registratieattest van de DGI — een nieuw administratief circuit dat rechtstreeks kopers, ingezetenen en MRE raakt."
-heroImage: "/images/articles/immobilier-marrakech-2026.webp"
-imageAlt: "Residentiële architectuur in Marrakech, ter illustratie van de stappen bij een vastgoedaankoop in Marokko."
+heroImage: "/images/articles/procedure-achat-immobilier-maroc-etape-par-etape.webp"
+imageAlt: "Traditionele gesneden riad-deur in Marrakech, symbool voor de stappen bij een vastgoedaankoop in Marokko."
 featured: false
 sources:
   - label: "ANCFCC — Tarieven en termijnen voor kadastrale formaliteiten"

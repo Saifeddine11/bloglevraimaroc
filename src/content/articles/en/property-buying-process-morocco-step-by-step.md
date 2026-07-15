@@ -10,8 +10,8 @@ tags: ["property buying process Morocco", "buying property Morocco foreigner", "
 date: 2026-07-15
 readingTime: 6
 excerpt: "Since January 1, 2025, the Land Registry systematically rejects any sale deed not accompanied by a DGI registration certificate — a new administrative circuit that directly affects buyers, residents and MRE alike."
-heroImage: "/images/articles/immobilier-marrakech-2026.webp"
-imageAlt: "Residential architecture in Marrakech, illustrating the stages of a property purchase in Morocco."
+heroImage: "/images/articles/procedure-achat-immobilier-maroc-etape-par-etape.webp"
+imageAlt: "Traditional carved riad door in Marrakech, symbolizing the stages of a property purchase in Morocco."
 featured: false
 sources:
   - label: "ANCFCC — Fees and timelines for land registration formalities"

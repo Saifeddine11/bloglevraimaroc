@@ -10,8 +10,8 @@ tags: ["fiscalidad inmobiliaria Marruecos", "gastos notaría Marrakech", "impues
 date: 2026-07-14
 readingTime: 6
 excerpt: "Entre derechos de registro, impuesto de vivienda, impuesto sobre alquileres y tasa sobre la plusvalía, la fiscalidad puede suponer más del 10% del precio de compra y el 20% de la plusvalía en la reventa. Aquí el detalle, partida por partida."
-heroImage: "/images/articles/marrakech-investisseurs-immobiliers.webp"
-imageAlt: "Villa y jardín en Marrakech, que ilustran los costes reales de una inversión inmobiliaria premium."
+heroImage: "/images/articles/fiscalite-immobiliere-marrakech-2026.webp"
+imageAlt: "Patio interior de una residencia marroquí con fuente, que ilustra los costes reales de una inversión inmobiliaria premium."
 featured: false
 sources:
   - label: "Masaken — Gastos de notaría en Marruecos 2026"

@@ -10,8 +10,8 @@ tags: ["vastgoedbelasting Marokko", "notariskosten Marrakech", "meerwaardebelast
 date: 2026-07-14
 readingTime: 6
 excerpt: "Tussen registratierechten, woonbelasting, belasting op huurinkomsten en meerwaardebelasting kan de fiscaliteit meer dan 10% van de aankoopprijs en 20% van de meerwaarde bij verkoop opslokken. Hier het overzicht, post per post."
-heroImage: "/images/articles/marrakech-investisseurs-immobiliers.webp"
-imageAlt: "Villa en tuin in Marrakech, ter illustratie van de reële kosten van een premium vastgoedinvestering."
+heroImage: "/images/articles/fiscalite-immobiliere-marrakech-2026.webp"
+imageAlt: "Binnenplaats van een Marokkaans huis met fontein, ter illustratie van de reële kosten van een premium vastgoedinvestering."
 featured: false
 sources:
   - label: "Masaken — Notariskosten in Marokko 2026"
