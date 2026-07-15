@@ -5,6 +5,7 @@ Toutes les images de production sont des fichiers WebP locaux, optimisés et pla
 ## Standards
 
 - Articles : `1600 x 900`, WebP, qualité 82.
+- **Correction 2026-07-15** : `dahir-maroc-immobilier-acheteur.webp` était livré en 1000x665 (ratio non conforme, mal recadré par Facebook/WhatsApp au partage). Recadré et remis à 1600x900 conforme au standard. Cette image sert de hero réutilisé pour 3 articles (dahir, fiscalité, procédure d'achat) donc le correctif s'applique automatiquement à leurs pages og:image.
 - Hero homepage : `1920 x 1080`, WebP, qualité 84.
 - Open Graph : `1200 x 630`, WebP, qualité 82.
 - Les chemins utilisés dans le code sont relatifs à `public/`, par exemple `/images/articles/immobilier-marrakech-2026.webp`.

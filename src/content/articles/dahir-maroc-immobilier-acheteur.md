@@ -1,8 +1,8 @@
 ---
 title: "Dahir au Maroc : ce qu’un acheteur immobilier doit comprendre avant d’acheter"
 slug: "dahir-maroc-immobilier-acheteur"
-metaTitle: "Dahir au Maroc : définition et impact en immobilier"
-metaDescription: "Comprendre ce qu’est un dahir au Maroc, son rôle dans le cadre juridique et pourquoi les acheteurs immobiliers doivent vérifier les textes, documents et garanties avant d’acheter."
+metaTitle: "Dahir au Maroc : définition simple et rôle"
+metaDescription: "Qu’est-ce qu’un dahir au Maroc ? Définition claire, en langage simple, l’origine du mot et ce que ça change vraiment pour un achat immobilier au Maroc."
 category: "guides"
 tags: ["Dahir Maroc", "Droit immobilier Maroc", "Achat immobilier Maroc", "VEFA Maroc", "Titre foncier", "Notaire Maroc", "S.A.F.E"]
 date: 2026-07-01

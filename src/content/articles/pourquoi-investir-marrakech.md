@@ -1,7 +1,7 @@
 ---
 title: "Pourquoi Marrakech attire encore les investisseurs immobiliers"
-metaTitle: "Investir à Marrakech : les vraies raisons de l'attractivité immobilière"
-metaDescription: "Analyse objective des facteurs qui maintiennent Marrakech comme destination d'investissement immobilier : tourisme, fiscalité, rendements et horizon 2030."
+metaTitle: "Investir à Marrakech : vaut-il le coup en 2026 ?"
+metaDescription: "Rendements 6 à 15 %, risques réels, profil idéal : l'analyse honnête (pas commerciale) pour savoir si Marrakech mérite votre argent en 2026."
 category: "investissement"
 tags: ["investir Marrakech", "investissement immobilier Marrakech", "rendement locatif Marrakech", "Marrakech 2030", "achat immobilier Maroc"]
 date: 2026-01-22

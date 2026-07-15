@@ -1,7 +1,7 @@
 ---
 title: "Marrakech est-elle encore accessible pour les nouveaux investisseurs ?"
-metaTitle: "Investir à Marrakech en 2026 : budgets d'entrée, timing et accessibilité du marché"
-metaDescription: "Analyse des budgets nécessaires pour investir à Marrakech en 2026. Appartement, riad, villa : quels montants, quels profils, quel timing ? Réponses honnêtes."
+metaTitle: "Investir à Marrakech en 2026 : quel budget ?"
+metaDescription: "À partir de combien peut-on investir à Marrakech ? Budgets réels par type de bien, financement pour étrangers et zones encore accessibles en 2026."
 category: "investissement"
 tags: ["investir Marrakech budget", "acheter appartement Marrakech prix", "premier investissement Marrakech", "immobilier Marrakech accessible", "Marrakech investissement 2026"]
 date: 2026-05-25
