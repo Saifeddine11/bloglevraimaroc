@@ -56,7 +56,7 @@ Nog vóór het opstellen van een compromis moet een Marokkaanse professional (no
 - openstaande lasten: mede-eigendomskosten, woonbelasting, water en elektriciteit;
 - bij een aankoop op plan (VEFA), de goedkeuring van de projectontwikkelaar en de conformiteit van het reserveringscontract.
 
-![Documentcontrole en bezichtiging vóór een vastgoedaankoop in Marokko](/images/articles/acheter-bien-marrakech-erreurs.webp)
+![Ondertekening en nalezing van een aankoopcontract vóór verbintenis](/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-2.webp)
 
 Voor buitenlandse kopers komen daar de bewijzen van de herkomst van de fondsen bij: bankafschriften en een attest van internationale deviezenoverschrijving, vereist voor de naleving van de regelgeving en om later de opbrengst van een wederverkoop te kunnen repatriëren. Het Office des Changes wijst erop dat de verwerving van onroerend goed een erkende vorm van buitenlandse investering in Marokko is, en dat de investeerder — MRE inbegrepen — binnen zes maanden een verslag van de operatie moet indienen, samen met de bankformulieren die de financiering in deviezen staven.
 
@@ -72,7 +72,7 @@ Eens het dossier is ingediend, duurt de definitieve inschrijving van de nieuwe e
 
 ## Kopen vanuit het buitenland: de volmacht voor MRE
 
-![Moderne gebouwen in Marrakech, symbool van vastgoedinvestering voor MRE en buitenlandse kopers](/images/articles/marrakech-accessible-investisseurs.webp)
+![Afgestempeld paspoort, symbool van een aankoop op afstand voor MRE en buitenlandse kopers](/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-3.webp)
 
 Voor een MRE of een buitenlander die niet kan reizen, verloopt de aankoop via een volmacht. Sinds wet 69-16 van 14 september 2017 moet elke volmacht voor de aan- of verkoop van vastgoed in Marokko verplicht in authentieke vorm worden opgesteld — notarieel of adoulair — op straffe van nietigheid van de transactie. Een onderhandse, zelfs gelegaliseerde volmacht wordt door het Kadaster geweigerd.
 

@@ -56,7 +56,7 @@ Antes incluso de redactar un compromiso, un profesional marroquí (notario o abo
 - las deudas pendientes: cuotas de comunidad, impuesto de vivienda, agua y electricidad;
 - para una compra sobre plano (VEFA), la homologación del promotor y la conformidad del contrato de reserva.
 
-![Verificación de documentos y visita antes de una compra inmobiliaria en Marruecos](/images/articles/acheter-bien-marrakech-erreurs.webp)
+![Firma y revisión de un contrato de compra antes de comprometerse](/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-2.webp)
 
 Para el comprador extranjero hay que añadir los justificantes del origen de los fondos: extractos bancarios y certificado de transferencia internacional en divisas, exigidos por cumplimiento normativo y para poder, más adelante, repatriar el producto de una reventa. El Office des Changes recuerda que la adquisición de bienes inmuebles constituye una forma reconocida de inversión extranjera en Marruecos, y que el inversor —incluido el MRE— debe enviar un informe de la operación en un plazo de seis meses, acompañado de los formularios bancarios que justifiquen la financiación en divisas.
 
@@ -72,7 +72,7 @@ Una vez depositado el expediente, la inscripción definitiva del nuevo propietar
 
 ## Comprar desde el extranjero: el poder MRE
 
-![Edificios modernos en Marrakech, símbolo de la inversión inmobiliaria para MRE y compradores extranjeros](/images/articles/marrakech-accessible-investisseurs.webp)
+![Pasaporte sellado, símbolo de la compra a distancia para MRE y compradores extranjeros](/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-3.webp)
 
 Para un MRE o un extranjero que no puede desplazarse, la compra se realiza mediante un poder notarial. Desde la ley 69-16 del 14 de septiembre de 2017, todo poder destinado a la compra o venta de un inmueble en Marruecos debe establecerse obligatoriamente en forma auténtica —notarial o adular— bajo pena de nulidad de la operación. Un poder bajo firma privada, incluso legalizado, es rechazado por el Registro de la Propiedad.
 

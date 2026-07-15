@@ -56,17 +56,19 @@ Les pages du cluster S.A.F.E utilisent provisoirement des images locales déjà 
 | Hero homepage | `public/images/hero-marrakech.webp` | [Marrakech](https://commons.wikimedia.org/wiki/File:Marrakech_(25561912075).jpg) | CC BY 2.0 / Ty Terrasso | Installé |
 | Open Graph par défaut | `public/images/og/default.webp` | [Marrakech](https://commons.wikimedia.org/wiki/File:Marrakech_(25561912075).jpg) | CC BY 2.0 / Ty Terrasso | Installé |
 
-## Réutilisations multi-images (articles avec plusieurs photos)
+## Images de section (photos secondaires dans le corps d'un article)
 
-Le sandbox d'automatisation ne peut pas télécharger de nouvelles photos depuis Internet (proxy réseau restreint à une allowlist qui bloque Pexels, Unsplash, Wikimedia, etc.). Les images de SECTION (à l'intérieur du corps des articles, pas le hero) réutilisent donc des photos déjà installées ci-dessus.
+Chaque article à plusieurs images utilise désormais des photos dédiées et distinctes (plus de réutilisation croisée entre articles pour ces deux-là) :
 
-| Article | Images de section réutilisées | Statut |
-|---|---|---|
-| Fiscalité immobilière à Marrakech en 2026 (`fiscalite-immobiliere-marrakech-2026`) | Section achat : `acheter-bien-marrakech-erreurs.webp` · Section location : `location-courte-duree-marrakech.webp` · Section revente : `immobilier-marrakech-2026.webp` | Installé (réutilisation, hero dédié depuis le 15/07) |
-| Acheter un bien immobilier au Maroc : la procédure étape par étape en 2026 (`procedure-achat-immobilier-maroc-etape-par-etape`) | Section documents : `acheter-bien-marrakech-erreurs.webp` · Section procuration MRE : `marrakech-accessible-investisseurs.webp` | Installé (réutilisation, hero dédié depuis le 15/07) |
-| Dahir au Maroc : ce qu'un acheteur immobilier doit comprendre (`dahir-maroc-immobilier-acheteur`) | Hero : `dahir-maroc-immobilier-acheteur.webp` (image dédiée d'origine, inchangée) | Installé |
+| Article | Fichier local | Source | Licence / auteur | Alt text | Statut |
+|---|---|---|---|---|---|
+| Fiscalité — section achat (droits d'enregistrement) | `public/images/articles/fiscalite-immobiliere-marrakech-2026-2.webp` | [Photo Unsplash](https://unsplash.com/photos/dZaP_BgT5vQ) | Licence Unsplash / Kim Jeffal | Billets de 50 dirhams marocains, illustrant les droits d'enregistrement et frais de notaire à l'achat. | Installé |
+| Fiscalité — section location (revenus locatifs) | `public/images/articles/fiscalite-immobiliere-marrakech-2026-3.webp` | [Photo Unsplash](https://unsplash.com/photos/gCr0amJXOts) | Licence Unsplash / Jessica Kantak Bailey | Patio de riad avec piscine à Marrakech, typique d'une location meublée. | Installé |
+| Fiscalité — section revente (TPI) | `public/images/articles/fiscalite-immobiliere-marrakech-2026-4.webp` | [Photo Unsplash](https://unsplash.com/photos/rgJ1J8SDEAY) | Licence Unsplash / Tierra Mallorca | Maquette de maison avec clés, symbolisant la revente. | Installé |
+| Procédure d'achat — section documents | `public/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-2.webp` | [Photo Unsplash](https://unsplash.com/photos/doplSDELX7E) | Licence Unsplash / Romain Dancre | Signature et relecture d'un contrat d'achat immobilier. | Installé |
+| Procédure d'achat — section procuration MRE | `public/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-3.webp` | [Photo Unsplash](https://unsplash.com/photos/htQznS-Rx7w) | Licence Unsplash / Kit (formerly ConvertKit) | Passeport tamponné, symbole de l'achat à distance pour MRE et étrangers. | Installé |
 
-**2026-07-15 — correctif diversité visuelle (résolu via Claude in Chrome)** : ces trois articles (les plus récents) partageaient tous la même image hero, ce qui rendait la page blog illisible (3 vignettes identiques côte à côte). Le sandbox d'automatisation seul ne peut pas atteindre Unsplash/Pexels/Wikimedia (proxy bloqué), mais en pilotant le navigateur Brave de Sif Eddine via l'extension Claude in Chrome (accès réseau normal côté utilisateur), deux photos Unsplash dédiées ont été téléchargées, recadrées en 1600x900 WebP et installées pour fiscalité et procédure d'achat. Dahir garde son image d'origine (documents/signature), déjà pertinente. Les 3 vignettes du blog sont maintenant visuellement distinctes.
+**2026-07-15 — correctif diversité visuelle (résolu via Claude in Chrome)** : trois articles récents partageaient la même image hero, et deux d'entre eux réutilisaient aussi les images de section d'autres articles (`acheter-bien-marrakech-erreurs.webp`, `location-courte-duree-marrakech.webp`, `immobilier-marrakech-2026.webp`, `marrakech-accessible-investisseurs.webp`). Le sandbox d'automatisation seul ne peut pas atteindre Unsplash/Pexels/Wikimedia (proxy bloqué), mais en pilotant le navigateur Brave de Sif Eddine via l'extension Claude in Chrome (accès réseau normal côté utilisateur), 7 photos Unsplash dédiées ont été téléchargées, recadrées en 1600x900 WebP et installées (2 hero + 5 sections). Dahir garde son image d'origine (documents/signature), déjà pertinente et non réutilisée ailleurs. Tous les articles à plusieurs images ont maintenant des photos 100 % dédiées, sans recoupement entre eux.
 
 ## Fichiers mis à jour
 

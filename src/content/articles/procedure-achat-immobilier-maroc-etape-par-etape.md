@@ -46,7 +46,7 @@ Après la signature du compromis, l'acheteur dispose d'un délai de rétractatio
 
 ## Les documents à réunir avant de signer
 
-![Vérification de documents et visite avant un achat immobilier au Maroc](/images/articles/acheter-bien-marrakech-erreurs.webp)
+![Signature et relecture d'un contrat d'achat immobilier avant engagement](/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-2.webp)
 
 Avant même de rédiger un compromis, un professionnel marocain (notaire ou avocat) doit vérifier plusieurs éléments sur le bien et sur le vendeur :
 
@@ -70,7 +70,7 @@ Une fois le dossier déposé, l'inscription définitive du nouveau propriétaire
 
 ## Acheter depuis l'étranger : la procuration MRE
 
-![Immeubles modernes à Marrakech, symbole de l'investissement immobilier pour les MRE et les étrangers](/images/articles/marrakech-accessible-investisseurs.webp)
+![Passeport tamponné, symbole de l'achat à distance pour les MRE et les acheteurs étrangers](/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-3.webp)
 
 Pour un MRE ou un étranger qui ne peut pas se déplacer, l'achat passe par une procuration. Depuis la loi 69-16 du 14 septembre 2017, toute procuration destinée à l'achat ou à la vente d'un bien immobilier au Maroc doit obligatoirement être établie en forme authentique — notariale ou adoulaire — sous peine de nullité de l'opération. Une procuration sous seing privé, même légalisée, est refusée par la Conservation foncière.
 

@@ -42,7 +42,7 @@ Two 2026 measures change the picture for certain buyers:
 - **First-time buyer exemption**: registration duties are waived up to MAD 400,000, then reduced to 3% between MAD 400,001 and 1,000,000, for the purchase of a primary residence. This applies only once and excludes buy-to-let purchases.
 - **Cash payment penalty**: the 2026 General Tax Code adds a 2% surcharge on any untraceable payment above MAD 300,000. Paying by bank transfer avoids this surcharge.
 
-![Property viewing and document checks before a real estate purchase in Marrakech, notary fees and registration duties.](/images/articles/acheter-bien-marrakech-erreurs.webp)
+![50-dirham Moroccan banknotes, illustrating registration duties and notary fees at purchase.](/images/articles/fiscalite-immobiliere-marrakech-2026-2.webp)
 
 ## While you own it: housing tax and communal services tax
 
@@ -58,7 +58,7 @@ Below MAD 30,000 in gross annual rental income, the exemption is total. Above th
 
 For an owner who is a tax resident of France, Belgium or Spain, the applicable tax treaty determines how this Moroccan rental income is treated back home — worth checking with a tax adviser before filing.
 
-![Furnished apartment in Marrakech let on a short-term basis, subject to rental income tax.](/images/articles/location-courte-duree-marrakech.webp)
+![Riad courtyard with pool in Marrakech, typical of a furnished rental subject to rental income tax.](/images/articles/fiscalite-immobiliere-marrakech-2026-3.webp)
 
 ## On resale: the capital gains levy (TPI)
 
@@ -68,7 +68,7 @@ The calculation is based on the gap between the sale price and the acquisition p
 
 Payment is due within 30 days of signing the authenticated deed of sale; the notary typically collects the tax and remits it to the tax authorities, which secures the transaction for both buyer and seller.
 
-![Sale of a property in Marrakech subject to the capital gains levy (TPI).](/images/articles/immobilier-marrakech-2026.webp)
+![House model with keys, symbolizing a resale subject to the capital gains levy (TPI).](/images/articles/fiscalite-immobiliere-marrakech-2026-4.webp)
 
 ## What to take away
 

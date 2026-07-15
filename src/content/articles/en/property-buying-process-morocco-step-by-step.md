@@ -56,7 +56,7 @@ Before even drafting a compromis, a Moroccan professional (notary or lawyer) sho
 - unpaid charges: co-ownership fees, housing tax, water and electricity;
 - for an off-plan purchase (VEFA), the developer's approval and the compliance of the reservation contract.
 
-![Document verification and viewing before a property purchase in Morocco](/images/articles/acheter-bien-marrakech-erreurs.webp)
+![Signing and reviewing a purchase contract before committing](/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-2.webp)
 
 For foreign buyers, add proof of the funds' origin: bank statements and a certificate of international currency transfer, required for compliance and to be able to later repatriate the proceeds of a resale. The Office des Changes notes that acquiring real estate is a recognized form of foreign investment in Morocco, and that the investor — including MRE — must send a report on the operation within six months, along with the bank forms proving the financing came from foreign currency.
 
@@ -72,7 +72,7 @@ Once the file is filed, final registration of the new owner on the land title ge
 
 ## Buying from abroad: the MRE power of attorney
 
-![Modern buildings in Marrakech, symbolizing real estate investment for MRE and foreign buyers](/images/articles/marrakech-accessible-investisseurs.webp)
+![Stamped passport, symbolizing a remote purchase for MRE and foreign buyers](/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-3.webp)
 
 For an MRE or a foreigner who cannot travel, the purchase goes through a power of attorney. Since law 69-16 of September 14, 2017, any power of attorney for buying or selling property in Morocco must be established in authentic form — notarial or adoulaire — or the transaction is void. A private, even legalized, power of attorney is refused by the Land Registry.
 

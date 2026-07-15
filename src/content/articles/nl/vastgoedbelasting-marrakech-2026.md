@@ -42,7 +42,7 @@ Twee maatregelen uit 2026 veranderen de situatie voor bepaalde profielen:
 - **Vrijstelling voor eerste kopers**: de registratierechten vervallen tot 400.000 MAD, en worden verlaagd tot 3% tussen 400.001 en 1.000.000 MAD, voor de aankoop van een hoofdverblijf. Deze maatregel geldt slechts eenmalig en sluit huurinvesteringen uit.
 - **Boete op contante betalingen**: het Algemeen Belastingwetboek 2026 voorziet in een verhoging van 2% op elke niet-traceerbare betaling boven 300.000 MAD. Betalen via bankoverschrijving voorkomt deze verhoging.
 
-![Bezichtiging en controle van documenten vóór een vastgoedaankoop in Marrakech, notariskosten en registratierechten.](/images/articles/acheter-bien-marrakech-erreurs.webp)
+![Biljetten van 50 Marokkaanse dirham, ter illustratie van de registratierechten en notariskosten bij aankoop.](/images/articles/fiscalite-immobiliere-marrakech-2026-2.webp)
 
 ## Tijdens het bezit: woonbelasting en gemeentebelasting
 
@@ -58,7 +58,7 @@ Onder 30.000 MAD bruto jaarlijkse huurinkomsten geldt volledige vrijstelling. Da
 
 Voor een eigenaar die fiscaal inwoner is van Frankrijk, België of Spanje, bepaalt het toepasselijke belastingverdrag hoe dit Marokkaanse huurinkomen in het woonland wordt behandeld — het is raadzaam dit vooraf met een belastingadviseur na te gaan.
 
-![Gemeubileerd appartement in Marrakech, kortstondig verhuurd en onderworpen aan belasting op huurinkomsten.](/images/articles/location-courte-duree-marrakech.webp)
+![Binnenplaats van een riad met zwembad in Marrakech, typisch voor een gemeubileerde verhuur onderworpen aan belasting op huurinkomsten.](/images/articles/fiscalite-immobiliere-marrakech-2026-3.webp)
 
 ## Bij verkoop: de meerwaardebelasting (TPI)
 
@@ -68,7 +68,7 @@ De berekening is gebaseerd op het verschil tussen de verkoopprijs en de aankoopp
 
 De betaling moet gebeuren binnen 30 dagen na ondertekening van de authentieke verkoopakte; meestal int de notaris de belasting en stort die door aan de belastingdienst, wat de transactie voor zowel koper als verkoper zeker stelt.
 
-![Verkoop van een pand in Marrakech, onderworpen aan de meerwaardebelasting (TPI).](/images/articles/immobilier-marrakech-2026.webp)
+![Maquette van een huis met sleutels, symbool van een verkoop onderworpen aan de meerwaardebelasting (TPI).](/images/articles/fiscalite-immobiliere-marrakech-2026-4.webp)
 
 ## Wat te onthouden
 

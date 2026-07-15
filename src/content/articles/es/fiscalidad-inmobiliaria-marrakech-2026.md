@@ -42,7 +42,7 @@ Dos medidas de 2026 cambian la situación para ciertos perfiles:
 - **Exención para primera vivienda**: los derechos de registro quedan suprimidos hasta 400.000 MAD, y se reducen al 3% entre 400.001 y 1.000.000 MAD, para la compra de una residencia principal. Esta medida se aplica una sola vez y excluye las inversiones destinadas al alquiler.
 - **Penalización sobre pagos en efectivo**: el Código General de Impuestos 2026 prevé un recargo del 2% sobre cualquier pago no trazable superior a 300.000 MAD. Pagar por transferencia bancaria evita este recargo.
 
-![Visita y verificación de documentos antes de una compra inmobiliaria en Marrakech, gastos de notaría y derechos de registro.](/images/articles/acheter-bien-marrakech-erreurs.webp)
+![Billetes de 50 dirhams marroquíes, que ilustran los derechos de registro y gastos de notaría en la compra.](/images/articles/fiscalite-immobiliere-marrakech-2026-2.webp)
 
 ## Durante la tenencia: impuesto de vivienda y tasa de servicios comunales
 
@@ -58,7 +58,7 @@ Por debajo de 30.000 MAD de ingresos brutos anuales por alquiler, la exención e
 
 Para un propietario con residencia fiscal en Francia, Bélgica o España, el convenio fiscal aplicable determina cómo se trata esta renta inmobiliaria marroquí en su país de residencia — un punto que conviene verificar con un asesor fiscal antes de declarar.
 
-![Apartamento amueblado en Marrakech alquilado por corta duración, sujeto al impuesto sobre los ingresos por alquiler.](/images/articles/location-courte-duree-marrakech.webp)
+![Patio de un riad con piscina en Marrakech, típico de un alquiler amueblado sujeto al impuesto sobre los ingresos por alquiler.](/images/articles/fiscalite-immobiliere-marrakech-2026-3.webp)
 
 ## Al revender: la Tasa sobre la Plusvalía Inmobiliaria (TPI)
 
@@ -68,7 +68,7 @@ El cálculo se basa en la diferencia entre el precio de cesión y el precio de a
 
 El pago debe realizarse en un plazo de 30 días tras la firma de la escritura de venta; normalmente es el notario quien recauda el impuesto y lo transfiere a la administración fiscal, lo que da seguridad a la transacción tanto para el comprador como para el vendedor.
 
-![Venta de un inmueble en Marrakech sujeta a la tasa sobre la plusvalía inmobiliaria (TPI).](/images/articles/immobilier-marrakech-2026.webp)
+![Maqueta de casa con llaves, que simboliza la reventa sujeta a la tasa sobre la plusvalía inmobiliaria (TPI).](/images/articles/fiscalite-immobiliere-marrakech-2026-4.webp)
 
 ## Lo que hay que recordar
 

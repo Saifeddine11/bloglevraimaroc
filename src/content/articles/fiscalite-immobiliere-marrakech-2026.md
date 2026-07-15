@@ -40,7 +40,7 @@ Deux mesures 2026 changent la donne pour certains profils :
 - **Exonération primo-accédant** : les droits d'enregistrement sont supprimés jusqu'à 400 000 MAD, puis réduits à 3 % entre 400 001 et 1 000 000 MAD, pour l'achat d'une résidence principale. Cette mesure ne s'applique qu'une fois et exclut les investissements locatifs.
 - **Pénalité sur les paiements en espèces** : le Code Général des Impôts 2026 prévoit une majoration de 2 % sur tout règlement non traçable au-delà de 300 000 MAD. Payer par virement bancaire évite cette majoration.
 
-![Visite et vérification des documents avant un achat immobilier à Marrakech, frais de notaire et droits d'enregistrement.](/images/articles/acheter-bien-marrakech-erreurs.webp)
+![Billets de 50 dirhams marocains, illustrant les droits d'enregistrement et frais de notaire à l'achat.](/images/articles/fiscalite-immobiliere-marrakech-2026-2.webp)
 
 ## Pendant la détention : taxe d'habitation et taxe de services communaux
 
@@ -56,7 +56,7 @@ En dessous de 30 000 MAD de revenus locatifs bruts par an, l'exonération est to
 
 Pour un propriétaire fiscalement domicilié en France, en Belgique ou en Espagne, la convention fiscale applicable détermine comment ce revenu foncier marocain est traité dans le pays de résidence — un point à vérifier avec un conseiller fiscal avant toute déclaration.
 
-![Appartement meublé à Marrakech loué en courte durée, soumis à l'impôt sur les revenus locatifs.](/images/articles/location-courte-duree-marrakech.webp)
+![Patio de riad avec piscine à Marrakech, typique d'une location meublée soumise à l'impôt sur les revenus locatifs.](/images/articles/fiscalite-immobiliere-marrakech-2026-3.webp)
 
 ## À la revente : la Taxe sur le Profit Immobilier (TPI)
 
@@ -66,7 +66,7 @@ Le calcul se fait sur l'écart entre le prix de cession et le prix d'acquisition
 
 Le paiement intervient dans un délai de 30 jours après la signature de l'acte de vente authentique ; c'est généralement le notaire qui collecte la taxe et la reverse à l'administration fiscale, ce qui sécurise la transaction pour l'acheteur comme pour le vendeur.
 
-![Vente d'un bien immobilier à Marrakech soumise à la taxe sur le profit immobilier (TPI).](/images/articles/immobilier-marrakech-2026.webp)
+![Maquette de maison avec clés, symbolisant la revente d'un bien soumise à la taxe sur le profit immobilier (TPI).](/images/articles/fiscalite-immobiliere-marrakech-2026-4.webp)
 
 ## Ce qu'il faut retenir
 
