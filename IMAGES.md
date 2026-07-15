@@ -60,6 +60,7 @@ Le sandbox d'automatisation ne peut pas télécharger de nouvelles photos depuis
 | Article | Images réutilisées (hero + sections) | Statut |
 |---|---|---|
 | Fiscalité immobilière à Marrakech en 2026 (`fiscalite-immobiliere-marrakech-2026`) | Hero : `dahir-maroc-immobilier-acheteur.webp` · Section achat : `acheter-bien-marrakech-erreurs.webp` · Section location : `location-courte-duree-marrakech.webp` · Section revente : `immobilier-marrakech-2026.webp` | Installé (réutilisation) |
+| Acheter un bien immobilier au Maroc : la procédure étape par étape en 2026 (`procedure-achat-immobilier-maroc-etape-par-etape`) | Hero : `dahir-maroc-immobilier-acheteur.webp` · Section documents : `acheter-bien-marrakech-erreurs.webp` · Section procuration MRE : `marrakech-accessible-investisseurs.webp` | Installé (réutilisation — sandbox sans accès réseau à Unsplash/Pexels/Wikimedia, cf. note ci-dessous) |
 
 ## Fichiers mis à jour
 
