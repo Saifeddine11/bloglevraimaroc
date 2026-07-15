@@ -60,8 +60,11 @@ Le sandbox d'automatisation ne peut pas télécharger de nouvelles photos depuis
 
 | Article | Images réutilisées (hero + sections) | Statut |
 |---|---|---|
-| Fiscalité immobilière à Marrakech en 2026 (`fiscalite-immobiliere-marrakech-2026`) | Hero : `dahir-maroc-immobilier-acheteur.webp` · Section achat : `acheter-bien-marrakech-erreurs.webp` · Section location : `location-courte-duree-marrakech.webp` · Section revente : `immobilier-marrakech-2026.webp` | Installé (réutilisation) |
-| Acheter un bien immobilier au Maroc : la procédure étape par étape en 2026 (`procedure-achat-immobilier-maroc-etape-par-etape`) | Hero : `dahir-maroc-immobilier-acheteur.webp` · Section documents : `acheter-bien-marrakech-erreurs.webp` · Section procuration MRE : `marrakech-accessible-investisseurs.webp` | Installé (réutilisation — sandbox sans accès réseau à Unsplash/Pexels/Wikimedia, cf. note ci-dessous) |
+| Fiscalité immobilière à Marrakech en 2026 (`fiscalite-immobiliere-marrakech-2026`) | Hero : `marrakech-investisseurs-immobiliers.webp` · Section achat : `acheter-bien-marrakech-erreurs.webp` · Section location : `location-courte-duree-marrakech.webp` · Section revente : `immobilier-marrakech-2026.webp` | Installé (réutilisation) |
+| Acheter un bien immobilier au Maroc : la procédure étape par étape en 2026 (`procedure-achat-immobilier-maroc-etape-par-etape`) | Hero : `immobilier-marrakech-2026.webp` · Section documents : `acheter-bien-marrakech-erreurs.webp` · Section procuration MRE : `marrakech-accessible-investisseurs.webp` | Installé (réutilisation — sandbox sans accès réseau à Unsplash/Pexels/Wikimedia, cf. note ci-dessous) |
+| Dahir au Maroc : ce qu'un acheteur immobilier doit comprendre (`dahir-maroc-immobilier-acheteur`) | Hero : `dahir-maroc-immobilier-acheteur.webp` (image dédiée d'origine, inchangée) | Installé |
+
+**2026-07-15 — correctif diversité visuelle** : ces trois articles (les plus récents) partageaient tous la même image hero (`dahir-maroc-immobilier-acheteur.webp`), ce qui rendait la page blog illisible (3 vignettes identiques côte à côte). Rediversifié en réattribuant fiscalité et procédure d'achat à d'autres photos déjà installées. Limite connue : faute d'accès réseau aux banques d'images dans cet environnement, ces photos sont aussi les hero natifs d'autres articles plus anciens du site (moins visibles car plus bas dans la liste) — une vraie solution durable nécessite de nouvelles photos sourcées manuellement par Sif Eddine.
 
 ## Fichiers mis à jour
 

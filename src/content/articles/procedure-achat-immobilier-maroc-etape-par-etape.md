@@ -8,8 +8,8 @@ tags: ["procédure achat immobilier Maroc", "acheter au Maroc étranger", "procu
 date: 2026-07-15
 readingTime: 6
 excerpt: "Depuis le 1er janvier 2025, la Conservation foncière rejette systématiquement tout acte de vente non accompagné d'une attestation d'enregistrement de la DGI — un changement de circuit qui touche directement les acheteurs, résidents comme MRE."
-heroImage: "/images/articles/dahir-maroc-immobilier-acheteur.webp"
-imageAlt: "Signature d'un acte d'achat immobilier chez le notaire au Maroc, documents et titre foncier sur la table."
+heroImage: "/images/articles/immobilier-marrakech-2026.webp"
+imageAlt: "Architecture résidentielle à Marrakech, illustrant les étapes d'un achat immobilier au Maroc."
 featured: false
 sources:
   - label: "ANCFCC — Tarifs et délais des formalités d'immatriculation foncière"

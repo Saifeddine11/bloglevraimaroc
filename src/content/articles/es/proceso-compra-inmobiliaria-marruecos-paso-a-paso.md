@@ -10,8 +10,8 @@ tags: ["proceso compra inmobiliaria Marruecos", "comprar en Marruecos extranjero
 date: 2026-07-15
 readingTime: 6
 excerpt: "Desde el 1 de enero de 2025, el Registro de la Propiedad rechaza sistemáticamente todo acto de venta que no vaya acompañado de un certificado de registro de la DGI, un nuevo circuito administrativo que afecta directamente a compradores, residentes y MRE."
-heroImage: "/images/articles/dahir-maroc-immobilier-acheteur.webp"
-imageAlt: "Firma de una escritura de compra inmobiliaria ante notario en Marruecos, con documentos y título de propiedad sobre la mesa."
+heroImage: "/images/articles/immobilier-marrakech-2026.webp"
+imageAlt: "Arquitectura residencial en Marrakech, que ilustra las etapas de una compra inmobiliaria en Marruecos."
 featured: false
 sources:
   - label: "ANCFCC — Tarifas y plazos de los trámites de inmatriculación catastral"

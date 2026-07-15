@@ -10,8 +10,8 @@ tags: ["real estate taxes Morocco", "notary fees Marrakech", "capital gains tax 
 date: 2026-07-14
 readingTime: 6
 excerpt: "Between registration duties, housing tax, rental income tax and the capital gains levy, taxation can eat over 10% of the purchase price and 20% of the resale profit. Here is the breakdown, item by item."
-heroImage: "/images/articles/dahir-maroc-immobilier-acheteur.webp"
-imageAlt: "Real estate documents and contract in Morocco illustrating the taxation of a purchase in Marrakech."
+heroImage: "/images/articles/marrakech-investisseurs-immobiliers.webp"
+imageAlt: "Villa and garden in Marrakech, illustrating the real costs of a premium property investment."
 featured: false
 sources:
   - label: "Masaken — Notary fees in Morocco 2026"
