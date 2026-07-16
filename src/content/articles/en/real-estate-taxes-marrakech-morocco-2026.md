@@ -37,10 +37,41 @@ Altogether, the "acquisition costs" line commonly runs to 6-8% of the sale price
 
 > A buyer who only budgets the sticker price of the property is almost always off by 6 to 8 points on their real outlay.
 
+<div class="not-prose grid sm:grid-cols-3 gap-4 my-8">
+  <div class="rounded-xl bg-rdm-orange-soft border border-rdm-orange/20 p-5">
+    <p class="text-3xl font-extrabold text-rdm-orange mb-1">4%</p>
+    <p class="text-sm font-semibold text-rdm-black">Registration duties</p>
+    <p class="text-xs text-rdm-gray mt-1">On the sale price or declared value</p>
+  </div>
+  <div class="rounded-xl bg-rdm-orange-soft border border-rdm-orange/20 p-5">
+    <p class="text-3xl font-extrabold text-rdm-orange mb-1">1–1.5%</p>
+    <p class="text-sm font-semibold text-rdm-black">Notary fees</p>
+    <p class="text-xs text-rdm-gray mt-1">Rate set by the profession</p>
+  </div>
+  <div class="rounded-xl bg-rdm-orange-soft border border-rdm-orange/20 p-5">
+    <p class="text-3xl font-extrabold text-rdm-orange mb-1">6–8%</p>
+    <p class="text-sm font-semibold text-rdm-black">Total acquisition costs</p>
+    <p class="text-xs text-rdm-gray mt-1">To budget on top of the sticker price</p>
+  </div>
+</div>
+
 Two 2026 measures change the picture for certain buyers:
 
-- **First-time buyer exemption**: registration duties are waived up to MAD 400,000, then reduced to 3% between MAD 400,001 and 1,000,000, for the purchase of a primary residence. This applies only once and excludes buy-to-let purchases.
-- **Cash payment penalty**: the 2026 General Tax Code adds a 2% surcharge on any untraceable payment above MAD 300,000. Paying by bank transfer avoids this surcharge.
+<div class="not-prose rounded-xl bg-emerald-50 border border-emerald-200 p-5 my-5 flex gap-3">
+  <svg class="w-5 h-5 text-emerald-600 flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
+  <div>
+    <p class="text-sm font-semibold text-emerald-800 mb-1">First-time buyer exemption</p>
+    <p class="text-sm text-emerald-900/80">Registration duties waived up to MAD 400,000, then reduced to 3% between MAD 400,001 and 1,000,000, for a primary residence purchase. Applies once only, excludes buy-to-let purchases.</p>
+  </div>
+</div>
+
+<div class="not-prose rounded-xl bg-amber-50 border border-amber-200 p-5 my-5 flex gap-3">
+  <svg class="w-5 h-5 text-amber-600 flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M12 9v3.75m0 3.75h.008v.008H12v-.008zM21 12a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
+  <div>
+    <p class="text-sm font-semibold text-amber-800 mb-1">Cash payment penalty</p>
+    <p class="text-sm text-amber-900/80">+2% surcharge on any untraceable payment above MAD 300,000 (2026 General Tax Code). Paying by bank transfer avoids this surcharge.</p>
+  </div>
+</div>
 
 ![50-dirham Moroccan banknotes, illustrating registration duties and notary fees at purchase.](/images/articles/fiscalite-immobiliere-marrakech-2026-2.webp)
 
@@ -50,11 +81,42 @@ Once you own the property, two annual local taxes apply: the Housing Tax (Taxe d
 
 Combined, these two taxes typically run MAD 1,200 to 15,000 per year depending on size, city and use of the property. Payment is due each year by June 1 at the latest. Several exemptions exist, notably for first-time buyers for 5 years from completion, or for owners over 75 with modest income.
 
+<div class="not-prose grid sm:grid-cols-2 gap-4 my-8">
+  <div class="rounded-xl bg-rdm-bg border border-rdm-border p-5">
+    <p class="text-3xl font-extrabold text-rdm-orange mb-1">MAD 1,200–15,000</p>
+    <p class="text-sm font-semibold text-rdm-black">TH + TSC per year</p>
+    <p class="text-xs text-rdm-gray mt-1">Depending on size, city and use of the property</p>
+  </div>
+  <div class="rounded-xl bg-rdm-bg border border-rdm-border p-5">
+    <p class="text-3xl font-extrabold text-rdm-orange mb-1">10.5%</p>
+    <p class="text-sm font-semibold text-rdm-black">TSC rate in urban zones</p>
+    <p class="text-xs text-rdm-gray mt-1">6.5% in peripheral zones</p>
+  </div>
+</div>
+
 ## If you rent it out: income tax on rental revenue
 
 For an owner — resident or not, including Moroccans living abroad (MRE) — who lets a property, the rent collected is taxable in Morocco. The regime for unfurnished residential lets grants an automatic 40% allowance on gross income, with no need to justify individual expenses. The taxable base becomes 60% of the rent received.
 
 Below MAD 30,000 in gross annual rental income, the exemption is total. Above that threshold, the taxpayer can choose between the progressive IR scale after the allowance, or a flat rate: 10% if gross annual income is under MAD 120,000, 15% above that, or 20% by option with withholding at source. Since the 2026 Finance Law, a 5% withholding is applied by professional tenants.
+
+<div class="not-prose grid sm:grid-cols-3 gap-4 my-8">
+  <div class="rounded-xl bg-rdm-orange-soft border border-rdm-orange/20 p-5">
+    <p class="text-3xl font-extrabold text-rdm-orange mb-1">40%</p>
+    <p class="text-sm font-semibold text-rdm-black">Automatic allowance</p>
+    <p class="text-xs text-rdm-gray mt-1">On gross rental income, no receipts needed</p>
+  </div>
+  <div class="rounded-xl bg-emerald-50 border border-emerald-200 p-5">
+    <p class="text-3xl font-extrabold text-emerald-700 mb-1">&lt; MAD 30,000</p>
+    <p class="text-sm font-semibold text-rdm-black">Full exemption</p>
+    <p class="text-xs text-rdm-gray mt-1">Of gross annual rental income</p>
+  </div>
+  <div class="rounded-xl bg-rdm-orange-soft border border-rdm-orange/20 p-5">
+    <p class="text-3xl font-extrabold text-rdm-orange mb-1">10–20%</p>
+    <p class="text-sm font-semibold text-rdm-black">Flat rate</p>
+    <p class="text-xs text-rdm-gray mt-1">Depending on gross annual income</p>
+  </div>
+</div>
 
 For an owner who is a tax resident of France, Belgium or Spain, the applicable tax treaty determines how this Moroccan rental income is treated back home — worth checking with a tax adviser before filing.
 
@@ -66,6 +128,24 @@ The last, often underestimated, stage is resale. The Taxe sur le Profit Immobili
 
 The calculation is based on the gap between the sale price and the acquisition price, revalued using official coefficients. Contrary to a common assumption, this tax applies to any seller, Moroccan or foreign, as soon as the property sits on Moroccan soil. A full exemption exists for a primary residence held for more than 5 years.
 
+<div class="not-prose grid sm:grid-cols-3 gap-4 my-8">
+  <div class="rounded-xl bg-rdm-orange-soft border border-rdm-orange/20 p-5">
+    <p class="text-3xl font-extrabold text-rdm-orange mb-1">20%</p>
+    <p class="text-sm font-semibold text-rdm-black">TPI rate</p>
+    <p class="text-xs text-rdm-gray mt-1">On the net capital gain realized</p>
+  </div>
+  <div class="rounded-xl bg-rdm-orange-soft border border-rdm-orange/20 p-5">
+    <p class="text-3xl font-extrabold text-rdm-orange mb-1">3%</p>
+    <p class="text-sm font-semibold text-rdm-black">Minimum levy</p>
+    <p class="text-xs text-rdm-gray mt-1">Even without a demonstrable gain</p>
+  </div>
+  <div class="rounded-xl bg-rdm-bg border border-rdm-border p-5">
+    <p class="text-3xl font-extrabold text-rdm-orange mb-1">30 days</p>
+    <p class="text-sm font-semibold text-rdm-black">Payment deadline</p>
+    <p class="text-xs text-rdm-gray mt-1">After signing the deed of sale</p>
+  </div>
+</div>
+
 Payment is due within 30 days of signing the authenticated deed of sale; the notary typically collects the tax and remits it to the tax authorities, which secures the transaction for both buyer and seller.
 
 ![House model with keys, symbolizing a resale subject to the capital gains levy (TPI).](/images/articles/fiscalite-immobiliere-marrakech-2026-4.webp)
@@ -74,8 +154,13 @@ Payment is due within 30 days of signing the authenticated deed of sale; the not
 
 Moroccan real estate taxation isn't designed to discourage investment, but it deserves the same budgeting discipline as the purchase price itself. Three habits before any project in Marrakech:
 
-1. **Set aside 6-8% for acquisition costs** on top of the sticker price, and check for a possible first-time buyer exemption.
-2. **Plan for income tax on rent** if the property is meant to be let, factoring in the 40% allowance and the flat-rate thresholds.
-3. **Keep a record of the revalued acquisition price** from day one, to correctly calculate the TPI on the day you resell.
+<div class="not-prose rounded-2xl bg-rdm-black text-white p-6 sm:p-8 my-8">
+  <p class="text-xs font-bold uppercase tracking-widest text-rdm-orange mb-4">Checklist before you invest</p>
+  <ol class="space-y-4">
+    <li class="flex gap-3"><span class="flex-shrink-0 w-6 h-6 rounded-full bg-rdm-orange text-rdm-black text-xs font-bold flex items-center justify-center">1</span><span class="text-sm text-white/90"><strong class="text-white">Set aside 6-8% for acquisition costs</strong> on top of the sticker price, and check for a possible first-time buyer exemption.</span></li>
+    <li class="flex gap-3"><span class="flex-shrink-0 w-6 h-6 rounded-full bg-rdm-orange text-rdm-black text-xs font-bold flex items-center justify-center">2</span><span class="text-sm text-white/90"><strong class="text-white">Plan for income tax on rent</strong> if the property is meant to be let, factoring in the 40% allowance and the flat-rate thresholds.</span></li>
+    <li class="flex gap-3"><span class="flex-shrink-0 w-6 h-6 rounded-full bg-rdm-orange text-rdm-black text-xs font-bold flex items-center justify-center">3</span><span class="text-sm text-white/90"><strong class="text-white">Keep a record of the revalued acquisition price</strong> from day one, to correctly calculate the TPI on the day you resell.</span></li>
+  </ol>
+</div>
 
 A poorly prepared investment can look profitable on paper and disappointing on the bank statement. Taxation isn't an administrative footnote — it's a full line item in the calculation.

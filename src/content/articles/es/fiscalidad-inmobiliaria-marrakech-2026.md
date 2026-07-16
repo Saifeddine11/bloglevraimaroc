@@ -37,10 +37,41 @@ En total, el presupuesto de "gastos de adquisición" suele representar entre el 
 
 > Un comprador que solo presupuesta el precio anunciado del inmueble casi siempre se equivoca en 6 a 8 puntos sobre su presupuesto real.
 
+<div class="not-prose grid sm:grid-cols-3 gap-4 my-8">
+  <div class="rounded-xl bg-rdm-orange-soft border border-rdm-orange/20 p-5">
+    <p class="text-3xl font-extrabold text-rdm-orange mb-1">4%</p>
+    <p class="text-sm font-semibold text-rdm-black">Derechos de registro</p>
+    <p class="text-xs text-rdm-gray mt-1">Sobre el precio de venta o el valor declarado</p>
+  </div>
+  <div class="rounded-xl bg-rdm-orange-soft border border-rdm-orange/20 p-5">
+    <p class="text-3xl font-extrabold text-rdm-orange mb-1">1–1,5%</p>
+    <p class="text-sm font-semibold text-rdm-black">Honorarios del notario</p>
+    <p class="text-xs text-rdm-gray mt-1">Tarifa regulada por la profesión</p>
+  </div>
+  <div class="rounded-xl bg-rdm-orange-soft border border-rdm-orange/20 p-5">
+    <p class="text-3xl font-extrabold text-rdm-orange mb-1">6–8%</p>
+    <p class="text-sm font-semibold text-rdm-black">Total gastos de adquisición</p>
+    <p class="text-xs text-rdm-gray mt-1">A presupuestar además del precio anunciado</p>
+  </div>
+</div>
+
 Dos medidas de 2026 cambian la situación para ciertos perfiles:
 
-- **Exención para primera vivienda**: los derechos de registro quedan suprimidos hasta 400.000 MAD, y se reducen al 3% entre 400.001 y 1.000.000 MAD, para la compra de una residencia principal. Esta medida se aplica una sola vez y excluye las inversiones destinadas al alquiler.
-- **Penalización sobre pagos en efectivo**: el Código General de Impuestos 2026 prevé un recargo del 2% sobre cualquier pago no trazable superior a 300.000 MAD. Pagar por transferencia bancaria evita este recargo.
+<div class="not-prose rounded-xl bg-emerald-50 border border-emerald-200 p-5 my-5 flex gap-3">
+  <svg class="w-5 h-5 text-emerald-600 flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
+  <div>
+    <p class="text-sm font-semibold text-emerald-800 mb-1">Exención para primera vivienda</p>
+    <p class="text-sm text-emerald-900/80">Derechos de registro suprimidos hasta 400.000 MAD, y reducidos al 3% entre 400.001 y 1.000.000 MAD, para la compra de una residencia principal. Se aplica una sola vez y excluye las inversiones en alquiler.</p>
+  </div>
+</div>
+
+<div class="not-prose rounded-xl bg-amber-50 border border-amber-200 p-5 my-5 flex gap-3">
+  <svg class="w-5 h-5 text-amber-600 flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M12 9v3.75m0 3.75h.008v.008H12v-.008zM21 12a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
+  <div>
+    <p class="text-sm font-semibold text-amber-800 mb-1">Penalización sobre pagos en efectivo</p>
+    <p class="text-sm text-amber-900/80">+2% de recargo sobre cualquier pago no trazable superior a 300.000 MAD (Código General de Impuestos 2026). Pagar por transferencia bancaria evita este recargo.</p>
+  </div>
+</div>
 
 ![Billetes de 50 dirhams marroquíes, que ilustran los derechos de registro y gastos de notaría en la compra.](/images/articles/fiscalite-immobiliere-marrakech-2026-2.webp)
 
@@ -50,11 +81,42 @@ Una vez propietario, se aplican dos impuestos locales anuales: el Impuesto de Vi
 
 Juntos, estos dos impuestos representan entre 1.200 y 15.000 MAD al año según la superficie, la ciudad y el uso del inmueble. El pago vence cada año, a más tardar el 1 de junio. Existen varias exenciones, en particular para los compradores de primera vivienda durante 5 años desde la finalización del inmueble, o para propietarios mayores de 75 años con ingresos modestos.
 
+<div class="not-prose grid sm:grid-cols-2 gap-4 my-8">
+  <div class="rounded-xl bg-rdm-bg border border-rdm-border p-5">
+    <p class="text-3xl font-extrabold text-rdm-orange mb-1">1.200–15.000 MAD</p>
+    <p class="text-sm font-semibold text-rdm-black">TH + TSC al año</p>
+    <p class="text-xs text-rdm-gray mt-1">Según superficie, ciudad y uso del inmueble</p>
+  </div>
+  <div class="rounded-xl bg-rdm-bg border border-rdm-border p-5">
+    <p class="text-3xl font-extrabold text-rdm-orange mb-1">10,5%</p>
+    <p class="text-sm font-semibold text-rdm-black">Tipo TSC en zona urbana</p>
+    <p class="text-xs text-rdm-gray mt-1">6,5% en zona periférica</p>
+  </div>
+</div>
+
 ## Si alquila: el impuesto sobre los ingresos por alquiler
 
 Para un propietario — residente o no, incluidos los MRE (marroquíes residentes en el extranjero) — que pone su inmueble en alquiler, las rentas percibidas son imponibles en Marruecos. El régimen aplicable a los alquileres no amueblados prevé una deducción automática del 40% sobre los ingresos brutos, sin necesidad de justificar gastos. La base imponible pasa a ser, por tanto, el 60% del alquiler cobrado.
 
 Por debajo de 30.000 MAD de ingresos brutos anuales por alquiler, la exención es total. Por encima de ese umbral, el contribuyente elige entre la escala progresiva del IR tras la deducción, o un tipo fijo: 10% si el ingreso bruto anual es inferior a 120.000 MAD, 15% por encima, o 20% de forma opcional con retención en origen. Desde la ley de finanzas de 2026, los arrendatarios profesionales aplican una retención en origen del 5%.
+
+<div class="not-prose grid sm:grid-cols-3 gap-4 my-8">
+  <div class="rounded-xl bg-rdm-orange-soft border border-rdm-orange/20 p-5">
+    <p class="text-3xl font-extrabold text-rdm-orange mb-1">40%</p>
+    <p class="text-sm font-semibold text-rdm-black">Deducción automática</p>
+    <p class="text-xs text-rdm-gray mt-1">Sobre los ingresos brutos por alquiler, sin justificantes</p>
+  </div>
+  <div class="rounded-xl bg-emerald-50 border border-emerald-200 p-5">
+    <p class="text-3xl font-extrabold text-emerald-700 mb-1">&lt; 30.000 MAD</p>
+    <p class="text-sm font-semibold text-rdm-black">Exención total</p>
+    <p class="text-xs text-rdm-gray mt-1">De ingresos brutos anuales por alquiler</p>
+  </div>
+  <div class="rounded-xl bg-rdm-orange-soft border border-rdm-orange/20 p-5">
+    <p class="text-3xl font-extrabold text-rdm-orange mb-1">10–20%</p>
+    <p class="text-sm font-semibold text-rdm-black">Tipo fijo</p>
+    <p class="text-xs text-rdm-gray mt-1">Según el ingreso bruto anual</p>
+  </div>
+</div>
 
 Para un propietario con residencia fiscal en Francia, Bélgica o España, el convenio fiscal aplicable determina cómo se trata esta renta inmobiliaria marroquí en su país de residencia — un punto que conviene verificar con un asesor fiscal antes de declarar.
 
@@ -66,6 +128,24 @@ La última etapa, a menudo subestimada, es la reventa. La Taxe sur le Profit Imm
 
 El cálculo se basa en la diferencia entre el precio de cesión y el precio de adquisición revalorizado según coeficientes oficiales. Al contrario de lo que suele pensarse, este impuesto se aplica a cualquier vendedor, marroquí o extranjero, siempre que el inmueble esté situado en territorio marroquí. Existe una exención total para la residencia principal poseída durante más de 5 años.
 
+<div class="not-prose grid sm:grid-cols-3 gap-4 my-8">
+  <div class="rounded-xl bg-rdm-orange-soft border border-rdm-orange/20 p-5">
+    <p class="text-3xl font-extrabold text-rdm-orange mb-1">20%</p>
+    <p class="text-sm font-semibold text-rdm-black">Tipo de la TPI</p>
+    <p class="text-xs text-rdm-gray mt-1">Sobre la plusvalía neta obtenida</p>
+  </div>
+  <div class="rounded-xl bg-rdm-orange-soft border border-rdm-orange/20 p-5">
+    <p class="text-3xl font-extrabold text-rdm-orange mb-1">3%</p>
+    <p class="text-sm font-semibold text-rdm-black">Percepción mínima</p>
+    <p class="text-xs text-rdm-gray mt-1">Incluso sin plusvalía demostrable</p>
+  </div>
+  <div class="rounded-xl bg-rdm-bg border border-rdm-border p-5">
+    <p class="text-3xl font-extrabold text-rdm-orange mb-1">30 días</p>
+    <p class="text-sm font-semibold text-rdm-black">Plazo de pago</p>
+    <p class="text-xs text-rdm-gray mt-1">Tras la firma de la escritura de venta</p>
+  </div>
+</div>
+
 El pago debe realizarse en un plazo de 30 días tras la firma de la escritura de venta; normalmente es el notario quien recauda el impuesto y lo transfiere a la administración fiscal, lo que da seguridad a la transacción tanto para el comprador como para el vendedor.
 
 ![Maqueta de casa con llaves, que simboliza la reventa sujeta a la tasa sobre la plusvalía inmobiliaria (TPI).](/images/articles/fiscalite-immobiliere-marrakech-2026-4.webp)
@@ -74,8 +154,13 @@ El pago debe realizarse en un plazo de 30 días tras la firma de la escritura de
 
 La fiscalidad inmobiliaria marroquí no está pensada para desincentivar la inversión, pero merece el mismo rigor presupuestario que el precio de compra. Tres reflejos antes de cualquier proyecto en Marrakech:
 
-1. **Reservar entre un 6% y un 8% para gastos de adquisición** además del precio anunciado, y comprobar una posible exención para primera vivienda.
-2. **Anticipar el IR sobre los alquileres** si el inmueble se destina al alquiler, teniendo en cuenta la deducción del 40% y los umbrales de tipo fijo.
-3. **Conservar el precio de adquisición revalorizado** desde el primer día, para calcular correctamente la TPI el día de la reventa.
+<div class="not-prose rounded-2xl bg-rdm-black text-white p-6 sm:p-8 my-8">
+  <p class="text-xs font-bold uppercase tracking-widest text-rdm-orange mb-4">Checklist antes de invertir</p>
+  <ol class="space-y-4">
+    <li class="flex gap-3"><span class="flex-shrink-0 w-6 h-6 rounded-full bg-rdm-orange text-rdm-black text-xs font-bold flex items-center justify-center">1</span><span class="text-sm text-white/90"><strong class="text-white">Reservar entre un 6% y un 8% para gastos de adquisición</strong> además del precio anunciado, y comprobar una posible exención para primera vivienda.</span></li>
+    <li class="flex gap-3"><span class="flex-shrink-0 w-6 h-6 rounded-full bg-rdm-orange text-rdm-black text-xs font-bold flex items-center justify-center">2</span><span class="text-sm text-white/90"><strong class="text-white">Anticipar el IR sobre los alquileres</strong> si el inmueble se destina al alquiler, teniendo en cuenta la deducción del 40% y los umbrales de tipo fijo.</span></li>
+    <li class="flex gap-3"><span class="flex-shrink-0 w-6 h-6 rounded-full bg-rdm-orange text-rdm-black text-xs font-bold flex items-center justify-center">3</span><span class="text-sm text-white/90"><strong class="text-white">Conservar el precio de adquisición revalorizado</strong> desde el primer día, para calcular correctamente la TPI el día de la reventa.</span></li>
+  </ol>
+</div>
 
 Una inversión mal preparada fiscalmente puede parecer rentable sobre el papel y resultar decepcionante en el extracto bancario. La fiscalidad no es un detalle administrativo: es una partida de cálculo por derecho propio.
