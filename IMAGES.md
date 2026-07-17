@@ -78,6 +78,29 @@ Chaque article à plusieurs images utilise désormais des photos dédiées et di
 
 **2026-07-15 — 3 nouveaux articles d'actualité (retenue à la source loyers, RAM été 2026, Macan Development Rabat)** : 6 photos Unsplash supplémentaires (3 hero + 3 sections) sourcées et installées via Claude in Chrome, suivant le même protocole de recadrage/optimisation 1600x900 WebP q82.
 
+## Réutilisation contrôlée — articles SEO premium du 2026-07-17
+
+Les 6 articles SEO premium publiés le 17 juillet 2026 réutilisent uniquement des images locales déjà optimisées, avec licences et auteurs enregistrés dans les tableaux ci-dessus. Aucun hotlink externe, screenshot concurrent, image watermarquée ou fichier sans licence vérifiable n'a été ajouté.
+
+**Audit multilingue 2026-07-17** : les versions anglaises, espagnoles et néerlandaises des 6 clusters utilisent les mêmes fichiers locaux, crédits et licences que les versions françaises. Les légendes visibles ont été traduites, et aucun nouvel asset externe n'a été introduit pendant la traduction.
+
+| Article | Placement | Fichier local | Source / licence déjà enregistrée | Alt text publié |
+|---|---|---|---|---|
+| Investir à Marrakech en 2026 | Hero | `public/images/articles/marrakech-investisseurs-immobiliers.webp` | Wikimedia Commons, CC BY 2.0 / Jean-Pierre Dalbéra | Villa et jardin à Marrakech illustrant l’attractivité immobilière de la ville pour les investisseurs. |
+| Investir à Marrakech en 2026 | Section Guéliz/Hivernage | `public/images/articles/gueliz-hivernage-palmeraie-investissement.webp` | Wikimedia Commons, CC BY-SA 3.0 / Hilverd Reker | Avenue Mohammed VI à Marrakech, axe urbain entre quartiers résidentiels et hôteliers. |
+| Investir à Marrakech en 2026 | Section zones périphériques | `public/images/articles/zones-amizmiz-agdal-targa.webp` | Wikimedia Commons, CC BY-SA 2.5 / gildemax | Zone résidentielle en développement à Marrakech entre Agdal, Targa et axes périphériques. |
+| Investir à Marrakech en 2026 | Section riad | `public/images/articles/riads-marrakech-rendement-pieges.webp` | Flickr, CC BY 2.0 / sdbj | Patio de riad traditionnel à Marrakech, exemple de bien de caractère à forte complexité d’exploitation. |
+| Prix immobilier Marrakech 2026 | Hero | `public/images/articles/immobilier-marrakech-2026.webp` | Wikimedia Commons, CC BY-SA 4.0 / Yassine EL MORABETHI | Architecture moderne à Marrakech illustrant le marché immobilier et les prix au mètre carré en 2026. |
+| Prix immobilier Marrakech 2026 | Sections prix/usage/documents | `public/images/articles/gueliz-hivernage-palmeraie-investissement.webp`, `location-courte-duree-marrakech.webp`, `procedure-achat-immobilier-maroc-etape-par-etape-2.webp` | Wikimedia / Unsplash licences enregistrées | Alt text descriptif publié dans l’article. |
+| Meilleurs quartiers de Marrakech | Hero | `public/images/articles/gueliz-hivernage-palmeraie-investissement.webp` | Wikimedia Commons, CC BY-SA 3.0 / Hilverd Reker | Avenue Mohammed VI à Marrakech, axe de repère entre quartiers modernes, résidentiels et hôteliers. |
+| Meilleurs quartiers de Marrakech | Sections Médina, Palmeraie, périphérie | `public/images/articles/tourisme-prix-immobiliers-marrakech.webp`, `marrakech-investisseurs-immobiliers.webp`, `zones-amizmiz-agdal-targa.webp` | Wikimedia Commons / Flickr licences enregistrées | Alt text descriptif publié dans l’article. |
+| Tourisme Marrakech 2026 | Hero | `public/images/articles/tourisme-prix-immobiliers-marrakech.webp` | Flickr, CC BY 2.0 / bobistraveling | Place Jemaa el-Fna à Marrakech, symbole de la fréquentation touristique et de son impact immobilier. |
+| Tourisme Marrakech 2026 | Sections aéroport/location/vue | `public/images/articles/marrakech-2030-infrastructures-tourisme.webp`, `location-courte-duree-marrakech.webp`, `royal-air-maroc-ete-2026-marrakech-2.webp` | Wikimedia Commons / Unsplash licences enregistrées | Alt text descriptif publié dans l’article. |
+| Documents promoteur immobilier Maroc | Hero | `public/images/articles/macan-development-marrakech-rabat-2026.webp` | Unsplash / Luke van Zyl | Chantier de construction résidentielle illustrant les vérifications à réaliser auprès d’un promoteur immobilier au Maroc. |
+| Documents promoteur immobilier Maroc | Sections contrat/programme/juridique | `public/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-2.webp`, `macan-development-marrakech-rabat-2026-2.webp`, `dahir-maroc-immobilier-acheteur.webp` | Unsplash / image locale enregistrée | Alt text descriptif publié dans l’article. |
+| Dahir Maroc définition | Hero | `public/images/articles/dahir-maroc-immobilier-acheteur.webp` | Image locale enregistrée, recadrée WebP | Documents immobiliers au Maroc illustrant le rôle des textes juridiques et des dahirs. |
+| Dahir Maroc définition | Sections vérification / immatriculation | `public/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-2.webp`, `dahir-maroc-immobilier-acheteur.webp` | Unsplash / image locale enregistrée | Alt text descriptif publié dans l’article. |
+
 ## Fichiers mis à jour
 
 - `src/content/articles/*.md` : frontmatter `heroImage` et `imageAlt`.

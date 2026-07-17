@@ -1,6 +1,7 @@
 ---
 title: "Belgian Developer Macan Leaves Its Marrakech Stronghold for Rabat: What Should We Take From It?"
-slug: "macan-development-marrakech-rabat-2026"
+slug: "macan-development-marrakech-rabat-2026-en"
+urlSlug: "macan-development-marrakech-rabat-2026"
 locale: "en"
 translationKey: "macan-development-marrakech-rabat-2026"
 metaTitle: "Macan Development: Marrakech to Rabat"

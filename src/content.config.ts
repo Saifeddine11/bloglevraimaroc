@@ -7,6 +7,7 @@ const articles = defineCollection({
   schema: z.object({
     title: z.string(),
     slug: z.string().optional(),
+    urlSlug: z.string().optional(),
     locale: z.enum(['fr', 'en', 'es', 'nl']).optional().default('fr'),
     translationKey: z.string().optional(),
     metaTitle: z.string().optional(),

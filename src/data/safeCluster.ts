@@ -49,7 +49,7 @@ export const SAFE_CLUSTER_PAGES: SafeClusterPage[] = [
       'achat sur plan Maroc',
       'risques achat sur plan Maroc',
       'garanties achat immobilier Maroc',
-      'certification S.A.F.E immobilier',
+      'méthode S.A.F.E immobilier',
     ],
     image: '/images/articles/immobilier-marrakech-2026.webp',
     imageAlt: 'Architecture moderne à Marrakech pour illustrer un achat immobilier sur plan au Maroc.',
@@ -87,7 +87,7 @@ export const SAFE_CLUSTER_PAGES: SafeClusterPage[] = [
       {
         heading: 'Comment utiliser la méthode S.A.F.E dans la décision',
         body: [
-          `La certification propriétaire S.A.F.E ne rend pas un projet sans risque. Elle indique qu’un projet a été étudié selon une grille de critères avant d’être présenté. Cette grille sert surtout à éviter une décision fondée uniquement sur le prix, l’urgence ou une promesse orale.`,
+          `La méthode éditoriale S.A.F.E ne rend pas un projet sans risque. Elle indique qu’un projet a été étudié selon une grille de critères avant d’être présenté. Cette grille sert surtout à éviter une décision fondée uniquement sur le prix, l’urgence ou une promesse orale.`,
           `Pour un achat sur plan au Maroc, la grille S.A.F.E permet de classer les questions : ce qui est clair, ce qui reste à confirmer, ce qui doit être vérifié par un professionnel et ce qui peut justifier de ne pas avancer.`,
         ],
       },
@@ -135,7 +135,7 @@ export const SAFE_CLUSTER_PAGES: SafeClusterPage[] = [
           'L’urgence commerciale ne doit pas remplacer l’analyse. Un projet intéressant doit pouvoir être expliqué clairement, documenté et vérifié avant un engagement important.',
       },
       {
-        question: 'Que signifie un projet certifié S.A.F.E ?',
+        question: 'Que signifie un projet analysé selon S.A.F.E ?',
         answer:
           'Cela signifie que le projet a été étudié selon une grille propriétaire portant sur le promoteur, le dossier, les paiements, les matériaux, le prix, la livraison, la transparence et le profil acheteur.',
       },
@@ -144,7 +144,7 @@ export const SAFE_CLUSTER_PAGES: SafeClusterPage[] = [
       {
         href: '/safe-certification-immobiliere',
         title: 'Méthode S.A.F.E',
-        text: 'Comprendre la certification propriétaire S.A.F.E appliquée aux projets immobiliers.',
+        text: 'Comprendre la méthode éditoriale S.A.F.E appliquée aux projets immobiliers.',
       },
       {
         href: '/comment-verifier-promoteur-immobilier-maroc',
@@ -257,15 +257,15 @@ export const SAFE_CLUSTER_PAGES: SafeClusterPage[] = [
           'Il faut comprendre à qui le paiement est versé, dans quelles conditions, avec quels documents, quelles possibilités de sortie et quelles étapes suivent la réservation.',
       },
       {
-        question: 'La certification S.A.F.E est-elle officielle ?',
+        question: 'La méthode S.A.F.E est-elle officielle ?',
         answer:
-          'Non. S.A.F.E est une certification propriétaire de Le Vrai Maroc. Elle sert à structurer l’analyse, mais ne constitue pas une validation administrative ou institutionnelle.',
+          'Non. S.A.F.E est une méthode éditoriale indépendante de Le Vrai Maroc. Elle sert à structurer l’analyse, mais ne constitue pas une validation administrative ou institutionnelle.',
       },
     ],
     relatedLinks: [
       {
         href: '/safe-certification-immobiliere',
-        title: 'Certification propriétaire S.A.F.E',
+        title: 'Méthode éditoriale S.A.F.E',
         text: 'Voir comment la grille S.A.F.E qualifie les projets immobiliers.',
       },
       {
@@ -560,7 +560,7 @@ export const SAFE_CLUSTER_PAGES: SafeClusterPage[] = [
         heading: 'Identifier les garanties et leurs limites',
         body: [
           `Le mot garantie peut être rassurant, mais il doit être précis. Il faut savoir ce qui est réellement garanti, par qui, dans quelles conditions, pendant combien de temps et avec quelles démarches en cas de difficulté.`,
-          `La méthode S.A.F.E ne crée pas de garantie légale. Elle aide à repérer les questions à poser sur les garanties disponibles et les limites du dossier présenté.`,
+          `La méthode S.A.F.E ne crée pas de garantie juridique. Elle aide à repérer les questions à poser sur les garanties disponibles et les limites du dossier présenté.`,
         ],
         bullets: [
           'Garantie ou engagement lié à la livraison.',
@@ -600,7 +600,7 @@ export const SAFE_CLUSTER_PAGES: SafeClusterPage[] = [
       {
         question: 'S.A.F.E est-elle une garantie VEFA ?',
         answer:
-          'Non. S.A.F.E est une certification propriétaire d’analyse. Elle ne crée pas de garantie légale et ne remplace pas les garanties prévues par les documents ou le droit applicable.',
+          'Non. S.A.F.E est une méthode éditoriale d’analyse. Elle ne crée pas de garantie juridique et ne remplace pas les garanties prévues par les documents ou le droit applicable.',
       },
       {
         question: 'Comment vérifier une VEFA avant signature ?',
@@ -616,8 +616,8 @@ export const SAFE_CLUSTER_PAGES: SafeClusterPage[] = [
     relatedLinks: [
       {
         href: '/safe-certification-immobiliere',
-        title: 'Projet certifié S.A.F.E',
-        text: 'Comprendre ce que la certification propriétaire peut dire ou ne pas dire.',
+        title: 'Projet analysé selon S.A.F.E',
+        text: 'Comprendre ce que la méthode éditoriale peut dire ou ne pas dire.',
       },
       {
         href: '/acheter-sur-plan-maroc',
@@ -969,7 +969,7 @@ export const SAFE_CLUSTER_PAGES: SafeClusterPage[] = [
           'Il faut comparer le bien avec des références proches, analyser la qualité, la liquidité, les charges, l’usage prévu et le potentiel locatif ou patrimonial.',
       },
       {
-        question: 'Quel lien entre prix et certification S.A.F.E ?',
+        question: 'Quel lien entre prix et méthode S.A.F.E ?',
         answer:
           'La cohérence du prix fait partie des critères S.A.F.E. La grille cherche à comprendre si le prix est justifié par l’emplacement, la qualité, le projet et le profil de l’acheteur.',
       },
@@ -977,7 +977,7 @@ export const SAFE_CLUSTER_PAGES: SafeClusterPage[] = [
     relatedLinks: [
       {
         href: '/safe-certification-immobiliere',
-        title: 'Certification propriétaire S.A.F.E',
+        title: 'Méthode éditoriale S.A.F.E',
         text: 'Voir comment la cohérence du prix est analysée dans la méthode.',
       },
       {

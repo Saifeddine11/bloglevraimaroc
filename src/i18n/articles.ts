@@ -9,7 +9,7 @@ export function articleLocale(article: ArticleEntry): Locale {
 }
 
 export function articleSlug(article: ArticleEntry): string {
-  return article.data.slug ?? article.id.split('/').pop() ?? article.id;
+  return article.data.urlSlug ?? article.data.slug ?? article.id.split('/').pop() ?? article.id;
 }
 
 export function articleTranslationKey(article: ArticleEntry): string {

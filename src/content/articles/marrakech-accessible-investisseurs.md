@@ -88,7 +88,7 @@ La hausse de 8 à 12 % sur deux ans a réduit les marges de sécurité. Certains
 
 > « La question n'est pas "est-ce le bon moment ?" mais "ai-je trouvé le bon bien à un prix juste ?" Un bien bien situé, sous-évalué par rapport au marché, vaut toujours la peine d'être acheté. Un bien surévalué ne le vaut jamais, quel que soit le moment. »
 
-Pour les programmes neufs, la [certification propriétaire S.A.F.E — Secure Approved For Estate](/safe-certification-immobiliere) ajoute une lecture structurée du promoteur, du dossier, des paiements, du prix et de la livraison annoncée. Le guide [acheter sur plan à Marrakech](/acheter-sur-plan-marrakech) permet de transformer cette lecture en checklist avant réservation.
+Pour les programmes neufs, la [méthode éditoriale S.A.F.E — Secure Approved For Estate](/safe-certification-immobiliere) ajoute une lecture structurée du promoteur, du dossier, des paiements, du prix et de la livraison annoncée. Le guide [acheter sur plan à Marrakech](/acheter-sur-plan-marrakech) permet de transformer cette lecture en checklist avant réservation.
 
 ## Le financement : ce qui est possible pour les étrangers
 

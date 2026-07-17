@@ -1,6 +1,7 @@
 ---
 title: "Belgische ontwikkelaar Macan verlaat zijn bolwerk Marrakech voor Rabat: wat moeten we hieruit afleiden?"
-slug: "macan-development-marrakech-rabat-2026"
+slug: "macan-development-marrakech-rabat-2026-nl"
+urlSlug: "macan-development-marrakech-rabat-2026"
 locale: "nl"
 translationKey: "macan-development-marrakech-rabat-2026"
 metaTitle: "Macan Development: Marrakech naar Rabat"

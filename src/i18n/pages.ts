@@ -773,10 +773,10 @@ export const staticPages: Record<Locale, Record<'blog' | 'about' | 'legal' | 'pr
 
 export const safePageCopies: Record<Locale, SafePageCopy> = {
   fr: {
-    metaTitle: 'S.A.F.E — Secure Approved For Estate : certification immobilière au Maroc',
+    metaTitle: 'S.A.F.E — Secure Approved For Estate : méthode de vérification immobilière au Maroc',
     metaDescription:
-      'S.A.F.E — Secure Approved For Estate est une certification propriétaire qui analyse les projets immobiliers selon les principaux critères de confiance.',
-    eyebrow: 'Certification propriétaire',
+      'S.A.F.E — Secure Approved For Estate est une méthode éditoriale indépendante pour analyser les projets immobiliers selon des critères de confiance.',
+    eyebrow: 'Méthode éditoriale indépendante',
     h1: 'S.A.F.E — Secure Approved For Estate',
     intro:
       "S.A.F.E est une grille propriétaire de présélection et d’analyse. Elle ne remplace pas les vérifications juridiques, notariales, techniques ou financières.",
@@ -792,7 +792,7 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
     ],
     levels: [
       { label: 'S.A.F.E Review', text: 'Le projet est en cours d’analyse et nécessite encore certaines confirmations.' },
-      { label: 'S.A.F.E Certified', text: 'Le projet respecte les critères essentiels de la grille propriétaire.' },
+      { label: 'S.A.F.E Checked', text: 'Le projet a été relu selon les critères essentiels de la grille propriétaire.' },
       { label: 'S.A.F.E Prime', text: 'Le projet présente un niveau supérieur de cohérence, de lisibilité et de potentiel.' },
       { label: 'S.A.F.E Confidential', text: 'Le dossier détaillé n’est transmis qu’à des acheteurs qualifiés.' },
     ],
@@ -801,16 +801,16 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
       { label: 'Phrase média', text: 'La méthode analyse promoteur, dossier, paiements, matériaux, prix, livraison, transparence et profil acheteur.' },
     ],
     faq: [
-      { question: 'S.A.F.E est-elle officielle ?', answer: 'Non. S.A.F.E est une certification propriétaire de Le Vrai Maroc, non gouvernementale et non institutionnelle.' },
+      { question: 'S.A.F.E est-elle officielle ?', answer: 'Non. S.A.F.E est une méthode éditoriale indépendante de Le Vrai Maroc, non gouvernementale et non institutionnelle.' },
       { question: 'S.A.F.E remplace-t-elle un notaire ?', answer: 'Non. Elle ne remplace jamais les vérifications juridiques, notariales, techniques, fiscales ou financières.' },
       { question: 'Que vérifie S.A.F.E ?', answer: 'La grille analyse notamment le promoteur, le dossier, les paiements, la qualité, le prix, la livraison et la transparence.' },
     ],
   },
   en: {
-    metaTitle: 'S.A.F.E — Secure Approved For Estate: Real Estate Certification in Morocco',
+    metaTitle: 'S.A.F.E — Secure Approved For Estate: real-estate verification method in Morocco',
     metaDescription:
       'S.A.F.E — Secure Approved For Estate is a proprietary framework for assessing real estate projects against key buyer-trust criteria.',
-    eyebrow: 'Proprietary certification',
+    eyebrow: 'Independent editorial method',
     h1: 'S.A.F.E — Secure Approved For Estate',
     intro:
       'S.A.F.E is a proprietary prequalification and analysis framework. It does not replace legal, notarial, technical or financial checks.',
@@ -826,7 +826,7 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
     ],
     levels: [
       { label: 'S.A.F.E Review', text: 'The project is under review and still requires confirmations.' },
-      { label: 'S.A.F.E Certified', text: 'The project meets the essential criteria of the proprietary grid.' },
+      { label: 'S.A.F.E Checked', text: 'The project has been reviewed against the essential criteria of the proprietary grid.' },
       { label: 'S.A.F.E Prime', text: 'The project shows a stronger level of coherence, readability and potential.' },
       { label: 'S.A.F.E Confidential', text: 'The detailed file is shared only with qualified buyers.' },
     ],
@@ -835,16 +835,16 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
       { label: 'Media wording', text: 'The method reviews developer, file, payments, materials, price, delivery, transparency and buyer fit.' },
     ],
     faq: [
-      { question: 'Is S.A.F.E official?', answer: 'No. S.A.F.E is a proprietary Le Vrai Maroc certification, not a government or institutional certification.' },
+      { question: 'Is S.A.F.E official?', answer: 'No. S.A.F.E is an independent Le Vrai Maroc editorial method, not a government or institutional certification.' },
       { question: 'Does S.A.F.E replace a notary?', answer: 'No. It never replaces legal, notarial, technical, tax or financial checks.' },
       { question: 'What does S.A.F.E review?', answer: 'It reviews developer reliability, file clarity, payments, quality, price, delivery and transparency.' },
     ],
   },
   es: {
-    metaTitle: 'S.A.F.E — Secure Approved For Estate: certificación inmobiliaria en Marruecos',
+    metaTitle: 'S.A.F.E — Secure Approved For Estate: método de verificación inmobiliaria en Marruecos',
     metaDescription:
       'S.A.F.E — Secure Approved For Estate es una metodología propietaria para analizar proyectos inmobiliarios según criterios de confianza del comprador.',
-    eyebrow: 'Certificación propietaria',
+    eyebrow: 'Método editorial independiente',
     h1: 'S.A.F.E — Secure Approved For Estate',
     intro:
       'S.A.F.E es una metodología propietaria de preselección y análisis. No sustituye verificaciones jurídicas, notariales, técnicas ni financieras.',
@@ -860,7 +860,7 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
     ],
     levels: [
       { label: 'S.A.F.E Review', text: 'El proyecto está en análisis y requiere confirmaciones.' },
-      { label: 'S.A.F.E Certified', text: 'El proyecto cumple los criterios esenciales de la matriz propietaria.' },
+      { label: 'S.A.F.E Checked', text: 'El proyecto fue revisado según los criterios esenciales de la matriz propietaria.' },
       { label: 'S.A.F.E Prime', text: 'El proyecto muestra mayor coherencia, legibilidad y potencial.' },
       { label: 'S.A.F.E Confidential', text: 'El expediente detallado se comparte solo con compradores cualificados.' },
     ],
@@ -869,16 +869,16 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
       { label: 'Frase media', text: 'El método analiza promotor, expediente, pagos, materiales, precio, entrega, transparencia y perfil comprador.' },
     ],
     faq: [
-      { question: '¿S.A.F.E es oficial?', answer: 'No. S.A.F.E es una certificación propietaria de Le Vrai Maroc, no gubernamental ni institucional.' },
+      { question: '¿S.A.F.E es oficial?', answer: 'No. S.A.F.E es un método editorial independiente de Le Vrai Maroc, no gubernamental ni institucional.' },
       { question: '¿S.A.F.E sustituye al notario?', answer: 'No. Nunca sustituye verificaciones jurídicas, notariales, técnicas, fiscales o financieras.' },
       { question: '¿Qué verifica S.A.F.E?', answer: 'Analiza promotor, expediente, pagos, calidad, precio, entrega y transparencia.' },
     ],
   },
   nl: {
-    metaTitle: 'S.A.F.E — Secure Approved For Estate: vastgoedcertificering in Marokko',
+    metaTitle: 'S.A.F.E — Secure Approved For Estate: vastgoedcontrolemethode in Marokko',
     metaDescription:
       'S.A.F.E — Secure Approved For Estate is een eigen analysekader voor vastgoedprojecten op basis van vertrouwenscriteria voor kopers.',
-    eyebrow: 'Eigen certificering',
+    eyebrow: 'Onafhankelijke redactionele methode',
     h1: 'S.A.F.E — Secure Approved For Estate',
     intro:
       'S.A.F.E is een eigen kader voor voorselectie en analyse. Het vervangt geen juridische, notariële, technische of financiële controles.',
@@ -894,7 +894,7 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
     ],
     levels: [
       { label: 'S.A.F.E Review', text: 'Het project wordt onderzocht en vereist nog bevestigingen.' },
-      { label: 'S.A.F.E Certified', text: 'Het project voldoet aan de essentiële criteria van het eigen kader.' },
+      { label: 'S.A.F.E Checked', text: 'Het project is beoordeeld volgens de essentiële criteria van het eigen kader.' },
       { label: 'S.A.F.E Prime', text: 'Het project toont extra coherentie, leesbaarheid en potentieel.' },
       { label: 'S.A.F.E Confidential', text: 'Het gedetailleerde dossier wordt alleen gedeeld met gekwalificeerde kopers.' },
     ],
@@ -903,7 +903,7 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
       { label: 'Mediaformulering', text: 'De methode kijkt naar ontwikkelaar, dossier, betalingen, materialen, prijs, oplevering, transparantie en kopersprofiel.' },
     ],
     faq: [
-      { question: 'Is S.A.F.E officieel?', answer: 'Nee. S.A.F.E is een eigen certificering van Le Vrai Maroc, niet van de overheid of een instelling.' },
+      { question: 'Is S.A.F.E officieel?', answer: 'Nee. S.A.F.E is een onafhankelijke redactionele methode van Le Vrai Maroc, niet van de overheid of een instelling.' },
       { question: 'Vervangt S.A.F.E een notaris?', answer: 'Nee. Het vervangt nooit juridische, notariële, technische, fiscale of financiële controles.' },
       { question: 'Wat controleert S.A.F.E?', answer: 'Het beoordeelt ontwikkelaar, dossier, betalingen, kwaliteit, prijs, oplevering en transparantie.' },
     ],

@@ -1,6 +1,7 @@
 ---
 title: "El promotor belga Macan deja su feudo de Marrakech por Rabat: ¿qué debemos entender?"
-slug: "macan-development-marrakech-rabat-2026"
+slug: "macan-development-marrakech-rabat-2026-es"
+urlSlug: "macan-development-marrakech-rabat-2026"
 locale: "es"
 translationKey: "macan-development-marrakech-rabat-2026"
 metaTitle: "Macan Development: de Marrakech a Rabat"

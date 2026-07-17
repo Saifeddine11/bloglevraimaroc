@@ -39,6 +39,28 @@ const currentCategoryKey = Object.entries(categoryRouteKeys).find(([, key]) => k
 const isCategoryPage = !!currentCategoryKey;
 const clusterPage = safeClusterCopies[locale].find((page) => page.routeKey === routeKey);
 const safeCopy = routeKey === 'safe' ? safePageCopies[locale] : undefined;
+const safeSupportLinks = {
+  fr: [
+    { href: '/articles/dahir-maroc-definition', title: 'Définition du dahir au Maroc' },
+    { href: '/articles/documents-promoteur-immobilier-maroc', title: 'Documents à demander au promoteur' },
+    { href: '/articles/investir-marrakech-2026', title: 'Investir à Marrakech en 2026' },
+  ],
+  en: [
+    { href: '/en/articles/dahir-morocco-definition', title: 'Dahir in Morocco: definition' },
+    { href: '/en/articles/real-estate-developer-documents-morocco', title: 'Documents to request from a developer' },
+    { href: '/en/articles/investing-marrakech-2026', title: 'Investing in Marrakech in 2026' },
+  ],
+  es: [
+    { href: '/es/articulos/dahir-marruecos-definicion', title: 'Dahir en Marruecos: definición' },
+    { href: '/es/articulos/documentos-promotor-inmobiliario-marruecos', title: 'Documentos que pedir al promotor' },
+    { href: '/es/articulos/invertir-marrakech-2026', title: 'Invertir en Marrakech en 2026' },
+  ],
+  nl: [
+    { href: '/nl/artikelen/dahir-marokko-definitie', title: 'Dahir in Marokko: definitie' },
+    { href: '/nl/artikelen/documenten-vastgoedontwikkelaar-marokko', title: 'Documenten vragen aan de ontwikkelaar' },
+    { href: '/nl/artikelen/investeren-marrakech-2026', title: 'Investeren in Marrakech in 2026' },
+  ],
+}[locale];
 const staticCopy =
   routeKey === 'blog' || routeKey === 'about' || routeKey === 'legal' || routeKey === 'privacy' || routeKey === 'notFound'
     ? staticPages[locale][routeKey]
@@ -358,6 +380,19 @@ const latestArticles = articles.slice(0, 6);
           <h2 class="text-2xl font-black text-rdm-black mb-8">S.A.F.E</h2>
           <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
             {safeCopy.levels.map((item) => <div class="bg-white border border-rdm-border rounded-xl p-5"><h3 class="font-black text-rdm-black mb-2">{item.label}</h3><p class="text-sm text-rdm-gray">{item.text}</p></div>)}
+          </div>
+        </div>
+      </section>
+      <section class="py-16">
+        <div class="container-rdm">
+          <h2 class="text-2xl font-black text-rdm-black mb-8">{copy.labels.relatedArticles}</h2>
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+            {safeSupportLinks.map((item) => (
+              <a href={item.href} class="glass-card p-5 block hover:shadow-card-hover transition-shadow">
+                <h3 class="font-black text-rdm-black mb-2">{item.title}</h3>
+                <p class="text-sm text-rdm-gray">{copy.labels.readArticle}</p>
+              </a>
+            ))}
           </div>
         </div>
       </section>

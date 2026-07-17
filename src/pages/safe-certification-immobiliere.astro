@@ -4,11 +4,11 @@ import SafeBadge from '@/components/SafeBadge.astro';
 import { SITE } from '@/data/site';
 import { SAFE_BRAND } from '@/data/safeCluster';
 
-const seoTitle = 'S.A.F.E — Secure Approved For Estate : certification immobilière au Maroc';
+const seoTitle = 'Méthode S.A.F.E immobilier : vérifier un projet au Maroc';
 const pageTitle = SAFE_BRAND;
 const metaDescription =
-  'S.A.F.E — Secure Approved For Estate est une certification propriétaire qui analyse les projets immobiliers selon les principaux critères de confiance : promoteur, dossier, paiements, matériaux, prix, livraison, transparence et profil acheteur.';
-const canonicalURL = new URL('/safe-certification-immobiliere', SITE.url).href;
+  'S.A.F.E — Secure Approved For Estate est la méthodologie éditoriale indépendante de Le Vrai Maroc pour vérifier un projet immobilier au Maroc : promoteur, titre, permis, prix, contrat, paiement et livraison.';
+const canonicalURL = new URL('/safe-certification-immobiliere/', SITE.url).href;
 
 const checks = [
   {
@@ -53,18 +53,56 @@ const checks = [
   },
 ];
 
+const sevenPillars = [
+  {
+    label: '1. Promoteur',
+    title: 'Vérification du promoteur',
+    text: 'Identité juridique, statut de la société, historique, projets livrés, crédibilité financière et capacité opérationnelle.',
+  },
+  {
+    label: '2. Foncier',
+    title: 'Terrain et cadre légal',
+    text: 'Titre foncier, propriété, charges, restrictions, information foncière, textes applicables, dahirs, lois, décrets et règles cadastrales.',
+  },
+  {
+    label: '3. Autorisations',
+    title: 'Autorisations administratives',
+    text: 'Permis de construire, plans approuvés, conformité urbanistique, permis d’habiter, division ou subdivision du titre si applicable.',
+  },
+  {
+    label: '4. Contrat',
+    title: 'Contrat et paiements',
+    text: 'Contrat de réservation, contrat de vente, échéancier, conditions de remboursement, traçabilité des paiements et supervision notariale éventuelle.',
+  },
+  {
+    label: '5. Technique',
+    title: 'Plans, matériaux et qualité',
+    text: 'Surfaces, plans, matériaux, équipements, notices descriptives, qualité de construction et écarts possibles entre visuels marketing et documents contractuels.',
+  },
+  {
+    label: '6. Prix',
+    title: 'Cohérence du prix',
+    text: 'Prix au mètre carré, benchmark de quartier, comparaison neuf/ancien, coûts cachés, charges attendues et prudence face aux promesses de rentabilité.',
+  },
+  {
+    label: '7. Livraison',
+    title: 'Livraison et transparence',
+    text: 'Date de livraison, clauses de retard, remise des clés, réserves, documents finaux, communication et service après-vente.',
+  },
+];
+
 const levels = [
   {
     label: 'S.A.F.E Review',
-    text: 'Le projet est en cours d’analyse. Les premiers éléments sont cohérents, mais certains documents, informations ou confirmations restent nécessaires avant validation complète.',
+    text: 'Le projet est en cours d’analyse. Les premiers éléments sont cohérents, mais certains documents, informations ou confirmations restent nécessaires avant qualification éditoriale complète.',
   },
   {
-    label: 'S.A.F.E Certified',
-    text: 'Le projet respecte les critères essentiels de la grille S.A.F.E : promoteur identifiable, dossier lisible, prix cohérent, informations claires, cadre de paiement compréhensible et qualité globale suffisante pour être présenté.',
+    label: 'S.A.F.E Documenté',
+    text: 'Le projet présente un niveau de documentation suffisant pour être analysé : promoteur identifiable, dossier lisible, prix explicable, informations claires et cadre de paiement compréhensible.',
   },
   {
-    label: 'S.A.F.E Prime',
-    text: 'Le projet présente un niveau supérieur de cohérence : emplacement fort, promoteur fiable, qualité perçue élevée, potentiel confirmé, dossier solide et très bonne lisibilité pour l’acheteur.',
+    label: 'S.A.F.E Approfondi',
+    text: 'Le projet présente une cohérence supérieure dans les documents disponibles : emplacement lisible, promoteur documenté, qualité observable, prix argumenté et bonne transparence pour l’acheteur.',
   },
   {
     label: 'S.A.F.E Confidential',
@@ -75,15 +113,15 @@ const levels = [
 const formulas = [
   {
     label: 'Phrase courte',
-    text: 'S.A.F.E certifie qu’un projet immobilier a été analysé selon les principaux critères de confiance d’un achat : promoteur, dossier, paiements, matériaux, prix, livraison, transparence et adéquation avec le profil de l’acheteur.',
+    text: 'S.A.F.E indique qu’un projet immobilier a été analysé selon une grille éditoriale de vérification : promoteur, foncier, autorisations, contrat, matériaux, prix, livraison et transparence.',
   },
   {
     label: 'Phrase média',
-    text: 'S.A.F.E est une certification propriétaire conçue pour répondre aux peurs réelles des acheteurs immobiliers. Elle analyse la fiabilité du promoteur, la clarté du dossier, la protection des paiements, la qualité des matériaux, la cohérence du prix, l’avancement du projet et les conditions de livraison avant présentation à l’acheteur.',
+    text: 'S.A.F.E est une méthodologie éditoriale indépendante conçue pour répondre aux peurs réelles des acheteurs immobiliers. Elle organise la vérification du promoteur, du foncier, des autorisations, des paiements, des matériaux, du prix et de la livraison avant présentation à l’acheteur.',
   },
   {
     label: 'Phrase premium',
-    text: 'Un projet certifié S.A.F.E n’est pas seulement une opportunité. C’est un projet passé par une grille d’exigence qui vérifie ce que l’acheteur ne voit pas toujours au premier regard.',
+    text: 'Un projet analysé selon S.A.F.E n’est pas seulement une opportunité commerciale. C’est un projet relu à travers une grille d’exigence qui organise ce que l’acheteur ne voit pas toujours au premier regard.',
   },
   {
     label: 'Phrase de curiosité',
@@ -91,7 +129,7 @@ const formulas = [
   },
   {
     label: 'Phrase de protection',
-    text: 'S.A.F.E est une certification propriétaire. Elle ne remplace pas les vérifications juridiques, notariales, techniques ou financières nécessaires avant toute acquisition. Elle constitue une grille de présélection et d’analyse destinée à mieux qualifier un projet avant décision.',
+    text: 'S.A.F.E est une méthodologie éditoriale indépendante. Elle ne remplace pas les vérifications juridiques, notariales, techniques ou financières nécessaires avant toute acquisition. Elle constitue une grille de présélection et d’analyse destinée à mieux qualifier un projet avant décision.',
   },
 ];
 
@@ -99,17 +137,17 @@ const faqItems = [
   {
     question: 'S.A.F.E est-elle une certification officielle ?',
     answer:
-      'Non. S.A.F.E — Secure Approved For Estate est une certification propriétaire créée par Le Vrai Maroc. Elle n’est pas une certification gouvernementale, administrative ou institutionnelle.',
+      'Non. S.A.F.E — Secure Approved For Estate est une méthodologie éditoriale indépendante créée par Le Vrai Maroc. Elle n’est pas une certification gouvernementale, administrative ou institutionnelle.',
   },
   {
     question: 'S.A.F.E garantit-elle qu’un projet est sans risque ?',
     answer:
-      'Non. S.A.F.E ne promet pas qu’un projet est sans risque. Elle indique qu’un projet a été étudié selon une grille propriétaire avant d’être présenté à l’acheteur.',
+      'Non. S.A.F.E ne promet pas qu’un projet est sans risque. Elle indique qu’un projet a été étudié selon une grille éditoriale avant d’être présenté à l’acheteur.',
   },
   {
     question: 'Que vérifie S.A.F.E avant de présenter un projet ?',
     answer:
-      'S.A.F.E analyse notamment la fiabilité du promoteur, la clarté du dossier, les paiements, les matériaux, la cohérence du prix, la livraison, la transparence et l’adéquation avec le profil de l’acheteur.',
+      'S.A.F.E analyse notamment le promoteur, le foncier, les autorisations, les contrats, les paiements, les matériaux, la cohérence du prix, la livraison et la transparence du dossier.',
   },
   {
     question: 'Pourquoi S.A.F.E est utile pour un achat sur plan ?',
@@ -117,9 +155,9 @@ const faqItems = [
       'Un achat sur plan expose l’acheteur à des zones d’incertitude : livraison future, qualité réelle, paiements, documents et suivi du projet. S.A.F.E aide à structurer ces questions avant la présentation du projet.',
   },
   {
-    question: 'Quelle est la différence entre S.A.F.E Review, S.A.F.E Certified, S.A.F.E Prime et S.A.F.E Confidential ?',
+    question: 'Quelle est la différence entre S.A.F.E Review, S.A.F.E Documenté, S.A.F.E Approfondi et S.A.F.E Confidential ?',
     answer:
-      'S.A.F.E Review désigne un projet encore en analyse. S.A.F.E Certified signale une validation des critères essentiels. S.A.F.E Prime correspond à un niveau supérieur de cohérence. S.A.F.E Confidential qualifie un projet dont le dossier détaillé n’est transmis qu’à des acheteurs qualifiés.',
+      'S.A.F.E Review désigne un projet encore en analyse. S.A.F.E Documenté signale un dossier suffisamment lisible pour être étudié. S.A.F.E Approfondi correspond à un niveau supérieur de cohérence documentaire. S.A.F.E Confidential qualifie un projet dont le dossier détaillé n’est transmis qu’à des acheteurs qualifiés.',
   },
   {
     question: 'Est-ce que S.A.F.E remplace le notaire ou les vérifications juridiques ?',
@@ -130,9 +168,29 @@ const faqItems = [
 
 const internalLinks = [
   {
-    href: '/articles/dahir-maroc-immobilier-acheteur',
-    title: 'Dahir au Maroc et immobilier',
-    text: 'Comprendre le rôle des textes officiels avant d’acheter.',
+    href: '/articles/dahir-maroc-definition',
+    title: 'Dahir au Maroc : définition',
+    text: 'Relier les textes officiels marocains aux vérifications immobilières.',
+  },
+  {
+    href: '/articles/documents-promoteur-immobilier-maroc',
+    title: 'Documents promoteur immobilier',
+    text: 'Identifier les pièces à demander avant d’acheter auprès d’un promoteur.',
+  },
+  {
+    href: '/articles/investir-marrakech-2026',
+    title: 'Investir à Marrakech en 2026',
+    text: 'Utiliser S.A.F.E avant d’engager un investissement immobilier.',
+  },
+  {
+    href: '/articles/prix-immobilier-marrakech-2026',
+    title: 'Prix immobilier Marrakech 2026',
+    text: 'Contrôler la cohérence du prix avant de réserver ou signer.',
+  },
+  {
+    href: '/articles/tourisme-marrakech-2026-immobilier',
+    title: 'Tourisme et rendement locatif',
+    text: 'Challenger les promesses de rendement liées au tourisme.',
   },
   {
     href: '/articles/erreurs-acheter-marrakech',
@@ -141,20 +199,6 @@ const internalLinks = [
   },
   {
     href: '/articles/immobilier-marrakech-2026',
-    title: 'Immobilier Marrakech 2026',
-    text: 'Lire les tendances de prix, de demande et de projets neufs.',
-  },
-  {
-    href: '/articles/pourquoi-investir-marrakech',
-    title: 'Pourquoi investir à Marrakech',
-    text: 'Analyser les fondamentaux qui attirent les investisseurs.',
-  },
-  {
-    href: '/articles/marrakech-accessible-investisseurs',
-    title: 'Marrakech reste-t-elle accessible ?',
-    text: 'Comparer les budgets d’entrée et les profils d’acheteurs.',
-  },
-  {
     href: '/investissement',
     title: 'Investissement',
     text: 'Explorer les analyses patrimoniales et locatives.',
@@ -206,6 +250,29 @@ const clusterLinks = [
     href: '/prix-immobilier-marrakech',
     title: 'Prix immobilier à Marrakech',
     text: 'Comprendre la cohérence du prix avant d’acheter.',
+  },
+];
+
+const sourceLinks = [
+  {
+    href: 'https://www.sgg.gov.ma/BulletinOfficiel.aspx',
+    title: 'Secrétariat Général du Gouvernement — Bulletin officiel',
+    text: 'Référence de publication des textes juridiques marocains.',
+  },
+  {
+    href: 'https://www.ancfcc.gov.ma/produits-et-formalit%C3%A9s/produits/',
+    title: 'ANCFCC — titres et certificats',
+    text: 'Source officielle sur le titre foncier, certificat de propriété et certificats d’inscription.',
+  },
+  {
+    href: 'https://ancfcc.gov.ma/IndicePrixImmobiliers/',
+    title: 'ANCFCC — Indice des Prix des Actifs Immobiliers',
+    text: 'Référence institutionnelle pour suivre les publications IPAI.',
+  },
+  {
+    href: 'https://mtaess.gov.ma/fr/tourisme/metiers-tourisme/hebergement-touristique/',
+    title: 'Ministère du Tourisme — hébergement touristique',
+    text: 'Repère réglementaire pour les projets à usage touristique ou locatif.',
   },
 ];
 
@@ -289,8 +356,11 @@ const faqSchema = {
           <h1 id="safe-hero-title" class="max-w-4xl text-4xl font-black leading-[1.04] sm:text-5xl lg:text-6xl">
             {SAFE_BRAND}
           </h1>
-          <p class="mt-4 text-base font-semibold text-rdm-orange">
-            Certification propriétaire de projets immobiliers
+  <p class="mt-4 text-base font-semibold text-rdm-orange">
+            Méthodologie éditoriale indépendante de vérification immobilière
+          </p>
+          <p class="mt-3 inline-flex max-w-3xl rounded-full border border-white/20 bg-white/10 px-4 py-2 text-xs font-semibold uppercase tracking-wide text-white/75">
+            Ne constitue pas une certification publique ni un avis juridique
           </p>
           <p class="mt-6 max-w-2xl text-lg leading-relaxed text-white/75">
             Une grille d’analyse conçue pour mieux qualifier les projets immobiliers avant leur présentation à l’acheteur.
@@ -329,10 +399,13 @@ const faqSchema = {
         </div>
         <div class="space-y-5 text-lg leading-relaxed text-rdm-gray">
           <p>
-            {SAFE_BRAND} est une certification propriétaire créée pour mieux qualifier les projets immobiliers avant leur présentation à l’acheteur.
+            {SAFE_BRAND} est une méthodologie éditoriale indépendante créée par Le Vrai Maroc pour mieux qualifier les projets immobiliers avant leur présentation à l’acheteur.
           </p>
           <p>
-            Un projet certifié S.A.F.E n’est pas simplement un projet disponible. C’est un projet analysé selon une grille de vérification structurée, construite autour des principaux points de risque d’un achat immobilier : promoteur, dossier juridique, paiements, matériaux, prix, livraison, transparence et adéquation avec le profil de l’acheteur.
+            Un projet analysé selon S.A.F.E n’est pas simplement un projet disponible. C’est un projet relu selon une grille de vérification structurée, construite autour des principaux points de risque d’un achat immobilier : promoteur, foncier, autorisations, dossier juridique, paiements, matériaux, prix, livraison et transparence.
+          </p>
+          <p class="rounded-lg border border-amber-200 bg-amber-50 p-4 text-sm text-amber-900">
+            Méthodologie éditoriale indépendante — ne constitue pas une certification publique ni un avis juridique. Les vérifications notariales, juridiques, fiscales, financières et techniques restent nécessaires avant toute acquisition.
           </p>
         </div>
       </div>
@@ -416,6 +489,53 @@ const faqSchema = {
     </div>
   </section>
 
+  <section class="bg-white py-18 lg:py-24" aria-labelledby="seven-pillars-heading">
+    <div class="container-rdm">
+      <div class="mb-10 grid gap-6 lg:grid-cols-[0.75fr_1fr] lg:items-end">
+        <div>
+          <p class="section-label mb-3">Les 7 piliers de vérification</p>
+          <h2 id="seven-pillars-heading" class="text-3xl font-black leading-tight text-rdm-black sm:text-4xl">
+            Comment S.A.F.E organise une due diligence immobilière au Maroc
+          </h2>
+        </div>
+        <p class="max-w-2xl text-rdm-gray leading-relaxed">
+          La méthode S.A.F.E immobilier Maroc ne remplace pas un notaire ou un avocat. Elle classe les contrôles à effectuer pour comprendre un projet immobilier vérifié Maroc : qui vend, sur quel foncier, avec quelles autorisations, à quel prix, selon quel contrat et avec quelles conditions de livraison.
+        </p>
+      </div>
+
+      <div class="grid gap-4 md:grid-cols-2 xl:grid-cols-7">
+        {sevenPillars.map((pillar) => (
+          <article class="rounded-lg border border-rdm-border bg-rdm-bg p-5">
+            <p class="mb-3 text-xs font-black uppercase text-rdm-orange">{pillar.label}</p>
+            <h3 class="mb-3 text-base font-black leading-tight text-rdm-black">{pillar.title}</h3>
+            <p class="text-xs leading-relaxed text-rdm-gray">{pillar.text}</p>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="bg-rdm-bg py-18 lg:py-24" aria-labelledby="documents-heading">
+    <div class="container-rdm">
+      <div class="grid gap-8 lg:grid-cols-[0.8fr_1.2fr] lg:items-start">
+        <div>
+          <p class="section-label mb-3">Documents et droit marocain</p>
+          <h2 id="documents-heading" class="text-3xl font-black leading-tight text-rdm-black sm:text-4xl">
+            Dahirs, titres, permis et contrats : ce que la méthode ne doit pas interpréter seule
+          </h2>
+        </div>
+        <div class="space-y-5 text-lg leading-relaxed text-rdm-gray">
+          <p>
+            Le pilier légal de S.A.F.E consiste à identifier les documents et références applicables : titre foncier, certificat de propriété, permis de construire, plans approuvés, contrat de réservation, règlement de copropriété, mais aussi les dahirs, lois, décrets ou règles foncières cités dans le dossier.
+          </p>
+          <p>
+            S.A.F.E aide à organiser cette lecture ; elle ne tranche pas le droit à la place d’un professionnel qualifié. Pour comprendre ce vocabulaire, lisez notre guide sur le <a href="/articles/dahir-maroc-definition" class="text-rdm-orange underline underline-offset-4">dahir au Maroc</a> et la checklist des <a href="/articles/documents-promoteur-immobilier-maroc" class="text-rdm-orange underline underline-offset-4">documents à vérifier auprès d’un promoteur immobilier</a>.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <section id="criteres-safe" class="scroll-mt-24 bg-white py-18 lg:py-24" aria-labelledby="criteria-heading">
     <div class="container-rdm">
       <div class="mb-10 grid gap-6 lg:grid-cols-[0.75fr_1fr] lg:items-end">
@@ -477,12 +597,95 @@ const faqSchema = {
         <div class="space-y-5 text-lg leading-relaxed text-rdm-gray">
           <p class="font-semibold text-rdm-black">S.A.F.E ne promet pas qu’un projet est sans risque.</p>
           <p class="font-semibold text-rdm-black">
-            S.A.F.E garantit seulement qu’un projet a été étudié selon une grille propriétaire avant d’être présenté à l’acheteur.
+            S.A.F.E indique seulement qu’un projet a été étudié selon une grille éditoriale avant d’être présenté à l’acheteur.
           </p>
           <p>
-            La certification ne remplace pas les vérifications juridiques, notariales, techniques ou financières nécessaires avant toute acquisition. Elle constitue un premier filtre de confiance, conçu pour mieux qualifier les projets, réduire les zones floues et permettre à l’acheteur d’avancer avec plus de méthode.
+            La méthode ne remplace pas les vérifications juridiques, notariales, techniques ou financières nécessaires avant toute acquisition. Elle constitue un premier filtre de confiance, conçu pour mieux qualifier les projets, réduire les zones floues et permettre à l’acheteur d’avancer avec plus de méthode.
+          </p>
+          <p class="text-sm">
+            Version de méthodologie : S.A.F.E v1.1 — dernière revue éditoriale : 17 juillet 2026 — propriétaire éditorial : Rédaction Le Vrai Maroc.
           </p>
         </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="bg-rdm-bg py-18 lg:py-24" aria-labelledby="scope-heading">
+    <div class="container-rdm">
+      <div class="grid gap-8 lg:grid-cols-[0.9fr_1.1fr] lg:items-start">
+        <div>
+          <p class="section-label mb-3">Périmètre et limites</p>
+          <h2 id="scope-heading" class="text-3xl font-black leading-tight text-rdm-black sm:text-4xl">
+            Ce que S.A.F.E est — et ce que S.A.F.E n’est pas
+          </h2>
+        </div>
+        <div class="grid gap-4 md:grid-cols-2">
+          <article class="rounded-lg border border-rdm-border bg-white p-6 shadow-card">
+            <h3 class="mb-4 text-lg font-black text-rdm-black">S.A.F.E est</h3>
+            <ul class="space-y-3 text-sm leading-relaxed text-rdm-gray">
+              <li>Une méthode SAFE immobilier indépendante.</li>
+              <li>Une grille de due diligence immobilière Maroc.</li>
+              <li>Un cadre de vérification promoteur, foncier, contrat, prix et livraison.</li>
+              <li>Une approche d’éducation acheteur et de réduction des zones floues.</li>
+            </ul>
+          </article>
+          <article class="rounded-lg border border-amber-200 bg-amber-50 p-6 shadow-card">
+            <h3 class="mb-4 text-lg font-black text-rdm-black">S.A.F.E n’est pas</h3>
+            <ul class="space-y-3 text-sm leading-relaxed text-amber-900">
+              <li>Une certification publique ou un label officiel marocain.</li>
+              <li>Une garantie de propriété, livraison, conformité ou rentabilité.</li>
+              <li>Un avis juridique, fiscal, technique ou notarial.</li>
+              <li>Un substitut au notaire, à l’avocat ou aux administrations compétentes.</li>
+            </ul>
+          </article>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="bg-white py-18 lg:py-24" aria-labelledby="checklist-heading">
+    <div class="container-rdm">
+      <div class="mx-auto max-w-4xl">
+        <p class="section-label mb-3">Checklist acheteur</p>
+        <h2 id="checklist-heading" class="mb-6 text-3xl font-black leading-tight text-rdm-black sm:text-4xl">
+          Utiliser S.A.F.E avant de réserver ou signer
+        </h2>
+        <div class="grid gap-3 sm:grid-cols-2">
+          {[
+            'Identifier le promoteur, la société porteuse et les projets déjà livrés.',
+            'Demander titre foncier, certificat de propriété et informations foncières récentes.',
+            'Comparer permis, plans approuvés et brochure commerciale.',
+            'Lire le contrat de réservation, l’échéancier et les conditions de remboursement.',
+            'Comparer le prix au quartier, aux surfaces contractuelles et aux coûts cachés.',
+            'Prévoir une revue indépendante par notaire, avocat ou professionnel qualifié.',
+          ].map((item) => (
+            <div class="rounded-lg border border-rdm-border bg-rdm-bg p-4 text-sm leading-relaxed text-rdm-gray">
+              {item}
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="bg-rdm-bg py-18 lg:py-24" aria-labelledby="sources-heading">
+    <div class="container-rdm">
+      <div class="mb-8 max-w-2xl">
+        <p class="section-label mb-3">Sources et références</p>
+        <h2 id="sources-heading" class="text-3xl font-black leading-tight text-rdm-black sm:text-4xl">
+          Références utilisées pour orienter la méthode
+        </h2>
+        <p class="mt-4 text-rdm-gray leading-relaxed">
+          Ces sources servent à orienter les vérifications documentaires. Elles ne remplacent pas l’analyse d’un dossier précis par un professionnel qualifié.
+        </p>
+      </div>
+      <div class="grid gap-4 md:grid-cols-2">
+        {sourceLinks.map((source) => (
+          <a href={source.href} target="_blank" rel="noopener noreferrer" class="rounded-lg border border-rdm-border bg-white p-5 shadow-card transition-colors hover:border-rdm-orange/60">
+            <h3 class="mb-2 font-black text-rdm-black">{source.title}</h3>
+            <p class="text-sm leading-relaxed text-rdm-gray">{source.text}</p>
+          </a>
+        ))}
       </div>
     </div>
   </section>

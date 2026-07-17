@@ -20,13 +20,31 @@ interface Props {
 }
 
 const { article, relatedArticles, headings, alternates } = Astro.props;
-const { title, metaTitle, metaDescription, category, tags, date, readingTime, excerpt, heroImage, imageAlt, sources, disclaimer } = article.data;
+const { title, metaTitle, metaDescription, category, tags, date, updatedDate, readingTime, excerpt, heroImage, imageAlt, sources, disclaimer } = article.data;
 const locale = articleLocale(article);
 const localeInfo = localeMeta[locale];
 const currentUi = ui[locale];
 const categoryKey = category as keyof typeof categoryRouteKeys;
 const categoryCopy = categoryCopies[locale][categoryKey];
 const categoryHref = localizedPath(locale, categoryRouteKeys[categoryKey]);
+const editorialRoleLabel = {
+  fr: 'Analyse éditoriale',
+  en: 'Editorial analysis',
+  es: 'Análisis editorial',
+  nl: 'Redactionele analyse',
+}[locale];
+const updatedDateLabel = {
+  fr: 'Mis à jour le',
+  en: 'Updated on',
+  es: 'Actualizado el',
+  nl: 'Bijgewerkt op',
+}[locale];
+const breadcrumbLabel = {
+  fr: "Fil d'Ariane",
+  en: 'Breadcrumb',
+  es: 'Miga de pan',
+  nl: 'Broodkruimel',
+}[locale];
 
 // Preserve absolute URLs (https://...) unchanged; prepend / for relative paths
 const ogImage = heroImage.startsWith('http') ? heroImage : (heroImage.startsWith('/') ? heroImage : `/${heroImage}`);
@@ -38,6 +56,14 @@ const formattedDate = new Intl.DateTimeFormat(localeInfo.htmlLang, {
   month: 'long',
   day: 'numeric',
 }).format(date);
+
+const formattedUpdatedDate = updatedDate
+  ? new Intl.DateTimeFormat(localeInfo.htmlLang, {
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric',
+    }).format(updatedDate)
+  : undefined;
 
 const blogPostingSchema = {
   '@context': 'https://schema.org',
@@ -91,6 +117,7 @@ const breadcrumbSchema = {
   locale={locale}
   alternates={alternates}
 >
+  <div class="reading-progress" aria-hidden="true"><span></span></div>
   <Fragment slot="head">
     <script type="application/ld+json" set:html={JSON.stringify(blogPostingSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
@@ -100,7 +127,7 @@ const breadcrumbSchema = {
   <section class="relative bg-rdm-bg pt-8 pb-0 overflow-hidden">
     <!-- Breadcrumb -->
     <div class="container-rdm mb-6">
-      <nav aria-label="Fil d'Ariane" class="flex items-center gap-2 text-sm text-rdm-gray">
+      <nav aria-label={breadcrumbLabel} class="flex items-center gap-2 text-sm text-rdm-gray">
         <a href={localizedPath(locale, 'home')} class="hover:text-rdm-orange transition-colors">{currentUi.labels.home}</a>
         <span aria-hidden="true">/</span>
         <a href={categoryHref} class="hover:text-rdm-orange transition-colors">{categoryCopy.label}</a>
@@ -122,6 +149,7 @@ const breadcrumbSchema = {
         <div class="flex items-center gap-2">
           <div class="w-7 h-7 rounded-full bg-rdm-orange flex items-center justify-center text-white text-xs font-bold">R</div>
           <span class="font-medium text-rdm-black">{SITE.author}</span>
+          <span class="hidden sm:inline text-rdm-gray">· {editorialRoleLabel}</span>
         </div>
         <time datetime={date.toISOString()} class="flex items-center gap-1">
           <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
@@ -135,6 +163,11 @@ const breadcrumbSchema = {
           </svg>
           {readingTime} {currentUi.labels.minutesRead}
         </span>
+        {formattedUpdatedDate && (
+          <span class="flex items-center gap-1 rounded-full bg-white px-3 py-1 border border-rdm-border text-rdm-black">
+            {updatedDateLabel} {formattedUpdatedDate}
+          </span>
+        )}
       </div>
     </div>
 
@@ -244,6 +277,18 @@ const breadcrumbSchema = {
   // Active heading tracking for ToC
   const headings = document.querySelectorAll('article h2, article h3');
   const tocLinks = document.querySelectorAll('.toc-link');
+  const progressBar = document.querySelector('.reading-progress span') as HTMLElement | null;
+
+  if (progressBar) {
+    const updateProgress = () => {
+      const scrollable = document.documentElement.scrollHeight - window.innerHeight;
+      const progress = scrollable > 0 ? Math.min(100, Math.max(0, (window.scrollY / scrollable) * 100)) : 0;
+      progressBar.style.width = `${progress}%`;
+    };
+
+    updateProgress();
+    window.addEventListener('scroll', updateProgress, { passive: true });
+  }
 
   if (headings.length && tocLinks.length) {
     const observer = new IntersectionObserver(
