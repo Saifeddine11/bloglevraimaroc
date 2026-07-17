@@ -61,6 +61,24 @@ const safeSupportLinks = {
     { href: '/nl/artikelen/investeren-marrakech-2026', title: 'Investeren in Marrakech in 2026' },
   ],
 }[locale];
+const safeLimitCopy = {
+  fr: {
+    heading: 'Statut interne et limites',
+    body: 'Dans S.A.F.E, “Approved” désigne uniquement un statut interne de méthodologie éditoriale. Ce n’est pas une validation publique, administrative ou institutionnelle, ni un conseil juridique, fiscal, financier, technique ou notarial.',
+  },
+  en: {
+    heading: 'Internal status and limits',
+    body: 'In S.A.F.E, “Approved” means only an internal editorial-methodology status. It is not a public, administrative or institutional approval, and it is not legal, tax, financial, technical or notarial advice.',
+  },
+  es: {
+    heading: 'Estatus interno y límites',
+    body: 'En S.A.F.E, “Approved” designa únicamente un estatus interno de metodología editorial. No es una validación pública, administrativa o institucional, ni asesoramiento jurídico, fiscal, financiero, técnico o notarial.',
+  },
+  nl: {
+    heading: 'Interne status en grenzen',
+    body: 'Binnen S.A.F.E betekent “Approved” alleen een interne status van de redactionele methodologie. Het is geen publieke, administratieve of institutionele goedkeuring, en ook geen juridisch, fiscaal, financieel, technisch of notarieel advies.',
+  },
+}[locale];
 const staticCopy =
   routeKey === 'blog' || routeKey === 'about' || routeKey === 'legal' || routeKey === 'privacy' || routeKey === 'notFound'
     ? staticPages[locale][routeKey]
@@ -372,6 +390,10 @@ const latestArticles = articles.slice(0, 6);
             {safeCopy.checks.map((item) => (
               <div class="glass-card p-6"><h2 class="font-black text-rdm-black mb-2">{item.label}</h2><p class="text-sm text-rdm-gray leading-relaxed">{item.text}</p></div>
             ))}
+          </div>
+          <div class="mt-8 rounded-lg border border-amber-200 bg-amber-50 p-5 text-amber-950">
+            <h2 class="mb-2 text-base font-black">{safeLimitCopy.heading}</h2>
+            <p class="text-sm leading-relaxed">{safeLimitCopy.body}</p>
           </div>
         </div>
       </section>

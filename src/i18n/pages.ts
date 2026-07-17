@@ -801,7 +801,7 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
       { label: 'Phrase média', text: 'La méthode analyse promoteur, dossier, paiements, matériaux, prix, livraison, transparence et profil acheteur.' },
     ],
     faq: [
-      { question: 'S.A.F.E est-elle officielle ?', answer: 'Non. S.A.F.E est une méthode éditoriale indépendante de Le Vrai Maroc, non gouvernementale et non institutionnelle.' },
+      { question: 'S.A.F.E est-elle officielle ?', answer: 'Non. S.A.F.E est une méthode éditoriale indépendante de Le Vrai Maroc. “Approved” désigne un statut interne de méthode éditoriale, pas une validation publique, administrative ou institutionnelle.' },
       { question: 'S.A.F.E remplace-t-elle un notaire ?', answer: 'Non. Elle ne remplace jamais les vérifications juridiques, notariales, techniques, fiscales ou financières.' },
       { question: 'Que vérifie S.A.F.E ?', answer: 'La grille analyse notamment le promoteur, le dossier, les paiements, la qualité, le prix, la livraison et la transparence.' },
     ],
@@ -835,7 +835,7 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
       { label: 'Media wording', text: 'The method reviews developer, file, payments, materials, price, delivery, transparency and buyer fit.' },
     ],
     faq: [
-      { question: 'Is S.A.F.E official?', answer: 'No. S.A.F.E is an independent Le Vrai Maroc editorial method, not a government or institutional certification.' },
+      { question: 'Is S.A.F.E official?', answer: 'No. S.A.F.E is an independent Le Vrai Maroc editorial method. “Approved” means an internal editorial-methodology status, not public, administrative or institutional approval.' },
       { question: 'Does S.A.F.E replace a notary?', answer: 'No. It never replaces legal, notarial, technical, tax or financial checks.' },
       { question: 'What does S.A.F.E review?', answer: 'It reviews developer reliability, file clarity, payments, quality, price, delivery and transparency.' },
     ],
@@ -869,7 +869,7 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
       { label: 'Frase media', text: 'El método analiza promotor, expediente, pagos, materiales, precio, entrega, transparencia y perfil comprador.' },
     ],
     faq: [
-      { question: '¿S.A.F.E es oficial?', answer: 'No. S.A.F.E es un método editorial independiente de Le Vrai Maroc, no gubernamental ni institucional.' },
+      { question: '¿S.A.F.E es oficial?', answer: 'No. S.A.F.E es un método editorial independiente de Le Vrai Maroc. “Approved” designa un estatus interno de metodología editorial, no una validación pública, administrativa o institucional.' },
       { question: '¿S.A.F.E sustituye al notario?', answer: 'No. Nunca sustituye verificaciones jurídicas, notariales, técnicas, fiscales o financieras.' },
       { question: '¿Qué verifica S.A.F.E?', answer: 'Analiza promotor, expediente, pagos, calidad, precio, entrega y transparencia.' },
     ],
@@ -903,7 +903,7 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
       { label: 'Mediaformulering', text: 'De methode kijkt naar ontwikkelaar, dossier, betalingen, materialen, prijs, oplevering, transparantie en kopersprofiel.' },
     ],
     faq: [
-      { question: 'Is S.A.F.E officieel?', answer: 'Nee. S.A.F.E is een onafhankelijke redactionele methode van Le Vrai Maroc, niet van de overheid of een instelling.' },
+      { question: 'Is S.A.F.E officieel?', answer: 'Nee. S.A.F.E is een onafhankelijke redactionele methode van Le Vrai Maroc. “Approved” betekent een interne status van de redactionele methodologie, geen publieke, administratieve of institutionele goedkeuring.' },
       { question: 'Vervangt S.A.F.E een notaris?', answer: 'Nee. Het vervangt nooit juridische, notariële, technische, fiscale of financiële controles.' },
       { question: 'Wat controleert S.A.F.E?', answer: 'Het beoordeelt ontwikkelaar, dossier, betalingen, kwaliteit, prijs, oplevering en transparantie.' },
     ],
