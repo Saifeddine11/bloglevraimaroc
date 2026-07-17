@@ -107,3 +107,18 @@ Les 6 articles SEO premium publiés le 17 juillet 2026 réutilisent uniquement d
 - `src/pages/index.astro` : image hero homepage.
 - `src/components/Hero.astro` : image hero par défaut.
 - `src/data/site.ts` : image Open Graph par défaut.
+
+## Réutilisation contrôlée — second cluster SEO multilingue du 2026-07-17
+
+Les 6 nouveaux articles du second cluster SEO multilingue réutilisent uniquement des images locales déjà optimisées et sourcées dans les sections précédentes de ce fichier. Aucune image concurrente, watermarquée, hotlinkée, non licenciée ou générée artificiellement comme réalité locale n'a été ajoutée.
+
+| Article | Placement | Fichiers locaux | Source / licence déjà enregistrée | Statut |
+|---|---|---|---|---|
+| Paiement immobilier en espèces au Maroc 2026 | Hero + sections | `fiscalite-immobiliere-marrakech-2026-2.webp`, `procedure-achat-immobilier-maroc-etape-par-etape-2.webp`, `dahir-maroc-immobilier-acheteur.webp` | Unsplash / image locale enregistrée | Installé |
+| Appartement neuf à Marrakech 2026 | Hero + sections | `macan-development-marrakech-rabat-2026.webp`, `gueliz-hivernage-palmeraie-investissement.webp`, `macan-development-marrakech-rabat-2026-2.webp`, `procedure-achat-immobilier-maroc-etape-par-etape-2.webp` | Unsplash / Wikimedia licences enregistrées | Installé |
+| Marché immobilier à Marrakech 2026 | Hero + sections | `immobilier-marrakech-2026.webp`, `gueliz-hivernage-palmeraie-investissement.webp`, `marrakech-investisseurs-immobiliers.webp`, `zones-amizmiz-agdal-targa.webp` | Wikimedia Commons licences enregistrées | Installé |
+| Traçabilité des paiements achat immobilier Maroc | Hero + sections | `procedure-achat-immobilier-maroc-etape-par-etape-2.webp`, `fiscalite-immobiliere-marrakech-2026-2.webp`, `dahir-maroc-immobilier-acheteur.webp`, `retenue-source-loyers-maroc-2026-2.webp` | Unsplash / image locale enregistrée | Installé |
+| Zones tourisme immobilier Marrakech 2026 | Hero + sections | `tourisme-prix-immobiliers-marrakech.webp`, `location-courte-duree-marrakech.webp`, `royal-air-maroc-ete-2026-marrakech-2.webp`, `marrakech-2030-infrastructures-tourisme.webp` | Wikimedia Commons / Unsplash licences enregistrées | Installé |
+| Marrakech 2030 infrastructures immobilier | Hero + sections | `marrakech-2030-infrastructures-tourisme.webp`, `marrakech-perspectives-marche-2026-2030.webp`, `royal-air-maroc-ete-2026-marrakech.webp`, `zones-amizmiz-agdal-targa.webp` | Wikimedia Commons / Unsplash licences enregistrées | Installé |
+
+**Audit multilingue** : les versions anglaises, espagnoles et néerlandaises utilisent les mêmes fichiers locaux, avec alt text et légendes localisés dans les articles. Les crédits complets restent centralisés ici afin d'éviter toute duplication de licence incohérente.
