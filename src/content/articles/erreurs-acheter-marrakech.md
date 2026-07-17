@@ -24,7 +24,7 @@ disclaimer: false
 
 Marrakech est une ville qui fait rêver. C'est aussi une ville où des acheteurs mal préparés se retrouvent avec des problèmes qu'ils n'avaient pas anticipés : biens sans titre clair, rénovations hors budget, rendements locatifs surestimés, voisinage bruyant, charges cachées. Ce guide ne vise pas à décourager — il vise à protéger.
 
-Pour les projets neufs ou sur plan, la [grille S.A.F.E — Secure Approved For Estate](/safe-certification-immobiliere) permet aussi de structurer l'analyse avant la présentation d'une opportunité.
+Pour les projets neufs ou sur plan, la [grille S.A.F.E — Security, Analysis, Fidelity & Expert Guidance](/safe-certification-immobiliere) permet aussi de structurer l'analyse avant la présentation d'une opportunité.
 
 Voici les huit erreurs les plus courantes observées sur le marché immobilier de Marrakech.
 

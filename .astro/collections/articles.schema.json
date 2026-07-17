@@ -8,6 +8,9 @@
     "slug": {
       "type": "string"
     },
+    "urlSlug": {
+      "type": "string"
+    },
     "locale": {
       "default": "fr",
       "type": "string",

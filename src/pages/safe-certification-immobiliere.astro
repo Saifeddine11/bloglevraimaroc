@@ -4,10 +4,12 @@ import SafeBadge from '@/components/SafeBadge.astro';
 import { SITE } from '@/data/site';
 import { SAFE_BRAND } from '@/data/safeCluster';
 
-const seoTitle = 'Méthode S.A.F.E immobilier : vérifier un projet au Maroc';
+const seoTitle = SAFE_BRAND;
 const pageTitle = SAFE_BRAND;
 const metaDescription =
-  'S.A.F.E — Secure Approved For Estate est la méthodologie éditoriale indépendante de Le Vrai Maroc pour vérifier un projet immobilier au Maroc : promoteur, titre, permis, prix, contrat, paiement et livraison.';
+  'S.A.F.E est une méthode propriétaire d’analyse et de présélection immobilière fondée sur quatre piliers : sécurisation du projet, analyse d’investissement, fiabilité d’exécution et encadrement acheteur.';
+const openGraphDescription =
+  'Une méthode propriétaire pour mieux analyser la sécurité du projet, la cohérence de l’investissement, la fiabilité d’exécution et l’encadrement de l’acheteur.';
 const canonicalURL = new URL('/safe-certification-immobiliere/', SITE.url).href;
 
 const checks = [
@@ -135,34 +137,34 @@ const formulas = [
 
 const faqItems = [
   {
+    question: 'Que signifie S.A.F.E ?',
+    answer:
+      'S.A.F.E signifie Security, Analysis, Fidelity & Expert Guidance. En français, la méthode repose sur quatre piliers : Sécurisation du projet, Analyse d’investissement, Fiabilité d’exécution et Encadrement acheteur.',
+  },
+  {
     question: 'S.A.F.E est-elle une certification officielle ?',
     answer:
-      'Non. S.A.F.E — Secure Approved For Estate est une méthodologie éditoriale indépendante créée par Le Vrai Maroc. Le mot “Approved” désigne uniquement un statut interne de méthode éditoriale, pas une validation publique, administrative ou institutionnelle.',
+      'Non. S.A.F.E est une méthode propriétaire d’analyse et de présélection immobilière. Elle ne constitue pas une certification officielle d’État.',
   },
   {
     question: 'S.A.F.E garantit-elle qu’un projet est sans risque ?',
     answer:
-      'Non. S.A.F.E ne promet pas qu’un projet est sans risque. Elle indique qu’un projet a été étudié selon une grille éditoriale avant d’être présenté à l’acheteur.',
+      'Non. S.A.F.E ne garantit pas l’absence de risque. Elle aide à structurer l’analyse d’un projet avant sa présentation à l’acheteur.',
   },
   {
-    question: 'Que vérifie S.A.F.E avant de présenter un projet ?',
+    question: 'S.A.F.E remplace-t-elle le notaire ou les vérifications juridiques ?',
     answer:
-      'S.A.F.E analyse notamment le promoteur, le foncier, les autorisations, les contrats, les paiements, les matériaux, la cohérence du prix, la livraison et la transparence du dossier.',
+      'Non. S.A.F.E ne remplace pas les vérifications juridiques, notariales, techniques, fiscales ou financières nécessaires avant toute acquisition.',
   },
   {
-    question: 'Pourquoi S.A.F.E est utile pour un achat sur plan ?',
+    question: 'Que signifie Fidelity dans S.A.F.E ?',
     answer:
-      'Un achat sur plan expose l’acheteur à des zones d’incertitude : livraison future, qualité réelle, paiements, documents et suivi du projet. S.A.F.E aide à structurer ces questions avant la présentation du projet.',
+      'Fidelity désigne la fidélité entre ce qui est annoncé et ce qui est réellement livré : plans, matériaux, finitions, délais, équipements et qualité d’exécution.',
   },
   {
-    question: 'Quelle est la différence entre S.A.F.E Review, S.A.F.E Documenté, S.A.F.E Approfondi et S.A.F.E Confidential ?',
+    question: 'Que signifie Expert Guidance ?',
     answer:
-      'S.A.F.E Review désigne un projet encore en analyse. S.A.F.E Documenté signale un dossier suffisamment lisible pour être étudié. S.A.F.E Approfondi correspond à un niveau supérieur de cohérence documentaire. S.A.F.E Confidential qualifie un projet dont le dossier détaillé n’est transmis qu’à des acheteurs qualifiés.',
-  },
-  {
-    question: 'Est-ce que S.A.F.E remplace le notaire ou les vérifications juridiques ?',
-    answer:
-      'Non. S.A.F.E ne remplace jamais les vérifications juridiques, notariales, techniques ou financières nécessaires avant une acquisition. Elle constitue un premier filtre de confiance et de qualification.',
+      'Expert Guidance désigne l’encadrement de l’acheteur : compréhension du dossier, documents à demander, échéancier de paiement, réservation, étapes notariales, livraison et aide à la décision.',
   },
 ];
 
@@ -321,7 +323,12 @@ const faqSchema = {
 
 <BaseLayout
   title={seoTitle}
+  titleSuffix={false}
   description={metaDescription}
+  ogTitle={SAFE_BRAND}
+  ogDescription={openGraphDescription}
+  twitterTitle={SAFE_BRAND}
+  twitterDescription={openGraphDescription}
   canonicalURL={canonicalURL}
 >
   <Fragment slot="head">
@@ -366,7 +373,7 @@ const faqSchema = {
             Une grille d’analyse conçue pour mieux qualifier les projets immobiliers avant leur présentation à l’acheteur.
           </p>
           <p class="mt-6 max-w-3xl text-base leading-relaxed text-white/70">
-            {SAFE_BRAND} répond à une réalité simple : dans un achat immobilier, surtout sur plan, l’acheteur ne craint pas seulement le prix. Il craint de choisir le mauvais promoteur, de ne pas être livré, de ne pas comprendre le montage du projet, de découvrir des informations trop tard ou de ne pas recevoir ce qui lui a été présenté.
+            S.A.F.E répond à une réalité simple : dans un achat immobilier, surtout sur plan, l’acheteur ne craint pas seulement le prix. Il craint de choisir le mauvais promoteur, de ne pas être livré, de ne pas comprendre le montage du projet, de découvrir des informations trop tard ou de ne pas recevoir ce qui lui a été présenté.
           </p>
           <div class="mt-9 flex flex-wrap gap-3">
             <a href="#methode-safe" class="btn-orange">
@@ -399,13 +406,13 @@ const faqSchema = {
         </div>
         <div class="space-y-5 text-lg leading-relaxed text-rdm-gray">
           <p>
-            {SAFE_BRAND} est une méthodologie éditoriale indépendante créée par Le Vrai Maroc pour mieux qualifier les projets immobiliers avant leur présentation à l’acheteur.
+            S.A.F.E — Security, Analysis, Fidelity & Expert Guidance est une méthode propriétaire d’analyse et de présélection immobilière. En français, elle repose sur quatre piliers : Sécurisation du projet, Analyse d’investissement, Fiabilité d’exécution et Encadrement acheteur.
           </p>
           <p>
             Un projet analysé selon S.A.F.E n’est pas simplement un projet disponible. C’est un projet relu selon une grille de vérification structurée, construite autour des principaux points de risque d’un achat immobilier : promoteur, foncier, autorisations, dossier juridique, paiements, matériaux, prix, livraison et transparence.
           </p>
           <p class="rounded-lg border border-amber-200 bg-amber-50 p-4 text-sm text-amber-900">
-            Méthodologie éditoriale indépendante — ne constitue pas une certification publique ni un avis juridique. Les vérifications notariales, juridiques, fiscales, financières et techniques restent nécessaires avant toute acquisition.
+            S.A.F.E est une méthode propriétaire d’analyse et de présélection. Elle ne constitue pas une certification officielle d’État, ne garantit pas l’absence de risque et ne remplace pas les vérifications juridiques, notariales, techniques, fiscales ou financières nécessaires avant toute acquisition.
           </p>
         </div>
       </div>
@@ -429,7 +436,7 @@ const faqSchema = {
               <path stroke-linecap="round" stroke-linejoin="round" d="m9.5 12 1.7 1.7 3.8-4" />
             </svg>
           </div>
-          <p class="mb-2 text-sm font-bold text-rdm-orange">S — Sécurité du projet</p>
+          <p class="mb-2 text-sm font-bold text-rdm-orange">S — Sécurisation du projet</p>
           <p class="text-sm leading-relaxed text-rdm-gray">
             La première condition S.A.F.E concerne la solidité du projet dans son ensemble. Le promoteur doit être identifiable, son historique doit pouvoir être étudié, et le projet doit présenter des éléments concrets permettant d’évaluer sa crédibilité : projets déjà livrés, projets témoins, réputation, qualité observée, autorisations disponibles et capacité réelle à mener le programme jusqu’à la livraison.
           </p>

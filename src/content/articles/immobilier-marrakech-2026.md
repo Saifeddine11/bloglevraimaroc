@@ -102,7 +102,7 @@ Outre les quartiers établis, plusieurs zones méritent attention.
 
 La **Route d'Amizmiz** concentre l'essentiel des projets off-plan du moment. Les prix d'entrée y restent accessibles (8 000 à 14 000 MAD/m²) et le potentiel de plus-value est réel, à condition que l'infrastructure se développe comme prévu.
 
-Sur ce type de programme, une [analyse S.A.F.E — Secure Approved For Estate pour un projet sur plan](/safe-certification-immobiliere) aide à relire le promoteur, le dossier, les paiements, les matériaux, le prix et les conditions de livraison avant de présenter l'opportunité. Le guide [acheter sur plan à Marrakech](/acheter-sur-plan-marrakech) reprend cette logique avant toute réservation.
+Sur ce type de programme, une [analyse S.A.F.E — Security, Analysis, Fidelity & Expert Guidance pour un projet sur plan](/safe-certification-immobiliere) aide à relire le promoteur, le dossier, les paiements, les matériaux, le prix et les conditions de livraison avant de présenter l'opportunité. Le guide [acheter sur plan à Marrakech](/acheter-sur-plan-marrakech) reprend cette logique avant toute réservation.
 
 **Targa** attire les promoteurs qui ciblent les primo-accédants marocains et les budgets plus serrés. Moins glamour, mais potentiellement intéressant pour les investisseurs qui parient sur la densification urbaine.
 

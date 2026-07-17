@@ -72,7 +72,7 @@ Pour replacer ce sujet dans une stratégie plus large, consultez aussi [investir
 
 <div class="article-method">
   <span class="article-kicker">Méthodologie éditoriale indépendante — ne constitue pas une certification publique ni un avis juridique.</span>
-  <p>Dans la <a href="/safe-certification-immobiliere">méthode S.A.F.E. Secure Approved For Estate</a>, les documents ne servent pas à “faire joli” dans un dossier de vente. Ils permettent de classer les contrôles : promoteur, foncier, autorisations, contrat, paiements, qualité technique, prix et livraison. S.A.F.E. organise la vérification, mais ne remplace jamais le notaire, l’avocat, l’architecte ou l’administration compétente.</p>
+  <p>Dans la <a href="/safe-certification-immobiliere">méthode S.A.F.E — Security, Analysis, Fidelity & Expert Guidance</a>, les documents ne servent pas à “faire joli” dans un dossier de vente. Ils permettent de classer les contrôles : promoteur, foncier, autorisations, contrat, paiements, qualité technique, prix et livraison. S.A.F.E. organise la vérification, mais ne remplace jamais le notaire, l’avocat, l’architecte ou l’administration compétente.</p>
 </div>
 
 <table>

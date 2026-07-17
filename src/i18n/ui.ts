@@ -67,7 +67,7 @@ export const ui = {
       rights: 'Tous droits réservés.',
       rss: 'Flux RSS',
       trustLinks: {
-        safe: 'Méthode S.A.F.E — Secure Approved For Estate',
+        safe: 'Méthode S.A.F.E — Security, Analysis, Fidelity & Expert Guidance',
         offPlan: 'Acheter sur plan au Maroc',
         developer: 'Vérifier un promoteur',
         risks: 'Risques achat immobilier',
@@ -174,7 +174,7 @@ export const ui = {
       rights: 'All rights reserved.',
       rss: 'RSS feed',
       trustLinks: {
-        safe: 'S.A.F.E Method — Secure Approved For Estate',
+        safe: 'S.A.F.E Method — Security, Analysis, Fidelity & Expert Guidance',
         offPlan: 'Buying off-plan in Morocco',
         developer: 'Check a developer',
         risks: 'Real estate purchase risks',
@@ -279,7 +279,7 @@ export const ui = {
       rights: 'Todos los derechos reservados.',
       rss: 'RSS',
       trustLinks: {
-        safe: 'Método S.A.F.E — Secure Approved For Estate',
+        safe: 'Método S.A.F.E — Security, Analysis, Fidelity & Expert Guidance',
         offPlan: 'Comprar sobre plano en Marruecos',
         developer: 'Verificar un promotor',
         risks: 'Riesgos de compra inmobiliaria',
@@ -384,7 +384,7 @@ export const ui = {
       rights: 'Alle rechten voorbehouden.',
       rss: 'RSS-feed',
       trustLinks: {
-        safe: 'S.A.F.E-methode — Secure Approved For Estate',
+        safe: 'S.A.F.E-methode — Security, Analysis, Fidelity & Expert Guidance',
         offPlan: 'Off-plan kopen in Marokko',
         developer: 'Ontwikkelaar controleren',
         risks: 'Risico’s bij vastgoedaankoop',

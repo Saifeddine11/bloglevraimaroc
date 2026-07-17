@@ -1,4 +1,4 @@
-export const SAFE_BRAND = 'S.A.F.E — Secure Approved For Estate';
+export const SAFE_BRAND = 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance';
 
 export interface SafeFaqItem {
   question: string;

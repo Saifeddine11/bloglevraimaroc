@@ -773,13 +773,13 @@ export const staticPages: Record<Locale, Record<'blog' | 'about' | 'legal' | 'pr
 
 export const safePageCopies: Record<Locale, SafePageCopy> = {
   fr: {
-    metaTitle: 'S.A.F.E — Secure Approved For Estate : méthode de vérification immobilière au Maroc',
+    metaTitle: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance',
     metaDescription:
-      'S.A.F.E — Secure Approved For Estate est une méthode éditoriale indépendante pour analyser les projets immobiliers selon des critères de confiance.',
-    eyebrow: 'Méthode éditoriale indépendante',
-    h1: 'S.A.F.E — Secure Approved For Estate',
+      'S.A.F.E est une méthode propriétaire d’analyse et de présélection immobilière fondée sur quatre piliers : sécurisation du projet, analyse d’investissement, fiabilité d’exécution et encadrement acheteur.',
+    eyebrow: 'Méthode propriétaire d’analyse',
+    h1: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance',
     intro:
-      "S.A.F.E est une grille propriétaire de présélection et d’analyse. Elle ne remplace pas les vérifications juridiques, notariales, techniques ou financières.",
+      "S.A.F.E est une méthode propriétaire d’analyse et de présélection immobilière. En français, elle repose sur quatre piliers : Sécurisation du projet, Analyse d’investissement, Fiabilité d’exécution et Encadrement acheteur.",
     checks: [
       { label: 'Fiabilité du promoteur', text: 'Identification de l’opérateur, historique de livraison, réputation et capacité réelle à conduire le programme.' },
       { label: 'Clarté du dossier', text: 'Lecture des documents disponibles, autorisations communiquées, montage du projet et points à confirmer.' },
@@ -797,23 +797,26 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
       { label: 'S.A.F.E Confidential', text: 'Le dossier détaillé n’est transmis qu’à des acheteurs qualifiés.' },
     ],
     formulas: [
-      { label: 'Phrase de protection', text: 'S.A.F.E ne promet pas qu’un projet est sans risque. Elle indique qu’un projet a été étudié selon une grille propriétaire.' },
-      { label: 'Phrase média', text: 'La méthode analyse promoteur, dossier, paiements, matériaux, prix, livraison, transparence et profil acheteur.' },
+      { label: 'Définition officielle', text: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance est une méthode propriétaire d’analyse et de présélection immobilière.' },
+      { label: 'Clarification', text: 'S.A.F.E ne constitue pas une certification officielle d’État, ne garantit pas l’absence de risque et ne remplace pas les vérifications professionnelles nécessaires avant acquisition.' },
     ],
     faq: [
-      { question: 'S.A.F.E est-elle officielle ?', answer: 'Non. S.A.F.E est une méthode éditoriale indépendante de Le Vrai Maroc. “Approved” désigne un statut interne de méthode éditoriale, pas une validation publique, administrative ou institutionnelle.' },
-      { question: 'S.A.F.E remplace-t-elle un notaire ?', answer: 'Non. Elle ne remplace jamais les vérifications juridiques, notariales, techniques, fiscales ou financières.' },
-      { question: 'Que vérifie S.A.F.E ?', answer: 'La grille analyse notamment le promoteur, le dossier, les paiements, la qualité, le prix, la livraison et la transparence.' },
+      { question: 'Que signifie S.A.F.E ?', answer: 'S.A.F.E signifie Security, Analysis, Fidelity & Expert Guidance. En français, la méthode repose sur quatre piliers : Sécurisation du projet, Analyse d’investissement, Fiabilité d’exécution et Encadrement acheteur.' },
+      { question: 'S.A.F.E est-elle une certification officielle ?', answer: 'Non. S.A.F.E est une méthode propriétaire d’analyse et de présélection immobilière. Elle ne constitue pas une certification officielle d’État.' },
+      { question: 'S.A.F.E garantit-elle qu’un projet est sans risque ?', answer: 'Non. S.A.F.E ne garantit pas l’absence de risque. Elle aide à structurer l’analyse d’un projet avant sa présentation à l’acheteur.' },
+      { question: 'S.A.F.E remplace-t-elle le notaire ou les vérifications juridiques ?', answer: 'Non. S.A.F.E ne remplace pas les vérifications juridiques, notariales, techniques, fiscales ou financières nécessaires avant toute acquisition.' },
+      { question: 'Que signifie Fidelity dans S.A.F.E ?', answer: 'Fidelity désigne la fidélité entre ce qui est annoncé et ce qui est réellement livré : plans, matériaux, finitions, délais, équipements et qualité d’exécution.' },
+      { question: 'Que signifie Expert Guidance ?', answer: 'Expert Guidance désigne l’encadrement de l’acheteur : compréhension du dossier, documents à demander, échéancier de paiement, réservation, étapes notariales, livraison et aide à la décision.' },
     ],
   },
   en: {
-    metaTitle: 'S.A.F.E — Secure Approved For Estate: real-estate verification method in Morocco',
+    metaTitle: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance',
     metaDescription:
-      'S.A.F.E — Secure Approved For Estate is a proprietary framework for assessing real estate projects against key buyer-trust criteria.',
-    eyebrow: 'Independent editorial method',
-    h1: 'S.A.F.E — Secure Approved For Estate',
+      'S.A.F.E is a proprietary real-estate analysis and pre-selection method based on Security, Analysis, Fidelity and Expert Guidance.',
+    eyebrow: 'Proprietary analysis method',
+    h1: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance',
     intro:
-      'S.A.F.E is a proprietary prequalification and analysis framework. It does not replace legal, notarial, technical or financial checks.',
+      'S.A.F.E is a proprietary analysis and pre-selection method: Security for project security, Analysis for investment coherence, Fidelity for consistency between what is promised and delivered, and Expert Guidance for buyer support through documents, payments, notarial steps and delivery.',
     checks: [
       { label: 'Developer reliability', text: 'Identification of the operator, delivery history, reputation and real ability to execute the project.' },
       { label: 'File clarity', text: 'Review of available documents, shared authorizations, project structure and points still to confirm.' },
@@ -831,23 +834,26 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
       { label: 'S.A.F.E Confidential', text: 'The detailed file is shared only with qualified buyers.' },
     ],
     formulas: [
-      { label: 'Protection wording', text: 'S.A.F.E does not promise a risk-free project. It means the project was studied through a proprietary framework.' },
-      { label: 'Media wording', text: 'The method reviews developer, file, payments, materials, price, delivery, transparency and buyer fit.' },
+      { label: 'Official wording', text: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance is a proprietary real-estate analysis and pre-selection method.' },
+      { label: 'Clarification', text: 'S.A.F.E is not an official state certification, does not guarantee a risk-free project and does not replace professional due diligence before acquisition.' },
     ],
     faq: [
-      { question: 'Is S.A.F.E official?', answer: 'No. S.A.F.E is an independent Le Vrai Maroc editorial method. “Approved” means an internal editorial-methodology status, not public, administrative or institutional approval.' },
-      { question: 'Does S.A.F.E replace a notary?', answer: 'No. It never replaces legal, notarial, technical, tax or financial checks.' },
-      { question: 'What does S.A.F.E review?', answer: 'It reviews developer reliability, file clarity, payments, quality, price, delivery and transparency.' },
+      { question: 'What does S.A.F.E mean?', answer: 'S.A.F.E means Security, Analysis, Fidelity & Expert Guidance: project security, investment analysis and economic coherence, consistency between what is promised and delivered, and buyer guidance through documents, payments, notarial steps and delivery.' },
+      { question: 'Is S.A.F.E an official certification?', answer: 'No. S.A.F.E is a proprietary real-estate analysis and pre-selection method. It is not an official state certification.' },
+      { question: 'Does S.A.F.E guarantee a risk-free project?', answer: 'No. S.A.F.E does not guarantee the absence of risk. It helps structure a project review before presentation to the buyer.' },
+      { question: 'Does S.A.F.E replace the notary or legal checks?', answer: 'No. S.A.F.E does not replace the legal, notarial, technical, tax or financial checks required before any acquisition.' },
+      { question: 'What does Fidelity mean in S.A.F.E?', answer: 'Fidelity means consistency between what is promised and what is actually delivered: plans, materials, finishes, timelines, equipment and execution quality.' },
+      { question: 'What does Expert Guidance mean?', answer: 'Expert Guidance means buyer guidance: understanding the file, documents to request, payment schedule, reservation, notarial steps, delivery and decision support.' },
     ],
   },
   es: {
-    metaTitle: 'S.A.F.E — Secure Approved For Estate: método de verificación inmobiliaria en Marruecos',
+    metaTitle: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance',
     metaDescription:
-      'S.A.F.E — Secure Approved For Estate es una metodología propietaria para analizar proyectos inmobiliarios según criterios de confianza del comprador.',
-    eyebrow: 'Método editorial independiente',
-    h1: 'S.A.F.E — Secure Approved For Estate',
+      'S.A.F.E es un método propietario de análisis y preselección inmobiliaria basado en seguridad, análisis, fidelidad y acompañamiento experto.',
+    eyebrow: 'Método propietario de análisis',
+    h1: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance',
     intro:
-      'S.A.F.E es una metodología propietaria de preselección y análisis. No sustituye verificaciones jurídicas, notariales, técnicas ni financieras.',
+      'S.A.F.E es un método propietario de análisis y preselección inmobiliaria. Sus pilares se explican como seguridad del proyecto, análisis de inversión, fidelidad entre la promesa y la entrega, y acompañamiento experto del comprador.',
     checks: [
       { label: 'Fiabilidad del promotor', text: 'Identificación del operador, historial de entregas, reputación y capacidad real de ejecutar el proyecto.' },
       { label: 'Claridad del expediente', text: 'Revisión de documentos disponibles, autorizaciones comunicadas, estructura del proyecto y puntos por confirmar.' },
@@ -865,23 +871,26 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
       { label: 'S.A.F.E Confidential', text: 'El expediente detallado se comparte solo con compradores cualificados.' },
     ],
     formulas: [
-      { label: 'Frase de protección', text: 'S.A.F.E no promete que un proyecto esté libre de riesgo. Indica que fue estudiado con una metodología propietaria.' },
-      { label: 'Frase media', text: 'El método analiza promotor, expediente, pagos, materiales, precio, entrega, transparencia y perfil comprador.' },
+      { label: 'Definición oficial', text: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance es un método propietario de análisis y preselección inmobiliaria.' },
+      { label: 'Clarificación', text: 'S.A.F.E no es una certificación oficial del Estado, no garantiza ausencia de riesgo y no sustituye las verificaciones profesionales antes de comprar.' },
     ],
     faq: [
-      { question: '¿S.A.F.E es oficial?', answer: 'No. S.A.F.E es un método editorial independiente de Le Vrai Maroc. “Approved” designa un estatus interno de metodología editorial, no una validación pública, administrativa o institucional.' },
-      { question: '¿S.A.F.E sustituye al notario?', answer: 'No. Nunca sustituye verificaciones jurídicas, notariales, técnicas, fiscales o financieras.' },
-      { question: '¿Qué verifica S.A.F.E?', answer: 'Analiza promotor, expediente, pagos, calidad, precio, entrega y transparencia.' },
+      { question: '¿Qué significa S.A.F.E?', answer: 'S.A.F.E significa Security, Analysis, Fidelity & Expert Guidance. En español, sus pilares se explican como seguridad del proyecto, análisis de inversión, fidelidad entre la promesa y la entrega, y acompañamiento experto del comprador.' },
+      { question: '¿S.A.F.E es una certificación oficial?', answer: 'No. S.A.F.E es un método propietario de análisis y preselección inmobiliaria. No constituye una certificación oficial del Estado.' },
+      { question: '¿S.A.F.E garantiza que un proyecto no tenga riesgo?', answer: 'No. S.A.F.E no garantiza la ausencia de riesgo. Ayuda a estructurar el análisis de un proyecto antes de presentarlo al comprador.' },
+      { question: '¿S.A.F.E sustituye al notario o las verificaciones jurídicas?', answer: 'No. S.A.F.E no sustituye las verificaciones jurídicas, notariales, técnicas, fiscales o financieras necesarias antes de cualquier adquisición.' },
+      { question: '¿Qué significa Fidelity en S.A.F.E?', answer: 'Fidelity designa la fidelidad entre lo anunciado y lo realmente entregado: planos, materiales, acabados, plazos, equipamientos y calidad de ejecución.' },
+      { question: '¿Qué significa Expert Guidance?', answer: 'Expert Guidance designa el acompañamiento del comprador: comprensión del expediente, documentos que pedir, calendario de pagos, reserva, etapas notariales, entrega y ayuda a la decisión.' },
     ],
   },
   nl: {
-    metaTitle: 'S.A.F.E — Secure Approved For Estate: vastgoedcontrolemethode in Marokko',
+    metaTitle: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance',
     metaDescription:
-      'S.A.F.E — Secure Approved For Estate is een eigen analysekader voor vastgoedprojecten op basis van vertrouwenscriteria voor kopers.',
-    eyebrow: 'Onafhankelijke redactionele methode',
-    h1: 'S.A.F.E — Secure Approved For Estate',
+      'S.A.F.E is een eigen methode voor vastgoedanalyse en voorselectie op basis van Security, Analysis, Fidelity en Expert Guidance.',
+    eyebrow: 'Eigen analysemethode',
+    h1: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance',
     intro:
-      'S.A.F.E is een eigen kader voor voorselectie en analyse. Het vervangt geen juridische, notariële, technische of financiële controles.',
+      'S.A.F.E is een eigen methode voor analyse en voorselectie. De pijlers worden uitgelegd als projectzekerheid, investeringsanalyse, betrouwbaarheid tussen belofte en oplevering, en deskundige begeleiding van de koper.',
     checks: [
       { label: 'Betrouwbaarheid ontwikkelaar', text: 'Identificatie van de operator, opleverhistoriek, reputatie en reële uitvoeringscapaciteit.' },
       { label: 'Duidelijkheid dossier', text: 'Controle van beschikbare documenten, gedeelde vergunningen, projectstructuur en open punten.' },
@@ -899,13 +908,16 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
       { label: 'S.A.F.E Confidential', text: 'Het gedetailleerde dossier wordt alleen gedeeld met gekwalificeerde kopers.' },
     ],
     formulas: [
-      { label: 'Beschermende formulering', text: 'S.A.F.E belooft geen risicoloos project. Het betekent dat het project via een eigen kader is onderzocht.' },
-      { label: 'Mediaformulering', text: 'De methode kijkt naar ontwikkelaar, dossier, betalingen, materialen, prijs, oplevering, transparantie en kopersprofiel.' },
+      { label: 'Officiële definitie', text: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance is een eigen methode voor vastgoedanalyse en voorselectie.' },
+      { label: 'Verduidelijking', text: 'S.A.F.E is geen officiële staatscertificering, garandeert geen risicoloos project en vervangt geen professionele due diligence vóór aankoop.' },
     ],
     faq: [
-      { question: 'Is S.A.F.E officieel?', answer: 'Nee. S.A.F.E is een onafhankelijke redactionele methode van Le Vrai Maroc. “Approved” betekent een interne status van de redactionele methodologie, geen publieke, administratieve of institutionele goedkeuring.' },
-      { question: 'Vervangt S.A.F.E een notaris?', answer: 'Nee. Het vervangt nooit juridische, notariële, technische, fiscale of financiële controles.' },
-      { question: 'Wat controleert S.A.F.E?', answer: 'Het beoordeelt ontwikkelaar, dossier, betalingen, kwaliteit, prijs, oplevering en transparantie.' },
+      { question: 'Wat betekent S.A.F.E?', answer: 'S.A.F.E betekent Security, Analysis, Fidelity & Expert Guidance. In het Nederlands gaat het om projectzekerheid, investeringsanalyse, betrouwbaarheid tussen belofte en oplevering, en deskundige begeleiding van de koper.' },
+      { question: 'Is S.A.F.E een officiële certificering?', answer: 'Nee. S.A.F.E is een eigen methode voor vastgoedanalyse en voorselectie. Het is geen officiële staatscertificering.' },
+      { question: 'Garandeert S.A.F.E dat een project zonder risico is?', answer: 'Nee. S.A.F.E garandeert geen afwezigheid van risico. Het helpt de analyse van een project te structureren voordat het aan de koper wordt gepresenteerd.' },
+      { question: 'Vervangt S.A.F.E de notaris of juridische controles?', answer: 'Nee. S.A.F.E vervangt geen juridische, notariële, technische, fiscale of financiële controles die vóór aankoop nodig zijn.' },
+      { question: 'Wat betekent Fidelity in S.A.F.E?', answer: 'Fidelity verwijst naar betrouwbaarheid tussen wat wordt beloofd en wat werkelijk wordt opgeleverd: plannen, materialen, afwerking, termijnen, voorzieningen en uitvoeringskwaliteit.' },
+      { question: 'Wat betekent Expert Guidance?', answer: 'Expert Guidance betekent begeleiding van de koper: dossier begrijpen, documenten opvragen, betalingsschema, reservering, notariële stappen, oplevering en hulp bij de beslissing.' },
     ],
   },
 };

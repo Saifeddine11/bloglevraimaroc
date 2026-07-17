@@ -47,7 +47,7 @@ A brochure is not a legal document. A 3D rendering is not an approved plan. A ve
 
 <div class="article-method">
   <span class="article-kicker">Independent editorial methodology — not a public certification or legal opinion.</span>
-  <p>In the <a href="/en/safe-real-estate-certification">S.A.F.E — Secure Approved For Estate method</a>, documents do not decorate a sales file. They classify checks: developer, land, authorizations, contract, payments, technical quality, price and delivery. S.A.F.E organizes verification but never replaces the notary, lawyer, architect or competent administration.</p>
+  <p>In the <a href="/en/safe-real-estate-certification">S.A.F.E — Security, Analysis, Fidelity & Expert Guidance method</a>, documents do not decorate a sales file. They classify checks: developer, land, authorizations, contract, payments, technical quality, price and delivery. S.A.F.E organizes verification but never replaces the notary, lawyer, architect or competent administration.</p>
 </div>
 
 <table>
