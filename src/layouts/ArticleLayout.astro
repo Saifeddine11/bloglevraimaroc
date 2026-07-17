@@ -50,6 +50,18 @@ const breadcrumbLabel = {
 const ogImage = heroImage.startsWith('http') ? heroImage : (heroImage.startsWith('/') ? heroImage : `/${heroImage}`);
 const ogImageAbsolute = ogImage.startsWith('http') ? ogImage : `${SITE.url}${ogImage}`;
 const canonicalURL = absoluteUrl(articleHref(article));
+const stripInlineHtml = (value: string) =>
+  value
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+const faqItemsFromDetails = [...(article.body ?? '').matchAll(/<details>\s*<summary>([\s\S]*?)<\/summary>\s*<p>([\s\S]*?)<\/p>\s*<\/details>/g)].map(
+  ([, question, answer]) => ({
+    question: stripInlineHtml(question),
+    answer: stripInlineHtml(answer),
+  })
+);
+const hasEmbeddedFaqSchema = /"@type"\s*:\s*"FAQPage"/.test(article.body ?? '');
 
 const formattedDate = new Intl.DateTimeFormat(localeInfo.htmlLang, {
   year: 'numeric',
@@ -105,6 +117,21 @@ const breadcrumbSchema = {
     { '@type': 'ListItem', position: 3, name: title, item: canonicalURL },
   ],
 };
+
+const faqSchema = faqItemsFromDetails.length > 0
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: faqItemsFromDetails.map((item) => ({
+        '@type': 'Question',
+        name: item.question,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: item.answer,
+        },
+      })),
+    }
+  : undefined;
 ---
 
 <BaseLayout
@@ -121,6 +148,7 @@ const breadcrumbSchema = {
   <Fragment slot="head">
     <script type="application/ld+json" set:html={JSON.stringify(blogPostingSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+    {faqSchema && !hasEmbeddedFaqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
   </Fragment>
 
   <!-- Article Hero -->
