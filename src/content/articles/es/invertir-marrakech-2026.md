@@ -95,4 +95,4 @@ La temporada puede generar ingresos brutos atractivos, pero comisiones, limpieza
 
 <details><summary>¿Cuál es el mejor barrio para invertir en Marrakech?</summary><p>Guéliz es el más fácil de entender para un primer inversor; Hivernage es más patrimonial; Agdal y Targa pueden ser más equilibrados según presupuesto.</p></details>
 <details><summary>¿El turismo garantiza rentabilidad?</summary><p>No. Los datos turísticos de 2025 y 2026 apoyan la demanda, pero cada activo depende del precio, la ubicación, la gestión y la regulación.</p></details>
-<details><summary>¿S.A.F.E es una certificación oficial?</summary><p>No. Es un método editorial independiente de Le Vrai Maroc y no sustituye notario, abogado, arquitecto ni administración competente.</p></details>
+<details><summary>¿S.A.F.E es una certificación oficial?</summary><p>No. S.A.F.E es una metodología internacional propietaria de análisis y preselección inmobiliaria. No sustituye notario, abogado, arquitecto ni administración competente.</p></details>

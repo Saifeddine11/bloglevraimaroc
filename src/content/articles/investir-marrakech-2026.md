@@ -146,7 +146,7 @@ L’acheteur doit prévoir les frais d’acquisition, les honoraires professionn
   <p>Avant d’investir à Marrakech, la <a href="/safe-certification-immobiliere">méthode S.A.F.E. de vérification immobilière</a> aide à classer les contrôles essentiels : promoteur, foncier, autorisations, contrat, prix, hypothèses locatives et livraison. Elle ne garantit ni rendement, ni livraison, ni absence de risque ; elle organise les questions avant l’avis du notaire, du juriste ou du professionnel compétent.</p>
 </div>
 
-Concrètement, utilisez S.A.F.E. comme une grille de due diligence immobilière Maroc :
+Concrètement, utilisez S.A.F.E. comme une grille internationale de due diligence immobilière, adaptée ici au dossier marocain :
 
 - **Promoteur** : identité juridique, société porteuse, références livrées, réputation, capacité à exécuter le programme.
 - **Terrain et droit** : titre foncier, propriété, charges, restrictions, références juridiques applicables. Pour ce vocabulaire, consultez notre guide pour [comprendre les contrôles juridiques applicables](/articles/dahir-maroc-definition).

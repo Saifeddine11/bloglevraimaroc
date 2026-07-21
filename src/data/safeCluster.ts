@@ -259,7 +259,7 @@ export const SAFE_CLUSTER_PAGES: SafeClusterPage[] = [
       {
         question: 'La méthode S.A.F.E est-elle officielle ?',
         answer:
-          'Non. S.A.F.E est une méthode éditoriale indépendante de Le Vrai Maroc. Elle sert à structurer l’analyse, mais ne constitue pas une validation administrative ou institutionnelle.',
+          'Non. S.A.F.E est une méthode internationale propriétaire d’analyse et de présélection immobilière. Elle sert à structurer l’analyse, mais ne constitue pas une validation administrative ou institutionnelle.',
       },
     ],
     relatedLinks: [
@@ -600,7 +600,7 @@ export const SAFE_CLUSTER_PAGES: SafeClusterPage[] = [
       {
         question: 'S.A.F.E est-elle une garantie VEFA ?',
         answer:
-          'Non. S.A.F.E est une méthode éditoriale d’analyse. Elle ne crée pas de garantie juridique et ne remplace pas les garanties prévues par les documents ou le droit applicable.',
+          'Non. S.A.F.E est une méthode internationale propriétaire d’analyse et de présélection immobilière. Elle ne crée pas de garantie juridique et ne remplace pas les garanties prévues par les documents ou le droit applicable.',
       },
       {
         question: 'Comment vérifier une VEFA avant signature ?',

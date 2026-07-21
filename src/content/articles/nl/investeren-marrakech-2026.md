@@ -91,4 +91,4 @@ Een appartement is het eenvoudigst te vergelijken. Een villa vraagt analyse van 
 
 <details><summary>Welke wijk is het beste voor een eerste investering?</summary><p>Guéliz is vaak het meest leesbaar. Hivernage is patrimonialer; Agdal en Targa kunnen evenwichtiger zijn volgens budget.</p></details>
 <details><summary>Garandeert toerisme rendement?</summary><p>Nee. Toeristische cijfers ondersteunen vraag, maar elk pand hangt af van prijs, locatie, beheer en regels.</p></details>
-<details><summary>Is S.A.F.E officieel?</summary><p>Nee. Het is een onafhankelijke redactionele methode van Le Vrai Maroc en vervangt geen notaris of advocaat.</p></details>
+<details><summary>Is S.A.F.E officieel?</summary><p>Nee. S.A.F.E is een internationale eigen methodologie voor vastgoedscreening en analyse. Ze vervangt geen notaris of advocaat.</p></details>

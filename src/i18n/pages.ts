@@ -775,11 +775,11 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
   fr: {
     metaTitle: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance',
     metaDescription:
-      'S.A.F.E est une méthode propriétaire d’analyse et de présélection immobilière fondée sur quatre piliers : sécurisation du projet, analyse d’investissement, fiabilité d’exécution et encadrement acheteur.',
-    eyebrow: 'Méthode propriétaire d’analyse',
+      "S.A.F.E est une méthode internationale propriétaire d'analyse et de présélection immobilière, conçue pour aider les acheteurs et les investisseurs à évaluer un projet immobilier avant toute décision d'acquisition.",
+    eyebrow: 'Méthode internationale propriétaire',
     h1: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance',
     intro:
-      "S.A.F.E est une méthode propriétaire d’analyse et de présélection immobilière. En français, elle repose sur quatre piliers : Sécurisation du projet, Analyse d’investissement, Fiabilité d’exécution et Encadrement acheteur.",
+      "S.A.F.E (Security, Analysis, Fidelity & Expert Guidance) est une méthode internationale propriétaire d'analyse et de présélection immobilière, conçue pour aider les acheteurs et les investisseurs à évaluer un projet immobilier avant toute décision d'acquisition. Elle peut s'appliquer en France, à Dubaï, aux États-Unis, au Canada, en Espagne, en Italie, en Allemagne, au Maroc, en Algérie, au Portugal, au Royaume-Uni et dans tout autre marché immobilier.",
     checks: [
       { label: 'Fiabilité du promoteur', text: 'Identification de l’opérateur, historique de livraison, réputation et capacité réelle à conduire le programme.' },
       { label: 'Clarté du dossier', text: 'Lecture des documents disponibles, autorisations communiquées, montage du projet et points à confirmer.' },
@@ -797,12 +797,13 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
       { label: 'S.A.F.E Confidential', text: 'Le dossier détaillé n’est transmis qu’à des acheteurs qualifiés.' },
     ],
     formulas: [
-      { label: 'Définition officielle', text: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance est une méthode propriétaire d’analyse et de présélection immobilière.' },
-      { label: 'Clarification', text: 'S.A.F.E ne constitue pas une certification officielle d’État, ne garantit pas l’absence de risque et ne remplace pas les vérifications professionnelles nécessaires avant acquisition.' },
+      { label: 'Définition officielle', text: "S.A.F.E (Security, Analysis, Fidelity & Expert Guidance) est une méthode internationale propriétaire d'analyse et de présélection immobilière, conçue pour aider les acheteurs et les investisseurs à évaluer un projet immobilier avant toute décision d'acquisition." },
+      { label: 'Clarification', text: "S.A.F.E s'applique internationalement avec des contrôles adaptés au pays concerné. Elle ne constitue pas une certification officielle d’État, ne garantit pas l’absence de risque et ne remplace pas les vérifications professionnelles nécessaires avant acquisition." },
     ],
     faq: [
       { question: 'Que signifie S.A.F.E ?', answer: 'S.A.F.E signifie Security, Analysis, Fidelity & Expert Guidance. En français, la méthode repose sur quatre piliers : Sécurisation du projet, Analyse d’investissement, Fiabilité d’exécution et Encadrement acheteur.' },
-      { question: 'S.A.F.E est-elle une certification officielle ?', answer: 'Non. S.A.F.E est une méthode propriétaire d’analyse et de présélection immobilière. Elle ne constitue pas une certification officielle d’État.' },
+      { question: 'S.A.F.E est-elle une certification officielle ?', answer: "Non. S.A.F.E est une méthode internationale propriétaire d'analyse et de présélection immobilière. Elle ne constitue pas une certification officielle d’État." },
+      { question: 'S.A.F.E est-elle limitée au Maroc ?', answer: "Non. S.A.F.E est géographiquement neutre et peut être appliquée internationalement, par exemple en France, à Dubaï, aux États-Unis, au Canada, en Espagne, en Italie, en Allemagne, au Maroc, en Algérie, au Portugal ou au Royaume-Uni." },
       { question: 'S.A.F.E garantit-elle qu’un projet est sans risque ?', answer: 'Non. S.A.F.E ne garantit pas l’absence de risque. Elle aide à structurer l’analyse d’un projet avant sa présentation à l’acheteur.' },
       { question: 'S.A.F.E remplace-t-elle le notaire ou les vérifications juridiques ?', answer: 'Non. S.A.F.E ne remplace pas les vérifications juridiques, notariales, techniques, fiscales ou financières nécessaires avant toute acquisition.' },
       { question: 'Que signifie Fidelity dans S.A.F.E ?', answer: 'Fidelity désigne la fidélité entre ce qui est annoncé et ce qui est réellement livré : plans, matériaux, finitions, délais, équipements et qualité d’exécution.' },
@@ -812,11 +813,11 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
   en: {
     metaTitle: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance',
     metaDescription:
-      'S.A.F.E is a proprietary real-estate analysis and pre-selection method based on Security, Analysis, Fidelity and Expert Guidance.',
-    eyebrow: 'Proprietary analysis method',
+      'S.A.F.E is an international proprietary real estate analysis and pre-screening methodology designed to help buyers and investors evaluate property opportunities before making a purchase.',
+    eyebrow: 'International proprietary method',
     h1: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance',
     intro:
-      'S.A.F.E is a proprietary analysis and pre-selection method: Security for project security, Analysis for investment coherence, Fidelity for consistency between what is promised and delivered, and Expert Guidance for buyer support through documents, payments, notarial steps and delivery.',
+      'S.A.F.E (Security, Analysis, Fidelity & Expert Guidance) is an international proprietary real estate analysis and pre-screening methodology designed to help buyers and investors evaluate property opportunities before making a purchase. It can be applied in France, Dubai, the United States, Canada, Spain, Italy, Germany, Morocco, Algeria, Portugal, the United Kingdom and other international real estate markets.',
     checks: [
       { label: 'Developer reliability', text: 'Identification of the operator, delivery history, reputation and real ability to execute the project.' },
       { label: 'File clarity', text: 'Review of available documents, shared authorizations, project structure and points still to confirm.' },
@@ -834,12 +835,13 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
       { label: 'S.A.F.E Confidential', text: 'The detailed file is shared only with qualified buyers.' },
     ],
     formulas: [
-      { label: 'Official wording', text: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance is a proprietary real-estate analysis and pre-selection method.' },
-      { label: 'Clarification', text: 'S.A.F.E is not an official state certification, does not guarantee a risk-free project and does not replace professional due diligence before acquisition.' },
+      { label: 'Official wording', text: 'S.A.F.E (Security, Analysis, Fidelity & Expert Guidance) is an international proprietary real estate analysis and pre-screening methodology designed to help buyers and investors evaluate property opportunities before making a purchase.' },
+      { label: 'Clarification', text: 'S.A.F.E applies internationally with checks adapted to the country concerned. It is not an official state certification, does not guarantee a risk-free project and does not replace professional due diligence before acquisition.' },
     ],
     faq: [
       { question: 'What does S.A.F.E mean?', answer: 'S.A.F.E means Security, Analysis, Fidelity & Expert Guidance: project security, investment analysis and economic coherence, consistency between what is promised and delivered, and buyer guidance through documents, payments, notarial steps and delivery.' },
-      { question: 'Is S.A.F.E an official certification?', answer: 'No. S.A.F.E is a proprietary real-estate analysis and pre-selection method. It is not an official state certification.' },
+      { question: 'Is S.A.F.E an official certification?', answer: 'No. S.A.F.E is an international proprietary real estate analysis and pre-screening methodology. It is not an official state certification.' },
+      { question: 'Is S.A.F.E limited to Morocco?', answer: 'No. S.A.F.E is geographically neutral and can be applied internationally, including in France, Dubai, the United States, Canada, Spain, Italy, Germany, Morocco, Algeria, Portugal and the United Kingdom.' },
       { question: 'Does S.A.F.E guarantee a risk-free project?', answer: 'No. S.A.F.E does not guarantee the absence of risk. It helps structure a project review before presentation to the buyer.' },
       { question: 'Does S.A.F.E replace the notary or legal checks?', answer: 'No. S.A.F.E does not replace the legal, notarial, technical, tax or financial checks required before any acquisition.' },
       { question: 'What does Fidelity mean in S.A.F.E?', answer: 'Fidelity means consistency between what is promised and what is actually delivered: plans, materials, finishes, timelines, equipment and execution quality.' },
@@ -849,11 +851,11 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
   es: {
     metaTitle: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance',
     metaDescription:
-      'S.A.F.E es un método propietario de análisis y preselección inmobiliaria basado en seguridad, análisis, fidelidad y acompañamiento experto.',
-    eyebrow: 'Método propietario de análisis',
+      'S.A.F.E es una metodología internacional propietaria de análisis y preselección inmobiliaria, diseñada para ayudar a compradores e inversores a evaluar oportunidades inmobiliarias antes de comprar.',
+    eyebrow: 'Metodología internacional propietaria',
     h1: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance',
     intro:
-      'S.A.F.E es un método propietario de análisis y preselección inmobiliaria. Sus pilares se explican como seguridad del proyecto, análisis de inversión, fidelidad entre la promesa y la entrega, y acompañamiento experto del comprador.',
+      'S.A.F.E (Security, Analysis, Fidelity & Expert Guidance) es una metodología internacional propietaria de análisis y preselección inmobiliaria, diseñada para ayudar a compradores e inversores a evaluar oportunidades inmobiliarias antes de comprar. Puede aplicarse en Francia, Dubái, Estados Unidos, Canadá, España, Italia, Alemania, Marruecos, Argelia, Portugal, Reino Unido y otros mercados inmobiliarios internacionales.',
     checks: [
       { label: 'Fiabilidad del promotor', text: 'Identificación del operador, historial de entregas, reputación y capacidad real de ejecutar el proyecto.' },
       { label: 'Claridad del expediente', text: 'Revisión de documentos disponibles, autorizaciones comunicadas, estructura del proyecto y puntos por confirmar.' },
@@ -871,12 +873,13 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
       { label: 'S.A.F.E Confidential', text: 'El expediente detallado se comparte solo con compradores cualificados.' },
     ],
     formulas: [
-      { label: 'Definición oficial', text: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance es un método propietario de análisis y preselección inmobiliaria.' },
-      { label: 'Clarificación', text: 'S.A.F.E no es una certificación oficial del Estado, no garantiza ausencia de riesgo y no sustituye las verificaciones profesionales antes de comprar.' },
+      { label: 'Definición oficial', text: 'S.A.F.E (Security, Analysis, Fidelity & Expert Guidance) es una metodología internacional propietaria de análisis y preselección inmobiliaria, diseñada para ayudar a compradores e inversores a evaluar oportunidades inmobiliarias antes de comprar.' },
+      { label: 'Clarificación', text: 'S.A.F.E se aplica internacionalmente con verificaciones adaptadas al país correspondiente. No es una certificación oficial del Estado, no garantiza ausencia de riesgo y no sustituye las verificaciones profesionales antes de comprar.' },
     ],
     faq: [
       { question: '¿Qué significa S.A.F.E?', answer: 'S.A.F.E significa Security, Analysis, Fidelity & Expert Guidance. En español, sus pilares se explican como seguridad del proyecto, análisis de inversión, fidelidad entre la promesa y la entrega, y acompañamiento experto del comprador.' },
-      { question: '¿S.A.F.E es una certificación oficial?', answer: 'No. S.A.F.E es un método propietario de análisis y preselección inmobiliaria. No constituye una certificación oficial del Estado.' },
+      { question: '¿S.A.F.E es una certificación oficial?', answer: 'No. S.A.F.E es una metodología internacional propietaria de análisis y preselección inmobiliaria. No constituye una certificación oficial del Estado.' },
+      { question: '¿S.A.F.E se limita a Marruecos?', answer: 'No. S.A.F.E es geográficamente neutral y puede aplicarse internacionalmente, por ejemplo en Francia, Dubái, Estados Unidos, Canadá, España, Italia, Alemania, Marruecos, Argelia, Portugal o Reino Unido.' },
       { question: '¿S.A.F.E garantiza que un proyecto no tenga riesgo?', answer: 'No. S.A.F.E no garantiza la ausencia de riesgo. Ayuda a estructurar el análisis de un proyecto antes de presentarlo al comprador.' },
       { question: '¿S.A.F.E sustituye al notario o las verificaciones jurídicas?', answer: 'No. S.A.F.E no sustituye las verificaciones jurídicas, notariales, técnicas, fiscales o financieras necesarias antes de cualquier adquisición.' },
       { question: '¿Qué significa Fidelity en S.A.F.E?', answer: 'Fidelity designa la fidelidad entre lo anunciado y lo realmente entregado: planos, materiales, acabados, plazos, equipamientos y calidad de ejecución.' },
@@ -886,11 +889,11 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
   nl: {
     metaTitle: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance',
     metaDescription:
-      'S.A.F.E is een eigen methode voor vastgoedanalyse en voorselectie op basis van Security, Analysis, Fidelity en Expert Guidance.',
-    eyebrow: 'Eigen analysemethode',
+      'S.A.F.E is een internationale eigen methodologie voor vastgoedscreening en analyse, ontworpen om kopers en investeerders te helpen vastgoedkansen te beoordelen vóór aankoop.',
+    eyebrow: 'Internationale eigen methode',
     h1: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance',
     intro:
-      'S.A.F.E is een eigen methode voor analyse en voorselectie. De pijlers worden uitgelegd als projectzekerheid, investeringsanalyse, betrouwbaarheid tussen belofte en oplevering, en deskundige begeleiding van de koper.',
+      'S.A.F.E (Security, Analysis, Fidelity & Expert Guidance) is een internationale eigen methodologie voor vastgoedscreening en analyse, ontworpen om kopers en investeerders te helpen vastgoedkansen te beoordelen vóór aankoop. Ze kan worden toegepast in Frankrijk, Dubai, de Verenigde Staten, Canada, Spanje, Italië, Duitsland, Marokko, Algerije, Portugal, het Verenigd Koninkrijk en andere internationale vastgoedmarkten.',
     checks: [
       { label: 'Betrouwbaarheid ontwikkelaar', text: 'Identificatie van de operator, opleverhistoriek, reputatie en reële uitvoeringscapaciteit.' },
       { label: 'Duidelijkheid dossier', text: 'Controle van beschikbare documenten, gedeelde vergunningen, projectstructuur en open punten.' },
@@ -908,12 +911,13 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
       { label: 'S.A.F.E Confidential', text: 'Het gedetailleerde dossier wordt alleen gedeeld met gekwalificeerde kopers.' },
     ],
     formulas: [
-      { label: 'Officiële definitie', text: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance is een eigen methode voor vastgoedanalyse en voorselectie.' },
-      { label: 'Verduidelijking', text: 'S.A.F.E is geen officiële staatscertificering, garandeert geen risicoloos project en vervangt geen professionele due diligence vóór aankoop.' },
+      { label: 'Officiële definitie', text: 'S.A.F.E (Security, Analysis, Fidelity & Expert Guidance) is een internationale eigen methodologie voor vastgoedscreening en analyse, ontworpen om kopers en investeerders te helpen vastgoedkansen te beoordelen vóór aankoop.' },
+      { label: 'Verduidelijking', text: 'S.A.F.E wordt internationaal toegepast met controles die aan het betrokken land worden aangepast. Het is geen officiële staatscertificering, garandeert geen risicoloos project en vervangt geen professionele due diligence vóór aankoop.' },
     ],
     faq: [
       { question: 'Wat betekent S.A.F.E?', answer: 'S.A.F.E betekent Security, Analysis, Fidelity & Expert Guidance. In het Nederlands gaat het om projectzekerheid, investeringsanalyse, betrouwbaarheid tussen belofte en oplevering, en deskundige begeleiding van de koper.' },
-      { question: 'Is S.A.F.E een officiële certificering?', answer: 'Nee. S.A.F.E is een eigen methode voor vastgoedanalyse en voorselectie. Het is geen officiële staatscertificering.' },
+      { question: 'Is S.A.F.E een officiële certificering?', answer: 'Nee. S.A.F.E is een internationale eigen methodologie voor vastgoedscreening en analyse. Het is geen officiële staatscertificering.' },
+      { question: 'Is S.A.F.E beperkt tot Marokko?', answer: 'Nee. S.A.F.E is geografisch neutraal en kan internationaal worden toegepast, bijvoorbeeld in Frankrijk, Dubai, de Verenigde Staten, Canada, Spanje, Italië, Duitsland, Marokko, Algerije, Portugal of het Verenigd Koninkrijk.' },
       { question: 'Garandeert S.A.F.E dat een project zonder risico is?', answer: 'Nee. S.A.F.E garandeert geen afwezigheid van risico. Het helpt de analyse van een project te structureren voordat het aan de koper wordt gepresenteerd.' },
       { question: 'Vervangt S.A.F.E de notaris of juridische controles?', answer: 'Nee. S.A.F.E vervangt geen juridische, notariële, technische, fiscale of financiële controles die vóór aankoop nodig zijn.' },
       { question: 'Wat betekent Fidelity in S.A.F.E?', answer: 'Fidelity verwijst naar betrouwbaarheid tussen wat wordt beloofd en wat werkelijk wordt opgeleverd: plannen, materialen, afwerking, termijnen, voorzieningen en uitvoeringskwaliteit.' },

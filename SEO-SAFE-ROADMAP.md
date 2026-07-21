@@ -1,8 +1,10 @@
 # SEO S.A.F.E Roadmap — Le Vrai Maroc
 
-Objectif : construire un cluster éditorial autour de `S.A.F.E — Security, Analysis, Fidelity & Expert Guidance`, la méthode propriétaire d’analyse et de présélection de Le Vrai Maroc, sans la présenter comme une certification officielle, notariale, juridique, technique, fiscale ou financière.
+Objectif : construire un cluster éditorial autour de `S.A.F.E — Security, Analysis, Fidelity & Expert Guidance`, une méthode internationale propriétaire d’analyse et de présélection immobilière, sans la présenter comme une méthode liée à un pays, à un site web, ni comme une certification officielle, notariale, juridique, technique, fiscale ou financière.
 
 Chaque contenu doit rappeler que S.A.F.E est une grille de présélection et d’analyse. Les pages juridiques, fiscales, financières ou notariales doivent inclure la mention : `Cet article est une analyse éditoriale et ne constitue pas un conseil juridique, fiscal, financier ou notarial.`
+
+Positionnement prioritaire : S.A.F.E est géographiquement neutre et peut s’appliquer en France, à Dubaï, aux États-Unis, au Canada, en Espagne, en Italie, en Allemagne, au Maroc, en Algérie, au Portugal, au Royaume-Uni et dans tout autre marché immobilier, avec des contrôles adaptés au cadre local.
 
 ## Clusters prioritaires
 
@@ -22,6 +24,7 @@ Chaque contenu doit rappeler que S.A.F.E est une grille de présélection et d�
 ## Règles éditoriales
 
 - Ne jamais présenter S.A.F.E comme une certification officielle, gouvernementale, notariale, juridique, fiscale, technique ou bancaire.
+- Ne jamais présenter S.A.F.E comme une méthode marocaine, algérienne, dubaïote, off market ou propre à un site web.
 - Ne jamais promettre un achat sans risque, une rentabilité garantie ou une livraison garantie.
 - Employer `S.A.F.E — Security, Analysis, Fidelity & Expert Guidance` pour la marque visible et `S.A.F.E` dans les titres SEO lorsque la requête cible l’acronyme sans ponctuation.
 - Inclure une FAQ visible uniquement si un `FAQPage` JSON-LD est ajouté.

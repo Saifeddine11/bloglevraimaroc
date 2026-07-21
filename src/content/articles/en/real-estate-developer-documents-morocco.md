@@ -68,7 +68,7 @@ A brochure is not a legal document. A 3D rendering is not an approved plan. A ve
 </table>
 
 <div class="article-cta">
-  <p><strong>To place these documents in a complete method:</strong> read the <a href="/en/safe-real-estate-certification">S.A.F.E Morocco real-estate method</a> and the guide <a href="/en/articles/dahir-morocco-definition">Moroccan dahir definition</a> to understand why legal references must be exact, dated and verifiable.</p>
+  <p><strong>To place these documents in a complete method:</strong> read the <a href="/en/safe-real-estate-certification">international S.A.F.E real-estate analysis method</a> and the guide <a href="/en/articles/dahir-morocco-definition">Moroccan dahir definition</a> to understand why legal references must be exact, dated and verifiable.</p>
 </div>
 
 ## Document-by-document checklist
