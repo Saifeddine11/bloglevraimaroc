@@ -123,6 +123,21 @@ Les 6 nouveaux articles du second cluster SEO multilingue réutilisent uniquemen
 
 **Audit multilingue** : les versions anglaises, espagnoles et néerlandaises utilisent les mêmes fichiers locaux, avec alt text et légendes localisés dans les articles. Les crédits complets restent centralisés ici afin d'éviter toute duplication de licence incohérente.
 
+## Actualité — Incendies en Algérie et Canadair (2026-07-23)
+
+Article multilingue (FR/EN/ES/NL, même `translationKey` : `incendies-algerie-2026-canadair-maroc`). **Contrainte honnête et importante** : aucune photographie libre de droits de l'événement précis (incendies algériens de juillet 2026) n'est disponible — les images d'agences (Reuters, AFP, AP, APS, CFP) sont sous copyright et n'ont pas été utilisées ni hotlinkées. Les six visuels ci-dessous sont des **images d'illustration/d'archive** téléchargées depuis Wikimedia Commons, vérifiées licence par licence, optimisées en WebP 1600×900 (qualité 82), et **explicitement légendées comme illustrations ne représentant pas l'événement décrit**. Date d'accès : 2026-07-23.
+
+| Placement | Fichier local | Source (page Commons) | Auteur / licence | Date origine |
+|---|---|---|---|---|
+| Cover / hero (FR/EN/ES/NL) | `public/images/articles/incendies-algerie-2026-canadair-cl415-cover.webp` | [Polemiki Aeroporia Canadair CL-415 2054 Naxos-2025-06-18](https://commons.wikimedia.org/wiki/File:Polemiki_Aeroporia_Canadair_CL-415_2054_Naxos-2025-06-18_0826crop.jpg) | Manfred Werner (Tsui) — CC BY-SA 4.0 | 2025-06-18 |
+| Section « Ce qui s'est passé » | `public/images/articles/incendie-foret-fumee-illustration.webp` | [Black forest fire smoke rising to sky](https://commons.wikimedia.org/wiki/File:Black_forest_fire_smoke_rising_to_sky.jpg) | Karen Murphy, U.S. Fish and Wildlife Service — Domaine public | n.c. |
+| Section « Réponse d'urgence » | `public/images/articles/protection-civile-algerie-vehicule-archive.webp` | [Protection civile - panoramio (1)](https://commons.wikimedia.org/wiki/File:Protection_civile_-_panoramio_(1).jpg) | Habib Kaki — CC BY 3.0 | 2011-05-22 |
+| Section « Moyens de lutte » | `public/images/articles/canadair-cl415-largage-eau-illustration.webp` | [I-DPCN at work 03 (4203528315)](https://commons.wikimedia.org/wiki/File:I-DPCN_at_work_03_(4203528315).jpg) | Maarten Visser — CC BY-SA 2.0 | 2009-06-11 |
+| Section « Le Canadair CL-415 » | `public/images/articles/canadair-cl415-avion-bombardier-eau-illustration.webp` | [Canadair CL-415 Kroatien 1](https://commons.wikimedia.org/wiki/File:Canadair_CL-415_Kroatien_1.JPG) | Böhringer Friedrich — CC BY-SA 2.5 | 2010-08-27 |
+| Section « Impact environnemental » | `public/images/articles/ciel-fumee-canicule-mediterranee-illustration.webp` | [Orange Solar Disk Descending Into Forest Fire Smoke](https://commons.wikimedia.org/wiki/File:Orange_Solar_Disk_Descending_Into_Forest_Fire_Smoke_-_50332466916.jpg) | Chic Bee (Flickr) — CC BY 2.0 | 2020-09-11 |
+
+**Attribution** : chaque légende publiée dans l'article cite l'auteur, la licence et Wikimedia Commons, et précise qu'il s'agit d'une illustration/archive. Aucune image d'agence sous copyright, aucun visuel hotlinké, watermarqué ou généré artificiellement comme réalité de l'événement n'a été ajouté.
+
 ## Actualités Maroc multilingues — 2026-07-21
 
 Six nouveaux articles multilingues publiés le 21 juillet 2026 utilisent des images locales WebP, servies depuis `public/images/articles/`. Les téléchargements Wikimedia Commons ont été interrompus après déclenchement d'une limite 429 côté Wikimedia ; les articles complètent donc les nouvelles images par une réutilisation contrôlée d'images locales déjà licenciées et inventoriées dans les sections précédentes. Aucun visuel concurrent, hotlinké, watermarqué ou généré artificiellement n'a été ajouté.
