@@ -3,14 +3,22 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import SafeBadge from '@/components/SafeBadge.astro';
 import { SITE } from '@/data/site';
 import { SAFE_BRAND } from '@/data/safeCluster';
+import { staticAlternates, withXDefault } from '@/i18n/routes';
 
-const seoTitle = SAFE_BRAND;
-const pageTitle = SAFE_BRAND;
+const seoTitle = 'S.A.F.E immobilier : définition, méthode et grille d’analyse';
+const pageH1 = 'S.A.F.E immobilier : c’est quoi et comment fonctionne la méthode ?';
 const metaDescription =
-  "S.A.F.E est une méthode internationale propriétaire d'analyse et de présélection immobilière, conçue pour aider les acheteurs et les investisseurs à évaluer un projet immobilier avant toute décision d'acquisition.";
-const openGraphDescription =
-  "Une méthode internationale propriétaire pour analyser un projet immobilier avant décision d'acquisition, avec des vérifications adaptées au pays concerné.";
+  'La méthode S.A.F.E immobilier signifie Security, Analysis, Fidelity & Expert Guidance. Découvrez ses 4 piliers, sa grille d’analyse et son utilisation avant un achat immobilier.';
 const canonicalURL = new URL('/safe-certification-immobiliere/', SITE.url).href;
+const ogImagePath = '/images/safe-immobilier-og.png';
+const ogImageAbsolute = new URL(ogImagePath, SITE.url).href;
+const ogImageAlt =
+  'S.A.F.E immobilier — méthode d’analyse et de présélection immobilière fondée sur Security, Analysis, Fidelity et Expert Guidance';
+const datePublished = '2026-07-01';
+const dateModified = '2026-07-17';
+// Align the self-referencing (fr) hreflang and x-default with the trailing-slash canonical,
+// while keeping foreign-locale hreflang pointing to their own canonical URLs.
+const safeAlternates = withXDefault({ ...staticAlternates('safe'), fr: canonicalURL });
 
 const checks = [
   {
@@ -206,6 +214,10 @@ const internalLinks = [
   },
   {
     href: '/articles/immobilier-marrakech-2026',
+    title: 'Marché immobilier Marrakech 2026',
+    text: 'Relier la méthode d’analyse S.A.F.E aux tendances de marché.',
+  },
+  {
     href: '/investissement',
     title: 'Investissement',
     text: 'Explorer les analyses patrimoniales et locatives.',
@@ -286,11 +298,15 @@ const sourceLinks = [
 const webPageSchema = {
   '@context': 'https://schema.org',
   '@type': 'WebPage',
-  name: pageTitle,
-  headline: pageTitle,
+  name: seoTitle,
+  headline: pageH1,
   description: metaDescription,
   url: canonicalURL,
   inLanguage: 'fr',
+  datePublished,
+  dateModified,
+  primaryImageOfPage: ogImageAbsolute,
+  image: ogImageAbsolute,
   isPartOf: {
     '@type': 'WebSite',
     name: SITE.name,
@@ -308,7 +324,7 @@ const breadcrumbSchema = {
   '@type': 'BreadcrumbList',
   itemListElement: [
     { '@type': 'ListItem', position: 1, name: 'Accueil', item: SITE.url },
-    { '@type': 'ListItem', position: 2, name: 'S.A.F.E', item: canonicalURL },
+    { '@type': 'ListItem', position: 2, name: 'S.A.F.E immobilier', item: canonicalURL },
   ],
 };
 
@@ -328,15 +344,18 @@ const faqSchema = {
 
 <BaseLayout
   title={seoTitle}
-  titleSuffix={false}
   description={metaDescription}
-  ogTitle={SAFE_BRAND}
-  ogDescription={openGraphDescription}
-  twitterTitle={SAFE_BRAND}
-  twitterDescription={openGraphDescription}
+  ogTitle={seoTitle}
+  ogDescription={metaDescription}
+  ogImage={ogImagePath}
+  twitterTitle={seoTitle}
+  twitterDescription={metaDescription}
   canonicalURL={canonicalURL}
+  alternates={safeAlternates}
 >
   <Fragment slot="head">
+    <meta property="og:image:alt" content={ogImageAlt} />
+    <meta name="twitter:image:alt" content={ogImageAlt} />
     <script type="application/ld+json" set:html={JSON.stringify(webPageSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
@@ -366,16 +385,13 @@ const faqSchema = {
         <div class="max-w-4xl">
           <p class="mb-5 text-xs font-bold uppercase text-rdm-orange">Méthode de confiance immobilière</p>
           <h1 id="safe-hero-title" class="max-w-4xl text-4xl font-black leading-[1.04] sm:text-5xl lg:text-6xl">
-            {SAFE_BRAND}
+            {pageH1}
           </h1>
-          <p class="mt-4 text-base font-semibold text-rdm-orange">
-            Méthode internationale propriétaire d’analyse et de présélection immobilière
+          <p class="mt-6 max-w-3xl text-lg leading-relaxed text-white/85">
+            La méthode S.A.F.E immobilier est une grille internationale d’analyse et de présélection des projets immobiliers. S.A.F.E signifie Security, Analysis, Fidelity & Expert Guidance. Elle repose sur quatre piliers : la sécurisation du projet, l’analyse d’investissement, la fiabilité d’exécution et l’encadrement de l’acheteur.
           </p>
-          <p class="mt-3 inline-flex max-w-3xl rounded-full border border-white/20 bg-white/10 px-4 py-2 text-xs font-semibold uppercase tracking-wide text-white/75">
+          <p class="mt-4 inline-flex max-w-3xl rounded-full border border-white/20 bg-white/10 px-4 py-2 text-xs font-semibold uppercase tracking-wide text-white/75">
             Ne constitue pas une certification publique ni un avis juridique
-          </p>
-          <p class="mt-6 max-w-2xl text-lg leading-relaxed text-white/75">
-            Une grille d’analyse conçue pour mieux qualifier les projets immobiliers avant leur présentation à l’acheteur.
           </p>
           <p class="mt-6 max-w-3xl text-base leading-relaxed text-white/70">
             S.A.F.E répond à une réalité simple : dans un achat immobilier, surtout sur plan, l’acheteur ne craint pas seulement le prix. Il craint de choisir le mauvais promoteur, de ne pas être livré, de ne pas comprendre le montage du projet, de découvrir des informations trop tard ou de ne pas recevoir ce qui lui a été présenté.
@@ -406,7 +422,7 @@ const faqSchema = {
         <div>
           <p class="section-label mb-3">Définition</p>
           <h2 id="methode-heading" class="text-3xl font-black leading-tight text-rdm-black sm:text-4xl">
-            Une présélection structurée avant la présentation d’un projet
+            Définition de la méthode S.A.F.E immobilier
           </h2>
         </div>
         <div class="space-y-5 text-lg leading-relaxed text-rdm-gray">
@@ -424,12 +440,81 @@ const faqSchema = {
     </div>
   </section>
 
+  <section class="bg-rdm-bg py-18 lg:py-24" aria-labelledby="apropos-heading">
+    <div class="container-rdm">
+      <div class="mx-auto max-w-4xl rounded-lg border border-rdm-border bg-white p-7 sm:p-10">
+        <p class="section-label mb-3">Fiche méthode</p>
+        <h2 id="apropos-heading" class="mb-8 text-2xl font-black leading-tight text-rdm-black sm:text-3xl">
+          À propos de la méthode S.A.F.E
+        </h2>
+        <dl class="grid gap-x-8 gap-y-5 sm:grid-cols-2">
+          <div>
+            <dt class="text-xs font-bold uppercase tracking-wide text-rdm-orange">Nom officiel</dt>
+            <dd class="mt-1 text-sm font-semibold leading-relaxed text-rdm-black">{SAFE_BRAND}</dd>
+          </div>
+          <div>
+            <dt class="text-xs font-bold uppercase tracking-wide text-rdm-orange">Nature</dt>
+            <dd class="mt-1 text-sm leading-relaxed text-rdm-gray">Méthode d’analyse et de présélection immobilière</dd>
+          </div>
+          <div>
+            <dt class="text-xs font-bold uppercase tracking-wide text-rdm-orange">Portée</dt>
+            <dd class="mt-1 text-sm leading-relaxed text-rdm-gray">Internationale</dd>
+          </div>
+          <div>
+            <dt class="text-xs font-bold uppercase tracking-wide text-rdm-orange">Éditeur</dt>
+            <dd class="mt-1 text-sm leading-relaxed text-rdm-gray">Le Vrai Maroc</dd>
+          </div>
+          <div>
+            <dt class="text-xs font-bold uppercase tracking-wide text-rdm-orange">Version de la méthode</dt>
+            <dd class="mt-1 text-sm leading-relaxed text-rdm-gray">v1.1</dd>
+          </div>
+          <div>
+            <dt class="text-xs font-bold uppercase tracking-wide text-rdm-orange">Dernière révision</dt>
+            <dd class="mt-1 text-sm leading-relaxed text-rdm-gray">17 juillet 2026</dd>
+          </div>
+          <div class="sm:col-span-2">
+            <dt class="text-xs font-bold uppercase tracking-wide text-rdm-orange">Piliers</dt>
+            <dd class="mt-2">
+              <ul class="grid gap-2 sm:grid-cols-2">
+                <li class="rounded-lg border border-rdm-border bg-white p-3 text-sm leading-relaxed text-rdm-gray"><span class="font-bold text-rdm-black">S — Security</span> / Sécurisation du projet</li>
+                <li class="rounded-lg border border-rdm-border bg-white p-3 text-sm leading-relaxed text-rdm-gray"><span class="font-bold text-rdm-black">A — Analysis</span> / Analyse d’investissement</li>
+                <li class="rounded-lg border border-rdm-border bg-white p-3 text-sm leading-relaxed text-rdm-gray"><span class="font-bold text-rdm-black">F — Fidelity</span> / Fiabilité d’exécution</li>
+                <li class="rounded-lg border border-rdm-border bg-white p-3 text-sm leading-relaxed text-rdm-gray"><span class="font-bold text-rdm-black">E — Expert Guidance</span> / Encadrement acheteur</li>
+              </ul>
+            </dd>
+          </div>
+        </dl>
+      </div>
+    </div>
+  </section>
+
+  <section class="bg-white py-18 lg:py-24" aria-labelledby="signification-heading">
+    <div class="container-rdm">
+      <div class="grid gap-10 lg:grid-cols-[0.9fr_1.1fr] lg:items-start">
+        <div>
+          <p class="section-label mb-3">Signification</p>
+          <h2 id="signification-heading" class="text-3xl font-black leading-tight text-rdm-black sm:text-4xl">
+            Que signifie S.A.F.E ?
+          </h2>
+        </div>
+        <div class="space-y-5 text-lg leading-relaxed text-rdm-gray">
+          <p>
+            S.A.F.E est un acronyme anglais qui signifie <strong class="font-semibold text-rdm-black">Security, Analysis, Fidelity &amp; Expert Guidance</strong>. Chaque lettre correspond à une dimension de vérification appliquée à un projet immobilier avant décision.
+          </p>
+          <p>
+            En français, la méthode se lit ainsi : <strong class="font-semibold text-rdm-black">Security</strong> pour la sécurisation du projet, <strong class="font-semibold text-rdm-black">Analysis</strong> pour l’analyse d’investissement, <strong class="font-semibold text-rdm-black">Fidelity</strong> pour la fiabilité d’exécution et <strong class="font-semibold text-rdm-black">Expert Guidance</strong> pour l’encadrement de l’acheteur. Ces quatre lettres forment la grille S.A.F.E immobilier.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <section class="bg-rdm-bg py-18 lg:py-24" aria-labelledby="pillars-heading">
     <div class="container-rdm">
       <div class="mb-10 max-w-2xl">
         <p class="section-label mb-3">Les 4 piliers S.A.F.E</p>
         <h2 id="pillars-heading" class="text-3xl font-black leading-tight text-rdm-black sm:text-4xl">
-          Quatre lectures pour qualifier un projet immobilier
+          Les quatre piliers de la méthode S.A.F.E
         </h2>
       </div>
 
@@ -441,7 +526,7 @@ const faqSchema = {
               <path stroke-linecap="round" stroke-linejoin="round" d="m9.5 12 1.7 1.7 3.8-4" />
             </svg>
           </div>
-          <p class="mb-2 text-sm font-bold text-rdm-orange">S — Sécurisation du projet</p>
+          <h3 class="mb-2 text-sm font-bold text-rdm-orange">Security : sécurisation du projet</h3>
           <p class="text-sm leading-relaxed text-rdm-gray">
             La première condition S.A.F.E concerne la solidité du projet dans son ensemble. Le promoteur doit être identifiable, son historique doit pouvoir être étudié, et le projet doit présenter des éléments concrets permettant d’évaluer sa crédibilité : projets déjà livrés, projets témoins, réputation, qualité observée, autorisations disponibles et capacité réelle à mener le programme jusqu’à la livraison.
           </p>
@@ -457,7 +542,7 @@ const faqSchema = {
               <path stroke-linecap="round" stroke-linejoin="round" d="M18 8h-4m4 0v4" />
             </svg>
           </div>
-          <p class="mb-2 text-sm font-bold text-rdm-orange">A — Analyse d’investissement</p>
+          <h3 class="mb-2 text-sm font-bold text-rdm-orange">Analysis : analyse d’investissement</h3>
           <p class="text-sm leading-relaxed text-rdm-gray">
             Un projet peut être beau sans être cohérent. S.A.F.E analyse donc le prix, l’emplacement, la rareté, les surfaces, les prestations, le potentiel locatif, le potentiel de revente et la logique patrimoniale du projet.
           </p>
@@ -473,7 +558,7 @@ const faqSchema = {
               <path stroke-linecap="round" stroke-linejoin="round" d="M4 12.5 12 17l8-4.5M4 17.5 12 22l8-4.5" />
             </svg>
           </div>
-          <p class="mb-2 text-sm font-bold text-rdm-orange">F — Fiabilité d’exécution</p>
+          <h3 class="mb-2 text-sm font-bold text-rdm-orange">Fidelity : fiabilité d’exécution</h3>
           <p class="text-sm leading-relaxed text-rdm-gray">
             S.A.F.E vérifie la cohérence entre ce qui est annoncé et ce qui peut réellement être livré. Cela inclut les matériaux, les finitions, les plans, le cahier des charges, les prestations prévues, les parties communes, les équipements, l’avancement du projet et le niveau réel de qualité attendu.
           </p>
@@ -489,7 +574,7 @@ const faqSchema = {
               <path stroke-linecap="round" stroke-linejoin="round" d="M14 3v4h4M9 12h6M9 16h6" />
             </svg>
           </div>
-          <p class="mb-2 text-sm font-bold text-rdm-orange">E — Encadrement acheteur</p>
+          <h3 class="mb-2 text-sm font-bold text-rdm-orange">Expert Guidance : encadrement acheteur</h3>
           <p class="text-sm leading-relaxed text-rdm-gray">
             S.A.F.E analyse aussi le cadre de décision : modalités de paiement, réservation, échéancier, documents transmis, passage notarial si applicable, conditions de livraison, frais, garanties disponibles et informations nécessaires avant engagement.
           </p>
@@ -554,7 +639,7 @@ const faqSchema = {
         <div>
           <p class="section-label mb-3">Critères analysés</p>
           <h2 id="criteria-heading" class="text-3xl font-black leading-tight text-rdm-black sm:text-4xl">
-            Les 10 points vérifiés par S.A.F.E
+            Quels éléments sont étudiés par la grille S.A.F.E ?
           </h2>
         </div>
         <p class="max-w-2xl text-rdm-gray leading-relaxed">
@@ -602,9 +687,9 @@ const faqSchema = {
   <section class="bg-white py-18 lg:py-24" aria-labelledby="promise-heading">
     <div class="container-rdm">
       <div class="mx-auto max-w-4xl rounded-lg border border-rdm-border bg-rdm-bg p-7 sm:p-10">
-        <p class="section-label mb-3">La promesse S.A.F.E</p>
+        <p class="section-label mb-3">Périmètre et limites</p>
         <h2 id="promise-heading" class="mb-6 text-3xl font-black leading-tight text-rdm-black sm:text-4xl">
-          Une méthode, pas une promesse de risque nul
+          Quelles sont les limites de la méthode S.A.F.E ?
         </h2>
         <div class="space-y-5 text-lg leading-relaxed text-rdm-gray">
           <p class="font-semibold text-rdm-black">S.A.F.E ne promet pas qu’un projet est sans risque.</p>
@@ -612,11 +697,23 @@ const faqSchema = {
             S.A.F.E indique seulement qu’un projet a été étudié selon une grille internationale de présélection avant d’être présenté à l’acheteur.
           </p>
           <p>
-            La méthode ne remplace pas les vérifications juridiques, notariales, techniques ou financières nécessaires avant toute acquisition. Elle constitue un premier filtre de confiance, conçu pour mieux qualifier les projets, réduire les zones floues et permettre à l’acheteur d’avancer avec plus de méthode.
+            La méthode constitue un premier filtre de confiance, conçu pour mieux qualifier les projets, réduire les zones floues et permettre à l’acheteur d’avancer avec plus de méthode. Elle a des limites claires : elle dépend des informations disponibles, ne procède pas aux vérifications officielles et ne se substitue à aucun avis professionnel.
           </p>
-          <p class="text-sm">
-            Version de méthodologie : S.A.F.E v1.1 — dernière revue éditoriale : 17 juillet 2026.
-          </p>
+          <div class="rounded-lg border border-amber-200 bg-amber-50 p-5 text-sm leading-relaxed text-amber-900">
+            <p class="mb-2 font-bold">La méthode S.A.F.E ne remplace pas :</p>
+            <ul class="grid gap-1.5 sm:grid-cols-2">
+              <li>un notaire</li>
+              <li>un avocat</li>
+              <li>un architecte</li>
+              <li>un ingénieur</li>
+              <li>un géomètre</li>
+              <li>un comptable</li>
+              <li>une banque</li>
+              <li>une autorité publique</li>
+              <li class="sm:col-span-2">une inspection technique indépendante</li>
+            </ul>
+            <p class="mt-3">Avant tout engagement, faites réaliser les vérifications juridiques, notariales, techniques, fiscales et financières par les professionnels compétents.</p>
+          </div>
         </div>
       </div>
     </div>
@@ -626,10 +723,13 @@ const faqSchema = {
     <div class="container-rdm">
       <div class="grid gap-8 lg:grid-cols-[0.9fr_1.1fr] lg:items-start">
         <div>
-          <p class="section-label mb-3">Périmètre et limites</p>
+          <p class="section-label mb-3">Certification ?</p>
           <h2 id="scope-heading" class="text-3xl font-black leading-tight text-rdm-black sm:text-4xl">
-            Ce que S.A.F.E est — et ce que S.A.F.E n’est pas
+            S.A.F.E est-elle une certification immobilière ?
           </h2>
+          <p class="mt-5 text-rdm-gray leading-relaxed">
+            Non. Malgré son nom d’usage, S.A.F.E n’est pas une certification immobilière officielle, ni un label d’État, ni une garantie légale. C’est une méthode d’analyse et de présélection éditoriale. Le tableau ci-contre distingue clairement ce que la méthode est de ce qu’elle n’est pas.
+          </p>
         </div>
         <div class="grid gap-4 md:grid-cols-2">
           <article class="rounded-lg border border-rdm-border bg-white p-6 shadow-card">
@@ -660,7 +760,7 @@ const faqSchema = {
       <div class="mx-auto max-w-4xl">
         <p class="section-label mb-3">Checklist acheteur</p>
         <h2 id="checklist-heading" class="mb-6 text-3xl font-black leading-tight text-rdm-black sm:text-4xl">
-          Utiliser S.A.F.E avant de réserver ou signer
+          Comment utiliser la méthode S.A.F.E avant un achat immobilier ?
         </h2>
         <div class="grid gap-3 sm:grid-cols-2">
           {[
@@ -685,7 +785,7 @@ const faqSchema = {
       <div class="mb-8 max-w-2xl">
         <p class="section-label mb-3">Sources et références</p>
         <h2 id="sources-heading" class="text-3xl font-black leading-tight text-rdm-black sm:text-4xl">
-          Références utilisées pour orienter la méthode
+          Sources et méthodologie éditoriale
         </h2>
         <p class="mt-4 text-rdm-gray leading-relaxed">
           Ces sources servent à orienter les vérifications documentaires. Elles ne remplacent pas l’analyse d’un dossier précis par un professionnel qualifié.
@@ -726,7 +826,7 @@ const faqSchema = {
       <div class="mx-auto max-w-3xl">
         <p class="section-label mb-3">FAQ</p>
         <h2 id="faq-heading" class="mb-8 text-3xl font-black leading-tight text-rdm-black sm:text-4xl">
-          Questions fréquentes sur S.A.F.E
+          Questions fréquentes sur S.A.F.E immobilier
         </h2>
         <div class="divide-y divide-rdm-border rounded-lg border border-rdm-border bg-white">
           {faqItems.map((item) => (
