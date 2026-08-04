@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "Les projets 2030 dépassent le football : ils touchent mobilité, tourisme, santé, télécoms et villes."
-heroImage: "/images/articles/marrakech-perspectives-marche-2026-2030.webp"
-imageAlt: "Gare de Marrakech illustrant les projets de mobilité liés à la transformation 2030 du Maroc."
+heroImage: "/images/articles/news-2026-08-03/mondial-2030-grands-projets-maroc-infrastructures-cover.webp"
+imageAlt: "Train à grande vitesse Al Boraq, symbole des grands projets de mobilité au Maroc."
 featured: false
 sources:
   - label: "Ministère des Finances — préparatifs Coupe du Monde 2030"
@@ -49,8 +49,8 @@ La livraison de la desserte grande vitesse de Marrakech est annoncée pour septe
 L’effet immobilier reste incertain et local, pas automatique.
 
 <figure>
-  <img src="/images/articles/marrakech-2030-infrastructures-tourisme.webp" alt="Gare de Marrakech illustrant les projets de mobilité liés à la transformation 2030 du Maroc." width="1600" height="900" loading="lazy" />
-  <figcaption>Image d'illustration locale optimisée ; crédit et licence documentés dans IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/mondial-2030-grands-projets-maroc-infrastructures-01.webp" alt="Stade Mohammed V de Casablanca, contexte des équipements sportifs marocains." width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>Image d’illustration. Stade Mohammed V de Casablanca, contexte des équipements sportifs marocains. Crédit: mustapha_ennaimi / Wikimedia Commons (CC BY 2.0).</figcaption>
 </figure>
 
 ## Repères vérifiés
@@ -63,13 +63,13 @@ L’effet immobilier reste incertain et local, pas automatique.
 | 4 | L’effet immobilier reste incertain et local, pas automatique. |
 
 <figure>
-  <img src="/images/articles/hcp-croissance-logistique-tanger-med-2026.webp" alt="Gare de Marrakech illustrant les projets de mobilité liés à la transformation 2030 du Maroc." width="1600" height="900" loading="lazy" />
-  <figcaption>Image d'illustration locale optimisée ; crédit et licence documentés dans IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/mondial-2030-grands-projets-maroc-infrastructures-02.webp" alt="Gare ferroviaire de Marrakech, contexte des projets rail avant 2030." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Image d’illustration. Gare ferroviaire de Marrakech, contexte des projets rail avant 2030. Crédit: Maarten Wasmoeth (uploaded by Brinkie) / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/zones-amizmiz-agdal-targa.webp" alt="Gare de Marrakech illustrant les projets de mobilité liés à la transformation 2030 du Maroc." width="1600" height="900" loading="lazy" />
-  <figcaption>Image d'illustration locale optimisée ; crédit et licence documentés dans IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/mondial-2030-grands-projets-maroc-infrastructures-03.webp" alt="Tramway de Rabat, exemple récent d’infrastructure urbaine liée à la transformation des villes." width="1200" height="675" loading="lazy" decoding="async" />
+  <figcaption>Image d’illustration. Tramway de Rabat, exemple récent d’infrastructure urbaine liée à la transformation des villes. Crédit: Taha ahh / Wikimedia Commons (CC0).</figcaption>
 </figure>
 
 ## Ce qui est confirmé

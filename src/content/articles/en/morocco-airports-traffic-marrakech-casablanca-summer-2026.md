@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "First-half 2026 confirms traffic concentration around Casablanca, Marrakech, Agadir, Tangier and Rabat."
-heroImage: "/images/articles/marrakech-2030-infrastructures-tourisme.webp"
-imageAlt: "Entrance of Marrakech-Menara Airport, symbol of Morocco’s air traffic growth."
+heroImage: "/images/articles/news-2026-08-03/aeroports-maroc-trafic-marrakech-casablanca-ete-2026-cover.webp"
+imageAlt: "Entrance to Marrakech Menara Airport, one of the main airports affected by rising traffic."
 featured: false
 sources:
   - label: "SNRT News / ONDA — 18,8 millions de passagers en six mois"
@@ -47,8 +47,8 @@ Marrakech-Menara targets 11.5 million passengers a year over the medium and long
 Aeronautical works are listed at Marrakech until 28 October 2026.
 
 <figure>
-  <img src="/images/articles/royal-air-maroc-ete-2026-marrakech.webp" alt="Entrance of Marrakech-Menara Airport, symbol of Morocco’s air traffic growth." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/aeroports-maroc-trafic-marrakech-casablanca-ete-2026-01.webp" alt="Marrakech Menara terminal, context for passenger handling." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. Marrakech Menara terminal, context for passenger handling. Credit: 瑞丽江的河水 / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 ## Verified markers
@@ -61,13 +61,13 @@ Aeronautical works are listed at Marrakech until 28 October 2026.
 | 4 | Aeronautical works are listed at Marrakech until 28 October 2026. |
 
 <figure>
-  <img src="/images/articles/marrakech-perspectives-marche-2026-2030.webp" alt="Entrance of Marrakech-Menara Airport, symbol of Morocco’s air traffic growth." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/aeroports-maroc-trafic-marrakech-casablanca-ete-2026-02.webp" alt="Casablanca Mohammed V Airport, another major platform in Moroccan air traffic." width="1200" height="817" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. Casablanca Mohammed V Airport, another major platform in Moroccan air traffic. Credit: Image Science &amp; Analysis Laboratory, NASA Johnson Space Center / Wikimedia Commons (Public domain).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/tourisme-maroc-2030-agadir-2026.webp" alt="Entrance of Marrakech-Menara Airport, symbol of Morocco’s air traffic growth." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/aeroports-maroc-trafic-marrakech-casablanca-ete-2026-03.webp" alt="Royal Air Maroc aircraft, context for national and international air flows." width="1024" height="683" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. Royal Air Maroc aircraft, context for national and international air flows. Credit: Konstantin von Wedelstaedt / Wikimedia Commons (GFDL 1.2).</figcaption>
 </figure>
 
 ## What is confirmed

@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "De Amerikaanse positie versterkt het Marokkaanse diplomatieke argument, maar vervangt het VN-proces niet."
-heroImage: "/images/articles/tourisme-maroc-2030-agadir-2026.webp"
-imageAlt: "Beeld uit Zuid-Marokko als contextillustratie bij het diplomatieke dossier van de Marokkaanse Sahara."
+heroImage: "/images/articles/news-2026-08-03/sahara-marocain-position-americaine-2026-cover.webp"
+imageAlt: "Recent beeld van Dakhla als contextuele illustratie bij het dossier van de Marokkaanse Sahara."
 featured: true
 sources:
   - label: "Maroc.ma / MAP — message de Donald Trump au Roi Mohammed VI"
@@ -47,8 +47,8 @@ Resolutie 2797 (2025) verlengde het MINURSO-mandaat tot 31 oktober 2026.
 Nu telt vooral diplomatieke formulering: reacties, communiques en de volgende VN-cyclus.
 
 <figure>
-  <img src="/images/articles/marrakech-perspectives-marche-2026-2030.webp" alt="Beeld uit Zuid-Marokko als contextillustratie bij het diplomatieke dossier van de Marokkaanse Sahara." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/sahara-marocain-position-americaine-2026-01.webp" alt="Beeld van Laayoune als territoriale context bij de Marokkaanse Sahara." width="508" height="352" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Beeld van Laayoune als territoriale context bij de Marokkaanse Sahara. Credit: Souad.M / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
 </figure>
 
 ## Geverifieerde ijkpunten
@@ -61,13 +61,13 @@ Nu telt vooral diplomatieke formulering: reacties, communiques en de volgende VN
 | 4 | Nu telt vooral diplomatieke formulering: reacties, communiques en de volgende VN-cyclus. |
 
 <figure>
-  <img src="/images/articles/marrakech-2030-infrastructures-tourisme.webp" alt="Beeld uit Zuid-Marokko als contextillustratie bij het diplomatieke dossier van de Marokkaanse Sahara." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/sahara-marocain-position-americaine-2026-02.webp" alt="Zaal van de VN-Veiligheidsraad als institutionele context voor MINURSO." width="1200" height="602" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Zaal van de VN-Veiligheidsraad als institutionele context voor MINURSO. Credit: Patrick Gruban / Wikimedia Commons (CC BY-SA 2.0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/hcp-croissance-logistique-tanger-med-2026.webp" alt="Beeld uit Zuid-Marokko als contextillustratie bij het diplomatieke dossier van de Marokkaanse Sahara." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/sahara-marocain-position-americaine-2026-03.webp" alt="Landschap van Dakhla-Oued Ed Dahab als context bij de zuidelijke provincies." width="800" height="837" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Landschap van Dakhla-Oued Ed Dahab als context bij de zuidelijke provincies. Credit: Oxydantal / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 ## Wat bevestigd is

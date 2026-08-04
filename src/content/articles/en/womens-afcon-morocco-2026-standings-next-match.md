@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "Morocco opened with a 4-0 win over Kenya and plays its final group match on 3 August in Rabat."
-heroImage: "/images/articles/gueliz-hivernage-palmeraie-investissement.webp"
-imageAlt: "Rabat avenue used as a contextual image for Women’s AFCON Morocco 2026."
+heroImage: "/images/articles/news-2026-08-03/can-feminine-maroc-2026-classement-prochain-match-cover.webp"
+imageAlt: "Morocco women’s national-team players during an African competition, context for the Atlas Lionesses."
 featured: false
 sources:
   - label: "FRMF — Maroc 4-0 Kenya"
@@ -45,8 +45,8 @@ Semi-finalists are central to the 2027 World Cup pathway.
 Scores must be updated after full time.
 
 <figure>
-  <img src="/images/articles/marrakech-2030-infrastructures-tourisme.webp" alt="Rabat avenue used as a contextual image for Women’s AFCON Morocco 2026." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/can-feminine-maroc-2026-classement-prochain-match-01.webp" alt="Sanaa Mssoudy with Morocco’s women’s national team, context for the national squad." width="1200" height="1460" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. Sanaa Mssoudy with Morocco’s women’s national team, context for the national squad. Credit: Hafidabdelhak21 / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 ## Verified markers
@@ -59,13 +59,13 @@ Scores must be updated after full time.
 | 4 | Scores must be updated after full time. |
 
 <figure>
-  <img src="/images/articles/tourisme-prix-immobiliers-marrakech.webp" alt="Rabat avenue used as a contextual image for Women’s AFCON Morocco 2026." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/can-feminine-maroc-2026-classement-prochain-match-02.webp" alt="Prince Moulay Abdellah sports complex in Rabat, context for the Women’s AFCON calendar." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. Prince Moulay Abdellah sports complex in Rabat, context for the Women’s AFCON calendar. Credit: CSPMA / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/royal-air-maroc-ete-2026-marrakech-2.webp" alt="Rabat avenue used as a contextual image for Women’s AFCON Morocco 2026." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/can-feminine-maroc-2026-classement-prochain-match-03.webp" alt="Sakina Ouzraoui during a Morocco women’s national-team match, national football context." width="939" height="1575" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. Sakina Ouzraoui during a Morocco women’s national-team match, national football context. Credit: Marouane Hamousse / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 ## What is confirmed

@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "De 2030-projecten gaan verder dan voetbal: mobiliteit, toerisme, zorg, telecom en steden."
-heroImage: "/images/articles/marrakech-perspectives-marche-2026-2030.webp"
-imageAlt: "Station Marrakech als illustratie van mobiliteitsprojecten in de Marokkaanse transformatie richting 2030."
+heroImage: "/images/articles/news-2026-08-03/mondial-2030-grands-projets-maroc-infrastructures-cover.webp"
+imageAlt: "Hogesnelheidstrein Al Boraq als symbool van grote mobiliteitsprojecten in Marokko."
 featured: false
 sources:
   - label: "Ministère des Finances — préparatifs Coupe du Monde 2030"
@@ -49,8 +49,8 @@ Hogesnelheidsdienst naar Marrakech is aangekondigd voor september 2029.
 Vastgoedeffecten zijn lokaal en onzeker, niet automatisch.
 
 <figure>
-  <img src="/images/articles/marrakech-2030-infrastructures-tourisme.webp" alt="Station Marrakech als illustratie van mobiliteitsprojecten in de Marokkaanse transformatie richting 2030." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/mondial-2030-grands-projets-maroc-infrastructures-01.webp" alt="Stadion Mohammed V in Casablanca als context voor Marokkaanse sportinfrastructuur." width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Stadion Mohammed V in Casablanca als context voor Marokkaanse sportinfrastructuur. Credit: mustapha_ennaimi / Wikimedia Commons (CC BY 2.0).</figcaption>
 </figure>
 
 ## Geverifieerde ijkpunten
@@ -63,13 +63,13 @@ Vastgoedeffecten zijn lokaal en onzeker, niet automatisch.
 | 4 | Vastgoedeffecten zijn lokaal en onzeker, niet automatisch. |
 
 <figure>
-  <img src="/images/articles/hcp-croissance-logistique-tanger-med-2026.webp" alt="Station Marrakech als illustratie van mobiliteitsprojecten in de Marokkaanse transformatie richting 2030." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/mondial-2030-grands-projets-maroc-infrastructures-02.webp" alt="Station Marrakech als context voor spoorprojecten richting 2030." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Station Marrakech als context voor spoorprojecten richting 2030. Credit: Maarten Wasmoeth (uploaded by Brinkie) / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/zones-amizmiz-agdal-targa.webp" alt="Station Marrakech als illustratie van mobiliteitsprojecten in de Marokkaanse transformatie richting 2030." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/mondial-2030-grands-projets-maroc-infrastructures-03.webp" alt="Tram van Rabat als recent voorbeeld van stedelijke infrastructuur bij stadstransformatie." width="1200" height="675" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Tram van Rabat als recent voorbeeld van stedelijke infrastructuur bij stadstransformatie. Credit: Taha ahh / Wikimedia Commons (CC0).</figcaption>
 </figure>
 
 ## Wat bevestigd is

@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "The US position strengthens Morocco’s diplomatic argument, but it does not replace the UN process."
-heroImage: "/images/articles/tourisme-maroc-2030-agadir-2026.webp"
-imageAlt: "Southern Morocco image used as a contextual illustration for the Moroccan Sahara diplomatic file."
+heroImage: "/images/articles/news-2026-08-03/sahara-marocain-position-americaine-2026-cover.webp"
+imageAlt: "Recent view of Dakhla used as contextual illustration for the Moroccan Sahara file."
 featured: true
 sources:
   - label: "Maroc.ma / MAP — message de Donald Trump au Roi Mohammed VI"
@@ -47,8 +47,8 @@ Security Council resolution 2797 (2025) extended MINURSO until 31 October 2026.
 The immediate issue is diplomatic wording: reactions, communiques and preparation for the next UN sequence.
 
 <figure>
-  <img src="/images/articles/marrakech-perspectives-marche-2026-2030.webp" alt="Southern Morocco image used as a contextual illustration for the Moroccan Sahara diplomatic file." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/sahara-marocain-position-americaine-2026-01.webp" alt="View of Laayoune used as territorial context for the Moroccan Sahara file." width="508" height="352" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. View of Laayoune used as territorial context for the Moroccan Sahara file. Credit: Souad.M / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
 </figure>
 
 ## Verified markers
@@ -61,13 +61,13 @@ The immediate issue is diplomatic wording: reactions, communiques and preparatio
 | 4 | The immediate issue is diplomatic wording: reactions, communiques and preparation for the next UN sequence. |
 
 <figure>
-  <img src="/images/articles/marrakech-2030-infrastructures-tourisme.webp" alt="Southern Morocco image used as a contextual illustration for the Moroccan Sahara diplomatic file." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/sahara-marocain-position-americaine-2026-02.webp" alt="UN Security Council chamber, institutional context for MINURSO monitoring." width="1200" height="602" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. UN Security Council chamber, institutional context for MINURSO monitoring. Credit: Patrick Gruban / Wikimedia Commons (CC BY-SA 2.0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/hcp-croissance-logistique-tanger-med-2026.webp" alt="Southern Morocco image used as a contextual illustration for the Moroccan Sahara diplomatic file." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/sahara-marocain-position-americaine-2026-03.webp" alt="Dakhla-Oued Ed Dahab landscape used to contextualize Morocco’s southern provinces." width="800" height="837" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. Dakhla-Oued Ed Dahab landscape used to contextualize Morocco’s southern provinces. Credit: Oxydantal / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 ## What is confirmed

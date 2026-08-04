@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "El marco previsto para agosto de 2026 añade amazigh y refuerza la seguridad, pero los trámites deben verificarse en Passeport.ma."
-heroImage: "/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-3.webp"
-imageAlt: "Pasaporte sellado, ilustración contextual de trámites administrativos de viaje."
+heroImage: "/images/articles/news-2026-08-03/nouveau-passeport-marocain-2026-documents-prix-validite-cover.webp"
+imageAlt: "Cubierta de pasaporte biométrico marroquí, imagen contextual del cambio de modelo."
 featured: false
 sources:
   - label: "Passeport.ma — portail officiel"
@@ -47,8 +47,8 @@ Los MRE deben acudir a embajadas y consulados.
 Los detalles operativos pueden depender de decisiones ministeriales conjuntas.
 
 <figure>
-  <img src="/images/articles/dahir-maroc-immobilier-acheteur.webp" alt="Pasaporte sellado, ilustración contextual de trámites administrativos de viaje." width="1600" height="900" loading="lazy" />
-  <figcaption>Imagen contextual local optimizada; crédito y licencia documentados en IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/nouveau-passeport-marocain-2026-documents-prix-validite-01.webp" alt="Visual oficial del pasaporte biométrico marroquí, contexto del trámite administrativo." width="416" height="518" loading="lazy" decoding="async" />
+  <figcaption>Imagen de ilustración. Visual oficial del pasaporte biométrico marroquí, contexto del trámite administrativo. Crédito: Ministère de l'Intérieur- Royaume du Maroc- / Wikimedia Commons (Public domain).</figcaption>
 </figure>
 
 ## Referencias verificadas
@@ -61,13 +61,13 @@ Los detalles operativos pueden depender de decisiones ministeriales conjuntas.
 | 4 | Los detalles operativos pueden depender de decisiones ministeriales conjuntas. |
 
 <figure>
-  <img src="/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-2.webp" alt="Pasaporte sellado, ilustración contextual de trámites administrativos de viaje." width="1600" height="900" loading="lazy" />
-  <figcaption>Imagen contextual local optimizada; crédito y licencia documentados en IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/nouveau-passeport-marocain-2026-documents-prix-validite-02.webp" alt="Cubierta anterior del pasaporte biométrico marroquí usada como contexto comparativo." width="709" height="998" loading="lazy" decoding="async" />
+  <figcaption>Imagen de ilustración. Cubierta anterior del pasaporte biométrico marroquí usada como contexto comparativo. Crédito: Tafounast / Wikimedia Commons (Public domain).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/tourisme-maroc-2030-agadir-2026.webp" alt="Pasaporte sellado, ilustración contextual de trámites administrativos de viaje." width="1600" height="900" loading="lazy" />
-  <figcaption>Imagen contextual local optimizada; crédito y licencia documentados en IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/nouveau-passeport-marocain-2026-documents-prix-validite-03.webp" alt="Sellos marroquíes de entrada y salida, contexto de uso del pasaporte en viaje." width="1200" height="511" loading="lazy" decoding="async" />
+  <figcaption>Imagen de ilustración. Sellos marroquíes de entrada y salida, contexto de uso del pasaporte en viaje. Crédito: Sgroey / Wikimedia Commons (CC BY 4.0).</figcaption>
 </figure>
 
 ## Lo confirmado

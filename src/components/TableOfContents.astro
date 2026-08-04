@@ -8,14 +8,15 @@ interface Heading {
 interface Props {
   headings: Heading[];
   title?: string;
+  ariaLabel?: string;
 }
 
-const { headings, title = 'Dans cet article' } = Astro.props;
+const { headings, title = 'Dans cet article', ariaLabel = title } = Astro.props;
 const filtered = headings.filter((h) => h.depth === 2 || h.depth === 3);
 ---
 
 {filtered.length > 0 && (
-  <nav aria-label="Table des matières" class="toc-scroll">
+  <nav aria-label={ariaLabel} class="toc-scroll">
     <p class="text-xs font-bold uppercase tracking-widest text-rdm-gray mb-4">
       {title}
     </p>

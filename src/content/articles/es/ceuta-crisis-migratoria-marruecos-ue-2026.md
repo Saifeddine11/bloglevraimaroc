@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "La crisis de Ceuta exige separar hechos confirmados, cifras provisionales y acusaciones políticas."
-heroImage: "/images/articles/tourisme-prix-immobiliers-marrakech.webp"
-imageAlt: "Plaza urbana marroquí como imagen contextual de movilidad y fronteras."
+heroImage: "/images/articles/news-2026-08-03/sebta-crise-migratoire-maroc-ue-2026-cover.webp"
+imageAlt: "Valla fronteriza de Ceuta/Sebta, imagen contextual de presión migratoria."
 featured: false
 sources:
   - label: "AP — Fact Focus on Ceuta claims"
@@ -47,8 +47,8 @@ Las rutas migratorias se recomponen: bajan Canarias pero hay presión local en C
 La dimensión humanitaria es central.
 
 <figure>
-  <img src="/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-3.webp" alt="Plaza urbana marroquí como imagen contextual de movilidad y fronteras." width="1600" height="900" loading="lazy" />
-  <figcaption>Imagen contextual local optimizada; crédito y licencia documentados en IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/sebta-crise-migratoire-maroc-ue-2026-01.webp" alt="Paso fronterizo del Tarajal, contexto de cruces entre Marruecos y Ceuta." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Imagen de ilustración. Paso fronterizo del Tarajal, contexto de cruces entre Marruecos y Ceuta. Crédito: Xemenendura / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 ## Referencias verificadas
@@ -61,13 +61,13 @@ La dimensión humanitaria es central.
 | 4 | La dimensión humanitaria es central. |
 
 <figure>
-  <img src="/images/articles/marrakech-2030-infrastructures-tourisme.webp" alt="Plaza urbana marroquí como imagen contextual de movilidad y fronteras." width="1600" height="900" loading="lazy" />
-  <figcaption>Imagen contextual local optimizada; crédito y licencia documentados en IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/sebta-crise-migratoire-maroc-ue-2026-02.webp" alt="Vista de la frontera entre Fnideq y Ceuta, referencia territorial del expediente fronterizo." width="1200" height="804" loading="lazy" decoding="async" />
+  <figcaption>Imagen de ilustración. Vista de la frontera entre Fnideq y Ceuta, referencia territorial del expediente fronterizo. Crédito: José Sáez / Wikimedia Commons (CC BY-SA 2.0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/tourisme-maroc-2030-agadir-2026.webp" alt="Plaza urbana marroquí como imagen contextual de movilidad y fronteras." width="1600" height="900" loading="lazy" />
-  <figcaption>Imagen contextual local optimizada; crédito y licencia documentados en IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/sebta-crise-migratoire-maroc-ue-2026-03.webp" alt="Otra vista de la valla fronteriza de Ceuta/Sebta, contexto de controles y flujos." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Imagen de ilustración. Otra vista de la valla fronteriza de Ceuta/Sebta, contexto de controles y flujos. Crédito: Xemenendura / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
 </figure>
 
 ## Lo confirmado

@@ -45,6 +45,7 @@ La industria manufacturera es el matiz, con solo +0,3 % en el T2 de 2026. Convie
 
 ## Lecturas relacionadas
 
+- [Economía de Marruecos en 2026: crecimiento, inflación, empleo e inversiones](/es/articulos/economia-marruecos-2026)
 - [Turismo Marruecos 2030: trayectoria ONMT](/es/articulos/turismo-marruecos-2030-onmt-llegadas-2026)
 - [Timitar Agadir 2026: programa](/es/articulos/timitar-agadir-2026-programa)
 - [LGV Kenitra-Marrakech: impacto viaje](/es/articulos/lgv-kenitra-marrakech-2026-impacto-viaje)

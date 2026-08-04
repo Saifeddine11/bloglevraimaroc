@@ -38,6 +38,8 @@ const categoryEntries = Object.values(CATEGORIES).map((cat) => {
 const currentCategoryKey = Object.entries(categoryRouteKeys).find(([, key]) => key === routeKey)?.[0] as keyof typeof categoryCopies[typeof locale] | undefined;
 const isCategoryPage = !!currentCategoryKey;
 const clusterPage = safeClusterCopies[locale].find((page) => page.routeKey === routeKey);
+const localizedSafeLinkTitle = (key: RouteKey) =>
+  key === 'safe' ? 'S.A.F.E' : safeClusterCopies[locale].find((page) => page.routeKey === key)?.primaryKeyword ?? key;
 const safeCopy = routeKey === 'safe' ? safePageCopies[locale] : undefined;
 const safeSupportLinks = {
   fr: [
@@ -115,6 +117,21 @@ const webPageSchema = {
   publisher: { '@type': 'Organization', name: SITE.name, url: SITE.url },
 };
 
+const breadcrumbSchema =
+  routeKey === 'home'
+    ? undefined
+    : {
+        '@context': 'https://schema.org',
+        '@type': 'BreadcrumbList',
+        itemListElement: [
+          { '@type': 'ListItem', position: 1, name: copy.labels.home, item: absoluteUrl(localizedPath(locale, 'home')) },
+          ...(routeKey !== 'safe' && clusterPage
+            ? [{ '@type': 'ListItem', position: 2, name: 'S.A.F.E', item: absoluteUrl(localizedPath(locale, 'safe')) }]
+            : []),
+          { '@type': 'ListItem', position: clusterPage && routeKey !== 'safe' ? 3 : 2, name: clusterPage?.h1 ?? safeCopy?.h1 ?? pageTitle, item: canonicalURL },
+        ],
+      };
+
 const faqItems = safeCopy?.faq ?? clusterPage?.faq ?? [];
 const faqSchema = faqItems.length
   ? {
@@ -126,6 +143,59 @@ const faqSchema = faqItems.length
         name: item.question,
         acceptedAnswer: { '@type': 'Answer', text: item.answer },
       })),
+    }
+  : undefined;
+
+const clusterArticleSchema = clusterPage
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'Article',
+      headline: clusterPage.h1,
+      description: clusterPage.metaDescription,
+      url: canonicalURL,
+      inLanguage: localeInfo.htmlLang,
+      image: absoluteUrl(clusterPage.image),
+      author: { '@type': 'Organization', name: SITE.name, url: SITE.url },
+      publisher: { '@type': 'Organization', name: SITE.name, url: SITE.url },
+      about: ['S.A.F.E', clusterPage.primaryKeyword, ...clusterPage.secondaryKeywords],
+    }
+  : undefined;
+
+const clusterHowToSchema = clusterPage
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'HowTo',
+      name: clusterPage.checklistTitle,
+      description: clusterPage.metaDescription,
+      inLanguage: localeInfo.htmlLang,
+      step: clusterPage.checklistItems.map((item, index) => ({
+        '@type': 'HowToStep',
+        position: index + 1,
+        text: item,
+      })),
+    }
+  : undefined;
+
+const localizedSafeDefinition = {
+  fr: 'S.A.F.E est une méthodologie internationale propriétaire conçue pour analyser, qualifier et prioriser des projets immobiliers avant achat.',
+  en: 'S.A.F.E is an international proprietary methodology designed to analyze, qualify and prioritize real estate projects before purchase.',
+  es: 'S.A.F.E es una metodología internacional propietaria diseñada para analizar, calificar y priorizar proyectos inmobiliarios antes de comprar.',
+  nl: 'S.A.F.E is een internationale eigen methodologie om vastgoedprojecten vóór aankoop te analyseren, kwalificeren en prioriteren.',
+}[locale];
+
+const clusterDefinedTermSchema = clusterPage
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'DefinedTerm',
+      name: 'S.A.F.E',
+      alternateName: ['SAFE real estate', 'S.A.F.E method', 'S.A.F.E grid'],
+      termCode: 'Security, Analysis, Fidelity & Expert Guidance',
+      description: localizedSafeDefinition,
+      inDefinedTermSet: {
+        '@type': 'DefinedTermSet',
+        name: 'S.A.F.E real estate methodology',
+        url: absoluteUrl(localizedPath(locale, 'safe')),
+      },
     }
   : undefined;
 
@@ -149,7 +219,11 @@ const latestArticles = articles.slice(0, 6);
 >
   <Fragment slot="head">
     <script type="application/ld+json" set:html={JSON.stringify(webPageSchema)} />
+    {breadcrumbSchema && <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />}
     {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
+    {clusterArticleSchema && <script type="application/ld+json" set:html={JSON.stringify(clusterArticleSchema)} />}
+    {clusterHowToSchema && <script type="application/ld+json" set:html={JSON.stringify(clusterHowToSchema)} />}
+    {clusterDefinedTermSchema && <script type="application/ld+json" set:html={JSON.stringify(clusterDefinedTermSchema)} />}
   </Fragment>
 
   {routeKey === 'home' && (
@@ -436,8 +510,15 @@ const latestArticles = articles.slice(0, 6);
   {clusterPage && (
     <>
       <section class="relative overflow-hidden bg-rdm-black text-white">
-        <div class="absolute inset-0" aria-hidden="true"><img src={clusterPage.image} alt="" class="h-full w-full object-cover opacity-25" /><div class="absolute inset-0 bg-black/70"></div></div>
+        <div class="absolute inset-0"><img src={clusterPage.image} alt={clusterPage.imageAlt} class="h-full w-full object-cover opacity-25" /><div class="absolute inset-0 bg-black/70" aria-hidden="true"></div></div>
         <div class="container-rdm relative py-16 lg:py-20">
+          <nav aria-label={copy.labels.breadcrumb} class="mb-10 flex flex-wrap items-center gap-2 text-sm text-white/60">
+            <a href={localizedPath(locale, 'home')} class="hover:text-rdm-orange transition-colors">{copy.labels.home}</a>
+            <span aria-hidden="true">/</span>
+            <a href={localizedPath(locale, 'safe')} class="hover:text-rdm-orange transition-colors">S.A.F.E</a>
+            <span aria-hidden="true">/</span>
+            <span class="text-white">{clusterPage.primaryKeyword}</span>
+          </nav>
           <p class="mb-5 text-xs font-bold uppercase text-rdm-orange">{clusterPage.eyebrow}</p>
           <h1 class="text-4xl font-black leading-[1.04] sm:text-5xl lg:text-6xl">{clusterPage.h1}</h1>
           <p class="mt-7 max-w-3xl text-lg leading-relaxed text-white/75">{clusterPage.intro}</p>
@@ -464,9 +545,9 @@ const latestArticles = articles.slice(0, 6);
         <div class="container-rdm">
           <h2 class="text-lg font-black text-rdm-black mb-6">{copy.labels.relatedArticles}</h2>
           <div class="grid grid-cols-1 md:grid-cols-3 gap-5">
-            {clusterPage.relatedRouteKeys.slice(0, 3).map((key) => (
+            {clusterPage.relatedRouteKeys.map((key) => (
               <a href={localizedPath(locale, key)} class="glass-card p-5 block hover:shadow-card-hover transition-shadow">
-                <h3 class="font-black text-rdm-black mb-2">{key === 'safe' ? 'S.A.F.E' : key}</h3>
+                <h3 class="font-black text-rdm-black mb-2">{localizedSafeLinkTitle(key)}</h3>
                 <p class="text-sm text-rdm-gray">{copy.labels.readArticle}</p>
               </a>
             ))}

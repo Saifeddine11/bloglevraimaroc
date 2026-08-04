@@ -45,6 +45,7 @@ Le point de prudence concerne l’industrie manufacturière, indiquée à seulem
 
 ## À lire aussi
 
+- [Économie du Maroc en 2026 : croissance, inflation, emploi et investissements](/articles/economie-maroc-2026)
 - [Tourisme Maroc 2030 : trajectoire ONMT](/articles/tourisme-maroc-2030-onmt-arrivees-2026)
 - [Timitar Agadir 2026 : programme](/articles/festival-timitar-agadir-2026-programme)
 - [LGV Kénitra-Marrakech : impact voyage](/articles/lgv-kenitra-marrakech-2026-impact-voyage)

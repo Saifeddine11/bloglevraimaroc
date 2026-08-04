@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "La position américaine renforce l'argument diplomatique marocain, mais ne remplace pas le processus onusien."
-heroImage: "/images/articles/tourisme-maroc-2030-agadir-2026.webp"
-imageAlt: "Image du sud marocain utilisée comme illustration du dossier diplomatique du Sahara marocain."
+heroImage: "/images/articles/news-2026-08-03/sahara-marocain-position-americaine-2026-cover.webp"
+imageAlt: "Vue récente de Dakhla, utilisée comme illustration contextuelle du dossier du Sahara marocain."
 featured: true
 sources:
   - label: "Maroc.ma / MAP — message de Donald Trump au Roi Mohammed VI"
@@ -47,8 +47,8 @@ La résolution 2797 (2025) a prolongé le mandat de la MINURSO jusqu'au 31 octob
 L'enjeu immédiat est diplomatique : mesurer les réactions, la formulation des communiqués et la préparation du prochain cycle onusien.
 
 <figure>
-  <img src="/images/articles/marrakech-perspectives-marche-2026-2030.webp" alt="Image du sud marocain utilisée comme illustration du dossier diplomatique du Sahara marocain." width="1600" height="900" loading="lazy" />
-  <figcaption>Image d'illustration locale optimisée ; crédit et licence documentés dans IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/sahara-marocain-position-americaine-2026-01.webp" alt="Vue de Laâyoune utilisée comme repère territorial du dossier du Sahara marocain." width="508" height="352" loading="lazy" decoding="async" />
+  <figcaption>Image d’illustration. Vue de Laâyoune utilisée comme repère territorial du dossier du Sahara marocain. Crédit: Souad.M / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
 </figure>
 
 ## Repères vérifiés
@@ -61,13 +61,13 @@ L'enjeu immédiat est diplomatique : mesurer les réactions, la formulation des 
 | 4 | L'enjeu immédiat est diplomatique : mesurer les réactions, la formulation des communiqués et la préparation du prochain cycle onusien. |
 
 <figure>
-  <img src="/images/articles/marrakech-2030-infrastructures-tourisme.webp" alt="Image du sud marocain utilisée comme illustration du dossier diplomatique du Sahara marocain." width="1600" height="900" loading="lazy" />
-  <figcaption>Image d'illustration locale optimisée ; crédit et licence documentés dans IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/sahara-marocain-position-americaine-2026-02.webp" alt="Salle du Conseil de sécurité de l’ONU, contexte institutionnel du suivi MINURSO." width="1200" height="602" loading="lazy" decoding="async" />
+  <figcaption>Image d’illustration. Salle du Conseil de sécurité de l’ONU, contexte institutionnel du suivi MINURSO. Crédit: Patrick Gruban / Wikimedia Commons (CC BY-SA 2.0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/hcp-croissance-logistique-tanger-med-2026.webp" alt="Image du sud marocain utilisée comme illustration du dossier diplomatique du Sahara marocain." width="1600" height="900" loading="lazy" />
-  <figcaption>Image d'illustration locale optimisée ; crédit et licence documentés dans IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/sahara-marocain-position-americaine-2026-03.webp" alt="Paysage de Dakhla-Oued Ed Dahab utilisé pour contextualiser les provinces du Sud." width="800" height="837" loading="lazy" decoding="async" />
+  <figcaption>Image d’illustration. Paysage de Dakhla-Oued Ed Dahab utilisé pour contextualiser les provinces du Sud. Crédit: Oxydantal / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 ## Ce qui est confirmé

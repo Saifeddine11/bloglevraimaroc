@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "Het kader voor augustus 2026 voegt Amazigh toe en versterkt beveiliging, maar praktische stappen horen op Passeport.ma gecontroleerd te worden."
-heroImage: "/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-3.webp"
-imageAlt: "Gestempeld paspoort als contextillustratie bij reisadministratie."
+heroImage: "/images/articles/news-2026-08-03/nouveau-passeport-marocain-2026-documents-prix-validite-cover.webp"
+imageAlt: "Omslag van een Marokkaans biometrisch paspoort als context bij de modelwijziging."
 featured: false
 sources:
   - label: "Passeport.ma — portail officiel"
@@ -47,8 +47,8 @@ Marokkanen in het buitenland gebruiken ambassades en consulaten.
 Operationele details kunnen afhangen van gezamenlijke besluiten.
 
 <figure>
-  <img src="/images/articles/dahir-maroc-immobilier-acheteur.webp" alt="Gestempeld paspoort als contextillustratie bij reisadministratie." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/nouveau-passeport-marocain-2026-documents-prix-validite-01.webp" alt="Officieel beeld van het Marokkaanse biometrische paspoort als context bij de procedure." width="416" height="518" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Officieel beeld van het Marokkaanse biometrische paspoort als context bij de procedure. Credit: Ministère de l'Intérieur- Royaume du Maroc- / Wikimedia Commons (Public domain).</figcaption>
 </figure>
 
 ## Geverifieerde ijkpunten
@@ -61,13 +61,13 @@ Operationele details kunnen afhangen van gezamenlijke besluiten.
 | 4 | Operationele details kunnen afhangen van gezamenlijke besluiten. |
 
 <figure>
-  <img src="/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-2.webp" alt="Gestempeld paspoort als contextillustratie bij reisadministratie." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/nouveau-passeport-marocain-2026-documents-prix-validite-02.webp" alt="Oudere omslag van een Marokkaans biometrisch paspoort als vergelijkingscontext." width="709" height="998" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Oudere omslag van een Marokkaans biometrisch paspoort als vergelijkingscontext. Credit: Tafounast / Wikimedia Commons (Public domain).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/tourisme-maroc-2030-agadir-2026.webp" alt="Gestempeld paspoort als contextillustratie bij reisadministratie." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/nouveau-passeport-marocain-2026-documents-prix-validite-03.webp" alt="Marokkaanse in- en uitreisstempels als context voor paspoortgebruik op reis." width="1200" height="511" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Marokkaanse in- en uitreisstempels als context voor paspoortgebruik op reis. Credit: Sgroey / Wikimedia Commons (CC BY 4.0).</figcaption>
 </figure>
 
 ## Wat bevestigd is

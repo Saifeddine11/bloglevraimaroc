@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "Pompprijzen verschillen per merk en stad; gepubliceerde bedragen zijn indicatief."
-heroImage: "/images/articles/fiscalite-immobiliere-marrakech-2026-2.webp"
-imageAlt: "Marokkaanse dirhambiljetten als illustratie van brandstof- en transportkosten."
+heroImage: "/images/articles/news-2026-08-03/prix-carburants-maroc-aout-2026-hausse-cover.webp"
+imageAlt: "Tankstation in Marokko als context bij het volgen van brandstofprijzen."
 featured: false
 sources:
   - label: "Médias24 — hausse du 16 juillet 2026"
@@ -47,8 +47,8 @@ Er zijn verschillen tussen stations.
 Transport, leveringen en zomerreizen voelen dit eerst.
 
 <figure>
-  <img src="/images/articles/retenue-source-loyers-maroc-2026.webp" alt="Marokkaanse dirhambiljetten als illustratie van brandstof- en transportkosten." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/prix-carburants-maroc-aout-2026-hausse-01.webp" alt="Afriquia-station in Marokko als context voor brandstofdistributie." width="1200" height="675" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Afriquia-station in Marokko als context voor brandstofdistributie. Credit: karel291 / Wikimedia Commons (CC BY 3.0).</figcaption>
 </figure>
 
 ## Geverifieerde ijkpunten
@@ -61,13 +61,13 @@ Transport, leveringen en zomerreizen voelen dit eerst.
 | 4 | Transport, leveringen en zomerreizen voelen dit eerst. |
 
 <figure>
-  <img src="/images/articles/hcp-croissance-logistique-tanger-med-2026.webp" alt="Marokkaanse dirhambiljetten als illustratie van brandstof- en transportkosten." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/prix-carburants-maroc-aout-2026-hausse-02.webp" alt="Brandstofpomp als context voor pompprijzen." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Brandstofpomp als context voor pompprijzen. Credit: Antony Stanley from Gloucester, UK / Wikimedia Commons (CC BY-SA 2.0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/marrakech-2030-infrastructures-tourisme.webp" alt="Marokkaanse dirhambiljetten als illustratie van brandstof- en transportkosten." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/prix-carburants-maroc-aout-2026-hausse-03.webp" alt="Logistieke stromen in Tanger Med als context voor brandstofimpact op vervoer." width="1200" height="453" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Logistieke stromen in Tanger Med als context voor brandstofimpact op vervoer. Credit: Vincent Motel / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
 </figure>
 
 ## Wat bevestigd is

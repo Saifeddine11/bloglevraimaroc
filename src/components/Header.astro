@@ -71,7 +71,7 @@ const languageLinks = locales.map((targetLocale) => {
       </a>
 
       <!-- Desktop nav -->
-      <nav class="hidden lg:flex items-center gap-1" aria-label="Navigation principale">
+      <nav class="hidden lg:flex items-center gap-1" aria-label={currentUi.labels.mainNavigation}>
         {items.map((item) => {
           const isActive = pathname === item.href || (item.href !== '/' && pathname.startsWith(item.href));
           return (
@@ -143,7 +143,7 @@ const languageLinks = locales.map((targetLocale) => {
   <div
     id="mobile-menu"
     class="hidden lg:hidden absolute top-full left-0 right-0 bg-white border-b border-rdm-border shadow-glass"
-    aria-label="Menu mobile"
+    aria-label={currentUi.labels.mobileMenu}
   >
     <nav class="container-rdm py-4 flex flex-col gap-1">
       {items.map((item) => {

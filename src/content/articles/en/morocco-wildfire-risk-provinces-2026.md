@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "A risk bulletin is not confirmation of an active fire: it is a prevention tool."
-heroImage: "/images/articles/incendie-foret-fumee-illustration.webp"
-imageAlt: "Smoke plume above a forest, contextual illustration of wildfire risk."
+heroImage: "/images/articles/news-2026-08-03/incendies-maroc-provinces-risque-extreme-forets-2026-cover.webp"
+imageAlt: "Moroccan Rif forest, contextual image for wildfire risk in dry periods."
 featured: false
 sources:
   - label: "SNRT News / MAP — carte ANEF 26-29 mai 2026"
@@ -45,8 +45,8 @@ Main factors are heat, wind, dry vegetation and terrain.
 Any smoke should be reported quickly to local authorities.
 
 <figure>
-  <img src="/images/articles/ciel-fumee-canicule-mediterranee-illustration.webp" alt="Smoke plume above a forest, contextual illustration of wildfire risk." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/incendies-maroc-provinces-risque-extreme-forets-2026-01.webp" alt="Middle Atlas cedar forest, context for monitored forest areas in summer." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. Middle Atlas cedar forest, context for monitored forest areas in summer. Credit: Reda Abouakil / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
 </figure>
 
 ## Verified markers
@@ -59,13 +59,13 @@ Any smoke should be reported quickly to local authorities.
 | 4 | Any smoke should be reported quickly to local authorities. |
 
 <figure>
-  <img src="/images/articles/canadair-cl415-largage-eau-illustration.webp" alt="Smoke plume above a forest, contextual illustration of wildfire risk." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/incendies-maroc-provinces-risque-extreme-forets-2026-02.webp" alt="Dry Moroccan forest landscape, illustration of summer vegetation fuel." width="1200" height="1424" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. Dry Moroccan forest landscape, illustration of summer vegetation fuel. Credit: محمد بوعلام عصامي / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/canadair-cl415-avion-bombardier-eau-illustration.webp" alt="Smoke plume above a forest, contextual illustration of wildfire risk." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/incendies-maroc-provinces-risque-extreme-forets-2026-03.webp" alt="Forest monitoring view, context for wildfire-prevention work." width="1200" height="675" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. Forest monitoring view, context for wildfire-prevention work. Credit: Mehdi.Tj / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
 </figure>
 
 ## What is confirmed

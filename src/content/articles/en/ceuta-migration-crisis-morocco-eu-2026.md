@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "The Ceuta crisis requires separating confirmed facts, provisional numbers and political accusations."
-heroImage: "/images/articles/tourisme-prix-immobiliers-marrakech.webp"
-imageAlt: "Moroccan urban square used as contextual image for mobility and borders."
+heroImage: "/images/articles/news-2026-08-03/sebta-crise-migratoire-maroc-ue-2026-cover.webp"
+imageAlt: "Ceuta/Sebta border fence, contextual image for migration pressure."
 featured: false
 sources:
   - label: "AP — Fact Focus on Ceuta claims"
@@ -47,8 +47,8 @@ Migration routes are shifting: lower Canary arrivals but local pressure on Ceuta
 The humanitarian dimension remains central.
 
 <figure>
-  <img src="/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-3.webp" alt="Moroccan urban square used as contextual image for mobility and borders." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/sebta-crise-migratoire-maroc-ue-2026-01.webp" alt="Tarajal border crossing, context for crossings between Morocco and Ceuta." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. Tarajal border crossing, context for crossings between Morocco and Ceuta. Credit: Xemenendura / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 ## Verified markers
@@ -61,13 +61,13 @@ The humanitarian dimension remains central.
 | 4 | The humanitarian dimension remains central. |
 
 <figure>
-  <img src="/images/articles/marrakech-2030-infrastructures-tourisme.webp" alt="Moroccan urban square used as contextual image for mobility and borders." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/sebta-crise-migratoire-maroc-ue-2026-02.webp" alt="View of the border between Fnideq and Ceuta, territorial context for the border file." width="1200" height="804" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. View of the border between Fnideq and Ceuta, territorial context for the border file. Credit: José Sáez / Wikimedia Commons (CC BY-SA 2.0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/tourisme-maroc-2030-agadir-2026.webp" alt="Moroccan urban square used as contextual image for mobility and borders." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/sebta-crise-migratoire-maroc-ue-2026-03.webp" alt="Another view of the Ceuta/Sebta border fence, context for controls and flows." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. Another view of the Ceuta/Sebta border fence, context for controls and flows. Credit: Xemenendura / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
 </figure>
 
 ## What is confirmed

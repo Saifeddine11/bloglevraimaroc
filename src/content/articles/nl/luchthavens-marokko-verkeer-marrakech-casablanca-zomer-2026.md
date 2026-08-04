@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "De eerste helft van 2026 bevestigt concentratie rond Casablanca, Marrakech, Agadir, Tanger en Rabat."
-heroImage: "/images/articles/marrakech-2030-infrastructures-tourisme.webp"
-imageAlt: "Ingang van luchthaven Marrakech-Menara als symbool van groeiend Marokkaans vliegverkeer."
+heroImage: "/images/articles/news-2026-08-03/aeroports-maroc-trafic-marrakech-casablanca-ete-2026-cover.webp"
+imageAlt: "Ingang van luchthaven Marrakech-Menara, een van de luchthavens waar het verkeer stijgt."
 featured: false
 sources:
   - label: "SNRT News / ONDA — 18,8 millions de passagers en six mois"
@@ -47,8 +47,8 @@ Marrakech-Menara mikt op 11,5 miljoen passagiers per jaar op middellange en lang
 Luchtvaartwerken in Marrakech lopen tot 28 oktober 2026.
 
 <figure>
-  <img src="/images/articles/royal-air-maroc-ete-2026-marrakech.webp" alt="Ingang van luchthaven Marrakech-Menara als symbool van groeiend Marokkaans vliegverkeer." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/aeroports-maroc-trafic-marrakech-casablanca-ete-2026-01.webp" alt="Terminal van Marrakech-Menara als context voor passagiersafhandeling." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Terminal van Marrakech-Menara als context voor passagiersafhandeling. Credit: 瑞丽江的河水 / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 ## Geverifieerde ijkpunten
@@ -61,13 +61,13 @@ Luchtvaartwerken in Marrakech lopen tot 28 oktober 2026.
 | 4 | Luchtvaartwerken in Marrakech lopen tot 28 oktober 2026. |
 
 <figure>
-  <img src="/images/articles/marrakech-perspectives-marche-2026-2030.webp" alt="Ingang van luchthaven Marrakech-Menara als symbool van groeiend Marokkaans vliegverkeer." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/aeroports-maroc-trafic-marrakech-casablanca-ete-2026-02.webp" alt="Luchthaven Mohammed V in Casablanca, een grote schakel in het Marokkaanse luchtverkeer." width="1200" height="817" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Luchthaven Mohammed V in Casablanca, een grote schakel in het Marokkaanse luchtverkeer. Credit: Image Science &amp; Analysis Laboratory, NASA Johnson Space Center / Wikimedia Commons (Public domain).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/tourisme-maroc-2030-agadir-2026.webp" alt="Ingang van luchthaven Marrakech-Menara als symbool van groeiend Marokkaans vliegverkeer." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/aeroports-maroc-trafic-marrakech-casablanca-ete-2026-03.webp" alt="Royal Air Maroc-vliegtuig als context voor nationale en internationale luchtstromen." width="1024" height="683" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Royal Air Maroc-vliegtuig als context voor nationale en internationale luchtstromen. Credit: Konstantin von Wedelstaedt / Wikimedia Commons (GFDL 1.2).</figcaption>
 </figure>
 
 ## Wat bevestigd is

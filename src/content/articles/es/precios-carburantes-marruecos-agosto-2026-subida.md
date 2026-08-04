@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "Los precios varían por enseña y ciudad; las cifras publicadas son indicativas."
-heroImage: "/images/articles/fiscalite-immobiliere-marrakech-2026-2.webp"
-imageAlt: "Billetes marroquíes que ilustran el coste del combustible y el transporte."
+heroImage: "/images/articles/news-2026-08-03/prix-carburants-maroc-aout-2026-hausse-cover.webp"
+imageAlt: "Estación de servicio en Marruecos, imagen contextual del seguimiento de carburantes."
 featured: false
 sources:
   - label: "Médias24 — hausse du 16 juillet 2026"
@@ -47,8 +47,8 @@ Existen diferencias entre estaciones.
 Transporte, entregas y viajes de verano son los más expuestos.
 
 <figure>
-  <img src="/images/articles/retenue-source-loyers-maroc-2026.webp" alt="Billetes marroquíes que ilustran el coste del combustible y el transporte." width="1600" height="900" loading="lazy" />
-  <figcaption>Imagen contextual local optimizada; crédito y licencia documentados en IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/prix-carburants-maroc-aout-2026-hausse-01.webp" alt="Estación Afriquia en Marruecos, contexto de distribución de carburantes." width="1200" height="675" loading="lazy" decoding="async" />
+  <figcaption>Imagen de ilustración. Estación Afriquia en Marruecos, contexto de distribución de carburantes. Crédito: karel291 / Wikimedia Commons (CC BY 3.0).</figcaption>
 </figure>
 
 ## Referencias verificadas
@@ -61,13 +61,13 @@ Transporte, entregas y viajes de verano son los más expuestos.
 | 4 | Transporte, entregas y viajes de verano son los más expuestos. |
 
 <figure>
-  <img src="/images/articles/hcp-croissance-logistique-tanger-med-2026.webp" alt="Billetes marroquíes que ilustran el coste del combustible y el transporte." width="1600" height="900" loading="lazy" />
-  <figcaption>Imagen contextual local optimizada; crédito y licencia documentados en IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/prix-carburants-maroc-aout-2026-hausse-02.webp" alt="Surtidor de carburante, imagen contextual de precios en la bomba." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Imagen de ilustración. Surtidor de carburante, imagen contextual de precios en la bomba. Crédito: Antony Stanley from Gloucester, UK / Wikimedia Commons (CC BY-SA 2.0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/marrakech-2030-infrastructures-tourisme.webp" alt="Billetes marroquíes que ilustran el coste del combustible y el transporte." width="1600" height="900" loading="lazy" />
-  <figcaption>Imagen contextual local optimizada; crédito y licencia documentados en IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/prix-carburants-maroc-aout-2026-hausse-03.webp" alt="Flujos logísticos en Tanger Med, contexto del impacto del carburante en transporte." width="1200" height="453" loading="lazy" decoding="async" />
+  <figcaption>Imagen de ilustración. Flujos logísticos en Tanger Med, contexto del impacto del carburante en transporte. Crédito: Vincent Motel / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
 </figure>
 
 ## Lo confirmado

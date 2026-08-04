@@ -678,7 +678,7 @@ export const staticPages: Record<Locale, Record<'blog' | 'about' | 'legal' | 'pr
     },
     legal: {
       metaTitle: 'Aviso legal',
-      metaDescription: 'Aviso legal del sitio Le Vrai Maroc.',
+      metaDescription: 'Aviso legal de Le Vrai Maroc: editor, propiedad intelectual, alojamiento, datos personales y límites editoriales del sitio.',
       eyebrow: 'Información legal',
       h1: 'Aviso legal',
       intro: 'Le Vrai Maroc es un medio editorial independiente.',
@@ -698,7 +698,7 @@ export const staticPages: Record<Locale, Record<'blog' | 'about' | 'legal' | 'pr
       intro: 'Esta página explica cómo Le Vrai Maroc trata los datos que envías voluntariamente.',
       sections: [
         { heading: 'Datos recogidos', body: ['Solo recogemos datos que proporcionas voluntariamente: email, nombre y mensaje.'] },
-        { heading: 'Uso de los datos', body: ['Tus datos sirven para enviar la newsletter o responder a tus mensajes. Nunca se venden.'] },
+        { heading: 'Uso de los datos', body: ['Tus datos sirven para enviar el boletín o responder a tus mensajes. Nunca se venden.'] },
         { heading: 'Cookies', body: ['El sitio puede utilizar cookies técnicas necesarias para funcionar. No se usan cookies publicitarias.'] },
         { heading: 'Tus derechos', body: ['Puedes solicitar acceso, rectificación o supresión escribiendo a contact@levraimaroc.com.'] },
       ],
@@ -766,7 +766,7 @@ export const staticPages: Record<Locale, Record<'blog' | 'about' | 'legal' | 'pr
       metaDescription: 'De pagina die je zoekt bestaat niet of is verplaatst.',
       eyebrow: '404',
       h1: 'Pagina niet gevonden',
-      intro: 'Deze pagina bestaat niet of is verplaatst. Ga terug naar home of lees onze nieuwste analyses.',
+      intro: 'Deze pagina bestaat niet of is verplaatst. Ga terug naar de startpagina of lees onze nieuwste analyses.',
     },
   },
 };
@@ -801,13 +801,13 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
       { label: 'Clarification', text: "S.A.F.E s'applique internationalement avec des contrôles adaptés au pays concerné. Elle ne constitue pas une certification officielle d’État, ne garantit pas l’absence de risque et ne remplace pas les vérifications professionnelles nécessaires avant acquisition." },
     ],
     faq: [
-      { question: 'Que signifie S.A.F.E ?', answer: 'S.A.F.E signifie Security, Analysis, Fidelity & Expert Guidance. En français, la méthode repose sur quatre piliers : Sécurisation du projet, Analyse d’investissement, Fiabilité d’exécution et Encadrement acheteur.' },
+      { question: 'Que signifie S.A.F.E ?', answer: 'S.A.F.E signifie Security, Analysis, Fidelity & Expert Guidance. En français, la méthode repose sur quatre piliers : Sécurisation, Analyse, Fiabilité et Encadrement.' },
       { question: 'S.A.F.E est-elle une certification officielle ?', answer: "Non. S.A.F.E est une méthode internationale propriétaire d'analyse et de présélection immobilière. Elle ne constitue pas une certification officielle d’État." },
       { question: 'S.A.F.E est-elle limitée au Maroc ?', answer: "Non. S.A.F.E est géographiquement neutre et peut être appliquée internationalement, par exemple en France, à Dubaï, aux États-Unis, au Canada, en Espagne, en Italie, en Allemagne, au Maroc, en Algérie, au Portugal ou au Royaume-Uni." },
       { question: 'S.A.F.E garantit-elle qu’un projet est sans risque ?', answer: 'Non. S.A.F.E ne garantit pas l’absence de risque. Elle aide à structurer l’analyse d’un projet avant sa présentation à l’acheteur.' },
       { question: 'S.A.F.E remplace-t-elle le notaire ou les vérifications juridiques ?', answer: 'Non. S.A.F.E ne remplace pas les vérifications juridiques, notariales, techniques, fiscales ou financières nécessaires avant toute acquisition.' },
       { question: 'Que signifie Fidelity dans S.A.F.E ?', answer: 'Fidelity désigne la fidélité entre ce qui est annoncé et ce qui est réellement livré : plans, matériaux, finitions, délais, équipements et qualité d’exécution.' },
-      { question: 'Que signifie Expert Guidance ?', answer: 'Expert Guidance désigne l’encadrement de l’acheteur : compréhension du dossier, documents à demander, échéancier de paiement, réservation, étapes notariales, livraison et aide à la décision.' },
+      { question: 'Que signifie Expert Guidance ?', answer: 'Expert Guidance désigne l’Encadrement : compréhension du dossier, documents à demander, échéancier de paiement, réservation, étapes notariales, livraison et aide à la décision.' },
     ],
   },
   en: {
@@ -927,6 +927,15 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
 };
 
 const clusterImage = {
+  methodeSafe: '/images/safe-immobilier-og.png',
+  grilleSafe: '/images/safe-immobilier-og.png',
+  analyseProjetImmobilier: '/images/articles/immobilier-marrakech-2026.webp',
+  safeAchatSurPlan: '/images/articles/zones-amizmiz-agdal-targa.webp',
+  safeInvestissement: '/images/articles/marrakech-investisseurs-immobiliers.webp',
+  commentAnalyserPromoteur: '/images/articles/gueliz-hivernage-palmeraie-investissement.webp',
+  checklistAchatSurPlan: '/images/articles/procedure-achat-immobilier-maroc-etape-par-etape.webp',
+  guideAnalyseImmobiliere: '/images/articles/riads-marrakech-rendement-pieges.webp',
+  risquesAchatImmobilier: '/images/articles/acheter-bien-marrakech-erreurs.webp',
   acheterSurPlanMaroc: '/images/articles/immobilier-marrakech-2026.webp',
   acheterSurPlanMarrakech: '/images/articles/marrakech-accessible-investisseurs.webp',
   risquesAchatMaroc: '/images/articles/acheter-bien-marrakech-erreurs.webp',
@@ -937,10 +946,19 @@ const clusterImage = {
   prixMarrakech: '/images/articles/marrakech-investisseurs-immobiliers.webp',
 } satisfies Record<string, string>;
 
-const clusterRelated = ['safe', 'documentsAchat', 'verifierPromoteur', 'risquesAchatMaroc'] as RouteKey[];
+const clusterRelated = ['safe', 'methodeSafe', 'grilleSafe', 'analyseProjetImmobilier', 'safeAchatSurPlan', 'safeInvestissement', 'commentAnalyserPromoteur', 'checklistAchatSurPlan', 'guideAnalyseImmobiliere', 'risquesAchatImmobilier', 'documentsAchat', 'verifierPromoteur', 'risquesAchatMaroc'] as RouteKey[];
 
 export const safeClusterCopies: Record<Locale, SafeClusterCopy[]> = {
   fr: [
+    cluster('fr', 'methodeSafe', 'Méthode S.A.F.E immobilier : Security, Analysis, Fidelity & Expert Guidance', 'Méthode S.A.F.E', 'Méthode S.A.F.E immobilier : définition et fonctionnement', "Comprendre la méthode S.A.F.E internationale, ses quatre piliers officiels et son rôle dans l'analyse d'un projet immobilier.", 'méthode S.A.F.E immobilier'),
+    cluster('fr', 'grilleSafe', 'Grille S.A.F.E immobilier : critères, score couleur et décision', 'Grille S.A.F.E', 'Grille S.A.F.E immobilier : critères et score', 'La grille S.A.F.E pour analyser promoteur, documents, paiements, prix, livraison, risque, transparence et décision.', 'grille S.A.F.E immobilier'),
+    cluster('fr', 'analyseProjetImmobilier', 'Analyse de projet immobilier : méthode complète avant achat', 'Analyse projet', 'Analyse de projet immobilier : méthode complète', 'Structurer une analyse de projet immobilier avant achat avec critères documentaires, financiers, techniques et S.A.F.E.', 'analyse projet immobilier'),
+    cluster('fr', 'safeAchatSurPlan', 'S.A.F.E achat sur plan : sécuriser une décision avant livraison', 'Achat sur plan', 'S.A.F.E achat sur plan : méthode de vérification', 'Utiliser S.A.F.E pour analyser un achat sur plan, de la brochure au contrat, jusqu’à la livraison et aux réserves.', 'S.A.F.E achat sur plan'),
+    cluster('fr', 'safeInvestissement', 'S.A.F.E investissement immobilier : analyser rendement, risque et sortie', 'Investissement', 'S.A.F.E investissement immobilier : rendement et risque', 'Méthode S.A.F.E appliquée à l’investissement immobilier : prix, rendement, liquidité, risques et cohérence patrimoniale.', 'S.A.F.E investissement immobilier'),
+    cluster('fr', 'commentAnalyserPromoteur', 'Comment analyser un promoteur immobilier avant de réserver', 'Promoteur', 'Comment analyser un promoteur immobilier', 'Méthode pour analyser un promoteur immobilier : historique, livraisons, documents, réputation, transparence et capacité d’exécution.', 'comment analyser promoteur immobilier'),
+    cluster('fr', 'checklistAchatSurPlan', 'Checklist achat sur plan : questions, documents et signaux d’alerte', 'Checklist', 'Checklist achat sur plan : documents et risques', 'Checklist d’achat sur plan pour vérifier promoteur, contrat, paiements, matériaux, prix, livraison et risques avant réservation.', 'checklist achat sur plan'),
+    cluster('fr', 'guideAnalyseImmobiliere', 'Guide d’analyse immobilière : grille de lecture avant achat', 'Guide analyse', 'Guide d’analyse immobilière avant achat', 'Guide d’analyse immobilière pour comparer un projet, lire les risques, challenger le prix et préparer les vérifications professionnelles.', 'guide analyse immobilière'),
+    cluster('fr', 'risquesAchatImmobilier', 'Risques achat immobilier : identifier les signaux avant de signer', 'Risques', 'Risques achat immobilier : signaux et prévention', 'Comprendre les risques d’un achat immobilier : promoteur, documents, paiements, prix, livraison, usage, fiscalité et revente.', 'risques achat immobilier'),
     cluster('fr', 'acheterSurPlanMaroc', 'Acheter sur plan au Maroc : risques, garanties et vérifications essentielles', 'Guide achat sur plan', 'Acheter sur plan au Maroc : risques et garanties', 'Comprendre les documents, paiements, promoteur et conditions de livraison avant de réserver un bien sur plan au Maroc.', 'acheter sur plan Maroc'),
     cluster('fr', 'acheterSurPlanMarrakech', 'Acheter sur plan à Marrakech : analyser un projet avant de réserver', 'Marrakech neuf', 'Acheter sur plan à Marrakech : analyser avant de réserver', 'Comparer quartier, promoteur, prix, documents et livraison avant de réserver un programme neuf à Marrakech.', 'acheter sur plan Marrakech'),
     cluster('fr', 'risquesAchatMaroc', 'Risques d’un achat immobilier au Maroc : les points à vérifier', 'Prudence acheteur', 'Risques achat immobilier Maroc : points de vigilance', 'Identifier les risques pratiques d’un achat immobilier au Maroc avant signature ou paiement.', 'risques achat immobilier Maroc'),
@@ -951,6 +969,15 @@ export const safeClusterCopies: Record<Locale, SafeClusterCopy[]> = {
     cluster('fr', 'prixMarrakech', 'Prix immobilier à Marrakech : lire les écarts avant d’acheter', 'Prix Marrakech', 'Prix immobilier Marrakech : quartiers, neuf et ancien', 'Comprendre les prix immobiliers à Marrakech selon quartier, typologie, usage et qualité.', 'prix immobilier Marrakech'),
   ],
   en: [
+    cluster('en', 'methodeSafe', 'S.A.F.E real estate methodology: Security, Analysis, Fidelity & Expert Guidance', 'S.A.F.E method', 'S.A.F.E real estate methodology: definition and process', 'Understand the international S.A.F.E methodology, its four official pillars and its role in property project analysis.', 'S.A.F.E real estate methodology'),
+    cluster('en', 'grilleSafe', 'S.A.F.E real estate grid: criteria, color score and decision', 'S.A.F.E grid', 'S.A.F.E real estate grid: criteria and scoring', 'The S.A.F.E grid for evaluating developer, documents, payments, price, delivery, risk, transparency and decision quality.', 'S.A.F.E real estate grid'),
+    cluster('en', 'analyseProjetImmobilier', 'Real estate project analysis: complete method before purchase', 'Project analysis', 'Real estate project analysis: complete method', 'Structure a real estate project analysis before purchase with documentary, financial, technical and S.A.F.E criteria.', 'real estate project analysis'),
+    cluster('en', 'safeAchatSurPlan', 'S.A.F.E off-plan purchase: review before delivery', 'Off-plan', 'S.A.F.E off-plan property purchase method', 'Use S.A.F.E to analyze an off-plan property purchase from brochure and contract to delivery and reservations.', 'S.A.F.E off-plan property purchase'),
+    cluster('en', 'safeInvestissement', 'S.A.F.E property investment: analyzing yield, risk and exit', 'Investment', 'S.A.F.E property investment: yield and risk', 'S.A.F.E applied to property investment: price, yield, liquidity, risks and long-term coherence.', 'S.A.F.E property investment'),
+    cluster('en', 'commentAnalyserPromoteur', 'How to analyze a real estate developer before reserving', 'Developer', 'How to analyze a real estate developer', 'A method for analyzing developer history, deliveries, documents, reputation, transparency and execution capacity.', 'how to analyze a real estate developer'),
+    cluster('en', 'checklistAchatSurPlan', 'Off-plan property checklist: questions, documents and warning signs', 'Checklist', 'Off-plan property checklist: documents and risks', 'Off-plan property checklist for developer, contract, payments, materials, price, delivery and risks before reserving.', 'off-plan property checklist'),
+    cluster('en', 'guideAnalyseImmobiliere', 'Real estate analysis guide: framework before purchase', 'Analysis guide', 'Real estate analysis guide before purchase', 'A real estate analysis guide to compare a project, read risks, challenge price and prepare professional due diligence.', 'real estate analysis guide'),
+    cluster('en', 'risquesAchatImmobilier', 'Property purchase risks: warning signs before signing', 'Risks', 'Property purchase risks: signals and prevention', 'Understand property purchase risks: developer, documents, payments, price, delivery, use, tax and resale.', 'property purchase risks'),
     cluster('en', 'acheterSurPlanMaroc', 'Buying off-plan in Morocco: risks, safeguards and essential checks', 'Off-plan guide', 'Buying off-plan in Morocco: risks and safeguards', 'Understand documents, payments, developer reliability and delivery conditions before reserving an off-plan property in Morocco.', 'buying off-plan Morocco'),
     cluster('en', 'acheterSurPlanMarrakech', 'Buying off-plan in Marrakech: how to assess a project before reserving', 'New-build Marrakech', 'Buying off-plan in Marrakech: assess before reserving', 'Compare location, developer, price, documents and delivery before reserving a new-build project in Marrakech.', 'buying off-plan Marrakech'),
     cluster('en', 'risquesAchatMaroc', 'Real estate purchase risks in Morocco: what buyers should check', 'Buyer caution', 'Morocco real estate risks: buyer checklist', 'Identify practical real estate purchase risks in Morocco before signing or paying.', 'real estate risks Morocco'),
@@ -961,6 +988,15 @@ export const safeClusterCopies: Record<Locale, SafeClusterCopy[]> = {
     cluster('en', 'prixMarrakech', 'Marrakech property prices: read the gaps before buying', 'Marrakech prices', 'Marrakech property prices: neighborhoods, new and resale', 'Understand Marrakech property prices by neighborhood, property type, use and quality.', 'Marrakech property prices'),
   ],
   es: [
+    cluster('es', 'methodeSafe', 'Método S.A.F.E inmobiliario: Security, Analysis, Fidelity & Expert Guidance', 'Método S.A.F.E', 'Método S.A.F.E inmobiliario: definición y proceso', 'Entender la metodología internacional S.A.F.E, sus cuatro pilares oficiales y su papel en el análisis inmobiliario.', 'método S.A.F.E inmobiliario'),
+    cluster('es', 'grilleSafe', 'Matriz S.A.F.E inmobiliaria: criterios, color y decisión', 'Matriz S.A.F.E', 'Matriz S.A.F.E inmobiliaria: criterios y puntuación', 'La matriz S.A.F.E para evaluar promotor, documentos, pagos, precio, entrega, riesgo, transparencia y decisión.', 'matriz S.A.F.E inmobiliaria'),
+    cluster('es', 'analyseProjetImmobilier', 'Análisis de proyecto inmobiliario: método completo antes de comprar', 'Análisis proyecto', 'Análisis de proyecto inmobiliario: método completo', 'Estructurar un análisis de proyecto inmobiliario antes de comprar con criterios documentales, financieros, técnicos y S.A.F.E.', 'análisis proyecto inmobiliario'),
+    cluster('es', 'safeAchatSurPlan', 'S.A.F.E compra sobre plano: revisar antes de la entrega', 'Compra sobre plano', 'S.A.F.E compra sobre plano: método de verificación', 'Usar S.A.F.E para analizar una compra sobre plano desde la brochure y el contrato hasta la entrega.', 'S.A.F.E compra sobre plano'),
+    cluster('es', 'safeInvestissement', 'S.A.F.E inversión inmobiliaria: rendimiento, riesgo y salida', 'Inversión', 'S.A.F.E inversión inmobiliaria: rendimiento y riesgo', 'S.A.F.E aplicado a inversión inmobiliaria: precio, rendimiento, liquidez, riesgos y coherencia patrimonial.', 'S.A.F.E inversión inmobiliaria'),
+    cluster('es', 'commentAnalyserPromoteur', 'Cómo analizar un promotor inmobiliario antes de reservar', 'Promotor', 'Cómo analizar un promotor inmobiliario', 'Método para analizar historial, entregas, documentos, reputación, transparencia y capacidad de ejecución del promotor.', 'cómo analizar promotor inmobiliario'),
+    cluster('es', 'checklistAchatSurPlan', 'Checklist compra sobre plano: preguntas, documentos y alertas', 'Checklist', 'Checklist compra sobre plano: documentos y riesgos', 'Checklist para verificar promotor, contrato, pagos, materiales, precio, entrega y riesgos antes de reservar.', 'checklist compra sobre plano'),
+    cluster('es', 'guideAnalyseImmobiliere', 'Guía de análisis inmobiliario: marco antes de comprar', 'Guía análisis', 'Guía de análisis inmobiliario antes de comprar', 'Guía para comparar un proyecto, leer riesgos, cuestionar el precio y preparar verificaciones profesionales.', 'guía análisis inmobiliario'),
+    cluster('es', 'risquesAchatImmobilier', 'Riesgos compra inmobiliaria: señales antes de firmar', 'Riesgos', 'Riesgos compra inmobiliaria: señales y prevención', 'Entender riesgos de compra inmobiliaria: promotor, documentos, pagos, precio, entrega, uso, fiscalidad y reventa.', 'riesgos compra inmobiliaria'),
     cluster('es', 'acheterSurPlanMaroc', 'Comprar sobre plano en Marruecos: riesgos, garantías y verificaciones', 'Guía sobre plano', 'Comprar sobre plano en Marruecos: riesgos y garantías', 'Entender documentos, pagos, promotor y entrega antes de reservar un inmueble sobre plano en Marruecos.', 'comprar sobre plano Marruecos'),
     cluster('es', 'acheterSurPlanMarrakech', 'Comprar sobre plano en Marrakech: analizar antes de reservar', 'Obra nueva Marrakech', 'Comprar sobre plano en Marrakech: analizar antes de reservar', 'Comparar barrio, promotor, precio, documentos y entrega antes de reservar obra nueva en Marrakech.', 'comprar sobre plano Marrakech'),
     cluster('es', 'risquesAchatMaroc', 'Riesgos de una compra inmobiliaria en Marruecos: qué verificar', 'Prudencia comprador', 'Riesgos compra inmobiliaria Marruecos', 'Identificar riesgos prácticos de una compra inmobiliaria en Marruecos antes de firmar o pagar.', 'riesgos compra inmobiliaria Marruecos'),
@@ -971,6 +1007,15 @@ export const safeClusterCopies: Record<Locale, SafeClusterCopy[]> = {
     cluster('es', 'prixMarrakech', 'Precios inmobiliarios en Marrakech: leer las diferencias antes de comprar', 'Precios Marrakech', 'Precios inmobiliarios Marrakech: barrios, obra nueva y usado', 'Entender precios en Marrakech según barrio, tipología, uso y calidad.', 'precios inmobiliarios Marrakech'),
   ],
   nl: [
+    cluster('nl', 'methodeSafe', 'S.A.F.E vastgoedmethode: Security, Analysis, Fidelity & Expert Guidance', 'S.A.F.E-methode', 'S.A.F.E vastgoedmethode: definitie en proces', 'Begrijp de internationale S.A.F.E-methodologie, de vier officiële pijlers en de rol in vastgoedanalyse.', 'S.A.F.E vastgoedmethode'),
+    cluster('nl', 'grilleSafe', 'S.A.F.E vastgoedmatrix: criteria, kleurenscore en beslissing', 'S.A.F.E-matrix', 'S.A.F.E vastgoedmatrix: criteria en score', 'De S.A.F.E-matrix voor ontwikkelaar, documenten, betalingen, prijs, oplevering, risico, transparantie en beslissing.', 'S.A.F.E vastgoedmatrix'),
+    cluster('nl', 'analyseProjetImmobilier', 'Vastgoedprojectanalyse: volledige methode vóór aankoop', 'Projectanalyse', 'Vastgoedprojectanalyse: volledige methode', 'Structureer vastgoedprojectanalyse vóór aankoop met document-, financiële, technische en S.A.F.E-criteria.', 'vastgoedprojectanalyse'),
+    cluster('nl', 'safeAchatSurPlan', 'S.A.F.E off-plan kopen: controle vóór oplevering', 'Off-plan', 'S.A.F.E off-plan vastgoedkopen: methode', 'Gebruik S.A.F.E om off-plan vastgoed te analyseren van brochure en contract tot oplevering.', 'S.A.F.E off-plan vastgoedkopen'),
+    cluster('nl', 'safeInvestissement', 'S.A.F.E vastgoedinvestering: rendement, risico en exit', 'Investering', 'S.A.F.E vastgoedinvestering: rendement en risico', 'S.A.F.E toegepast op vastgoedinvestering: prijs, rendement, liquiditeit, risico en vermogenslogica.', 'S.A.F.E vastgoedinvestering'),
+    cluster('nl', 'commentAnalyserPromoteur', 'Een vastgoedontwikkelaar analyseren vóór reservering', 'Ontwikkelaar', 'Vastgoedontwikkelaar analyseren', 'Methode om historiek, opleveringen, documenten, reputatie, transparantie en uitvoeringscapaciteit te analyseren.', 'vastgoedontwikkelaar analyseren'),
+    cluster('nl', 'checklistAchatSurPlan', 'Checklist off-plan kopen: vragen, documenten en signalen', 'Checklist', 'Checklist off-plan kopen: documenten en risico', 'Checklist voor ontwikkelaar, contract, betalingen, materialen, prijs, oplevering en risico vóór reservering.', 'checklist off-plan kopen'),
+    cluster('nl', 'guideAnalyseImmobiliere', 'Vastgoedanalyse-gids: kader vóór aankoop', 'Analyse gids', 'Vastgoedanalyse-gids vóór aankoop', 'Gids om een project te vergelijken, risico’s te lezen, prijs te toetsen en professionele controles voor te bereiden.', 'vastgoedanalyse gids'),
+    cluster('nl', 'risquesAchatImmobilier', 'Risico’s bij vastgoedaankoop: signalen vóór tekenen', 'Risico’s', 'Risico’s vastgoedaankoop: signalen en preventie', 'Begrijp risico’s bij vastgoedaankoop: ontwikkelaar, documenten, betalingen, prijs, oplevering, gebruik, fiscaliteit en doorverkoop.', 'risico’s vastgoedaankoop'),
     cluster('nl', 'acheterSurPlanMaroc', 'Off-plan kopen in Marokko: risico’s, waarborgen en controles', 'Off-plan gids', 'Off-plan kopen in Marokko: risico’s en waarborgen', 'Begrijp documenten, betalingen, ontwikkelaar en oplevering voordat je off-plan vastgoed in Marokko reserveert.', 'off-plan kopen Marokko'),
     cluster('nl', 'acheterSurPlanMarrakech', 'Off-plan kopen in Marrakech: analyseer voordat je reserveert', 'Nieuwbouw Marrakech', 'Off-plan kopen in Marrakech: eerst analyseren', 'Vergelijk wijk, ontwikkelaar, prijs, documenten en oplevering voordat je nieuwbouw in Marrakech reserveert.', 'off-plan kopen Marrakech'),
     cluster('nl', 'risquesAchatMaroc', 'Risico’s bij vastgoedaankoop in Marokko: wat controleren', 'Voorzichtige koper', 'Vastgoedrisico’s Marokko: checklist koper', 'Herken praktische risico’s bij vastgoedaankoop in Marokko voordat je tekent of betaalt.', 'vastgoedrisico’s Marokko'),
@@ -992,7 +1037,7 @@ function cluster(
   primaryKeyword: string
 ): SafeClusterCopy {
   const image = clusterImage[routeKey as keyof typeof clusterImage] ?? '/images/articles/immobilier-marrakech-2026.webp';
-  const text = clusterText(locale);
+  const text = clusterText(locale, routeKey);
   return {
     routeKey,
     h1,
@@ -1014,7 +1059,7 @@ function cluster(
   };
 }
 
-function clusterText(locale: Locale): {
+function clusterText(locale: Locale, routeKey: RouteKey): {
     secondary1: string;
     secondary2: string;
     imageAlt: string;
@@ -1025,15 +1070,32 @@ function clusterText(locale: Locale): {
     faq: { question: string; answer: string }[];
     disclaimer: string;
   } {
-  return ({
+  const internationalRouteKeys = new Set<RouteKey>([
+    'methodeSafe',
+    'grilleSafe',
+    'analyseProjetImmobilier',
+    'safeAchatSurPlan',
+    'safeInvestissement',
+    'commentAnalyserPromoteur',
+    'checklistAchatSurPlan',
+    'guideAnalyseImmobiliere',
+    'risquesAchatImmobilier',
+  ]);
+  const international = internationalRouteKeys.has(routeKey);
+
+  const localized = ({
   fr: {
-    secondary1: 'achat immobilier Maroc',
+    secondary1: international ? 'méthodologie immobilière internationale' : 'achat immobilier Maroc',
     secondary2: 'méthode S.A.F.E',
-    imageAlt: 'Projet immobilier au Maroc analysé selon une grille de vérification.',
+    imageAlt: international
+      ? 'Projet immobilier international analysé avec la méthode S.A.F.E.'
+      : 'Projet immobilier au Maroc analysé selon une grille de vérification.',
     intro:
-      'Ce guide aide l’acheteur à structurer les vérifications avant de s’engager. Il ne remplace pas un notaire, un avocat, un expert technique ou un conseil financier.',
+      international
+        ? 'Ce guide aide l’acheteur à structurer l’analyse d’un projet immobilier avant de s’engager, quel que soit le pays concerné. Il ne remplace pas un notaire, un avocat, un expert technique ou un conseil financier.'
+        : 'Ce guide aide l’acheteur à structurer les vérifications avant de s’engager. Il ne remplace pas un notaire, un avocat, un expert technique ou un conseil financier.',
     sections: [
-      { heading: 'Pourquoi ralentir avant de signer', body: ['Un projet immobilier peut sembler clair dans une brochure et rester incomplet dans les documents. La décision doit relier prix, dossier, promoteur, paiements, calendrier et usage réel du bien.'] },
+      { heading: 'Pourquoi ralentir avant de signer', body: [international ? 'Un projet immobilier peut sembler clair dans une brochure et rester incomplet dans les documents. La décision doit relier prix, dossier, opérateur, paiements, calendrier, cadre local et usage réel du bien.' : 'Un projet immobilier peut sembler clair dans une brochure et rester incomplet dans les documents. La décision doit relier prix, dossier, promoteur, paiements, calendrier et usage réel du bien.'] },
       { heading: 'Les points à vérifier', body: ['La méthode consiste à demander les pièces, comprendre les zones floues et faire relire les engagements par des professionnels compétents lorsque l’achat devient sérieux.'], bullets: ['Identité du vendeur ou promoteur.', 'Titre, plans, surfaces et autorisations communiquées.', 'Échéancier, bénéficiaire des paiements et conditions de sortie.', 'Livraison, garanties, réserves et suivi après signature.'] },
       { heading: 'Le rôle de S.A.F.E', body: ['S.A.F.E aide à organiser le premier niveau d’analyse. La grille ne crée pas de garantie légale et ne remplace jamais les contrôles professionnels.'] },
     ],
@@ -1047,13 +1109,17 @@ function clusterText(locale: Locale): {
     disclaimer: 'Cet article est une analyse éditoriale et ne constitue pas un conseil juridique, fiscal, financier ou notarial.',
   },
   en: {
-    secondary1: 'Morocco real estate purchase',
+    secondary1: international ? 'international real estate methodology' : 'Morocco real estate purchase',
     secondary2: 'S.A.F.E method',
-    imageAlt: 'Real estate project in Morocco reviewed through a verification framework.',
+    imageAlt: international
+      ? 'International real estate project reviewed with the S.A.F.E methodology.'
+      : 'Real estate project in Morocco reviewed through a verification framework.',
     intro:
-      'This guide helps buyers structure checks before committing. It does not replace a notary, lawyer, technical expert or financial adviser.',
+      international
+        ? 'This guide helps buyers structure a property project review before committing, regardless of the country concerned. It does not replace a notary, lawyer, technical expert or financial adviser.'
+        : 'This guide helps buyers structure checks before committing. It does not replace a notary, lawyer, technical expert or financial adviser.',
     sections: [
-      { heading: 'Why buyers should slow down before signing', body: ['A property project can look clear in a brochure while important documents remain incomplete. The decision should connect price, file, developer, payments, timeline and real intended use.'] },
+      { heading: 'Why buyers should slow down before signing', body: [international ? 'A property project can look clear in a brochure while important documents remain incomplete. The decision should connect price, file, operator, payments, timeline, local framework and real intended use.' : 'A property project can look clear in a brochure while important documents remain incomplete. The decision should connect price, file, developer, payments, timeline and real intended use.'] },
       { heading: 'What to verify', body: ['The method is to request documents, understand unclear points and have binding commitments reviewed by qualified professionals when the purchase becomes serious.'], bullets: ['Identity of the seller or developer.', 'Title deed, plans, surfaces and shared authorizations.', 'Payment schedule, recipient and exit conditions.', 'Delivery, guarantees, reservations and post-signature follow-up.'] },
       { heading: 'The role of S.A.F.E', body: ['S.A.F.E helps organize the first layer of analysis. The framework creates no legal guarantee and never replaces professional checks.'] },
     ],
@@ -1067,13 +1133,17 @@ function clusterText(locale: Locale): {
     disclaimer: 'This article is editorial analysis and does not constitute legal, tax, financial or notarial advice.',
   },
   es: {
-    secondary1: 'compra inmobiliaria Marruecos',
+    secondary1: international ? 'metodología inmobiliaria internacional' : 'compra inmobiliaria Marruecos',
     secondary2: 'método S.A.F.E',
-    imageAlt: 'Proyecto inmobiliario en Marruecos analizado mediante una matriz de verificación.',
+    imageAlt: international
+      ? 'Proyecto inmobiliario internacional analizado con la metodología S.A.F.E.'
+      : 'Proyecto inmobiliario en Marruecos analizado mediante una matriz de verificación.',
     intro:
-      'Esta guía ayuda al comprador a estructurar verificaciones antes de comprometerse. No sustituye a un notario, abogado, experto técnico ni asesor financiero.',
+      international
+        ? 'Esta guía ayuda al comprador a estructurar el análisis de un proyecto inmobiliario antes de comprometerse, sea cual sea el país. No sustituye a un notario, abogado, experto técnico ni asesor financiero.'
+        : 'Esta guía ayuda al comprador a estructurar verificaciones antes de comprometerse. No sustituye a un notario, abogado, experto técnico ni asesor financiero.',
     sections: [
-      { heading: 'Por qué conviene frenar antes de firmar', body: ['Un proyecto inmobiliario puede parecer claro en una brochure y seguir incompleto en los documentos. La decisión debe conectar precio, expediente, promotor, pagos, calendario y uso real del bien.'] },
+      { heading: 'Por qué conviene frenar antes de firmar', body: [international ? 'Un proyecto inmobiliario puede parecer claro en un dosier comercial y seguir incompleto en los documentos. La decisión debe conectar precio, expediente, operador, pagos, calendario, marco local y uso real del bien.' : 'Un proyecto inmobiliario puede parecer claro en un dosier comercial y seguir incompleto en los documentos. La decisión debe conectar precio, expediente, promotor, pagos, calendario y uso real del bien.'] },
       { heading: 'Qué verificar', body: ['El método consiste en pedir documentos, entender zonas poco claras y hacer revisar compromisos vinculantes por profesionales cualificados cuando la compra se vuelve seria.'], bullets: ['Identidad del vendedor o promotor.', 'Título, planos, superficies y autorizaciones comunicadas.', 'Calendario de pagos, beneficiario y condiciones de salida.', 'Entrega, garantías, reservas y seguimiento tras la firma.'] },
       { heading: 'El papel de S.A.F.E', body: ['S.A.F.E ayuda a organizar el primer nivel de análisis. La matriz no crea garantía legal y nunca sustituye controles profesionales.'] },
     ],
@@ -1087,13 +1157,17 @@ function clusterText(locale: Locale): {
     disclaimer: 'Este artículo es un análisis editorial y no constituye asesoramiento jurídico, fiscal, financiero ni notarial.',
   },
   nl: {
-    secondary1: 'vastgoed kopen Marokko',
+    secondary1: international ? 'internationale vastgoedmethodologie' : 'vastgoed kopen Marokko',
     secondary2: 'S.A.F.E-methode',
-    imageAlt: 'Vastgoedproject in Marokko beoordeeld met een verificatiekader.',
+    imageAlt: international
+      ? 'Internationaal vastgoedproject beoordeeld met de S.A.F.E-methodologie.'
+      : 'Vastgoedproject in Marokko beoordeeld met een verificatiekader.',
     intro:
-      'Deze gids helpt kopers controles te structureren voordat zij zich verbinden. Hij vervangt geen notaris, advocaat, technisch expert of financieel adviseur.',
+      international
+        ? 'Deze gids helpt kopers een vastgoedproject gestructureerd te beoordelen voordat zij zich verbinden, ongeacht het land. Hij vervangt geen notaris, advocaat, technisch expert of financieel adviseur.'
+        : 'Deze gids helpt kopers controles te structureren voordat zij zich verbinden. Hij vervangt geen notaris, advocaat, technisch expert of financieel adviseur.',
     sections: [
-      { heading: 'Waarom vertragen vóór ondertekening verstandig is', body: ['Een vastgoedproject kan helder lijken in een brochure terwijl belangrijke documenten ontbreken. De beslissing moet prijs, dossier, ontwikkelaar, betalingen, timing en werkelijk gebruik verbinden.'] },
+      { heading: 'Waarom vertragen vóór ondertekening verstandig is', body: [international ? 'Een vastgoedproject kan helder lijken in een verkoopdossier terwijl belangrijke documenten ontbreken. De beslissing moet prijs, dossier, operator, betalingen, timing, lokale regels en werkelijk gebruik verbinden.' : 'Een vastgoedproject kan helder lijken in een verkoopdossier terwijl belangrijke documenten ontbreken. De beslissing moet prijs, dossier, ontwikkelaar, betalingen, timing en werkelijk gebruik verbinden.'] },
       { heading: 'Wat controleren', body: ['De methode is documenten vragen, onduidelijke punten begrijpen en bindende afspraken laten controleren door gekwalificeerde professionals wanneer de aankoop concreet wordt.'], bullets: ['Identiteit van verkoper of ontwikkelaar.', 'Titel, plannen, oppervlaktes en gedeelde vergunningen.', 'Betalingsschema, begunstigde en uitstapvoorwaarden.', 'Oplevering, garanties, opmerkingen en opvolging na ondertekening.'] },
       { heading: 'De rol van S.A.F.E', body: ['S.A.F.E helpt de eerste analyselaag te ordenen. Het kader creëert geen juridische garantie en vervangt nooit professionele controles.'] },
     ],
@@ -1107,4 +1181,6 @@ function clusterText(locale: Locale): {
     disclaimer: 'Dit artikel is redactionele analyse en vormt geen juridisch, fiscaal, financieel of notarieel advies.',
   },
   })[locale];
+
+  return localized;
 }

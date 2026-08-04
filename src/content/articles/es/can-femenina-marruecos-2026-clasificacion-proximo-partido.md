@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "Marruecos arrancó con 4-0 ante Kenia y juega su último partido de grupo el 3 de agosto en Rabat."
-heroImage: "/images/articles/gueliz-hivernage-palmeraie-investissement.webp"
-imageAlt: "Avenida de Rabat como imagen contextual de la CAN femenina Marruecos 2026."
+heroImage: "/images/articles/news-2026-08-03/can-feminine-maroc-2026-classement-prochain-match-cover.webp"
+imageAlt: "Jugadoras de la selección femenina de Marruecos durante una competición africana, contexto de las Leonas del Atlas."
 featured: false
 sources:
   - label: "FRMF — Maroc 4-0 Kenya"
@@ -45,8 +45,8 @@ Las semifinalistas son clave para el Mundial 2027.
 Los marcadores deben actualizarse al final del partido.
 
 <figure>
-  <img src="/images/articles/marrakech-2030-infrastructures-tourisme.webp" alt="Avenida de Rabat como imagen contextual de la CAN femenina Marruecos 2026." width="1600" height="900" loading="lazy" />
-  <figcaption>Imagen contextual local optimizada; crédito y licencia documentados en IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/can-feminine-maroc-2026-classement-prochain-match-01.webp" alt="Sanaa Mssoudy con la selección femenina marroquí, contexto del equipo nacional." width="1200" height="1460" loading="lazy" decoding="async" />
+  <figcaption>Imagen de ilustración. Sanaa Mssoudy con la selección femenina marroquí, contexto del equipo nacional. Crédito: Hafidabdelhak21 / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 ## Referencias verificadas
@@ -59,13 +59,13 @@ Los marcadores deben actualizarse al final del partido.
 | 4 | Los marcadores deben actualizarse al final del partido. |
 
 <figure>
-  <img src="/images/articles/tourisme-prix-immobiliers-marrakech.webp" alt="Avenida de Rabat como imagen contextual de la CAN femenina Marruecos 2026." width="1600" height="900" loading="lazy" />
-  <figcaption>Imagen contextual local optimizada; crédito y licencia documentados en IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/can-feminine-maroc-2026-classement-prochain-match-02.webp" alt="Complejo deportivo Príncipe Moulay Abdellah en Rabat, contexto del calendario de la CAN femenina." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Imagen de ilustración. Complejo deportivo Príncipe Moulay Abdellah en Rabat, contexto del calendario de la CAN femenina. Crédito: CSPMA / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/royal-air-maroc-ete-2026-marrakech-2.webp" alt="Avenida de Rabat como imagen contextual de la CAN femenina Marruecos 2026." width="1600" height="900" loading="lazy" />
-  <figcaption>Imagen contextual local optimizada; crédito y licencia documentados en IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/can-feminine-maroc-2026-classement-prochain-match-03.webp" alt="Sakina Ouzraoui durante un partido de la selección femenina marroquí, contexto deportivo nacional." width="939" height="1575" loading="lazy" decoding="async" />
+  <figcaption>Imagen de ilustración. Sakina Ouzraoui durante un partido de la selección femenina marroquí, contexto deportivo nacional. Crédito: Marouane Hamousse / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 ## Lo confirmado

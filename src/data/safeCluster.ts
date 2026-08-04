@@ -36,7 +36,535 @@ export interface SafeClusterPage {
   disclaimer?: string;
 }
 
+const SAFE_ENTITY_DEFINITION =
+  "S.A.F.E (Security, Analysis, Fidelity & Expert Guidance) est une méthode internationale propriétaire conçue pour analyser, qualifier et prioriser des projets immobiliers avant achat. En français, ses quatre piliers officiels sont Sécurisation, Analyse, Fiabilité et Encadrement.";
+
+const SAFE_SCOPE_DISCLAIMER =
+  'S.A.F.E est une méthodologie internationale de présélection et d’analyse. Elle ne constitue pas une certification publique, une garantie juridique, une promesse de rendement ou un substitut aux vérifications notariales, juridiques, techniques, fiscales et financières.';
+
+const SAFE_ENTITY_CLUSTER_PAGES: SafeClusterPage[] = [
+  {
+    slug: 'methode-safe-immobilier',
+    h1: 'Méthode S.A.F.E immobilier : définition, piliers et processus de décision',
+    eyebrow: 'Méthode S.A.F.E',
+    metaTitle: 'Méthode S.A.F.E immobilier : définition et fonctionnement',
+    metaDescription:
+      'La méthode S.A.F.E immobilier expliquée : Security, Analysis, Fidelity & Expert Guidance, quatre piliers internationaux pour analyser un projet immobilier avant achat.',
+    primaryKeyword: 'méthode S.A.F.E immobilier',
+    secondaryKeywords: ['méthode SAFE', 'S.A.F.E immobilier', 'real estate methodology', 'property due diligence'],
+    image: '/images/safe-immobilier-og.png',
+    imageAlt: 'Schéma S.A.F.E pour analyser un projet immobilier international avant achat.',
+    intro: [
+      SAFE_ENTITY_DEFINITION,
+      'Cette page cible l’intention “comment fonctionne S.A.F.E ?”. Elle présente le raisonnement, les étapes et les limites de la méthode sans se substituer à la page pilier ni à la grille opérationnelle.',
+    ],
+    sections: [
+      {
+        heading: 'Pourquoi une méthode dédiée à l’immobilier',
+        body: [
+          'Un achat immobilier engage du capital, du temps, de la confiance et souvent une projection de vie. Pourtant, la décision est encore trop souvent prise à partir d’une brochure, d’une visite rapide, d’une recommandation commerciale ou d’un prix présenté comme urgent.',
+          'S.A.F.E existe pour remettre de l’ordre dans cette décision. La méthode classe les questions essentielles avant achat : la sécurité du projet, l’analyse économique, la fidélité entre promesse et livraison, puis l’Encadrement.',
+        ],
+        bullets: [
+          'Séparer les preuves des promesses commerciales.',
+          'Relier le prix à la qualité et à l’usage réel.',
+          'Identifier les points à confirmer avant engagement.',
+          'Préparer les questions pour les professionnels compétents.',
+        ],
+      },
+      {
+        heading: 'Les quatre piliers officiels',
+        body: [
+          'Security concerne la Sécurisation : qui vend, qui construit, quels documents existent, quelles autorisations sont disponibles et quelles incertitudes restent visibles.',
+          'Analysis concerne l’Analyse : prix, emplacement, usage, rendement, liquidité, comparaison de marché et cohérence avec le profil de l’acheteur. Fidelity concerne la Fiabilité : correspondance entre ce qui est annoncé et ce qui peut être livré. Expert Guidance concerne l’Encadrement : documents, paiements, calendrier, accompagnement et décision finale.',
+        ],
+      },
+      {
+        heading: 'Du diagnostic à la décision',
+        body: [
+          'La méthode ne donne pas un verdict magique. Elle transforme une masse d’informations en décision lisible : avancer, approfondir, attendre, négocier, demander des preuves ou écarter le projet.',
+          'Elle peut s’appliquer en France, au Maroc, à Dubaï, en Espagne, au Portugal, au Canada, aux États-Unis, en Belgique ou en Suisse. Les questions restent structurées par S.A.F.E, mais les pièces et obligations doivent toujours être adaptées au pays concerné.',
+        ],
+      },
+      {
+        heading: 'Ce que la méthode ne prétend pas faire',
+        body: [
+          'Une méthode d’analyse ne remplace pas les professionnels. S.A.F.E aide à poser les bonnes questions et à détecter les zones faibles ; elle ne certifie pas la propriété, ne valide pas un permis, ne garantit pas une livraison et ne promet pas une rentabilité.',
+          'Sa valeur vient de sa discipline : rendre visible ce qui est connu, ce qui est supposé, ce qui doit être prouvé et ce qui doit être confirmé par un conseil qualifié.',
+        ],
+      },
+    ],
+    checklistTitle: 'Processus de lecture S.A.F.E',
+    checklistItems: [
+      'Décrire le projet, le vendeur, le promoteur et l’usage visé.',
+      'Classer les documents disponibles et les documents manquants.',
+      'Comparer prix, marché, qualité et potentiel de sortie.',
+      'Évaluer la fidélité entre promesse commerciale et éléments vérifiables.',
+      'Identifier les questions à poser au notaire, avocat, architecte ou expert.',
+      'Prendre une décision argumentée : avancer, approfondir, attendre ou écarter.',
+    ],
+    faq: [
+      { question: 'Qu’est-ce que la méthode S.A.F.E immobilier ?', answer: SAFE_ENTITY_DEFINITION },
+      { question: 'S.A.F.E est-elle une due diligence ?', answer: 'S.A.F.E prépare et structure une due diligence immobilière, mais ne remplace pas les vérifications professionnelles propres à chaque pays.' },
+      { question: 'La méthode est-elle internationale ?', answer: 'Oui. S.A.F.E est internationale et peut s’appliquer à différents marchés, par exemple France, Maroc, Dubaï, Espagne, Portugal, Canada, États-Unis, Belgique ou Suisse.' },
+      { question: 'Quel est le résultat d’une analyse S.A.F.E ?', answer: 'Le résultat est une lecture structurée des points forts, limites, documents manquants, risques et actions à confirmer avant décision.' },
+    ],
+    relatedLinks: [],
+    disclaimer: SAFE_SCOPE_DISCLAIMER,
+  },
+  {
+    slug: 'grille-safe-immobilier',
+    h1: 'Grille S.A.F.E immobilier : critères, score couleur et décision acheteur',
+    eyebrow: 'Grille S.A.F.E',
+    metaTitle: 'Grille S.A.F.E immobilier : critères et score',
+    metaDescription:
+      'Grille S.A.F.E immobilier : tableau d’évaluation du promoteur, légal, construction, paiements, prix, livraison, quartier, risque, documents et décision.',
+    primaryKeyword: 'grille S.A.F.E immobilier',
+    secondaryKeywords: ['grille SAFE', 'SAFE checklist', 'SAFE score', 'SAFE certification'],
+    image: '/images/safe-immobilier-og.png',
+    imageAlt: 'Grille S.A.F.E immobilier avec critères de score et décision.',
+    intro: [
+      'La grille S.A.F.E transforme une analyse immobilière en tableau de décision. Elle ne se limite pas à cocher des documents : elle relie preuves, cohérence économique, qualité livrable, risques et profil acheteur.',
+      'Cette page cible l’intention “grille SAFE” et “SAFE checklist”. Elle complète la méthode générale en montrant comment classer les critères avant réservation, signature ou investissement.',
+    ],
+    sections: [
+      {
+        heading: 'Les familles de critères',
+        body: [
+          'Une bonne grille immobilière doit couvrir plus que le vendeur. S.A.F.E examine le promoteur, le cadre légal, la construction, les paiements, le prix, la livraison, le quartier, l’investissement, la location, la revente, les documents, la transparence, les photos, les cartes, les matériaux et la qualité.',
+          'Chaque famille reçoit une lecture qualitative : élément clair, élément à confirmer, point faible, blocage potentiel ou sujet nécessitant un professionnel.',
+        ],
+        bullets: ['Promoteur et historique.', 'Documents et cadre légal.', 'Prix, marché, location et revente.', 'Livraison, matériaux, qualité et décision.'],
+      },
+      {
+        heading: 'Le score couleur',
+        body: [
+          'Le score couleur sert à rendre la décision lisible. Vert signifie que les informations disponibles sont cohérentes. Orange signifie que le projet peut rester intéressant mais exige des confirmations. Rouge signifie que le risque, le flou ou l’absence de preuve doit ralentir ou bloquer la décision.',
+          'Ce score ne remplace pas une expertise. Il sert à éviter l’effet de halo : un beau visuel ou une remise commerciale ne doit pas masquer un document manquant, un prix incohérent ou une livraison trop incertaine.',
+        ],
+      },
+      {
+        heading: 'Exemples d’utilisation',
+        body: [
+          'Un projet peut être vert sur l’emplacement et orange sur les paiements. Un autre peut être fort sur le prix mais rouge sur la transparence du promoteur. La décision finale ne dépend donc pas d’un seul critère, mais de la combinaison des risques.',
+          'La grille est particulièrement utile pour comparer deux projets sur plan, arbitrer entre neuf et ancien, challenger une promesse locative ou préparer une discussion avec un notaire, avocat ou expert technique.',
+        ],
+      },
+    ],
+    checklistTitle: 'Table d’évaluation S.A.F.E',
+    checklistItems: [
+      'Promoteur : identité, références, projets livrés et réputation.',
+      'Légal : titre, autorisations, contrat, charges et points à confirmer.',
+      'Construction : plans, matériaux, qualité, photos et cohérence livrable.',
+      'Paiements : bénéficiaire, échéancier, traçabilité et conditions de sortie.',
+      'Prix : comparaison, location, revente, quartier et liquidité.',
+      'Décision : score couleur, réserves, actions et validation professionnelle.',
+    ],
+    faq: [
+      { question: 'À quoi sert la grille S.A.F.E ?', answer: 'Elle sert à classer les critères d’un projet immobilier avant achat pour rendre les points forts, risques et décisions plus lisibles.' },
+      { question: 'La grille donne-t-elle une note officielle ?', answer: 'Non. Le score S.A.F.E est une lecture méthodologique propriétaire, pas une certification publique ni une note réglementaire.' },
+      { question: 'Quels critères sont inclus ?', answer: 'La grille couvre notamment promoteur, légal, construction, paiements, prix, livraison, quartier, investissement, location, revente, risques, documents et transparence.' },
+      { question: 'Peut-on utiliser la grille hors Maroc ?', answer: 'Oui. La structure est internationale ; les documents précis changent selon le pays.' },
+    ],
+    relatedLinks: [],
+    disclaimer: SAFE_SCOPE_DISCLAIMER,
+  },
+  {
+    slug: 'analyse-projet-immobilier',
+    h1: 'Analyse de projet immobilier : méthode complète avant d’acheter',
+    eyebrow: 'Analyse projet',
+    metaTitle: 'Analyse de projet immobilier : méthode avant achat',
+    metaDescription:
+      'Méthode d’analyse d’un projet immobilier : promoteur, documents, prix, quartier, financement, livraison, risques, investissement et décision.',
+    primaryKeyword: 'analyse projet immobilier',
+    secondaryKeywords: ['comment analyser un projet immobilier', 'real estate project analysis', 'property due diligence'],
+    image: '/images/articles/immobilier-marrakech-2026.webp',
+    imageAlt: 'Projet immobilier analysé avant achat avec une méthode de due diligence.',
+    intro: [
+      'Analyser un projet immobilier consiste à comprendre la décision avant de la financer. Le projet doit être lu comme un système : vendeur, produit, emplacement, prix, documents, calendrier, usage, sortie et risques.',
+      'S.A.F.E apporte une structure internationale pour organiser cette analyse sans la réduire à un prix au mètre carré ou à une impression de visite.',
+    ],
+    sections: [
+      {
+        heading: 'Partir de l’usage réel',
+        body: [
+          'Le même bien peut être pertinent pour une résidence principale et médiocre pour un investissement locatif. L’analyse commence donc par l’usage : habiter, louer, revendre, diversifier, transmettre ou sécuriser un pied-à-terre.',
+          'Cette clarification évite de comparer des projets qui ne répondent pas au même besoin. Elle conditionne le quartier, la surface, la liquidité, le niveau de charges et le degré de risque acceptable.',
+        ],
+      },
+      {
+        heading: 'Lire le dossier comme un ensemble',
+        body: [
+          'Un dossier solide rassemble des informations cohérentes. Si le promoteur est sérieux mais que les paiements sont flous, l’analyse reste incomplète. Si le prix est attractif mais que la sortie est difficile, le risque économique augmente.',
+          'La méthode S.A.F.E aide à relier ces fragments : Sécurisation, Analyse économique, Fiabilité de la promesse et Encadrement de la décision.',
+        ],
+        bullets: ['Qui porte le projet ?', 'Qu’est-ce qui est écrit ?', 'Le prix est-il justifié ?', 'Que se passe-t-il si le calendrier change ?'],
+      },
+      {
+        heading: 'Transformer les risques en actions',
+        body: [
+          'Un risque identifié n’est pas toujours un blocage. Il peut devenir une question, une clause, une négociation, une réserve, une demande de document ou un avis professionnel.',
+          'L’analyse devient utile lorsqu’elle produit une prochaine action claire. Sans action, une liste de risques reste théorique et l’acheteur revient à la pression commerciale.',
+        ],
+      },
+    ],
+    checklistTitle: 'Checklist d’analyse de projet immobilier',
+    checklistItems: [
+      'Définir l’objectif d’achat et l’horizon de détention.',
+      'Identifier vendeur, promoteur, mandataire et responsabilités.',
+      'Réunir documents, plans, prix, frais, charges et calendrier.',
+      'Comparer quartier, demande, liquidité et biens similaires.',
+      'Lister risques, preuves manquantes et questions professionnelles.',
+      'Décider avec une synthèse écrite, pas sous pression.',
+    ],
+    faq: [
+      { question: 'Comment analyser un projet immobilier ?', answer: 'Il faut relier objectif, promoteur, documents, prix, quartier, paiement, livraison, risques et sortie possible avant décision.' },
+      { question: 'S.A.F.E suffit-elle pour acheter ?', answer: 'Non. S.A.F.E structure l’analyse, puis les points engageants doivent être confirmés par les professionnels compétents.' },
+      { question: 'Quel critère regarder en premier ?', answer: 'Le premier critère est l’objectif d’achat, car il détermine les critères utiles : résidence, investissement, location, revente ou patrimoine.' },
+    ],
+    relatedLinks: [],
+    disclaimer: SAFE_SCOPE_DISCLAIMER,
+  },
+  {
+    slug: 'safe-achat-sur-plan',
+    h1: 'S.A.F.E achat sur plan : analyser un projet avant livraison',
+    eyebrow: 'Achat sur plan',
+    metaTitle: 'S.A.F.E achat sur plan : méthode et checklist',
+    metaDescription:
+      'S.A.F.E achat sur plan : méthode internationale pour analyser promoteur, contrat, paiements, matériaux, prix, délais, livraison et risques.',
+    primaryKeyword: 'S.A.F.E achat sur plan',
+    secondaryKeywords: ['acheter sur plan en sécurité', 'off-plan property due diligence', 'SAFE achat immobilier'],
+    image: '/images/articles/zones-amizmiz-agdal-targa.webp',
+    imageAlt: 'Immeuble en développement illustrant une analyse S.A.F.E avant achat sur plan.',
+    intro: [
+      'L’achat sur plan exige une méthode particulière parce que l’acheteur s’engage avant de voir le bien terminé. La promesse doit donc être traduite en preuves, documents, échéancier et suivi de livraison.',
+      'S.A.F.E applique ses quatre piliers à cette situation : Sécurisation, Analyse du prix et de l’usage, Fiabilité de la livraison annoncée, Encadrement des paiements et de la décision.',
+    ],
+    sections: [
+      {
+        heading: 'La promesse doit devenir vérifiable',
+        body: [
+          'Une brochure montre une intention. Un contrat, une notice, un plan, une autorisation, un échéancier et un calendrier montrent ce qui peut être vérifié. L’écart entre les deux est le cœur du risque sur plan.',
+          'La lecture S.A.F.E consiste à documenter cet écart avant de verser une réservation importante ou de signer un engagement fort.',
+        ],
+      },
+      {
+        heading: 'Les risques propres au sur plan',
+        body: [
+          'Les risques les plus fréquents concernent le retard, les finitions différentes, les surfaces mal comprises, les paiements mal encadrés, la qualité des parties communes et l’absence de recours clair en cas de problème.',
+          'Ces risques varient selon le pays. En France, au Maroc, à Dubaï ou au Portugal, les documents et garanties ne sont pas identiques ; la méthode reste commune, mais les validations doivent être locales.',
+        ],
+        bullets: ['Historique du promoteur.', 'Documents de réservation et contrat.', 'Échéancier et traçabilité des paiements.', 'Livraison, réserves et corrections.'],
+      },
+      {
+        heading: 'Décider avant de réserver',
+        body: [
+          'La réservation doit venir après une première synthèse, pas avant. L’acheteur doit savoir ce qui est clair, ce qui manque, ce qui est négociable et ce qui doit être confirmé par un professionnel.',
+          'S.A.F.E n’empêche pas tout risque, mais elle évite de confondre vitesse commerciale et décision sécurisée.',
+        ],
+      },
+    ],
+    checklistTitle: 'Checklist S.A.F.E achat sur plan',
+    checklistItems: [
+      'Identifier promoteur, société porteuse, terrain et projet.',
+      'Demander plans, surfaces, notice, contrat et calendrier.',
+      'Relier chaque paiement à une étape et à un bénéficiaire clair.',
+      'Comparer le prix à des biens comparables livrés.',
+      'Prévoir la livraison, les réserves et les corrections.',
+      'Faire confirmer les points juridiques, techniques et financiers.',
+    ],
+    faq: [
+      { question: 'Comment acheter sur plan en sécurité ?', answer: 'Il faut ralentir la décision, réunir les documents, vérifier le promoteur, comprendre les paiements et faire relire les engagements.' },
+      { question: 'S.A.F.E garantit-elle la livraison ?', answer: 'Non. S.A.F.E ne garantit pas la livraison ; elle aide à évaluer la crédibilité du calendrier et les preuves disponibles.' },
+      { question: 'La méthode vaut-elle à Dubaï ou en France ?', answer: 'Oui, S.A.F.E est internationale, mais les garanties et documents doivent être validés selon le droit local.' },
+    ],
+    relatedLinks: [],
+    disclaimer: SAFE_SCOPE_DISCLAIMER,
+  },
+  {
+    slug: 'safe-investissement-immobilier',
+    h1: 'S.A.F.E investissement immobilier : analyser rendement, risque et liquidité',
+    eyebrow: 'Investissement',
+    metaTitle: 'S.A.F.E investissement immobilier : rendement et risque',
+    metaDescription:
+      'S.A.F.E investissement immobilier : grille pour analyser rendement locatif, prix, charges, fiscalité, liquidité, revente, scénario et risque.',
+    primaryKeyword: 'S.A.F.E investissement immobilier',
+    secondaryKeywords: ['investment property analysis', 'analyse investissement immobilier', 'property investment due diligence'],
+    image: '/images/articles/marrakech-investisseurs-immobiliers.webp',
+    imageAlt: 'Bien immobilier analysé selon le rendement, le risque et la liquidité.',
+    intro: [
+      'Un investissement immobilier ne s’analyse pas seulement par un rendement annoncé. Il faut comprendre le prix d’entrée, les charges, la fiscalité, la vacance, la gestion, la liquidité, la revente et le scénario de stress.',
+      'S.A.F.E applique une lecture internationale à ces décisions : un projet rentable sur le papier peut devenir fragile si les hypothèses locatives, le dossier ou la sortie sont mal évalués.',
+    ],
+    sections: [
+      {
+        heading: 'Challenger le rendement affiché',
+        body: [
+          'Le rendement brut est souvent plus séduisant que le rendement réel. Il doit être retraité avec vacance, commissions, entretien, ameublement, fiscalité, frais de transaction, financement et coût du temps.',
+          'La méthode S.A.F.E distingue les hypothèses documentées des promesses commerciales, puis demande si le scénario reste acceptable lorsque le marché ralentit.',
+        ],
+      },
+      {
+        heading: 'Lire la liquidité et la sortie',
+        body: [
+          'Un actif rentable mais difficile à revendre peut ne pas convenir à tous les investisseurs. La liquidité dépend de l’emplacement, du segment, de la qualité, des charges, de la demande et de la profondeur du marché.',
+          'S.A.F.E oblige à poser la question de sortie avant l’achat : qui pourra racheter, pourquoi, à quel horizon et avec quel niveau de décote possible ?',
+        ],
+        bullets: ['Rendement net plutôt que brut.', 'Fiscalité et charges récurrentes.', 'Liquidité à la revente.', 'Scénario prudent et scénario défavorable.'],
+      },
+      {
+        heading: 'Adapter l’analyse au pays',
+        body: [
+          'La même grille peut s’utiliser en France, au Maroc, à Dubaï, au Portugal, en Espagne, au Canada ou aux États-Unis, mais les taxes, règles locatives, frais de transaction et usages bancaires changent.',
+          'La méthode donne la structure ; les chiffres et validations doivent rester locaux, datés et vérifiables.',
+        ],
+      },
+    ],
+    checklistTitle: 'Checklist investissement S.A.F.E',
+    checklistItems: [
+      'Calculer rendement brut, net et scénario de stress.',
+      'Comparer le prix à des références récentes et similaires.',
+      'Lister charges, fiscalité, gestion, travaux et vacance.',
+      'Évaluer la demande locative réelle et les contraintes d’usage.',
+      'Étudier la liquidité et le profil probable de revente.',
+      'Faire valider les hypothèses financières et juridiques.',
+    ],
+    faq: [
+      { question: 'S.A.F.E analyse-t-elle la rentabilité ?', answer: 'Oui. Elle challenge les hypothèses de rendement, mais ne garantit jamais un revenu locatif ni une plus-value.' },
+      { question: 'Quelle différence avec un conseil de courtier ?', answer: 'S.A.F.E est une grille méthodologique indépendante ; elle ne remplace pas un conseil financier personnalisé ni une vérification juridique.' },
+      { question: 'Pourquoi la liquidité compte-t-elle ?', answer: 'Parce qu’un investissement doit aussi pouvoir sortir dans de bonnes conditions, pas seulement produire un rendement théorique.' },
+    ],
+    relatedLinks: [],
+    disclaimer: SAFE_SCOPE_DISCLAIMER,
+  },
+  {
+    slug: 'comment-analyser-promoteur',
+    h1: 'Comment analyser un promoteur immobilier avant d’acheter',
+    eyebrow: 'Promoteur',
+    metaTitle: 'Comment analyser un promoteur immobilier',
+    metaDescription:
+      'Analyser un promoteur immobilier : historique, projets livrés, réputation, documents, communication, financement, qualité, retards et transparence.',
+    primaryKeyword: 'comment analyser promoteur immobilier',
+    secondaryKeywords: ['promoteur fiable', 'comment choisir un promoteur', 'analyse promoteur immobilier'],
+    image: '/images/articles/gueliz-hivernage-palmeraie-investissement.webp',
+    imageAlt: 'Résidence urbaine servant à analyser la fiabilité d’un promoteur immobilier.',
+    intro: [
+      'Le promoteur concentre une partie majeure du risque immobilier, surtout dans le neuf et le sur plan. L’analyse doit dépasser la marque, le showroom et la relation commerciale.',
+      'S.A.F.E traite le promoteur comme un faisceau de preuves : identité, historique, projets livrés, qualité observée, communication, capacité d’exécution et cohérence du dossier.',
+    ],
+    sections: [
+      {
+        heading: 'Identifier qui porte réellement le projet',
+        body: [
+          'Il faut distinguer la marque commerciale, la société porteuse, les partenaires, les intermédiaires et les personnes habilitées à signer. Une responsabilité floue rend toute suite plus fragile.',
+          'Cette identification doit être documentée avant de juger le projet. Un promoteur ne s’analyse pas seulement par sa visibilité, mais par la clarté de sa responsabilité.',
+        ],
+      },
+      {
+        heading: 'Observer les livraisons passées',
+        body: [
+          'Les projets déjà livrés donnent des indices concrets : respect des délais, vieillissement des matériaux, qualité des parties communes, suivi après livraison, niveau de satisfaction et cohérence entre promesse et résultat.',
+          'Lorsque l’historique est limité, il faut compenser par plus de documents, plus de confirmations professionnelles et une prudence accrue sur les paiements.',
+        ],
+        bullets: ['Projets comparables livrés.', 'Délais et retards passés.', 'Qualité observable après livraison.', 'Réponses écrites aux questions précises.'],
+      },
+      {
+        heading: 'Lire la transparence au quotidien',
+        body: [
+          'Un promoteur fiable répond clairement aux questions difficiles : documents disponibles, calendrier, frais, garanties, modifications possibles, réserves et responsabilités.',
+          'La transparence ne signifie pas absence de risque. Elle signifie que le risque peut être compris, documenté et traité avant engagement.',
+        ],
+      },
+    ],
+    checklistTitle: 'Checklist analyse promoteur',
+    checklistItems: [
+      'Identifier société porteuse, marque et signataires.',
+      'Lister projets livrés et projets en cours.',
+      'Visiter si possible une livraison passée.',
+      'Comparer promesse commerciale et documents transmis.',
+      'Évaluer la qualité des réponses écrites.',
+      'Faire confirmer les engagements par les professionnels concernés.',
+    ],
+    faq: [
+      { question: 'Comment choisir un promoteur fiable ?', answer: 'Il faut croiser identité, historique de livraison, qualité observable, documents, réputation et transparence des réponses.' },
+      { question: 'Un nouveau promoteur est-il à éviter ?', answer: 'Pas forcément, mais l’absence d’historique augmente le besoin de preuves, de garanties et de relecture professionnelle.' },
+      { question: 'S.A.F.E certifie-t-elle les promoteurs ?', answer: 'Non. S.A.F.E analyse des projets et dossiers ; elle ne délivre pas de certification publique de promoteur.' },
+    ],
+    relatedLinks: [],
+    disclaimer: SAFE_SCOPE_DISCLAIMER,
+  },
+  {
+    slug: 'checklist-achat-sur-plan',
+    h1: 'Checklist achat sur plan : documents, paiements, livraison et signaux d’alerte',
+    eyebrow: 'Checklist achat',
+    metaTitle: 'Checklist achat sur plan : documents et risques',
+    metaDescription:
+      'Checklist achat sur plan : promoteur, plans, contrat, échéancier, paiements, matériaux, prix, livraison, réserves et décision S.A.F.E.',
+    primaryKeyword: 'checklist achat sur plan',
+    secondaryKeywords: ['checklist immobilier', 'SAFE checklist', 'comment acheter sur plan'],
+    image: '/images/articles/procedure-achat-immobilier-maroc-etape-par-etape.webp',
+    imageAlt: 'Checklist de documents pour acheter un bien immobilier sur plan.',
+    intro: [
+      'Une checklist d’achat sur plan sert à ralentir la décision au bon moment. Elle met les preuves avant la pression commerciale et les documents avant la promesse orale.',
+      'Cette page donne une lecture actionnable compatible avec la grille S.A.F.E, applicable à différents marchés sous réserve des exigences locales.',
+    ],
+    sections: [
+      {
+        heading: 'Avant la réservation',
+        body: [
+          'Avant de réserver, l’acheteur doit comprendre qui vend, ce qui est vendu, à quel prix, avec quels documents et selon quel calendrier. Un manque d’information à ce stade doit être noté, pas oublié.',
+          'La réservation ne doit pas être utilisée pour éviter les questions. Elle doit venir lorsque les informations essentielles sont assez claires pour justifier l’étape suivante.',
+        ],
+        bullets: ['Identité du promoteur.', 'Plan et surface.', 'Prix total et frais.', 'Conditions de réservation.'],
+      },
+      {
+        heading: 'Avant la signature',
+        body: [
+          'La signature exige une relecture plus précise. Les documents engageants doivent être lus par les professionnels compétents selon le pays : notaire, avocat, conseil fiscal, expert technique ou banque.',
+          'S.A.F.E aide à préparer cette relecture en listant les points à confirmer, mais la décision juridique ne doit pas rester au niveau éditorial.',
+        ],
+      },
+      {
+        heading: 'Avant la livraison',
+        body: [
+          'L’acheteur doit conserver plans, notice, options, courriels et engagements pour comparer la livraison à la promesse. La checklist devient alors un outil de suivi et de réserves.',
+          'Un point non écrit ou non documenté devient difficile à faire corriger. La discipline documentaire commence donc dès les premiers échanges.',
+        ],
+      },
+    ],
+    checklistTitle: 'Checklist achat sur plan S.A.F.E',
+    checklistItems: [
+      'Vendeur et promoteur clairement identifiés.',
+      'Plans, surfaces, annexes et finitions documentés.',
+      'Prix, frais, charges et taxes compris.',
+      'Échéancier et bénéficiaire des paiements clairs.',
+      'Calendrier, garanties, retards et réserves anticipés.',
+      'Relecture professionnelle avant engagement important.',
+    ],
+    faq: [
+      { question: 'Quelle checklist utiliser avant un achat sur plan ?', answer: 'Une checklist utile couvre promoteur, documents, prix, paiements, livraison, garanties, réserves et relecture professionnelle.' },
+      { question: 'Quand faut-il ralentir ?', answer: 'Il faut ralentir lorsqu’un document essentiel manque, lorsqu’un paiement est flou ou lorsqu’une décision rapide est exigée sans preuves.' },
+      { question: 'La checklist suffit-elle ?', answer: 'Non. Elle prépare l’analyse et les rendez-vous professionnels ; elle ne remplace pas une validation juridique ou technique.' },
+    ],
+    relatedLinks: [],
+    disclaimer: SAFE_SCOPE_DISCLAIMER,
+  },
+  {
+    slug: 'guide-analyse-immobiliere',
+    h1: 'Guide d’analyse immobilière : comparer, vérifier et décider avant achat',
+    eyebrow: 'Guide analyse',
+    metaTitle: 'Guide d’analyse immobilière avant achat',
+    metaDescription:
+      'Guide d’analyse immobilière : méthode pour comparer un bien, vérifier documents, prix, risques, rendement, livraison et décision avant achat.',
+    primaryKeyword: 'guide analyse immobilière',
+    secondaryKeywords: ['property due diligence', 'real estate methodology', 'analyse immobilière'],
+    image: '/images/articles/riads-marrakech-rendement-pieges.webp',
+    imageAlt: 'Dossier immobilier préparé pour une analyse avant acquisition.',
+    intro: [
+      'Un guide d’analyse immobilière doit aider à passer de l’intuition à la décision argumentée. L’objectif n’est pas de tout savoir seul, mais de savoir quelles questions poser et dans quel ordre.',
+      'S.A.F.E propose une colonne vertébrale internationale : Sécurisation, Analyse, Fiabilité et Encadrement.',
+    ],
+    sections: [
+      {
+        heading: 'Comparer des biens comparables',
+        body: [
+          'Comparer un appartement neuf, un bien ancien, une villa, un riad ou une résidence gérée avec la même métrique produit de mauvaises décisions. Chaque segment a sa liquidité, ses charges, son usage et ses risques.',
+          'La comparaison doit donc isoler les variables : quartier, état, qualité, surface utile, contraintes d’usage, frais, fiscalité et sortie.',
+        ],
+      },
+      {
+        heading: 'Demander les bonnes preuves',
+        body: [
+          'Une analyse immobilière sérieuse distingue les preuves, les hypothèses et les opinions. Les preuves sont des documents, des photos datées, des visites, des références, des prix comparables ou des validations professionnelles.',
+          'Les hypothèses doivent être testées. Les opinions peuvent éclairer, mais elles ne doivent pas porter seules une décision d’achat.',
+        ],
+        bullets: ['Documents datés.', 'Prix comparables.', 'Visite ou photos exploitables.', 'Questions professionnelles préparées.'],
+      },
+      {
+        heading: 'Synthétiser avant de décider',
+        body: [
+          'La synthèse finale doit dire clairement pourquoi avancer, pourquoi attendre ou pourquoi abandonner. Un projet intéressant avec trois zones rouges ne se traite pas comme un projet complet avec seulement deux points à confirmer.',
+          'Cette synthèse devient le support de discussion avec les conseillers, la banque, le vendeur ou le promoteur.',
+        ],
+      },
+    ],
+    checklistTitle: 'Checklist guide analyse immobilière',
+    checklistItems: [
+      'Définir usage, budget et horizon.',
+      'Comparer uniquement des biens réellement comparables.',
+      'Classer preuves, hypothèses et opinions.',
+      'Identifier risques juridiques, techniques, financiers et opérationnels.',
+      'Préparer les confirmations professionnelles.',
+      'Écrire la synthèse de décision avant de signer.',
+    ],
+    faq: [
+      { question: 'Qu’est-ce qu’une analyse immobilière ?', answer: 'C’est une lecture structurée d’un bien ou projet avant achat : documents, prix, emplacement, usage, risques, financement et sortie.' },
+      { question: 'Pourquoi utiliser S.A.F.E ?', answer: 'S.A.F.E donne une structure stable pour ne pas oublier les dimensions de sécurité, analyse, fiabilité et encadrement.' },
+      { question: 'Ce guide est-il international ?', answer: 'Oui. Les principes sont internationaux, mais les documents et obligations doivent être adaptés au pays concerné.' },
+    ],
+    relatedLinks: [],
+    disclaimer: SAFE_SCOPE_DISCLAIMER,
+  },
+  {
+    slug: 'risques-achat-immobilier',
+    h1: 'Risques achat immobilier : les signaux à vérifier avant de signer',
+    eyebrow: 'Risques achat',
+    metaTitle: 'Risques achat immobilier : prévenir avant de signer',
+    metaDescription:
+      'Risques achat immobilier : documents, vendeur, promoteur, prix, paiements, livraison, fiscalité, usage locatif, revente et méthode S.A.F.E.',
+    primaryKeyword: 'risques achat immobilier',
+    secondaryKeywords: ['comment sécuriser un achat immobilier', 'risques achat sur plan', 'property purchase risks'],
+    image: '/images/articles/acheter-bien-marrakech-erreurs.webp',
+    imageAlt: 'Façade immobilière utilisée pour illustrer les risques d’un achat immobilier.',
+    intro: [
+      'Les risques d’un achat immobilier ne sont pas toujours spectaculaires. Ils apparaissent souvent dans un détail : document manquant, prix mal comparé, paiement mal compris, délai flou ou promesse non écrite.',
+      'S.A.F.E aide à repérer ces signaux avant qu’ils deviennent coûteux. La méthode est internationale et s’adapte au contexte local de chaque acquisition.',
+    ],
+    sections: [
+      {
+        heading: 'Les risques de confiance',
+        body: [
+          'Le premier risque concerne la confiance accordée au mauvais interlocuteur ou accordée trop vite. Un vendeur sympathique, une agence connue ou un promoteur visible ne suffisent pas sans documents et responsabilités claires.',
+          'La sécurité vient d’un faisceau de preuves : identité, historique, droits, documents, réponses écrites et cohérence entre les discours.',
+        ],
+      },
+      {
+        heading: 'Les risques économiques',
+        body: [
+          'Un bien peut être juridiquement achetable mais économiquement faible : prix trop élevé, charges sous-estimées, demande locative surestimée, fiscalité oubliée, revente difficile ou travaux mal anticipés.',
+          'L’analyse économique doit donc accompagner la vérification documentaire, surtout pour un investissement.',
+        ],
+        bullets: ['Prix surpayé.', 'Frais et charges incomplets.', 'Rendement surestimé.', 'Liquidité de revente faible.'],
+      },
+      {
+        heading: 'Les risques de livraison et de qualité',
+        body: [
+          'Dans le neuf et le sur plan, la qualité promise doit être comparée à la qualité livrable. Matériaux, finitions, parties communes, équipements, retards et réserves doivent être anticipés.',
+          'Un projet ne devient pas sûr parce qu’il est neuf. Il devient plus lisible lorsque les engagements sont écrits, datés et vérifiables.',
+        ],
+      },
+    ],
+    checklistTitle: 'Checklist risques achat immobilier',
+    checklistItems: [
+      'Identifier toutes les parties et responsabilités.',
+      'Vérifier documents, droits, plans, contrat et paiements.',
+      'Comparer prix, frais, charges et liquidité.',
+      'Lister promesses orales et demander confirmation écrite.',
+      'Anticiper livraison, qualité, réserves et recours.',
+      'Consulter les professionnels compétents avant signature.',
+    ],
+    faq: [
+      { question: 'Quels sont les principaux risques d’un achat immobilier ?', answer: 'Les risques portent sur vendeur, documents, prix, paiements, qualité, livraison, fiscalité, usage, location et revente.' },
+      { question: 'Comment sécuriser un achat immobilier ?', answer: 'Il faut documenter la décision, vérifier les parties, comprendre les paiements, comparer le prix et faire relire les engagements.' },
+      { question: 'S.A.F.E supprime-t-elle le risque ?', answer: 'Non. S.A.F.E réduit les zones floues et structure les vérifications, mais ne supprime pas tous les risques.' },
+    ],
+    relatedLinks: [],
+    disclaimer: SAFE_SCOPE_DISCLAIMER,
+  },
+];
+
 export const SAFE_CLUSTER_PAGES: SafeClusterPage[] = [
+  ...SAFE_ENTITY_CLUSTER_PAGES,
   {
     slug: 'acheter-sur-plan-maroc',
     h1: 'Acheter sur plan au Maroc : risques, garanties et vérifications essentielles',

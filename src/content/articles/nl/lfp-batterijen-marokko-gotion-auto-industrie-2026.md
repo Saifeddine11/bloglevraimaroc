@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "De AfDB-financiering van juli 2026 plaatst de gigafabriek in Kenitra centraal in de Afrika-Europa LFP-keten."
-heroImage: "/images/articles/hcp-croissance-logistique-tanger-med-2026.webp"
-imageAlt: "Logistieke zone Tanger Med als illustratie van Marokkaanse auto- en industriële ketens."
+heroImage: "/images/articles/news-2026-08-03/batteries-lfp-maroc-gotion-industrie-automobile-2026-cover.webp"
+imageAlt: "Lithium-ionbatterij als context bij LFP-technologie."
 featured: false
 sources:
   - label: "African Development Bank — €100m loan to Gotion Power Morocco"
@@ -47,8 +47,8 @@ De site ligt in Rabat-Salé-Kénitra.
 De industriële logica verbindt fosfaat, componenten, cellen en auto-export.
 
 <figure>
-  <img src="/images/articles/macan-development-marrakech-rabat-2026.webp" alt="Logistieke zone Tanger Med als illustratie van Marokkaanse auto- en industriële ketens." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/batteries-lfp-maroc-gotion-industrie-automobile-2026-01.webp" alt="Cilindrische lithium-ioncel als illustratie van de batterijketen." width="1200" height="1110" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Cilindrische lithium-ioncel als illustratie van de batterijketen. Credit: RudolfSimon / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
 </figure>
 
 ## Geverifieerde ijkpunten
@@ -61,13 +61,13 @@ De industriële logica verbindt fosfaat, componenten, cellen en auto-export.
 | 4 | De industriële logica verbindt fosfaat, componenten, cellen en auto-export. |
 
 <figure>
-  <img src="/images/articles/fiscalite-immobiliere-marrakech-2026-2.webp" alt="Logistieke zone Tanger Med als illustratie van Marokkaanse auto- en industriële ketens." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/batteries-lfp-maroc-gotion-industrie-automobile-2026-02.webp" alt="Cilindrische lithium-ioncellen als context voor batterijproductie voor elektrische voertuigen." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Cilindrische lithium-ioncellen als context voor batterijproductie voor elektrische voertuigen. Credit: Sevenethics / Wikimedia Commons (CC0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/marrakech-perspectives-marche-2026-2030.webp" alt="Logistieke zone Tanger Med als illustratie van Marokkaanse auto- en industriële ketens." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/batteries-lfp-maroc-gotion-industrie-automobile-2026-03.webp" alt="Containerschip in Tanger Med als logistieke context voor de Marokkaanse auto-industrie." width="1200" height="797" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Containerschip in Tanger Med als logistieke context voor de Marokkaanse auto-industrie. Credit: Bertrand SOUBEYRAND / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 ## Wat bevestigd is

@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "De crisis in Ceuta vraagt om onderscheid tussen bevestigde feiten, voorlopige cijfers en politieke beschuldigingen."
-heroImage: "/images/articles/tourisme-prix-immobiliers-marrakech.webp"
-imageAlt: "Marokkaans stadsplein als contextbeeld voor mobiliteit en grenzen."
+heroImage: "/images/articles/news-2026-08-03/sebta-crise-migratoire-maroc-ue-2026-cover.webp"
+imageAlt: "Grenshek bij Ceuta/Sebta als context voor migratiedruk."
 featured: false
 sources:
   - label: "AP — Fact Focus on Ceuta claims"
@@ -47,8 +47,8 @@ Migratieroutes verschuiven: minder Canarische aankomsten maar lokale druk in Ceu
 De humanitaire dimensie blijft centraal.
 
 <figure>
-  <img src="/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-3.webp" alt="Marokkaans stadsplein als contextbeeld voor mobiliteit en grenzen." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/sebta-crise-migratoire-maroc-ue-2026-01.webp" alt="Grenspost Tarajal als context voor oversteken tussen Marokko en Ceuta." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Grenspost Tarajal als context voor oversteken tussen Marokko en Ceuta. Credit: Xemenendura / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 ## Geverifieerde ijkpunten
@@ -61,13 +61,13 @@ De humanitaire dimensie blijft centraal.
 | 4 | De humanitaire dimensie blijft centraal. |
 
 <figure>
-  <img src="/images/articles/marrakech-2030-infrastructures-tourisme.webp" alt="Marokkaans stadsplein als contextbeeld voor mobiliteit en grenzen." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/sebta-crise-migratoire-maroc-ue-2026-02.webp" alt="Beeld van de grens tussen Fnideq en Ceuta als territoriale context bij het grensdossier." width="1200" height="804" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Beeld van de grens tussen Fnideq en Ceuta als territoriale context bij het grensdossier. Credit: José Sáez / Wikimedia Commons (CC BY-SA 2.0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/tourisme-maroc-2030-agadir-2026.webp" alt="Marokkaans stadsplein als contextbeeld voor mobiliteit en grenzen." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/sebta-crise-migratoire-maroc-ue-2026-03.webp" alt="Andere blik op het grenshek bij Ceuta/Sebta als context voor controles en stromen." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Andere blik op het grenshek bij Ceuta/Sebta als context voor controles en stromen. Credit: Xemenendura / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
 </figure>
 
 ## Wat bevestigd is

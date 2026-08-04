@@ -33,6 +33,12 @@ const editorialRoleLabel = {
   es: 'Análisis editorial',
   nl: 'Redactionele analyse',
 }[locale];
+const authorLabel = {
+  fr: SITE.author,
+  en: 'Le Vrai Maroc editorial team',
+  es: 'Redacción de Le Vrai Maroc',
+  nl: 'Redactie Le Vrai Maroc',
+}[locale];
 const updatedDateLabel = {
   fr: 'Mis à jour le',
   en: 'Updated on',
@@ -87,7 +93,7 @@ const blogPostingSchema = {
   dateModified: article.data.updatedDate?.toISOString() ?? date.toISOString(),
   author: {
     '@type': 'Organization',
-    name: SITE.author,
+    name: authorLabel,
     url: SITE.url,
   },
   publisher: {
@@ -176,7 +182,7 @@ const faqSchema = faqItemsFromDetails.length > 0
       <div class="flex flex-wrap items-center gap-4 text-sm text-rdm-gray pb-6 border-b border-rdm-border">
         <div class="flex items-center gap-2">
           <div class="w-7 h-7 rounded-full bg-rdm-orange flex items-center justify-center text-white text-xs font-bold">R</div>
-          <span class="font-medium text-rdm-black">{SITE.author}</span>
+          <span class="font-medium text-rdm-black">{authorLabel}</span>
           <span class="hidden sm:inline text-rdm-gray">· {editorialRoleLabel}</span>
         </div>
         <time datetime={date.toISOString()} class="flex items-center gap-1">
@@ -283,7 +289,7 @@ const faqSchema = faqItemsFromDetails.length > 0
         <!-- Sticky Table of Contents -->
         {headings.length > 2 && (
           <aside class="hidden lg:block w-64 flex-shrink-0 sticky top-24 toc-scroll">
-            <TableOfContents headings={headings} title={currentUi.labels.toc} />
+            <TableOfContents headings={headings} title={currentUi.labels.toc} ariaLabel={currentUi.labels.tocNavigation} />
           </aside>
         )}
       </div>

@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "Un boletín de riesgo no confirma un incendio activo: sirve para prevenir."
-heroImage: "/images/articles/incendie-foret-fumee-illustration.webp"
-imageAlt: "Columna de humo sobre un bosque, ilustración contextual del riesgo de incendios."
+heroImage: "/images/articles/news-2026-08-03/incendies-maroc-provinces-risque-extreme-forets-2026-cover.webp"
+imageAlt: "Bosque marroquí del Rif, imagen contextual del riesgo de incendio en periodo seco."
 featured: false
 sources:
   - label: "SNRT News / MAP — carte ANEF 26-29 mai 2026"
@@ -45,8 +45,8 @@ Los factores son calor, viento, vegetación seca y relieve.
 Cualquier humo debe comunicarse rápidamente a las autoridades.
 
 <figure>
-  <img src="/images/articles/ciel-fumee-canicule-mediterranee-illustration.webp" alt="Columna de humo sobre un bosque, ilustración contextual del riesgo de incendios." width="1600" height="900" loading="lazy" />
-  <figcaption>Imagen contextual local optimizada; crédito y licencia documentados en IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/incendies-maroc-provinces-risque-extreme-forets-2026-01.webp" alt="Bosque de cedros del Medio Atlas, contexto de macizos vigilados en verano." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Imagen de ilustración. Bosque de cedros del Medio Atlas, contexto de macizos vigilados en verano. Crédito: Reda Abouakil / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
 </figure>
 
 ## Referencias verificadas
@@ -59,13 +59,13 @@ Cualquier humo debe comunicarse rápidamente a las autoridades.
 | 4 | Cualquier humo debe comunicarse rápidamente a las autoridades. |
 
 <figure>
-  <img src="/images/articles/canadair-cl415-largage-eau-illustration.webp" alt="Columna de humo sobre un bosque, ilustración contextual del riesgo de incendios." width="1600" height="900" loading="lazy" />
-  <figcaption>Imagen contextual local optimizada; crédito y licencia documentados en IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/incendies-maroc-provinces-risque-extreme-forets-2026-02.webp" alt="Paisaje forestal seco en Marruecos, ilustración del combustible vegetal en verano." width="1200" height="1424" loading="lazy" decoding="async" />
+  <figcaption>Imagen de ilustración. Paisaje forestal seco en Marruecos, ilustración del combustible vegetal en verano. Crédito: محمد بوعلام عصامي / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/canadair-cl415-avion-bombardier-eau-illustration.webp" alt="Columna de humo sobre un bosque, ilustración contextual del riesgo de incendios." width="1600" height="900" loading="lazy" />
-  <figcaption>Imagen contextual local optimizada; crédito y licencia documentados en IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/incendies-maroc-provinces-risque-extreme-forets-2026-03.webp" alt="Vista de vigilancia forestal, contexto de prevención de incendios." width="1200" height="675" loading="lazy" decoding="async" />
+  <figcaption>Imagen de ilustración. Vista de vigilancia forestal, contexto de prevención de incendios. Crédito: Mehdi.Tj / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
 </figure>
 
 ## Lo confirmado

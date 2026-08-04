@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "Los proyectos 2030 van más allá del fútbol: movilidad, turismo, salud, telecomunicaciones y ciudades."
-heroImage: "/images/articles/marrakech-perspectives-marche-2026-2030.webp"
-imageAlt: "Estación de Marrakech que ilustra proyectos de movilidad de la transformación 2030."
+heroImage: "/images/articles/news-2026-08-03/mondial-2030-grands-projets-maroc-infrastructures-cover.webp"
+imageAlt: "Tren de alta velocidad Al Boraq, símbolo de grandes proyectos de movilidad en Marruecos."
 featured: false
 sources:
   - label: "Ministère des Finances — préparatifs Coupe du Monde 2030"
@@ -49,8 +49,8 @@ La llegada de alta velocidad a Marrakech se anuncia para septiembre de 2029.
 El efecto inmobiliario es local e incierto, no automático.
 
 <figure>
-  <img src="/images/articles/marrakech-2030-infrastructures-tourisme.webp" alt="Estación de Marrakech que ilustra proyectos de movilidad de la transformación 2030." width="1600" height="900" loading="lazy" />
-  <figcaption>Imagen contextual local optimizada; crédito y licencia documentados en IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/mondial-2030-grands-projets-maroc-infrastructures-01.webp" alt="Estadio Mohammed V de Casablanca, contexto de infraestructuras deportivas marroquíes." width="1200" height="800" loading="lazy" decoding="async" />
+  <figcaption>Imagen de ilustración. Estadio Mohammed V de Casablanca, contexto de infraestructuras deportivas marroquíes. Crédito: mustapha_ennaimi / Wikimedia Commons (CC BY 2.0).</figcaption>
 </figure>
 
 ## Referencias verificadas
@@ -63,13 +63,13 @@ El efecto inmobiliario es local e incierto, no automático.
 | 4 | El efecto inmobiliario es local e incierto, no automático. |
 
 <figure>
-  <img src="/images/articles/hcp-croissance-logistique-tanger-med-2026.webp" alt="Estación de Marrakech que ilustra proyectos de movilidad de la transformación 2030." width="1600" height="900" loading="lazy" />
-  <figcaption>Imagen contextual local optimizada; crédito y licencia documentados en IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/mondial-2030-grands-projets-maroc-infrastructures-02.webp" alt="Estación ferroviaria de Marrakech, contexto de proyectos ferroviarios antes de 2030." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Imagen de ilustración. Estación ferroviaria de Marrakech, contexto de proyectos ferroviarios antes de 2030. Crédito: Maarten Wasmoeth (uploaded by Brinkie) / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/zones-amizmiz-agdal-targa.webp" alt="Estación de Marrakech que ilustra proyectos de movilidad de la transformación 2030." width="1600" height="900" loading="lazy" />
-  <figcaption>Imagen contextual local optimizada; crédito y licencia documentados en IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/mondial-2030-grands-projets-maroc-infrastructures-03.webp" alt="Tranvía de Rabat, ejemplo reciente de infraestructura urbana vinculada a la transformación de ciudades." width="1200" height="675" loading="lazy" decoding="async" />
+  <figcaption>Imagen de ilustración. Tranvía de Rabat, ejemplo reciente de infraestructura urbana vinculada a la transformación de ciudades. Crédito: Taha ahh / Wikimedia Commons (CC0).</figcaption>
 </figure>
 
 ## Lo confirmado

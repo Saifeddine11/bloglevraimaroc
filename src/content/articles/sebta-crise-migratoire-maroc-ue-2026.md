@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "La crise de Sebta impose de distinguer faits confirmés, chiffres provisoires et accusations politiques."
-heroImage: "/images/articles/tourisme-prix-immobiliers-marrakech.webp"
-imageAlt: "Place urbaine marocaine utilisée comme illustration contextuelle de la mobilité et des frontières."
+heroImage: "/images/articles/news-2026-08-03/sebta-crise-migratoire-maroc-ue-2026-cover.webp"
+imageAlt: "Clôture frontalière de Sebta/Ceuta, image d’illustration de la pression migratoire."
 featured: false
 sources:
   - label: "AP — Fact Focus on Ceuta claims"
@@ -47,8 +47,8 @@ Les routes migratoires se recomposent : baisse aux Canaries mais pression locale
 La dimension humanitaire reste centrale.
 
 <figure>
-  <img src="/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-3.webp" alt="Place urbaine marocaine utilisée comme illustration contextuelle de la mobilité et des frontières." width="1600" height="900" loading="lazy" />
-  <figcaption>Image d'illustration locale optimisée ; crédit et licence documentés dans IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/sebta-crise-migratoire-maroc-ue-2026-01.webp" alt="Poste frontalier du Tarajal, contexte des passages entre le Maroc et Sebta." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Image d’illustration. Poste frontalier du Tarajal, contexte des passages entre le Maroc et Sebta. Crédit: Xemenendura / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 ## Repères vérifiés
@@ -61,13 +61,13 @@ La dimension humanitaire reste centrale.
 | 4 | La dimension humanitaire reste centrale. |
 
 <figure>
-  <img src="/images/articles/marrakech-2030-infrastructures-tourisme.webp" alt="Place urbaine marocaine utilisée comme illustration contextuelle de la mobilité et des frontières." width="1600" height="900" loading="lazy" />
-  <figcaption>Image d'illustration locale optimisée ; crédit et licence documentés dans IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/sebta-crise-migratoire-maroc-ue-2026-02.webp" alt="Vue de la frontière entre Fnideq et Sebta, repère territorial du dossier frontalier." width="1200" height="804" loading="lazy" decoding="async" />
+  <figcaption>Image d’illustration. Vue de la frontière entre Fnideq et Sebta, repère territorial du dossier frontalier. Crédit: José Sáez / Wikimedia Commons (CC BY-SA 2.0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/tourisme-maroc-2030-agadir-2026.webp" alt="Place urbaine marocaine utilisée comme illustration contextuelle de la mobilité et des frontières." width="1600" height="900" loading="lazy" />
-  <figcaption>Image d'illustration locale optimisée ; crédit et licence documentés dans IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/sebta-crise-migratoire-maroc-ue-2026-03.webp" alt="Autre vue de la clôture frontalière de Sebta/Ceuta, contexte des contrôles et flux." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Image d’illustration. Autre vue de la clôture frontalière de Sebta/Ceuta, contexte des contrôles et flux. Crédit: Xemenendura / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
 </figure>
 
 ## Ce qui est confirmé

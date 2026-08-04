@@ -45,6 +45,7 @@ De maakindustrie is de nuance, met slechts +0,3% in Q2 2026. Volg nieuwe HCP-dat
 
 ## Verder lezen
 
+- [Economie van Marokko in 2026: groei, inflatie, werkgelegenheid en investeringen](/nl/artikelen/economie-marokko-2026)
 - [Toerisme Marokko 2030: ONMT-lijn](/nl/artikelen/toerisme-marokko-2030-onmt-aankomsten-2026)
 - [Timitar Agadir 2026: programma](/nl/artikelen/timitar-agadir-2026-programma)
 - [HSL Kenitra-Marrakech: reisimpact](/nl/artikelen/hsl-kenitra-marrakech-2026-reisimpact)

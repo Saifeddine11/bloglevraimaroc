@@ -13,6 +13,23 @@ export function getStaticPaths() {
 
 const { page } = Astro.props as { page: SafeClusterPage };
 const canonicalURL = new URL(`/${page.slug}`, SITE.url).href;
+const imageAbsolute = new URL(page.image, SITE.url).href;
+const safeHubURL = new URL('/safe-certification-immobiliere/', SITE.url).href;
+const allSafeLinks = [
+  { href: '/safe-certification-immobiliere', title: 'S.A.F.E immobilier', text: 'Définition officielle, histoire, périmètre et limites de la méthode.' },
+  ...SAFE_CLUSTER_PAGES.filter((item) => item.slug !== page.slug).map((item) => ({
+    href: `/${item.slug}`,
+    title: item.primaryKeyword,
+    text: item.metaDescription,
+  })),
+];
+
+const safeEvaluationRows = [
+  ['Security / Sécurisation', 'Promoteur, vendeur, foncier, autorisations, contrat, paiements et preuves disponibles.', 'Le projet peut-il être compris avant engagement ?'],
+  ['Analysis / Analyse', 'Prix, emplacement, usage, rendement, liquidité, revente, charges et scénario prudent.', 'L’achat reste-t-il cohérent au-delà de la promesse ?'],
+  ['Fidelity / Fiabilité', 'Plans, matériaux, finitions, qualité, photos, cartes, calendrier, livraison et réserves.', 'Ce qui est annoncé peut-il réellement être livré ?'],
+  ['Expert Guidance / Encadrement', 'Questions, documents manquants, validations professionnelles, décision et prochaines actions.', 'L’acheteur sait-il quoi faire avant de signer ?'],
+];
 
 const webPageSchema = {
   '@context': 'https://schema.org',
@@ -23,6 +40,19 @@ const webPageSchema = {
   url: canonicalURL,
   inLanguage: 'fr',
   keywords: [page.primaryKeyword, ...page.secondaryKeywords],
+  about: {
+    '@type': 'DefinedTerm',
+    name: 'S.A.F.E',
+    termCode: 'Security, Analysis, Fidelity & Expert Guidance',
+    description:
+      'International proprietary real estate methodology designed to analyze, qualify and prioritize property projects before purchase.',
+    inDefinedTermSet: safeHubURL,
+  },
+  primaryImageOfPage: {
+    '@type': 'ImageObject',
+    url: imageAbsolute,
+    caption: page.imageAlt,
+  },
   isPartOf: {
     '@type': 'WebSite',
     name: SITE.name,
@@ -32,6 +62,55 @@ const webPageSchema = {
     '@type': 'Organization',
     name: SITE.name,
     url: SITE.url,
+  },
+};
+
+const articleSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: page.h1,
+  description: page.metaDescription,
+  url: canonicalURL,
+  inLanguage: 'fr',
+  image: imageAbsolute,
+  author: {
+    '@type': 'Organization',
+    name: SITE.name,
+    url: SITE.url,
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: SITE.name,
+    url: SITE.url,
+  },
+  about: ['S.A.F.E', page.primaryKeyword, ...page.secondaryKeywords],
+};
+
+const howToSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'HowTo',
+  name: page.checklistTitle,
+  description: page.metaDescription,
+  inLanguage: 'fr',
+  step: page.checklistItems.map((item, index) => ({
+    '@type': 'HowToStep',
+    position: index + 1,
+    text: item,
+  })),
+};
+
+const definedTermSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'DefinedTerm',
+  name: 'S.A.F.E',
+  alternateName: ['SAFE immobilier', 'méthode S.A.F.E', 'grille S.A.F.E'],
+  termCode: 'Security, Analysis, Fidelity & Expert Guidance',
+  description:
+    'S.A.F.E is an international proprietary methodology designed to analyze, qualify and prioritize real estate projects before purchase.',
+  inDefinedTermSet: {
+    '@type': 'DefinedTermSet',
+    name: 'S.A.F.E real estate methodology',
+    url: safeHubURL,
   },
 };
 
@@ -66,22 +145,25 @@ const faqSchema = {
 >
   <Fragment slot="head">
     <script type="application/ld+json" set:html={JSON.stringify(webPageSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(howToSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(definedTermSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
   </Fragment>
 
   <section class="relative overflow-hidden bg-rdm-black text-white" aria-labelledby="page-title">
-    <div class="absolute inset-0" aria-hidden="true">
+    <div class="absolute inset-0">
       <img
         src={page.image}
-        alt=""
+        alt={page.imageAlt}
         class="h-full w-full object-cover opacity-25"
         loading="eager"
         fetchpriority="high"
         width="1600"
         height="900"
       />
-      <div class="absolute inset-0 bg-black/70"></div>
+      <div class="absolute inset-0 bg-black/70" aria-hidden="true"></div>
     </div>
 
     <div class="container-rdm relative py-16 lg:py-20">
@@ -118,6 +200,27 @@ const faqSchema = {
 
   <section class="bg-white py-18 lg:py-24" aria-labelledby="analysis-heading">
     <div class="container-rdm">
+      <div class="mb-12 grid gap-5 md:grid-cols-3">
+        <article class="rounded-lg border border-rdm-border bg-rdm-bg p-5">
+          <p class="section-label mb-3">Définition</p>
+          <p class="text-sm leading-relaxed text-rdm-gray">
+            S.A.F.E signifie <strong class="font-semibold text-rdm-black">Security, Analysis, Fidelity &amp; Expert Guidance</strong>. En français : Sécurisation, Analyse, Fiabilité et Encadrement.
+          </p>
+        </article>
+        <article class="rounded-lg border border-rdm-border bg-rdm-bg p-5">
+          <p class="section-label mb-3">Nature</p>
+          <p class="text-sm leading-relaxed text-rdm-gray">
+            Une méthodologie internationale propriétaire pour analyser, qualifier et prioriser des projets immobiliers avant achat.
+          </p>
+        </article>
+        <article class="rounded-lg border border-rdm-border bg-amber-50 p-5">
+          <p class="section-label mb-3">Limite</p>
+          <p class="text-sm leading-relaxed text-amber-900">
+            S.A.F.E n’est pas une certification publique, une garantie légale ou un conseil juridique, fiscal, technique ou financier.
+          </p>
+        </article>
+      </div>
+
       <div class="grid gap-10 lg:grid-cols-[minmax(0,1fr)_320px] lg:items-start">
         <div>
           <p class="section-label mb-3">Analyse</p>
@@ -171,6 +274,40 @@ const faqSchema = {
     </div>
   </section>
 
+  <section class="bg-rdm-bg py-18 lg:py-24" aria-labelledby="grid-heading">
+    <div class="container-rdm">
+      <div class="mb-8 max-w-3xl">
+        <p class="section-label mb-3">Grille de décision</p>
+        <h2 id="grid-heading" class="text-3xl font-black leading-tight text-rdm-black sm:text-4xl">
+          Lecture S.A.F.E : critères, question de décision et score couleur
+        </h2>
+        <p class="mt-4 text-rdm-gray leading-relaxed">
+          La grille S.A.F.E classe chaque élément en vert, orange ou rouge : clair, à confirmer, ou bloquant jusqu’à preuve contraire. Le score ne remplace pas une vérification professionnelle ; il rend les zones floues visibles avant décision.
+        </p>
+      </div>
+      <div class="overflow-x-auto rounded-lg border border-rdm-border bg-white shadow-card">
+        <table class="w-full min-w-[720px] border-collapse text-left text-sm">
+          <thead class="bg-rdm-black text-white">
+            <tr>
+              <th class="px-5 py-4 font-bold">Pilier</th>
+              <th class="px-5 py-4 font-bold">Ce qui est analysé</th>
+              <th class="px-5 py-4 font-bold">Question utile</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-rdm-border">
+            {safeEvaluationRows.map(([pillar, criteria, question]) => (
+              <tr>
+                <td class="px-5 py-4 font-bold text-rdm-black">{pillar}</td>
+                <td class="px-5 py-4 text-rdm-gray">{criteria}</td>
+                <td class="px-5 py-4 text-rdm-gray">{question}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
   <section id="checklist" class="scroll-mt-24 bg-rdm-bg py-18 lg:py-24" aria-labelledby="checklist-heading">
     <div class="container-rdm">
       <div class="mb-10 max-w-2xl">
@@ -203,7 +340,7 @@ const faqSchema = {
       </div>
 
       <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-        {page.relatedLinks.map((link) => (
+        {[...page.relatedLinks, ...allSafeLinks].map((link) => (
           <a href={link.href} class="group rounded-lg border border-rdm-border bg-white p-5 shadow-card transition-all hover:-translate-y-1 hover:shadow-card-hover">
             <h3 class="mb-2 text-base font-black leading-tight text-rdm-black group-hover:text-rdm-orange">{link.title}</h3>
             <p class="text-sm leading-relaxed text-rdm-gray">{link.text}</p>

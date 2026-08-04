@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "El calor sigue siendo un asunto de vigilancia nacional, sobre todo en el interior y el sur."
-heroImage: "/images/articles/ciel-fumee-canicule-mediterranee-illustration.webp"
-imageAlt: "Cielo cubierto por humo y calor, ilustración contextual de una canícula en Marruecos."
+heroImage: "/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-cover.webp"
+imageAlt: "Plaza Jemaa el-Fna de día, contexto urbano de calor en Marrakech."
 featured: false
 sources:
   - label: "Maroc Météo — vigilance et communiqués DGM"
@@ -45,8 +45,8 @@ Pueden formarse tormentas locales en el Atlas y el Oriental.
 Los viajeros deben revisar horarios, hidratación y carreteras.
 
 <figure>
-  <img src="/images/articles/incendie-foret-fumee-illustration.webp" alt="Cielo cubierto por humo y calor, ilustración contextual de una canícula en Marruecos." width="1600" height="900" loading="lazy" />
-  <figcaption>Imagen contextual local optimizada; crédito y licencia documentados en IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-01.webp" alt="Calle soleada de la medina de Marrakech, imagen contextual del calor urbano." width="530" height="799" loading="lazy" decoding="async" />
+  <figcaption>Imagen de ilustración. Calle soleada de la medina de Marrakech, imagen contextual del calor urbano. Crédito: Francisco Anzola / Wikimedia Commons (CC BY 2.0).</figcaption>
 </figure>
 
 ## Referencias verificadas
@@ -59,13 +59,13 @@ Los viajeros deben revisar horarios, hidratación y carreteras.
 | 4 | Los viajeros deben revisar horarios, hidratación y carreteras. |
 
 <figure>
-  <img src="/images/articles/marrakech-2030-infrastructures-tourisme.webp" alt="Cielo cubierto por humo y calor, ilustración contextual de una canícula en Marruecos." width="1600" height="900" loading="lazy" />
-  <figcaption>Imagen contextual local optimizada; crédito y licencia documentados en IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-02.webp" alt="Frente marítimo de Agadir al sol, contexto de ciudades expuestas al calor." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Imagen de ilustración. Frente marítimo de Agadir al sol, contexto de ciudades expuestas al calor. Crédito: Marcin Sochacki (Wanted) / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/tourisme-maroc-2030-agadir-2026.webp" alt="Cielo cubierto por humo y calor, ilustración contextual de una canícula en Marruecos." width="1600" height="900" loading="lazy" />
-  <figcaption>Imagen contextual local optimizada; crédito y licencia documentados en IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-03.webp" alt="Vista soleada de Uarzazate, referencia para zonas interiores muy calurosas." width="1200" height="675" loading="lazy" decoding="async" />
+  <figcaption>Imagen de ilustración. Vista soleada de Uarzazate, referencia para zonas interiores muy calurosas. Crédito: GuHKS / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
 </figure>
 
 ## Lo confirmado

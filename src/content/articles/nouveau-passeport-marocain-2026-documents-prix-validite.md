@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "Le nouveau cadre annoncé pour août 2026 ajoute l’amazighe et renforce la sécurité, mais les démarches restent à vérifier sur Passeport.ma."
-heroImage: "/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-3.webp"
-imageAlt: "Passeport tamponné, illustration des procédures administratives de voyage."
+heroImage: "/images/articles/news-2026-08-03/nouveau-passeport-marocain-2026-documents-prix-validite-cover.webp"
+imageAlt: "Couverture de passeport biométrique marocain, image d’illustration du changement de modèle."
 featured: false
 sources:
   - label: "Passeport.ma — portail officiel"
@@ -47,8 +47,8 @@ Les MRE doivent passer par les ambassades et consulats.
 Les détails opérationnels peuvent dépendre d’arrêtés conjoints.
 
 <figure>
-  <img src="/images/articles/dahir-maroc-immobilier-acheteur.webp" alt="Passeport tamponné, illustration des procédures administratives de voyage." width="1600" height="900" loading="lazy" />
-  <figcaption>Image d'illustration locale optimisée ; crédit et licence documentés dans IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/nouveau-passeport-marocain-2026-documents-prix-validite-01.webp" alt="Visuel officiel du passeport biométrique marocain, contexte de la procédure administrative." width="416" height="518" loading="lazy" decoding="async" />
+  <figcaption>Image d’illustration. Visuel officiel du passeport biométrique marocain, contexte de la procédure administrative. Crédit: Ministère de l'Intérieur- Royaume du Maroc- / Wikimedia Commons (Public domain).</figcaption>
 </figure>
 
 ## Repères vérifiés
@@ -61,13 +61,13 @@ Les détails opérationnels peuvent dépendre d’arrêtés conjoints.
 | 4 | Les détails opérationnels peuvent dépendre d’arrêtés conjoints. |
 
 <figure>
-  <img src="/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-2.webp" alt="Passeport tamponné, illustration des procédures administratives de voyage." width="1600" height="900" loading="lazy" />
-  <figcaption>Image d'illustration locale optimisée ; crédit et licence documentés dans IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/nouveau-passeport-marocain-2026-documents-prix-validite-02.webp" alt="Ancienne couverture de passeport biométrique marocain utilisée comme repère de comparaison." width="709" height="998" loading="lazy" decoding="async" />
+  <figcaption>Image d’illustration. Ancienne couverture de passeport biométrique marocain utilisée comme repère de comparaison. Crédit: Tafounast / Wikimedia Commons (Public domain).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/tourisme-maroc-2030-agadir-2026.webp" alt="Passeport tamponné, illustration des procédures administratives de voyage." width="1600" height="900" loading="lazy" />
-  <figcaption>Image d'illustration locale optimisée ; crédit et licence documentés dans IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/nouveau-passeport-marocain-2026-documents-prix-validite-03.webp" alt="Tampons d’entrée et de sortie marocains, contexte d’usage d’un passeport en voyage." width="1200" height="511" loading="lazy" decoding="async" />
+  <figcaption>Image d’illustration. Tampons d’entrée et de sortie marocains, contexte d’usage d’un passeport en voyage. Crédit: Sgroey / Wikimedia Commons (CC BY 4.0).</figcaption>
 </figure>
 
 ## Ce qui est confirmé

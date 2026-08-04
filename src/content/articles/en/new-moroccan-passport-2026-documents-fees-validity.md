@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "The August 2026 framework adds Amazigh and strengthens security, but practical steps should be checked on Passeport.ma."
-heroImage: "/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-3.webp"
-imageAlt: "Stamped passport, contextual illustration of travel administration procedures."
+heroImage: "/images/articles/news-2026-08-03/nouveau-passeport-marocain-2026-documents-prix-validite-cover.webp"
+imageAlt: "Moroccan biometric passport cover, contextual image for the model change."
 featured: false
 sources:
   - label: "Passeport.ma — portail officiel"
@@ -47,8 +47,8 @@ Moroccans abroad should use embassies and consulates.
 Operational details may depend on joint ministerial decisions.
 
 <figure>
-  <img src="/images/articles/dahir-maroc-immobilier-acheteur.webp" alt="Stamped passport, contextual illustration of travel administration procedures." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/nouveau-passeport-marocain-2026-documents-prix-validite-01.webp" alt="Official visual of the Moroccan biometric passport, context for the administrative procedure." width="416" height="518" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. Official visual of the Moroccan biometric passport, context for the administrative procedure. Credit: Ministère de l'Intérieur- Royaume du Maroc- / Wikimedia Commons (Public domain).</figcaption>
 </figure>
 
 ## Verified markers
@@ -61,13 +61,13 @@ Operational details may depend on joint ministerial decisions.
 | 4 | Operational details may depend on joint ministerial decisions. |
 
 <figure>
-  <img src="/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-2.webp" alt="Stamped passport, contextual illustration of travel administration procedures." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/nouveau-passeport-marocain-2026-documents-prix-validite-02.webp" alt="Older Moroccan biometric passport cover used as comparison context." width="709" height="998" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. Older Moroccan biometric passport cover used as comparison context. Credit: Tafounast / Wikimedia Commons (Public domain).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/tourisme-maroc-2030-agadir-2026.webp" alt="Stamped passport, contextual illustration of travel administration procedures." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/nouveau-passeport-marocain-2026-documents-prix-validite-03.webp" alt="Moroccan entry and exit stamps, context for passport use while travelling." width="1200" height="511" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. Moroccan entry and exit stamps, context for passport use while travelling. Credit: Sgroey / Wikimedia Commons (CC BY 4.0).</figcaption>
 </figure>
 
 ## What is confirmed

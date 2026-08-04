@@ -45,6 +45,7 @@ Manufacturing is the caution point, with only +0.3% value added in Q2 2026. Watc
 
 ## Related reading
 
+- [Morocco’s economy in 2026: growth, inflation, jobs and investment](/en/articles/morocco-economy-2026)
 - [Morocco tourism 2030: ONMT trajectory](/en/articles/morocco-tourism-2030-onmt-arrivals-2026)
 - [Timitar Agadir 2026: programme](/en/articles/timitar-agadir-2026-programme)
 - [Kenitra-Marrakech HSR: travel impact](/en/articles/kenitra-marrakech-hsr-2026-travel-impact)

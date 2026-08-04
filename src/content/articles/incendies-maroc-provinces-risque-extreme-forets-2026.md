@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "Un bulletin de risque n’est pas un constat d’incendie actif : il sert à prévenir les départs de feu."
-heroImage: "/images/articles/incendie-foret-fumee-illustration.webp"
-imageAlt: "Panache de fumée au-dessus d’une forêt, illustration du risque d’incendie."
+heroImage: "/images/articles/news-2026-08-03/incendies-maroc-provinces-risque-extreme-forets-2026-cover.webp"
+imageAlt: "Forêt marocaine du Rif, image d’illustration du risque d’incendie en période sèche."
 featured: false
 sources:
   - label: "SNRT News / MAP — carte ANEF 26-29 mai 2026"
@@ -45,8 +45,8 @@ Les facteurs principaux sont chaleur, vent, végétation sèche et relief.
 Tout départ de fumée doit être signalé rapidement aux autorités locales.
 
 <figure>
-  <img src="/images/articles/ciel-fumee-canicule-mediterranee-illustration.webp" alt="Panache de fumée au-dessus d’une forêt, illustration du risque d’incendie." width="1600" height="900" loading="lazy" />
-  <figcaption>Image d'illustration locale optimisée ; crédit et licence documentés dans IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/incendies-maroc-provinces-risque-extreme-forets-2026-01.webp" alt="Forêt de cèdres du Moyen Atlas, contexte des massifs surveillés pendant l’été." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Image d’illustration. Forêt de cèdres du Moyen Atlas, contexte des massifs surveillés pendant l’été. Crédit: Reda Abouakil / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
 </figure>
 
 ## Repères vérifiés
@@ -59,13 +59,13 @@ Tout départ de fumée doit être signalé rapidement aux autorités locales.
 | 4 | Tout départ de fumée doit être signalé rapidement aux autorités locales. |
 
 <figure>
-  <img src="/images/articles/canadair-cl415-largage-eau-illustration.webp" alt="Panache de fumée au-dessus d’une forêt, illustration du risque d’incendie." width="1600" height="900" loading="lazy" />
-  <figcaption>Image d'illustration locale optimisée ; crédit et licence documentés dans IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/incendies-maroc-provinces-risque-extreme-forets-2026-02.webp" alt="Paysage forestier marocain sec, illustration du combustible végétal en été." width="1200" height="1424" loading="lazy" decoding="async" />
+  <figcaption>Image d’illustration. Paysage forestier marocain sec, illustration du combustible végétal en été. Crédit: محمد بوعلام عصامي / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/canadair-cl415-avion-bombardier-eau-illustration.webp" alt="Panache de fumée au-dessus d’une forêt, illustration du risque d’incendie." width="1600" height="900" loading="lazy" />
-  <figcaption>Image d'illustration locale optimisée ; crédit et licence documentés dans IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/incendies-maroc-provinces-risque-extreme-forets-2026-03.webp" alt="Vue de surveillance en zone forestière, contexte de prévention des départs de feu." width="1200" height="675" loading="lazy" decoding="async" />
+  <figcaption>Image d’illustration. Vue de surveillance en zone forestière, contexte de prévention des départs de feu. Crédit: Mehdi.Tj / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
 </figure>
 
 ## Ce qui est confirmé

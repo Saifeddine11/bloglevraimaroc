@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "Een risicobulletin bevestigt geen actieve brand: het is preventie-informatie."
-heroImage: "/images/articles/incendie-foret-fumee-illustration.webp"
-imageAlt: "Rookpluim boven een bos als contextillustratie van bosbrandrisico."
+heroImage: "/images/articles/news-2026-08-03/incendies-maroc-provinces-risque-extreme-forets-2026-cover.webp"
+imageAlt: "Marokkaans Rifbos als context voor brandrisico in droge periodes."
 featured: false
 sources:
   - label: "SNRT News / MAP — carte ANEF 26-29 mai 2026"
@@ -45,8 +45,8 @@ Belangrijke factoren zijn hitte, wind, droge vegetatie en reliëf.
 Rook moet snel aan lokale autoriteiten worden gemeld.
 
 <figure>
-  <img src="/images/articles/ciel-fumee-canicule-mediterranee-illustration.webp" alt="Rookpluim boven een bos als contextillustratie van bosbrandrisico." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/incendies-maroc-provinces-risque-extreme-forets-2026-01.webp" alt="Cederbos in de Midden-Atlas als context voor bewaakte bosgebieden in de zomer." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Cederbos in de Midden-Atlas als context voor bewaakte bosgebieden in de zomer. Credit: Reda Abouakil / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
 </figure>
 
 ## Geverifieerde ijkpunten
@@ -59,13 +59,13 @@ Rook moet snel aan lokale autoriteiten worden gemeld.
 | 4 | Rook moet snel aan lokale autoriteiten worden gemeld. |
 
 <figure>
-  <img src="/images/articles/canadair-cl415-largage-eau-illustration.webp" alt="Rookpluim boven een bos als contextillustratie van bosbrandrisico." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/incendies-maroc-provinces-risque-extreme-forets-2026-02.webp" alt="Droog Marokkaans boslandschap als illustratie van zomerse vegetatiebrandstof." width="1200" height="1424" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Droog Marokkaans boslandschap als illustratie van zomerse vegetatiebrandstof. Credit: محمد بوعلام عصامي / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/canadair-cl415-avion-bombardier-eau-illustration.webp" alt="Rookpluim boven een bos als contextillustratie van bosbrandrisico." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/incendies-maroc-provinces-risque-extreme-forets-2026-03.webp" alt="Bosbewakingsbeeld als context voor preventie van natuurbranden." width="1200" height="675" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Bosbewakingsbeeld als context voor preventie van natuurbranden. Credit: Mehdi.Tj / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
 </figure>
 
 ## Wat bevestigd is

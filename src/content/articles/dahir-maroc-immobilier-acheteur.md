@@ -109,10 +109,10 @@ Si un point reste flou, la bonne réaction n’est pas de signer plus vite. C’
 
 La méthode reprend quatre lectures :
 
-- **S — Sécurisation du projet** : identifier le promoteur, le dossier, les documents disponibles et les zones floues.
-- **A — Analyse d’investissement** : comprendre le prix, l’emplacement, la cohérence du projet et le profil acheteur.
-- **F — Fiabilité d’exécution** : regarder l’avancement, la qualité annoncée, les matériaux, les délais et la capacité de livraison.
-- **E — Encadrement acheteur** : relire les paiements, la réservation, la livraison, les informations transmises et les points qui doivent être confirmés.
+- **S — Sécurisation** : identifier le promoteur, le dossier, les documents disponibles et les zones floues.
+- **A — Analyse** : comprendre le prix, l’emplacement, la cohérence du projet et le profil acheteur.
+- **F — Fiabilité** : regarder l’avancement, la qualité annoncée, les matériaux, les délais et la capacité de livraison.
+- **E — Encadrement** : relire les paiements, la réservation, la livraison, les informations transmises et les points qui doivent être confirmés.
 
 La [méthode S.A.F.E](/safe-certification-immobiliere/) s’inspire de cette logique : ne pas décider sur une brochure seule, mais organiser les questions avant de présenter un projet comme sérieux. Elle ne conclut pas à une sécurité juridique totale. Elle aide à construire un premier niveau d’analyse, qui doit ensuite être complété par les vérifications professionnelles nécessaires.
 

@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "Hitte blijft een nationale waakzaamheidskwestie, vooral in het binnenland en de zuidelijke provincies."
-heroImage: "/images/articles/ciel-fumee-canicule-mediterranee-illustration.webp"
-imageAlt: "Lucht met rook en hitte als contextillustratie bij een hittegolf in Marokko."
+heroImage: "/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-cover.webp"
+imageAlt: "Jemaa el-Fna overdag, stedelijke hittecontext in Marrakech."
 featured: false
 sources:
   - label: "Maroc Météo — vigilance et communiqués DGM"
@@ -45,8 +45,8 @@ Lokale onweersbuien kunnen ontstaan in Atlas en Oriental.
 Reizigers moeten tijden, hydratatie en wegen controleren.
 
 <figure>
-  <img src="/images/articles/incendie-foret-fumee-illustration.webp" alt="Lucht met rook en hitte als contextillustratie bij een hittegolf in Marokko." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-01.webp" alt="Zonnige straat in de medina van Marrakech als context voor stedelijke hitte." width="530" height="799" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Zonnige straat in de medina van Marrakech als context voor stedelijke hitte. Credit: Francisco Anzola / Wikimedia Commons (CC BY 2.0).</figcaption>
 </figure>
 
 ## Geverifieerde ijkpunten
@@ -59,13 +59,13 @@ Reizigers moeten tijden, hydratatie en wegen controleren.
 | 4 | Reizigers moeten tijden, hydratatie en wegen controleren. |
 
 <figure>
-  <img src="/images/articles/marrakech-2030-infrastructures-tourisme.webp" alt="Lucht met rook en hitte als contextillustratie bij een hittegolf in Marokko." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-02.webp" alt="Zonnige kust van Agadir als context voor steden blootgesteld aan hitte." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Zonnige kust van Agadir als context voor steden blootgesteld aan hitte. Credit: Marcin Sochacki (Wanted) / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/tourisme-maroc-2030-agadir-2026.webp" alt="Lucht met rook en hitte als contextillustratie bij een hittegolf in Marokko." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-03.webp" alt="Zonnig beeld van Ouarzazate als context voor warme binnenlandse gebieden." width="1200" height="675" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Zonnig beeld van Ouarzazate als context voor warme binnenlandse gebieden. Credit: GuHKS / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
 </figure>
 
 ## Wat bevestigd is

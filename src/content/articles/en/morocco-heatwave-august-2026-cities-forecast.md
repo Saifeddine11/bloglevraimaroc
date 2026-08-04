@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "Heat remains a national vigilance issue, especially inland and in southern provinces."
-heroImage: "/images/articles/ciel-fumee-canicule-mediterranee-illustration.webp"
-imageAlt: "Sky veiled by smoke and heat, contextual illustration of a Morocco heatwave."
+heroImage: "/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-cover.webp"
+imageAlt: "Jemaa el-Fnaa in daylight, urban heat context in Marrakech."
 featured: false
 sources:
   - label: "Maroc Météo — vigilance et communiqués DGM"
@@ -45,8 +45,8 @@ Local storms can develop over the Atlas and Oriental regions.
 Travellers should check timing, hydration and road conditions.
 
 <figure>
-  <img src="/images/articles/incendie-foret-fumee-illustration.webp" alt="Sky veiled by smoke and heat, contextual illustration of a Morocco heatwave." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-01.webp" alt="Sunny street in Marrakech medina, contextual image for urban heat." width="530" height="799" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. Sunny street in Marrakech medina, contextual image for urban heat. Credit: Francisco Anzola / Wikimedia Commons (CC BY 2.0).</figcaption>
 </figure>
 
 ## Verified markers
@@ -59,13 +59,13 @@ Travellers should check timing, hydration and road conditions.
 | 4 | Travellers should check timing, hydration and road conditions. |
 
 <figure>
-  <img src="/images/articles/marrakech-2030-infrastructures-tourisme.webp" alt="Sky veiled by smoke and heat, contextual illustration of a Morocco heatwave." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-02.webp" alt="Agadir seafront in the sun, context for heat-exposed cities." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. Agadir seafront in the sun, context for heat-exposed cities. Credit: Marcin Sochacki (Wanted) / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/tourisme-maroc-2030-agadir-2026.webp" alt="Sky veiled by smoke and heat, contextual illustration of a Morocco heatwave." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-03.webp" alt="Sunny view of Ouarzazate, context for very hot inland areas." width="1200" height="675" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. Sunny view of Ouarzazate, context for very hot inland areas. Credit: GuHKS / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
 </figure>
 
 ## What is confirmed

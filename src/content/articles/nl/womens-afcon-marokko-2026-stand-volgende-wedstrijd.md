@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "Marokko begon met 4-0 tegen Kenia en speelt op 3 augustus in Rabat zijn laatste groepsmatch."
-heroImage: "/images/articles/gueliz-hivernage-palmeraie-investissement.webp"
-imageAlt: "Avenue in Rabat als contextbeeld voor Women’s AFCON Marokko 2026."
+heroImage: "/images/articles/news-2026-08-03/can-feminine-maroc-2026-classement-prochain-match-cover.webp"
+imageAlt: "Speelsters van het Marokkaanse vrouwenteam tijdens een Afrikaanse competitie, context bij de Atlas Leeuwinnen."
 featured: false
 sources:
   - label: "FRMF — Maroc 4-0 Kenya"
@@ -45,8 +45,8 @@ Halvefinalisten zijn belangrijk voor het WK 2027-traject.
 Scores moeten na affluiten worden bijgewerkt.
 
 <figure>
-  <img src="/images/articles/marrakech-2030-infrastructures-tourisme.webp" alt="Avenue in Rabat als contextbeeld voor Women’s AFCON Marokko 2026." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/can-feminine-maroc-2026-classement-prochain-match-01.webp" alt="Sanaa Mssoudy bij de Marokkaanse vrouwenploeg, context bij de nationale selectie." width="1200" height="1460" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Sanaa Mssoudy bij de Marokkaanse vrouwenploeg, context bij de nationale selectie. Credit: Hafidabdelhak21 / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 ## Geverifieerde ijkpunten
@@ -59,13 +59,13 @@ Scores moeten na affluiten worden bijgewerkt.
 | 4 | Scores moeten na affluiten worden bijgewerkt. |
 
 <figure>
-  <img src="/images/articles/tourisme-prix-immobiliers-marrakech.webp" alt="Avenue in Rabat als contextbeeld voor Women’s AFCON Marokko 2026." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/can-feminine-maroc-2026-classement-prochain-match-02.webp" alt="Prins Moulay Abdellah-sportcomplex in Rabat als context voor de Women’s AFCON-kalender." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Prins Moulay Abdellah-sportcomplex in Rabat als context voor de Women’s AFCON-kalender. Credit: CSPMA / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/royal-air-maroc-ete-2026-marrakech-2.webp" alt="Avenue in Rabat als contextbeeld voor Women’s AFCON Marokko 2026." width="1600" height="900" loading="lazy" />
-  <figcaption>Geoptimaliseerde lokale contextafbeelding; krediet en licentie staan in IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/can-feminine-maroc-2026-classement-prochain-match-03.webp" alt="Sakina Ouzraoui tijdens een wedstrijd van de Marokkaanse vrouwenploeg, nationale voetbalcontext." width="939" height="1575" loading="lazy" decoding="async" />
+  <figcaption>Contextuele illustratie. Sakina Ouzraoui tijdens een wedstrijd van de Marokkaanse vrouwenploeg, nationale voetbalcontext. Credit: Marouane Hamousse / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 ## Wat bevestigd is

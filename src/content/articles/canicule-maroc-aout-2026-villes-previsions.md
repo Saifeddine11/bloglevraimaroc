@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "La chaleur reste un sujet de vigilance nationale, surtout à l’intérieur du pays et dans les provinces sahariennes."
-heroImage: "/images/articles/ciel-fumee-canicule-mediterranee-illustration.webp"
-imageAlt: "Ciel voilé par la fumée et la chaleur, illustration de canicule au Maroc."
+heroImage: "/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-cover.webp"
+imageAlt: "Place Jemaa el-Fna en plein jour, contexte urbain de chaleur à Marrakech."
 featured: false
 sources:
   - label: "Maroc Météo — vigilance et communiqués DGM"
@@ -45,8 +45,8 @@ Des orages locaux peuvent apparaître sur l’Atlas et l’Oriental.
 Les voyageurs doivent vérifier horaires, hydratation et état des routes.
 
 <figure>
-  <img src="/images/articles/incendie-foret-fumee-illustration.webp" alt="Ciel voilé par la fumée et la chaleur, illustration de canicule au Maroc." width="1600" height="900" loading="lazy" />
-  <figcaption>Image d'illustration locale optimisée ; crédit et licence documentés dans IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-01.webp" alt="Rue ensoleillée de la médina de Marrakech, image d’illustration de chaleur urbaine." width="530" height="799" loading="lazy" decoding="async" />
+  <figcaption>Image d’illustration. Rue ensoleillée de la médina de Marrakech, image d’illustration de chaleur urbaine. Crédit: Francisco Anzola / Wikimedia Commons (CC BY 2.0).</figcaption>
 </figure>
 
 ## Repères vérifiés
@@ -59,13 +59,13 @@ Les voyageurs doivent vérifier horaires, hydratation et état des routes.
 | 4 | Les voyageurs doivent vérifier horaires, hydratation et état des routes. |
 
 <figure>
-  <img src="/images/articles/marrakech-2030-infrastructures-tourisme.webp" alt="Ciel voilé par la fumée et la chaleur, illustration de canicule au Maroc." width="1600" height="900" loading="lazy" />
-  <figcaption>Image d'illustration locale optimisée ; crédit et licence documentés dans IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-02.webp" alt="Front de mer d’Agadir sous le soleil, contexte des villes exposées à la chaleur." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Image d’illustration. Front de mer d’Agadir sous le soleil, contexte des villes exposées à la chaleur. Crédit: Marcin Sochacki (Wanted) / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/tourisme-maroc-2030-agadir-2026.webp" alt="Ciel voilé par la fumée et la chaleur, illustration de canicule au Maroc." width="1600" height="900" loading="lazy" />
-  <figcaption>Image d'illustration locale optimisée ; crédit et licence documentés dans IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-03.webp" alt="Vue ensoleillée de Ouarzazate, repère pour les zones intérieures très chaudes." width="1200" height="675" loading="lazy" decoding="async" />
+  <figcaption>Image d’illustration. Vue ensoleillée de Ouarzazate, repère pour les zones intérieures très chaudes. Crédit: GuHKS / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
 </figure>
 
 ## Ce qui est confirmé

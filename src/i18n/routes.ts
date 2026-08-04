@@ -11,6 +11,15 @@ export type RouteKey =
   | 'guides'
   | 'analyses'
   | 'safe'
+  | 'methodeSafe'
+  | 'grilleSafe'
+  | 'analyseProjetImmobilier'
+  | 'safeAchatSurPlan'
+  | 'safeInvestissement'
+  | 'commentAnalyserPromoteur'
+  | 'checklistAchatSurPlan'
+  | 'guideAnalyseImmobiliere'
+  | 'risquesAchatImmobilier'
   | 'acheterSurPlanMaroc'
   | 'acheterSurPlanMarrakech'
   | 'risquesAchatMaroc'
@@ -43,6 +52,15 @@ export const routeSlugs: Record<Locale, Record<RouteKey, string>> = {
     guides: 'guides',
     analyses: 'analyses',
     safe: 'safe-certification-immobiliere',
+    methodeSafe: 'methode-safe-immobilier',
+    grilleSafe: 'grille-safe-immobilier',
+    analyseProjetImmobilier: 'analyse-projet-immobilier',
+    safeAchatSurPlan: 'safe-achat-sur-plan',
+    safeInvestissement: 'safe-investissement-immobilier',
+    commentAnalyserPromoteur: 'comment-analyser-promoteur',
+    checklistAchatSurPlan: 'checklist-achat-sur-plan',
+    guideAnalyseImmobiliere: 'guide-analyse-immobiliere',
+    risquesAchatImmobilier: 'risques-achat-immobilier',
     acheterSurPlanMaroc: 'acheter-sur-plan-maroc',
     acheterSurPlanMarrakech: 'acheter-sur-plan-marrakech',
     risquesAchatMaroc: 'risques-achat-immobilier-maroc',
@@ -67,6 +85,15 @@ export const routeSlugs: Record<Locale, Record<RouteKey, string>> = {
     guides: 'guides',
     analyses: 'analysis',
     safe: 'safe-real-estate-certification',
+    methodeSafe: 'safe-real-estate-methodology',
+    grilleSafe: 'safe-real-estate-grid',
+    analyseProjetImmobilier: 'real-estate-project-analysis',
+    safeAchatSurPlan: 'safe-off-plan-property-purchase',
+    safeInvestissement: 'safe-property-investment',
+    commentAnalyserPromoteur: 'how-to-analyze-a-real-estate-developer',
+    checklistAchatSurPlan: 'off-plan-property-checklist',
+    guideAnalyseImmobiliere: 'real-estate-analysis-guide',
+    risquesAchatImmobilier: 'property-purchase-risks',
     acheterSurPlanMaroc: 'buying-off-plan-morocco',
     acheterSurPlanMarrakech: 'buying-off-plan-marrakech',
     risquesAchatMaroc: 'real-estate-risks-morocco',
@@ -91,6 +118,15 @@ export const routeSlugs: Record<Locale, Record<RouteKey, string>> = {
     guides: 'guias',
     analyses: 'analisis',
     safe: 'certificacion-inmobiliaria-safe',
+    methodeSafe: 'metodo-safe-inmobiliario',
+    grilleSafe: 'matriz-safe-inmobiliaria',
+    analyseProjetImmobilier: 'analisis-proyecto-inmobiliario',
+    safeAchatSurPlan: 'safe-compra-sobre-plano',
+    safeInvestissement: 'safe-inversion-inmobiliaria',
+    commentAnalyserPromoteur: 'como-analizar-promotor-inmobiliario',
+    checklistAchatSurPlan: 'checklist-compra-sobre-plano',
+    guideAnalyseImmobiliere: 'guia-analisis-inmobiliario',
+    risquesAchatImmobilier: 'riesgos-compra-inmobiliaria',
     acheterSurPlanMaroc: 'comprar-sobre-plano-marruecos',
     acheterSurPlanMarrakech: 'comprar-sobre-plano-marrakech',
     risquesAchatMaroc: 'riesgos-compra-inmobiliaria-marruecos',
@@ -115,6 +151,15 @@ export const routeSlugs: Record<Locale, Record<RouteKey, string>> = {
     guides: 'gidsen',
     analyses: 'analyses',
     safe: 'safe-vastgoedcertificering',
+    methodeSafe: 'safe-vastgoedmethode',
+    grilleSafe: 'safe-vastgoedmatrix',
+    analyseProjetImmobilier: 'vastgoedprojectanalyse',
+    safeAchatSurPlan: 'safe-off-plan-vastgoedkopen',
+    safeInvestissement: 'safe-vastgoedinvestering',
+    commentAnalyserPromoteur: 'vastgoedontwikkelaar-analyseren',
+    checklistAchatSurPlan: 'checklist-off-plan-kopen',
+    guideAnalyseImmobiliere: 'vastgoedanalyse-gids',
+    risquesAchatImmobilier: 'risicos-vastgoedaankoop',
     acheterSurPlanMaroc: 'off-plan-kopen-marokko',
     acheterSurPlanMarrakech: 'off-plan-kopen-marrakech',
     risquesAchatMaroc: 'vastgoedrisicos-marokko',
@@ -141,6 +186,15 @@ export const categoryRouteKeys = {
 } as const satisfies Record<string, RouteKey>;
 
 export const safeRouteKeys = [
+  'methodeSafe',
+  'grilleSafe',
+  'analyseProjetImmobilier',
+  'safeAchatSurPlan',
+  'safeInvestissement',
+  'commentAnalyserPromoteur',
+  'checklistAchatSurPlan',
+  'guideAnalyseImmobiliere',
+  'risquesAchatImmobilier',
   'acheterSurPlanMaroc',
   'acheterSurPlanMarrakech',
   'risquesAchatMaroc',

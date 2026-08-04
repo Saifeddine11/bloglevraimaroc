@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "The July 2026 AfDB financing puts the Kenitra gigafactory at the centre of the Africa-Europe LFP chain."
-heroImage: "/images/articles/hcp-croissance-logistique-tanger-med-2026.webp"
-imageAlt: "Tanger Med logistics area illustrating Morocco’s automotive and industrial supply chains."
+heroImage: "/images/articles/news-2026-08-03/batteries-lfp-maroc-gotion-industrie-automobile-2026-cover.webp"
+imageAlt: "Lithium-ion battery, contextual image for LFP technology."
 featured: false
 sources:
   - label: "African Development Bank — €100m loan to Gotion Power Morocco"
@@ -47,8 +47,8 @@ The site is in Rabat-Salé-Kénitra.
 The industrial logic connects phosphate, components, cells and vehicle exports.
 
 <figure>
-  <img src="/images/articles/macan-development-marrakech-rabat-2026.webp" alt="Tanger Med logistics area illustrating Morocco’s automotive and industrial supply chains." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/batteries-lfp-maroc-gotion-industrie-automobile-2026-01.webp" alt="Cylindrical lithium-ion cell, illustration of the battery technology chain." width="1200" height="1110" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. Cylindrical lithium-ion cell, illustration of the battery technology chain. Credit: RudolfSimon / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
 </figure>
 
 ## Verified markers
@@ -61,13 +61,13 @@ The industrial logic connects phosphate, components, cells and vehicle exports.
 | 4 | The industrial logic connects phosphate, components, cells and vehicle exports. |
 
 <figure>
-  <img src="/images/articles/fiscalite-immobiliere-marrakech-2026-2.webp" alt="Tanger Med logistics area illustrating Morocco’s automotive and industrial supply chains." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/batteries-lfp-maroc-gotion-industrie-automobile-2026-02.webp" alt="Cylindrical lithium-ion cells, context for electric-vehicle battery production." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. Cylindrical lithium-ion cells, context for electric-vehicle battery production. Credit: Sevenethics / Wikimedia Commons (CC0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/marrakech-perspectives-marche-2026-2030.webp" alt="Tanger Med logistics area illustrating Morocco’s automotive and industrial supply chains." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/batteries-lfp-maroc-gotion-industrie-automobile-2026-03.webp" alt="Container ship at Tanger Med, logistics context for Morocco’s automotive industry." width="1200" height="797" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. Container ship at Tanger Med, logistics context for Morocco’s automotive industry. Credit: Bertrand SOUBEYRAND / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 ## What is confirmed

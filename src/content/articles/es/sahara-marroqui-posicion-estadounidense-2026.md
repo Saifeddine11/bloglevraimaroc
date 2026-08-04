@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "La posición estadounidense refuerza el argumento diplomático marroquí, pero no sustituye el proceso de la ONU."
-heroImage: "/images/articles/tourisme-maroc-2030-agadir-2026.webp"
-imageAlt: "Imagen del sur de Marruecos usada como ilustración contextual del expediente diplomático del Sáhara marroquí."
+heroImage: "/images/articles/news-2026-08-03/sahara-marocain-position-americaine-2026-cover.webp"
+imageAlt: "Vista reciente de Dajla usada como ilustración contextual del expediente del Sáhara marroquí."
 featured: true
 sources:
   - label: "Maroc.ma / MAP — message de Donald Trump au Roi Mohammed VI"
@@ -47,8 +47,8 @@ La resolución 2797 (2025) prorrogó el mandato de la MINURSO hasta el 31 de oct
 Lo inmediato es diplomático: reacciones, comunicados y preparación del próximo ciclo onusiano.
 
 <figure>
-  <img src="/images/articles/marrakech-perspectives-marche-2026-2030.webp" alt="Imagen del sur de Marruecos usada como ilustración contextual del expediente diplomático del Sáhara marroquí." width="1600" height="900" loading="lazy" />
-  <figcaption>Imagen contextual local optimizada; crédito y licencia documentados en IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/sahara-marocain-position-americaine-2026-01.webp" alt="Vista de El Aaiún usada como contexto territorial del expediente del Sáhara marroquí." width="508" height="352" loading="lazy" decoding="async" />
+  <figcaption>Imagen de ilustración. Vista de El Aaiún usada como contexto territorial del expediente del Sáhara marroquí. Crédito: Souad.M / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
 </figure>
 
 ## Referencias verificadas
@@ -61,13 +61,13 @@ Lo inmediato es diplomático: reacciones, comunicados y preparación del próxim
 | 4 | Lo inmediato es diplomático: reacciones, comunicados y preparación del próximo ciclo onusiano. |
 
 <figure>
-  <img src="/images/articles/marrakech-2030-infrastructures-tourisme.webp" alt="Imagen del sur de Marruecos usada como ilustración contextual del expediente diplomático del Sáhara marroquí." width="1600" height="900" loading="lazy" />
-  <figcaption>Imagen contextual local optimizada; crédito y licencia documentados en IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/sahara-marocain-position-americaine-2026-02.webp" alt="Sala del Consejo de Seguridad de la ONU, contexto institucional del seguimiento de la MINURSO." width="1200" height="602" loading="lazy" decoding="async" />
+  <figcaption>Imagen de ilustración. Sala del Consejo de Seguridad de la ONU, contexto institucional del seguimiento de la MINURSO. Crédito: Patrick Gruban / Wikimedia Commons (CC BY-SA 2.0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/hcp-croissance-logistique-tanger-med-2026.webp" alt="Imagen del sur de Marruecos usada como ilustración contextual del expediente diplomático del Sáhara marroquí." width="1600" height="900" loading="lazy" />
-  <figcaption>Imagen contextual local optimizada; crédito y licencia documentados en IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/sahara-marocain-position-americaine-2026-03.webp" alt="Paisaje de Dajla-Oued Ed Dahab usado para contextualizar las provincias del sur." width="800" height="837" loading="lazy" decoding="async" />
+  <figcaption>Imagen de ilustración. Paisaje de Dajla-Oued Ed Dahab usado para contextualizar las provincias del sur. Crédito: Oxydantal / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
 </figure>
 
 ## Lo confirmado

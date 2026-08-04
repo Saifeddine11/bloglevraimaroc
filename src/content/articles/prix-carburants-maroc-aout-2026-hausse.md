@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "Les prix à la pompe varient selon les enseignes et les villes : il faut lire les montants comme indicatifs."
-heroImage: "/images/articles/fiscalite-immobiliere-marrakech-2026-2.webp"
-imageAlt: "Billets en dirhams illustrant le coût du plein et les dépenses de transport au Maroc."
+heroImage: "/images/articles/news-2026-08-03/prix-carburants-maroc-aout-2026-hausse-cover.webp"
+imageAlt: "Station-service au Maroc, illustration du suivi des prix des carburants."
 featured: false
 sources:
   - label: "Médias24 — hausse du 16 juillet 2026"
@@ -47,8 +47,8 @@ Les écarts entre stations existent.
 Le transport, les livraisons et les déplacements estivaux sont les premiers exposés.
 
 <figure>
-  <img src="/images/articles/retenue-source-loyers-maroc-2026.webp" alt="Billets en dirhams illustrant le coût du plein et les dépenses de transport au Maroc." width="1600" height="900" loading="lazy" />
-  <figcaption>Image d'illustration locale optimisée ; crédit et licence documentés dans IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/prix-carburants-maroc-aout-2026-hausse-01.webp" alt="Station Afriquia au Maroc, contexte de distribution de carburants." width="1200" height="675" loading="lazy" decoding="async" />
+  <figcaption>Image d’illustration. Station Afriquia au Maroc, contexte de distribution de carburants. Crédit: karel291 / Wikimedia Commons (CC BY 3.0).</figcaption>
 </figure>
 
 ## Repères vérifiés
@@ -61,13 +61,13 @@ Le transport, les livraisons et les déplacements estivaux sont les premiers exp
 | 4 | Le transport, les livraisons et les déplacements estivaux sont les premiers exposés. |
 
 <figure>
-  <img src="/images/articles/hcp-croissance-logistique-tanger-med-2026.webp" alt="Billets en dirhams illustrant le coût du plein et les dépenses de transport au Maroc." width="1600" height="900" loading="lazy" />
-  <figcaption>Image d'illustration locale optimisée ; crédit et licence documentés dans IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/prix-carburants-maroc-aout-2026-hausse-02.webp" alt="Pompe à carburant, illustration des prix à la pompe." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Image d’illustration. Pompe à carburant, illustration des prix à la pompe. Crédit: Antony Stanley from Gloucester, UK / Wikimedia Commons (CC BY-SA 2.0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/marrakech-2030-infrastructures-tourisme.webp" alt="Billets en dirhams illustrant le coût du plein et les dépenses de transport au Maroc." width="1600" height="900" loading="lazy" />
-  <figcaption>Image d'illustration locale optimisée ; crédit et licence documentés dans IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/prix-carburants-maroc-aout-2026-hausse-03.webp" alt="Flux logistiques à Tanger Med, contexte de l’impact du carburant sur le transport." width="1200" height="453" loading="lazy" decoding="async" />
+  <figcaption>Image d’illustration. Flux logistiques à Tanger Med, contexte de l’impact du carburant sur le transport. Crédit: Vincent Motel / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
 </figure>
 
 ## Ce qui est confirmé

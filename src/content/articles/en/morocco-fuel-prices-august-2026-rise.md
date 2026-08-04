@@ -12,8 +12,8 @@ date: 2026-08-03
 updatedDate: 2026-08-03
 readingTime: 8
 excerpt: "Pump prices vary by brand and city, so published figures should be read as indicative."
-heroImage: "/images/articles/fiscalite-immobiliere-marrakech-2026-2.webp"
-imageAlt: "Moroccan dirham banknotes illustrating fuel and transport costs."
+heroImage: "/images/articles/news-2026-08-03/prix-carburants-maroc-aout-2026-hausse-cover.webp"
+imageAlt: "Service station in Morocco, contextual image for fuel-price monitoring."
 featured: false
 sources:
   - label: "Médias24 — hausse du 16 juillet 2026"
@@ -47,8 +47,8 @@ Station-level differences exist.
 Transport, deliveries and summer travel are most exposed.
 
 <figure>
-  <img src="/images/articles/retenue-source-loyers-maroc-2026.webp" alt="Moroccan dirham banknotes illustrating fuel and transport costs." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 1.</figcaption>
+  <img src="/images/articles/news-2026-08-03/prix-carburants-maroc-aout-2026-hausse-01.webp" alt="Afriquia station in Morocco, context for fuel distribution." width="1200" height="675" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. Afriquia station in Morocco, context for fuel distribution. Credit: karel291 / Wikimedia Commons (CC BY 3.0).</figcaption>
 </figure>
 
 ## Verified markers
@@ -61,13 +61,13 @@ Transport, deliveries and summer travel are most exposed.
 | 4 | Transport, deliveries and summer travel are most exposed. |
 
 <figure>
-  <img src="/images/articles/hcp-croissance-logistique-tanger-med-2026.webp" alt="Moroccan dirham banknotes illustrating fuel and transport costs." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 2.</figcaption>
+  <img src="/images/articles/news-2026-08-03/prix-carburants-maroc-aout-2026-hausse-02.webp" alt="Fuel pump, contextual image for pump prices." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. Fuel pump, contextual image for pump prices. Credit: Antony Stanley from Gloucester, UK / Wikimedia Commons (CC BY-SA 2.0).</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/articles/marrakech-2030-infrastructures-tourisme.webp" alt="Moroccan dirham banknotes illustrating fuel and transport costs." width="1600" height="900" loading="lazy" />
-  <figcaption>Contextual local image, optimized for production; credit and licence are documented in IMAGES.md. 3.</figcaption>
+  <img src="/images/articles/news-2026-08-03/prix-carburants-maroc-aout-2026-hausse-03.webp" alt="Logistics flows at Tanger Med, context for fuel impact on transport." width="1200" height="453" loading="lazy" decoding="async" />
+  <figcaption>Contextual illustration. Logistics flows at Tanger Med, context for fuel impact on transport. Credit: Vincent Motel / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
 </figure>
 
 ## What is confirmed
