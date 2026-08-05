@@ -45,6 +45,8 @@ Le calcul légal se fait par tantièmes, la quote-part de chaque lot fixée dans
 
 ## Le cadre légal : loi 18-00, loi 106-12 et décret 2.23.700
 
+![Signature d'un document juridique lié à la copropriété au Maroc](/images/articles/charges-copropriete-gestion-locative-marrakech-2.webp)
+
 La copropriété marocaine est régie par la loi 18-00, complétée en 2016 par la loi 106-12, puis par le décret 2.23.700 publié au Bulletin officiel n°7391 du 31 mars 2025. Ce texte impose pour la première fois une comptabilité normalisée : 12 annexes réparties en trois catégories selon le montant des charges appelées dans l'année — jusqu'à 200 000 MAD (petite copropriété, 3 annexes), entre 200 000 et 500 000 MAD (moyenne, 3 annexes), au-delà de 500 000 MAD (grande, 8 annexes).
 
 Trois points à connaître avant d'acheter :
@@ -56,6 +58,8 @@ Trois points à connaître avant d'acheter :
 Un syndic qui ne respecte pas ses obligations comptables peut être révoqué par l'assemblée générale à la majorité des trois quarts.
 
 ## Gérer à distance : procuration, mandat et commissions réelles
+
+![Remise des clés d'un appartement à Marrakech, illustrant la gestion locative à distance](/images/articles/charges-copropriete-gestion-locative-marrakech-3.webp)
 
 Pour un propriétaire qui ne réside pas au Maroc, deux problèmes distincts se posent : signer les actes, et gérer le bien au quotidien.
 
@@ -91,10 +95,10 @@ Sur un bien exploité en location courte durée via une conciergerie à 20 % de 
 - Comparer les commissions de plusieurs agences de gestion avant de signer un mandat, et vérifier leur inscription et leurs références locales
 - Ne jamais signer de procuration générale sans durée ni prix plancher
 
-Ces vérifications s'ajoutent à celles déjà nécessaires lors de l'[achat immobilier au Maroc étape par étape](/procedure-achat-immobilier-maroc-etape-par-etape) et à la lecture attentive de la [fiscalité immobilière applicable à Marrakech](/fiscalite-immobiliere-marrakech-2026).
+Ces vérifications s'ajoutent à celles déjà nécessaires lors de l'[achat immobilier au Maroc étape par étape](/articles/procedure-achat-immobilier-maroc-etape-par-etape) et à la lecture attentive de la [fiscalité immobilière applicable à Marrakech](/articles/fiscalite-immobiliere-marrakech-2026).
 
 ## Ce qu'il faut retenir
 
 Le rendement affiché par une agence ou un promoteur est presque toujours un rendement brut. Entre les charges de copropriété — encadrées par la loi 18-00 et son décret d'application de 2025 — et les frais de gestion à distance, un propriétaire étranger doit intégrer une ponction réaliste de 15 à 30 % avant impôt. Ce n'est pas un obstacle à l'investissement, mais un paramètre à budgéter dès le départ plutôt qu'à découvrir sur le premier relevé de charges.
 
-Pour ceux qui envisagent la location courte durée, ces chiffres complètent l'analyse détaillée du [marché de la location courte durée à Marrakech](/location-courte-duree-marrakech), qui aborde la réglementation et la saisonnalité.
+Pour ceux qui envisagent la location courte durée, ces chiffres complètent l'analyse détaillée du [marché de la location courte durée à Marrakech](/articles/location-courte-duree-marrakech), qui aborde la réglementation et la saisonnalité.
