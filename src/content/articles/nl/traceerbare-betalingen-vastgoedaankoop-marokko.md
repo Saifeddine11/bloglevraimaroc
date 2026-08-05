@@ -11,8 +11,8 @@ date: 2026-07-17
 updatedDate: 2026-07-17
 readingTime: 12
 excerpt: "Een Marokkaanse vastgoedaankoop beveiligen begint met traceerbaarheid van elke betaling: voorschot, termijn, notarisrekening, eindsaldo en oplevering."
-heroImage: "/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-2.webp"
-imageAlt: "Contractondertekening als beeld voor traceerbare betalingen bij vastgoedaankoop in Marokko."
+heroImage: "/images/safe-og-official.webp"
+imageAlt: "Officieel S.A.F.E-logo — Security, Analysis, Fidelity & Expert Guidance."
 featured: false
 sources:
   - label: "DGI — circulaire 737 Financieringswet 2026"

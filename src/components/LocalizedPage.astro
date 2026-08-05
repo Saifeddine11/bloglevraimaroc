@@ -42,6 +42,8 @@ const localizedSafeLinkTitle = (key: RouteKey) =>
   key === 'safe' ? 'S.A.F.E' : safeClusterCopies[locale].find((page) => page.routeKey === key)?.primaryKeyword ?? key;
 const safeHubCopy = safePageCopies[locale];
 const safeCopy = routeKey === 'safe' ? safeHubCopy : undefined;
+const safeLogoImage = '/images/safe-logo-official.webp';
+const safeOgImage = '/images/safe-og-official.webp';
 const safeSupportLinks = {
   fr: [
     { href: '/articles/dahir-maroc-definition', title: 'Définition du dahir au Maroc' },
@@ -91,10 +93,16 @@ const safeLimitCopy = {
   },
 }[locale];
 const safeOpenGraphDescriptions = {
-  fr: "Une méthode internationale propriétaire pour analyser un projet immobilier avant décision d'acquisition.",
-  en: 'An international proprietary methodology for evaluating property opportunities before purchase.',
-  es: 'Una metodología internacional propietaria para evaluar oportunidades inmobiliarias antes de comprar.',
-  nl: 'Een internationale eigen methodologie om vastgoedkansen vóór aankoop te beoordelen.',
+  fr: "Une méthode internationale propriétaire d'analyse et de présélection immobilière.",
+  en: 'An international proprietary real estate analysis and pre-screening methodology.',
+  es: 'Una metodología internacional y propietaria de análisis y preselección inmobiliaria.',
+  nl: 'Een internationale, eigen methodologie voor vastgoedanalyse en voorselectie.',
+}[locale];
+const safeDefinedTermDescription = {
+  fr: "Méthode internationale propriétaire d'analyse et de présélection immobilière.",
+  en: 'International proprietary real estate analysis and pre-screening methodology.',
+  es: 'Metodología internacional y propietaria de análisis y preselección inmobiliaria.',
+  nl: 'Internationale, eigen methodologie voor vastgoedanalyse en voorselectie.',
 }[locale];
 const staticCopy =
   routeKey === 'blog' || routeKey === 'about' || routeKey === 'legal' || routeKey === 'privacy' || routeKey === 'notFound'
@@ -116,7 +124,7 @@ const pageDescription =
 
 const webPageSchema = {
   '@context': 'https://schema.org',
-  '@type': 'WebPage',
+  '@type': routeKey === 'safe' ? 'AboutPage' : 'WebPage',
   name: pageTitle ?? homeCopy[locale].metaTitle,
   headline: pageTitle ?? homeCopy[locale].metaTitle,
   description: pageDescription,
@@ -163,7 +171,7 @@ const clusterArticleSchema = clusterPage
       description: clusterPage.metaDescription,
       url: canonicalURL,
       inLanguage: localeInfo.htmlLang,
-      image: absoluteUrl(clusterPage.image),
+      image: absoluteUrl(safeOgImage),
       author: { '@type': 'Organization', name: SITE.name, url: SITE.url },
       publisher: { '@type': 'Organization', name: SITE.name, url: SITE.url },
       about: ['S.A.F.E', clusterPage.primaryKeyword, ...clusterPage.secondaryKeywords],
@@ -175,15 +183,23 @@ const safeDefinedTermSchema = safeCopy
       '@context': 'https://schema.org',
       '@type': 'DefinedTerm',
       name: 'S.A.F.E',
-      alternateName: ['SAFE real estate', 'S.A.F.E method', 'S.A.F.E analysis grid'],
-      termCode: 'Security, Analysis, Fidelity & Expert Guidance',
-      description: safeCopy.intro,
+      alternateName: 'Security, Analysis, Fidelity & Expert Guidance',
+      description: safeDefinedTermDescription,
       inLanguage: localeInfo.htmlLang,
       inDefinedTermSet: {
         '@type': 'DefinedTermSet',
-        name: 'S.A.F.E real estate methodology',
+        name: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance',
         url: absoluteUrl(localizedPath(locale, 'safe')),
       },
+    }
+  : undefined;
+const safeImageSchema = safeCopy
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'ImageObject',
+      url: absoluteUrl(safeOgImage),
+      caption: safeCopy.metaTitle,
+      inLanguage: localeInfo.htmlLang,
     }
   : undefined;
 
@@ -207,13 +223,12 @@ const clusterDefinedTermSchema = clusterPage
       '@context': 'https://schema.org',
       '@type': 'DefinedTerm',
       name: 'S.A.F.E',
-      alternateName: ['SAFE real estate', 'S.A.F.E method', 'S.A.F.E grid'],
-      termCode: 'Security, Analysis, Fidelity & Expert Guidance',
-      description: safeHubCopy.intro,
+      alternateName: 'Security, Analysis, Fidelity & Expert Guidance',
+      description: safeDefinedTermDescription,
       inLanguage: localeInfo.htmlLang,
       inDefinedTermSet: {
         '@type': 'DefinedTermSet',
-        name: 'S.A.F.E real estate methodology',
+        name: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance',
         url: absoluteUrl(localizedPath(locale, 'safe')),
       },
     }
@@ -229,6 +244,7 @@ const latestArticles = articles.slice(0, 6);
   description={pageDescription}
   ogTitle={routeKey === 'safe' ? safeCopy?.h1 : undefined}
   ogDescription={routeKey === 'safe' ? safeOpenGraphDescriptions : undefined}
+  ogImage={routeKey === 'safe' || clusterPage ? safeOgImage : undefined}
   twitterTitle={routeKey === 'safe' ? safeCopy?.h1 : undefined}
   twitterDescription={routeKey === 'safe' ? safeOpenGraphDescriptions : undefined}
   canonicalURL={canonicalURL}
@@ -242,6 +258,7 @@ const latestArticles = articles.slice(0, 6);
     {breadcrumbSchema && <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />}
     {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
     {safeDefinedTermSchema && <script type="application/ld+json" set:html={JSON.stringify(safeDefinedTermSchema)} />}
+    {safeImageSchema && <script type="application/ld+json" set:html={JSON.stringify(safeImageSchema)} />}
     {clusterArticleSchema && <script type="application/ld+json" set:html={JSON.stringify(clusterArticleSchema)} />}
     {clusterHowToSchema && <script type="application/ld+json" set:html={JSON.stringify(clusterHowToSchema)} />}
     {clusterDefinedTermSchema && <script type="application/ld+json" set:html={JSON.stringify(clusterDefinedTermSchema)} />}
@@ -484,10 +501,36 @@ const latestArticles = articles.slice(0, 6);
   {safeCopy && (
     <>
       <section class="relative overflow-hidden bg-rdm-black text-white">
-        <div class="container-rdm py-16 lg:py-20">
-          <p class="mb-5 text-xs font-bold uppercase text-rdm-orange">{safeCopy.eyebrow}</p>
-          <h1 class="text-4xl font-black leading-[1.04] sm:text-5xl lg:text-6xl">{safeCopy.h1}</h1>
-          <p class="mt-7 max-w-3xl text-lg leading-relaxed text-white/75">{safeCopy.intro}</p>
+        <div class="container-rdm grid gap-10 py-16 lg:grid-cols-[minmax(0,1fr)_360px] lg:items-center lg:py-20">
+          <div>
+            <p class="mb-5 text-xs font-bold uppercase text-rdm-orange">{safeCopy.eyebrow}</p>
+            <h1 class="text-4xl font-black leading-[1.04] sm:text-5xl lg:text-6xl">{safeCopy.h1}</h1>
+            <div class="mt-7 max-w-3xl space-y-4 text-lg leading-relaxed text-white/75">
+              {(safeCopy.introParagraphs ?? [safeCopy.intro]).map((paragraph) => <p>{paragraph}</p>)}
+            </div>
+          </div>
+          <div class="rounded-lg border border-white/10 bg-white p-8" aria-label="Identité officielle S.A.F.E">
+            <img
+              src={safeLogoImage}
+              alt="Logo officiel S.A.F.E — Security, Analysis, Fidelity & Expert Guidance"
+              class="h-auto w-full object-contain"
+              width="1536"
+              height="1024"
+              loading="eager"
+            />
+          </div>
+        </div>
+      </section>
+      <section class="py-12">
+        <div class="container-rdm">
+          <div class="grid grid-cols-1 gap-4 lg:grid-cols-3">
+            {safeCopy.directAnswers.map((item) => (
+              <article class="rounded-lg border border-rdm-border bg-white p-6 shadow-card">
+                <h2 class="mb-3 text-xl font-black leading-tight text-rdm-black">{item.title}</h2>
+                <p class="text-sm leading-relaxed text-rdm-gray">{item.answer}</p>
+              </article>
+            ))}
+          </div>
         </div>
       </section>
       <section class="py-16">
@@ -508,6 +551,25 @@ const latestArticles = articles.slice(0, 6);
               ))}
             </div>
           </div>
+          {safeCopy.sections && (
+            <div class="mt-12 space-y-10">
+              {safeCopy.sections.map((section) => (
+                <section class="rounded-lg border border-rdm-border bg-white p-6">
+                  <h2 class="mb-4 text-2xl font-black leading-tight text-rdm-black">{section.heading}</h2>
+                  <div class="space-y-4 text-base leading-relaxed text-rdm-gray">
+                    {section.body.map((paragraph) => <p>{paragraph}</p>)}
+                  </div>
+                  {section.bullets && (
+                    <ul class="mt-5 grid gap-3 md:grid-cols-2">
+                      {section.bullets.map((item) => (
+                        <li class="rounded-lg border border-rdm-border bg-rdm-bg p-4 text-sm leading-relaxed text-rdm-gray">{item}</li>
+                      ))}
+                    </ul>
+                  )}
+                </section>
+              ))}
+            </div>
+          )}
           <div class="mt-8 rounded-lg border border-amber-200 bg-amber-50 p-5 text-amber-950">
             <h2 class="mb-2 text-base font-black">{safeLimitCopy.heading}</h2>
             <p class="text-sm leading-relaxed">{safeLimitCopy.body}</p>
@@ -551,19 +613,30 @@ const latestArticles = articles.slice(0, 6);
 
   {clusterPage && (
     <>
-      <section class="relative overflow-hidden bg-rdm-black text-white">
-        <div class="absolute inset-0"><img src={clusterPage.image} alt={clusterPage.imageAlt} class="h-full w-full object-cover opacity-25" /><div class="absolute inset-0 bg-black/70" aria-hidden="true"></div></div>
-        <div class="container-rdm relative py-16 lg:py-20">
-          <nav aria-label={copy.labels.breadcrumb} class="mb-10 flex flex-wrap items-center gap-2 text-sm text-white/60">
+      <section class="border-b border-rdm-border bg-white">
+        <div class="container-rdm grid gap-10 py-16 lg:grid-cols-[minmax(0,1fr)_320px] lg:items-center lg:py-20">
+          <div>
+          <nav aria-label={copy.labels.breadcrumb} class="mb-10 flex flex-wrap items-center gap-2 text-sm text-rdm-gray">
             <a href={localizedPath(locale, 'home')} class="hover:text-rdm-orange transition-colors">{copy.labels.home}</a>
             <span aria-hidden="true">/</span>
             <a href={localizedPath(locale, 'safe')} class="hover:text-rdm-orange transition-colors">S.A.F.E</a>
             <span aria-hidden="true">/</span>
-            <span class="text-white">{clusterPage.primaryKeyword}</span>
+            <span class="text-rdm-black">{clusterPage.primaryKeyword}</span>
           </nav>
           <p class="mb-5 text-xs font-bold uppercase text-rdm-orange">{clusterPage.eyebrow}</p>
-          <h1 class="text-4xl font-black leading-[1.04] sm:text-5xl lg:text-6xl">{clusterPage.h1}</h1>
-          <p class="mt-7 max-w-3xl text-lg leading-relaxed text-white/75">{clusterPage.intro}</p>
+          <h1 class="text-4xl font-black leading-[1.04] text-rdm-black sm:text-5xl lg:text-6xl">{clusterPage.h1}</h1>
+          <p class="mt-7 max-w-3xl text-lg leading-relaxed text-rdm-gray">{clusterPage.intro}</p>
+          </div>
+          <div class="rounded-lg border border-rdm-border bg-white p-8" aria-label="Identité officielle S.A.F.E">
+            <img
+              src={safeLogoImage}
+              alt={clusterPage.imageAlt}
+              class="h-auto w-full object-contain"
+              width="1536"
+              height="1024"
+              loading="eager"
+            />
+          </div>
         </div>
       </section>
       <section class="py-16">

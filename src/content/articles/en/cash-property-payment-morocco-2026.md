@@ -11,8 +11,8 @@ date: 2026-07-17
 updatedDate: 2026-07-17
 readingTime: 12
 excerpt: "Since 1 July 2026, Moroccan property deeds above MAD 300,000 may trigger an additional 2% registration duty when payment is not traceable or when the deed does not state payment references. For business goodwill, the MAD 300,000 threshold does not apply."
-heroImage: "/images/articles/fiscalite-immobiliere-marrakech-2026-2.webp"
-imageAlt: "Moroccan dirham banknotes illustrating property payment traceability in 2026."
+heroImage: "/images/safe-og-official.webp"
+imageAlt: "Official S.A.F.E logo — Security, Analysis, Fidelity & Expert Guidance."
 featured: false
 sources:
   - label: "DGI — Circular note 737, 2026 Finance Law"

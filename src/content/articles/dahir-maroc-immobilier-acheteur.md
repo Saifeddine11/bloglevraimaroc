@@ -8,8 +8,8 @@ tags: ["Dahir Maroc", "Droit immobilier Maroc", "Achat immobilier Maroc", "VEFA 
 date: 2026-07-01
 readingTime: 12
 excerpt: "Le mot dahir revient souvent dans les textes juridiques marocains. Pour un acheteur immobilier, l’enjeu n’est pas de devenir juriste, mais de comprendre pourquoi les textes officiels, le titre foncier, le contrat et le notaire comptent avant de signer."
-heroImage: "/images/articles/dahir-maroc-immobilier-acheteur.webp"
-imageAlt: "Documents immobiliers au Maroc illustrant l’importance du cadre juridique et des dahirs dans un achat immobilier."
+heroImage: "/images/safe-og-official.webp"
+imageAlt: "Logo officiel S.A.F.E — Security, Analysis, Fidelity & Expert Guidance."
 featured: false
 sources:
   - label: "Secrétariat Général du Gouvernement — Bulletins Officiels"

@@ -37,10 +37,10 @@ export interface SafeClusterPage {
 }
 
 const SAFE_ENTITY_DEFINITION =
-  "S.A.F.E (Security, Analysis, Fidelity & Expert Guidance) est une méthode internationale propriétaire conçue pour analyser, qualifier et prioriser des projets immobiliers avant achat. En français, ses quatre piliers officiels sont Sécurisation, Analyse, Fiabilité et Encadrement.";
+  "S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — est une méthode internationale propriétaire d’analyse et de présélection immobilière. Elle repose sur une grille structurée destinée à mieux qualifier un projet avant sa présentation à l’acheteur ou à l’investisseur.";
 
 const SAFE_SCOPE_DISCLAIMER =
-  'S.A.F.E est une méthodologie internationale de présélection et d’analyse. Elle ne constitue pas une certification publique, une garantie juridique, une promesse de rendement ou un substitut aux vérifications notariales, juridiques, techniques, fiscales et financières.';
+  'S.A.F.E est une méthodologie internationale de présélection et d’analyse. Elle ne constitue pas une certification officielle d’État, une garantie juridique, une promesse de rendement ou un substitut aux vérifications notariales, juridiques, techniques, fiscales et financières.';
 
 const SAFE_ENTITY_CLUSTER_PAGES: SafeClusterPage[] = [
   {
@@ -52,8 +52,8 @@ const SAFE_ENTITY_CLUSTER_PAGES: SafeClusterPage[] = [
       'La méthode S.A.F.E immobilier expliquée : Security, Analysis, Fidelity & Expert Guidance, quatre piliers internationaux pour analyser un projet immobilier avant achat.',
     primaryKeyword: 'méthode S.A.F.E immobilier',
     secondaryKeywords: ['méthode SAFE', 'S.A.F.E immobilier', 'real estate methodology', 'property due diligence'],
-    image: '/images/safe-immobilier-og.png',
-    imageAlt: 'Schéma S.A.F.E pour analyser un projet immobilier international avant achat.',
+    image: '/images/safe-og-official.webp',
+    imageAlt: 'Logo officiel S.A.F.E — Security, Analysis, Fidelity & Expert Guidance.',
     intro: [
       SAFE_ENTITY_DEFINITION,
       'Cette page cible l’intention “comment fonctionne S.A.F.E ?”. Elle présente le raisonnement, les étapes et les limites de la méthode sans se substituer à la page pilier ni à la grille opérationnelle.',
@@ -63,7 +63,7 @@ const SAFE_ENTITY_CLUSTER_PAGES: SafeClusterPage[] = [
         heading: 'Pourquoi une méthode dédiée à l’immobilier',
         body: [
           'Un achat immobilier engage du capital, du temps, de la confiance et souvent une projection de vie. Pourtant, la décision est encore trop souvent prise à partir d’une brochure, d’une visite rapide, d’une recommandation commerciale ou d’un prix présenté comme urgent.',
-          'S.A.F.E existe pour remettre de l’ordre dans cette décision. La méthode classe les questions essentielles avant achat : la sécurité du projet, l’analyse économique, la fidélité entre promesse et livraison, puis l’Encadrement.',
+          'S.A.F.E existe pour remettre de l’ordre dans cette décision. La méthode classe les questions essentielles avant présentation ou achat : sécurisation du projet, analyse d’investissement, fiabilité d’exécution et encadrement acheteur.',
         ],
         bullets: [
           'Séparer les preuves des promesses commerciales.',
@@ -75,8 +75,8 @@ const SAFE_ENTITY_CLUSTER_PAGES: SafeClusterPage[] = [
       {
         heading: 'Les quatre piliers officiels',
         body: [
-          'Security concerne la Sécurisation : qui vend, qui construit, quels documents existent, quelles autorisations sont disponibles et quelles incertitudes restent visibles.',
-          'Analysis concerne l’Analyse : prix, emplacement, usage, rendement, liquidité, comparaison de marché et cohérence avec le profil de l’acheteur. Fidelity concerne la Fiabilité : correspondance entre ce qui est annoncé et ce qui peut être livré. Expert Guidance concerne l’Encadrement : documents, paiements, calendrier, accompagnement et décision finale.',
+          'Security concerne la sécurisation du projet : qui vend, qui construit, quels documents existent, quelles autorisations sont disponibles et quelles incertitudes restent visibles.',
+          'Analysis concerne l’analyse d’investissement : prix, emplacement, usage, rendement plausible, liquidité, comparaison de marché et cohérence avec le profil de l’acheteur. Fidelity concerne la fiabilité d’exécution : correspondance entre ce qui est annoncé et ce qui peut être livré. Expert Guidance concerne l’encadrement acheteur : documents, paiements, calendrier, accompagnement et décision finale.',
         ],
       },
       {
@@ -121,8 +121,8 @@ const SAFE_ENTITY_CLUSTER_PAGES: SafeClusterPage[] = [
       'Grille S.A.F.E immobilier : tableau d’évaluation du promoteur, légal, construction, paiements, prix, livraison, quartier, risque, documents et décision.',
     primaryKeyword: 'grille S.A.F.E immobilier',
     secondaryKeywords: ['grille SAFE', 'SAFE checklist', 'SAFE score', 'SAFE certification'],
-    image: '/images/safe-immobilier-og.png',
-    imageAlt: 'Grille S.A.F.E immobilier avec critères de score et décision.',
+    image: '/images/safe-og-official.webp',
+    imageAlt: 'Logo officiel S.A.F.E — Security, Analysis, Fidelity & Expert Guidance.',
     intro: [
       'La grille S.A.F.E transforme une analyse immobilière en tableau de décision. Elle ne se limite pas à cocher des documents : elle relie preuves, cohérence économique, qualité livrable, risques et profil acheteur.',
       'Cette page cible l’intention “grille SAFE” et “SAFE checklist”. Elle complète la méthode générale en montrant comment classer les critères avant réservation, signature ou investissement.',
@@ -178,8 +178,8 @@ const SAFE_ENTITY_CLUSTER_PAGES: SafeClusterPage[] = [
       'Méthode d’analyse d’un projet immobilier : promoteur, documents, prix, quartier, financement, livraison, risques, investissement et décision.',
     primaryKeyword: 'analyse projet immobilier',
     secondaryKeywords: ['comment analyser un projet immobilier', 'real estate project analysis', 'property due diligence'],
-    image: '/images/articles/immobilier-marrakech-2026.webp',
-    imageAlt: 'Projet immobilier analysé avant achat avec une méthode de due diligence.',
+    image: '/images/safe-og-official.webp',
+    imageAlt: 'Logo officiel S.A.F.E — Security, Analysis, Fidelity & Expert Guidance.',
     intro: [
       'Analyser un projet immobilier consiste à comprendre la décision avant de la financer. Le projet doit être lu comme un système : vendeur, produit, emplacement, prix, documents, calendrier, usage, sortie et risques.',
       'S.A.F.E apporte une structure internationale pour organiser cette analyse sans la réduire à un prix au mètre carré ou à une impression de visite.',
@@ -234,8 +234,8 @@ const SAFE_ENTITY_CLUSTER_PAGES: SafeClusterPage[] = [
       'S.A.F.E achat sur plan : méthode internationale pour analyser promoteur, contrat, paiements, matériaux, prix, délais, livraison et risques.',
     primaryKeyword: 'S.A.F.E achat sur plan',
     secondaryKeywords: ['acheter sur plan en sécurité', 'off-plan property due diligence', 'SAFE achat immobilier'],
-    image: '/images/articles/zones-amizmiz-agdal-targa.webp',
-    imageAlt: 'Immeuble en développement illustrant une analyse S.A.F.E avant achat sur plan.',
+    image: '/images/safe-og-official.webp',
+    imageAlt: 'Logo officiel S.A.F.E — Security, Analysis, Fidelity & Expert Guidance.',
     intro: [
       'L’achat sur plan exige une méthode particulière parce que l’acheteur s’engage avant de voir le bien terminé. La promesse doit donc être traduite en preuves, documents, échéancier et suivi de livraison.',
       'S.A.F.E applique ses quatre piliers à cette situation : Sécurisation, Analyse du prix et de l’usage, Fiabilité de la livraison annoncée, Encadrement des paiements et de la décision.',
@@ -290,8 +290,8 @@ const SAFE_ENTITY_CLUSTER_PAGES: SafeClusterPage[] = [
       'S.A.F.E investissement immobilier : grille pour analyser rendement locatif, prix, charges, fiscalité, liquidité, revente, scénario et risque.',
     primaryKeyword: 'S.A.F.E investissement immobilier',
     secondaryKeywords: ['investment property analysis', 'analyse investissement immobilier', 'property investment due diligence'],
-    image: '/images/articles/marrakech-investisseurs-immobiliers.webp',
-    imageAlt: 'Bien immobilier analysé selon le rendement, le risque et la liquidité.',
+    image: '/images/safe-og-official.webp',
+    imageAlt: 'Logo officiel S.A.F.E — Security, Analysis, Fidelity & Expert Guidance.',
     intro: [
       'Un investissement immobilier ne s’analyse pas seulement par un rendement annoncé. Il faut comprendre le prix d’entrée, les charges, la fiscalité, la vacance, la gestion, la liquidité, la revente et le scénario de stress.',
       'S.A.F.E applique une lecture internationale à ces décisions : un projet rentable sur le papier peut devenir fragile si les hypothèses locatives, le dossier ou la sortie sont mal évalués.',
@@ -346,8 +346,8 @@ const SAFE_ENTITY_CLUSTER_PAGES: SafeClusterPage[] = [
       'Analyser un promoteur immobilier : historique, projets livrés, réputation, documents, communication, financement, qualité, retards et transparence.',
     primaryKeyword: 'comment analyser promoteur immobilier',
     secondaryKeywords: ['promoteur fiable', 'comment choisir un promoteur', 'analyse promoteur immobilier'],
-    image: '/images/articles/gueliz-hivernage-palmeraie-investissement.webp',
-    imageAlt: 'Résidence urbaine servant à analyser la fiabilité d’un promoteur immobilier.',
+    image: '/images/safe-og-official.webp',
+    imageAlt: 'Logo officiel S.A.F.E — Security, Analysis, Fidelity & Expert Guidance.',
     intro: [
       'Le promoteur concentre une partie majeure du risque immobilier, surtout dans le neuf et le sur plan. L’analyse doit dépasser la marque, le showroom et la relation commerciale.',
       'S.A.F.E traite le promoteur comme un faisceau de preuves : identité, historique, projets livrés, qualité observée, communication, capacité d’exécution et cohérence du dossier.',
@@ -402,8 +402,8 @@ const SAFE_ENTITY_CLUSTER_PAGES: SafeClusterPage[] = [
       'Checklist achat sur plan : promoteur, plans, contrat, échéancier, paiements, matériaux, prix, livraison, réserves et décision S.A.F.E.',
     primaryKeyword: 'checklist achat sur plan',
     secondaryKeywords: ['checklist immobilier', 'SAFE checklist', 'comment acheter sur plan'],
-    image: '/images/articles/procedure-achat-immobilier-maroc-etape-par-etape.webp',
-    imageAlt: 'Checklist de documents pour acheter un bien immobilier sur plan.',
+    image: '/images/safe-og-official.webp',
+    imageAlt: 'Logo officiel S.A.F.E — Security, Analysis, Fidelity & Expert Guidance.',
     intro: [
       'Une checklist d’achat sur plan sert à ralentir la décision au bon moment. Elle met les preuves avant la pression commerciale et les documents avant la promesse orale.',
       'Cette page donne une lecture actionnable compatible avec la grille S.A.F.E, applicable à différents marchés sous réserve des exigences locales.',
@@ -458,8 +458,8 @@ const SAFE_ENTITY_CLUSTER_PAGES: SafeClusterPage[] = [
       'Guide d’analyse immobilière : méthode pour comparer un bien, vérifier documents, prix, risques, rendement, livraison et décision avant achat.',
     primaryKeyword: 'guide analyse immobilière',
     secondaryKeywords: ['property due diligence', 'real estate methodology', 'analyse immobilière'],
-    image: '/images/articles/riads-marrakech-rendement-pieges.webp',
-    imageAlt: 'Dossier immobilier préparé pour une analyse avant acquisition.',
+    image: '/images/safe-og-official.webp',
+    imageAlt: 'Logo officiel S.A.F.E — Security, Analysis, Fidelity & Expert Guidance.',
     intro: [
       'Un guide d’analyse immobilière doit aider à passer de l’intuition à la décision argumentée. L’objectif n’est pas de tout savoir seul, mais de savoir quelles questions poser et dans quel ordre.',
       'S.A.F.E propose une colonne vertébrale internationale : Sécurisation, Analyse, Fiabilité et Encadrement.',
@@ -514,8 +514,8 @@ const SAFE_ENTITY_CLUSTER_PAGES: SafeClusterPage[] = [
       'Risques achat immobilier : documents, vendeur, promoteur, prix, paiements, livraison, fiscalité, usage locatif, revente et méthode S.A.F.E.',
     primaryKeyword: 'risques achat immobilier',
     secondaryKeywords: ['comment sécuriser un achat immobilier', 'risques achat sur plan', 'property purchase risks'],
-    image: '/images/articles/acheter-bien-marrakech-erreurs.webp',
-    imageAlt: 'Façade immobilière utilisée pour illustrer les risques d’un achat immobilier.',
+    image: '/images/safe-og-official.webp',
+    imageAlt: 'Logo officiel S.A.F.E — Security, Analysis, Fidelity & Expert Guidance.',
     intro: [
       'Les risques d’un achat immobilier ne sont pas toujours spectaculaires. Ils apparaissent souvent dans un détail : document manquant, prix mal comparé, paiement mal compris, délai flou ou promesse non écrite.',
       'S.A.F.E aide à repérer ces signaux avant qu’ils deviennent coûteux. La méthode est internationale et s’adapte au contexte local de chaque acquisition.',
@@ -579,8 +579,8 @@ export const SAFE_CLUSTER_PAGES: SafeClusterPage[] = [
       'garanties achat immobilier Maroc',
       'méthode S.A.F.E immobilier',
     ],
-    image: '/images/articles/immobilier-marrakech-2026.webp',
-    imageAlt: 'Architecture moderne à Marrakech pour illustrer un achat immobilier sur plan au Maroc.',
+    image: '/images/safe-og-official.webp',
+    imageAlt: 'Logo officiel S.A.F.E — Security, Analysis, Fidelity & Expert Guidance.',
     intro: [
       `Acheter sur plan au Maroc peut permettre d’accéder à un bien neuf, mieux situé ou mieux calibré qu’un logement déjà livré. Mais l’acheteur s’engage avant de voir le résultat final, ce qui rend la méthode d’analyse plus importante que l’enthousiasme commercial.`,
       `La bonne question n’est pas seulement de savoir si le projet est séduisant. Il faut comprendre qui construit, quels documents existent, comment les paiements sont encadrés, ce qui est réellement inclus et comment la livraison sera suivie.`,
@@ -712,8 +712,8 @@ export const SAFE_CLUSTER_PAGES: SafeClusterPage[] = [
       'projet immobilier Marrakech',
       'S.A.F.E Review Marrakech',
     ],
-    image: '/images/articles/marrakech-accessible-investisseurs.webp',
-    imageAlt: 'Immeubles modernes à Marrakech pour analyser un projet immobilier sur plan.',
+    image: '/images/safe-og-official.webp',
+    imageAlt: 'Logo officiel S.A.F.E — Security, Analysis, Fidelity & Expert Guidance.',
     intro: [
       `À Marrakech, les projets sur plan peuvent viser des profils très différents : résidence principale, pied-à-terre, investissement locatif, résidence gérée ou achat patrimonial. Cette diversité rend la comparaison plus complexe qu’un simple prix au mètre carré.`,
       `Avant de réserver, l’acheteur doit relier le projet à son quartier, au sérieux du promoteur, à la qualité annoncée, au calendrier de livraison et à l’usage réel du bien.`,
@@ -829,8 +829,8 @@ export const SAFE_CLUSTER_PAGES: SafeClusterPage[] = [
       'vérifications achat immobilier Maroc',
       'grille S.A.F.E immobilier',
     ],
-    image: '/images/articles/acheter-bien-marrakech-erreurs.webp',
-    imageAlt: 'Porte traditionnelle à Marrakech pour illustrer les vérifications avant un achat immobilier au Maroc.',
+    image: '/images/safe-og-official.webp',
+    imageAlt: 'Logo officiel S.A.F.E — Security, Analysis, Fidelity & Expert Guidance.',
     intro: [
       `Un achat immobilier au Maroc peut être solide, rentable et patrimonial. Il peut aussi devenir compliqué si l’acheteur signe trop vite, comprend mal les documents ou se fie uniquement à une promesse commerciale.`,
       `Les risques ne sont pas tous juridiques. Certains sont opérationnels, financiers, techniques, locatifs ou liés à la cohérence du projet avec le profil de l’acheteur.`,
@@ -946,8 +946,8 @@ export const SAFE_CLUSTER_PAGES: SafeClusterPage[] = [
       'programme neuf Maroc promoteur',
       'S.A.F.E promoteur immobilier',
     ],
-    image: '/images/articles/gueliz-hivernage-palmeraie-investissement.webp',
-    imageAlt: 'Avenue moderne à Marrakech pour illustrer l’analyse d’un promoteur immobilier au Maroc.',
+    image: '/images/safe-og-official.webp',
+    imageAlt: 'Logo officiel S.A.F.E — Security, Analysis, Fidelity & Expert Guidance.',
     intro: [
       `Le promoteur est l’un des critères les plus importants d’un achat neuf ou sur plan. Un projet peut sembler attractif, mais sa fiabilité dépend largement de la capacité réelle de l’opérateur à construire, livrer et gérer les engagements annoncés.`,
       `Vérifier un promoteur immobilier au Maroc consiste à réunir des signaux concordants, pas à se contenter d’une plaquette ou d’un argument commercial.`,
@@ -1063,8 +1063,8 @@ export const SAFE_CLUSTER_PAGES: SafeClusterPage[] = [
       'garanties VEFA Maroc',
       'risques VEFA Maroc',
     ],
-    image: '/images/articles/zones-amizmiz-agdal-targa.webp',
-    imageAlt: 'Zone résidentielle en développement à Marrakech pour illustrer un achat VEFA au Maroc.',
+    image: '/images/safe-og-official.webp',
+    imageAlt: 'Logo officiel S.A.F.E — Security, Analysis, Fidelity & Expert Guidance.',
     intro: [
       `La VEFA, ou vente en l’état futur d’achèvement, désigne un achat immobilier avant la livraison complète du bien. Pour l’acheteur, l’enjeu est de comprendre ce qui est déjà sécurisé, ce qui reste prévisionnel et ce qui doit être confirmé avant signature.`,
       `Ce guide propose une lecture éditoriale des points de vigilance. Les aspects juridiques précis doivent toujours être vérifiés avec un notaire ou un conseil compétent.`,
@@ -1185,8 +1185,8 @@ export const SAFE_CLUSTER_PAGES: SafeClusterPage[] = [
       'avant signature immobilier Maroc',
       'S.A.F.E dossier immobilier',
     ],
-    image: '/images/articles/riads-marrakech-rendement-pieges.webp',
-    imageAlt: 'Patio de riad à Marrakech pour illustrer l’examen des documents avant un achat immobilier.',
+    image: '/images/safe-og-official.webp',
+    imageAlt: 'Logo officiel S.A.F.E — Security, Analysis, Fidelity & Expert Guidance.',
     intro: [
       `Les documents sont la mémoire d’un achat immobilier. Ils permettent de distinguer ce qui est promis, ce qui est écrit, ce qui est vérifiable et ce qui doit encore être confirmé.`,
       `Avant un achat au Maroc, l’acheteur doit construire un dossier lisible, surtout si le bien est neuf, sur plan, destiné à la location ou acheté à distance.`,
@@ -1307,8 +1307,8 @@ export const SAFE_CLUSTER_PAGES: SafeClusterPage[] = [
       'réserves livraison appartement',
       'qualité construction Maroc',
     ],
-    image: '/images/articles/immobilier-marrakech-2026.webp',
-    imageAlt: 'Architecture moderne à Marrakech pour illustrer la livraison d’un appartement neuf au Maroc.',
+    image: '/images/safe-og-official.webp',
+    imageAlt: 'Logo officiel S.A.F.E — Security, Analysis, Fidelity & Expert Guidance.',
     intro: [
       `La livraison d’un appartement neuf est le moment où la promesse devient concrète. L’acheteur compare alors les plans, les finitions, les équipements et les engagements avec le bien réellement remis.`,
       `Une visite de livraison ne doit pas être improvisée. Elle doit permettre de repérer les défauts visibles, de formuler des réserves et de conserver une trace claire des corrections demandées.`,
@@ -1424,8 +1424,8 @@ export const SAFE_CLUSTER_PAGES: SafeClusterPage[] = [
       'acheter immobilier Marrakech prix',
       'prix appartement Marrakech',
     ],
-    image: '/images/articles/marrakech-investisseurs-immobiliers.webp',
-    imageAlt: 'Villa et jardin à Marrakech pour illustrer les prix immobiliers de la ville.',
+    image: '/images/safe-og-official.webp',
+    imageAlt: 'Logo officiel S.A.F.E — Security, Analysis, Fidelity & Expert Guidance.',
     intro: [
       `Les prix immobiliers à Marrakech ne se lisent pas avec une moyenne unique. La ville mélange appartements neufs, ancien central, villas, riads, résidences touristiques, quartiers premium et zones en développement.`,
       `Avant d’acheter, l’enjeu est de comprendre ce que le prix rémunère réellement : adresse, rareté, qualité, potentiel locatif, liquidité, état du bien et cohérence avec l’usage prévu.`,

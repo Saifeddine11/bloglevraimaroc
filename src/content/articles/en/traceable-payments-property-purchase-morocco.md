@@ -11,8 +11,8 @@ date: 2026-07-17
 updatedDate: 2026-07-17
 readingTime: 12
 excerpt: "Securing a Moroccan property purchase starts with traceability for every payment: deposit, advance, stage payment, notary account, final balance and delivery."
-heroImage: "/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-2.webp"
-imageAlt: "Contract signing illustrating payment traceability in a Moroccan property purchase."
+heroImage: "/images/safe-og-official.webp"
+imageAlt: "Official S.A.F.E logo — Security, Analysis, Fidelity & Expert Guidance."
 featured: false
 sources:
   - label: "DGI — Circular note 737, 2026 Finance Law"

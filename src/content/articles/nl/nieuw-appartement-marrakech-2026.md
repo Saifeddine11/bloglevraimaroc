@@ -11,8 +11,8 @@ date: 2026-07-17
 updatedDate: 2026-07-17
 readingTime: 12
 excerpt: "Een nieuw appartement in Marrakech kan in 2026 zinvol zijn als prijs, wijk, bouwvoortgang, ontwikkelaarsdocumenten en netto verhuurpotentieel coherent zijn. Nieuwbouw koop je nooit alleen omdat het nieuw is."
-heroImage: "/images/articles/macan-development-marrakech-rabat-2026.webp"
-imageAlt: "Residentiële bouwplaats in Marokko als beeld voor aankoop van nieuw appartement in Marrakech."
+heroImage: "/images/safe-og-official.webp"
+imageAlt: "Officieel S.A.F.E-logo — Security, Analysis, Fidelity & Expert Guidance."
 featured: false
 sources:
   - label: "ANCFCC — vastgoedprijsindex"

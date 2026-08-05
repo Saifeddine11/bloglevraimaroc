@@ -11,8 +11,8 @@ date: 2026-07-17
 updatedDate: 2026-07-17
 readingTime: 12
 excerpt: "Sinds 1 juli 2026 kunnen Marokkaanse vastgoedakten boven 300.000 DH een aanvullend registratierecht van 2% veroorzaken wanneer de betaling niet traceerbaar is of wanneer de akte geen betaalreferenties vermeldt. Voor handelsfondsen geldt de drempel van 300.000 DH niet."
-heroImage: "/images/articles/fiscalite-immobiliere-marrakech-2026-2.webp"
-imageAlt: "Marokkaanse dirhambiljetten als beeld voor traceerbaarheid van vastgoedbetalingen in 2026."
+heroImage: "/images/safe-og-official.webp"
+imageAlt: "Officieel S.A.F.E-logo — Security, Analysis, Fidelity & Expert Guidance."
 featured: false
 sources:
   - label: "DGI — circulaire 737 Financieringswet 2026"

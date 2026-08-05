@@ -11,8 +11,8 @@ date: 2026-07-17
 updatedDate: 2026-07-17
 readingTime: 12
 excerpt: "El mercado inmobiliario de Marrakech en 2026 no es una simple subida o bajada. Precios anunciados, precios firmados, volúmenes y segmentos locales pueden moverse de forma distinta."
-heroImage: "/images/articles/immobilier-marrakech-2026.webp"
-imageAlt: "Arquitectura moderna en Marrakech que ilustra tendencias del mercado inmobiliario."
+heroImage: "/images/safe-og-official.webp"
+imageAlt: "Logo oficial S.A.F.E — Security, Analysis, Fidelity & Expert Guidance."
 featured: false
 sources:
   - label: "ANCFCC — Índice de Precios de Activos Inmobiliarios"

@@ -11,8 +11,8 @@ date: 2026-07-17
 updatedDate: 2026-07-17
 readingTime: 12
 excerpt: "De vastgoedmarkt van Marrakech in 2026 is geen eenvoudig stijg-of-daalt verhaal. Vraagprijzen, getekende prijzen, transactievolumes en lokale segmenten kunnen verschillend bewegen."
-heroImage: "/images/articles/immobilier-marrakech-2026.webp"
-imageAlt: "Moderne architectuur in Marrakech als beeld voor vastgoedmarkttrends."
+heroImage: "/images/safe-og-official.webp"
+imageAlt: "Officieel S.A.F.E-logo — Security, Analysis, Fidelity & Expert Guidance."
 featured: false
 sources:
   - label: "ANCFCC — vastgoedprijsindex"

@@ -11,8 +11,8 @@ date: 2026-07-17
 updatedDate: 2026-07-17
 readingTime: 12
 excerpt: "Un apartamento nuevo en Marrakech puede tener sentido en 2026 si precio, barrio, avance de obra, documentos del promotor y potencial neto de alquiler son coherentes. No se debe comprar obra nueva solo porque sea nueva."
-heroImage: "/images/articles/macan-development-marrakech-rabat-2026.webp"
-imageAlt: "Obra residencial en Marruecos que ilustra la compra de un apartamento nuevo en Marrakech."
+heroImage: "/images/safe-og-official.webp"
+imageAlt: "Logo oficial S.A.F.E — Security, Analysis, Fidelity & Expert Guidance."
 featured: false
 sources:
   - label: "ANCFCC — Índice de Precios de Activos Inmobiliarios"

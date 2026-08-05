@@ -11,8 +11,8 @@ date: 2026-07-17
 updatedDate: 2026-07-17
 readingTime: 12
 excerpt: "Sécuriser un achat immobilier au Maroc commence par la traçabilité de chaque paiement : acompte, avance, appel de fonds, compte notarial, solde et livraison."
-heroImage: "/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-2.webp"
-imageAlt: "Signature d’un contrat immobilier illustrant la traçabilité des paiements au Maroc."
+heroImage: "/images/safe-og-official.webp"
+imageAlt: "Logo officiel S.A.F.E — Security, Analysis, Fidelity & Expert Guidance."
 featured: false
 sources:
   - label: "DGI — Note circulaire n°737 LF 2026"

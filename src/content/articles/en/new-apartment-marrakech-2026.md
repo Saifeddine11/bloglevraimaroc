@@ -11,8 +11,8 @@ date: 2026-07-17
 updatedDate: 2026-07-17
 readingTime: 12
 excerpt: "A new apartment in Marrakech can still make sense in 2026 if price, neighborhood, construction progress, developer documents and net rental potential are coherent. New-build should never be bought only because it is new."
-heroImage: "/images/articles/macan-development-marrakech-rabat-2026.webp"
-imageAlt: "Residential construction site in Morocco illustrating a new-apartment purchase in Marrakech."
+heroImage: "/images/safe-og-official.webp"
+imageAlt: "Official S.A.F.E logo — Security, Analysis, Fidelity & Expert Guidance."
 featured: false
 sources:
   - label: "ANCFCC — Real Estate Asset Price Index"

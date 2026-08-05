@@ -11,8 +11,8 @@ date: 2026-07-17
 updatedDate: 2026-07-17
 readingTime: 12
 excerpt: "Marrakech vóór 2030 moet project per project worden geanalyseerd: operationeel, in aanbouw, goedgekeurd, aangekondigd, voorgesteld of niet geverifieerd. Infrastructuur kan een zone ondersteunen zonder meerwaarde te garanderen."
-heroImage: "/images/articles/marrakech-2030-infrastructures-tourisme.webp"
-imageAlt: "Ingang van luchthaven Marrakech-Menara als beeld voor infrastructuur richting 2030."
+heroImage: "/images/safe-og-official.webp"
+imageAlt: "Officieel S.A.F.E-logo — Security, Analysis, Fidelity & Expert Guidance."
 featured: false
 sources:
   - label: "ONDA — ontwikkeling Marrakech-Menara"

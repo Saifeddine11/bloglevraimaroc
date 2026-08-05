@@ -11,8 +11,8 @@ date: 2026-07-17
 updatedDate: 2026-07-17
 readingTime: 12
 excerpt: "The Marrakech property market in 2026 is not a simple rise-or-fall story. Asking prices, signed prices, transaction volumes and local segments may move differently."
-heroImage: "/images/articles/immobilier-marrakech-2026.webp"
-imageAlt: "Modern architecture in Marrakech illustrating real-estate market trends."
+heroImage: "/images/safe-og-official.webp"
+imageAlt: "Official S.A.F.E logo — Security, Analysis, Fidelity & Expert Guidance."
 featured: false
 sources:
   - label: "ANCFCC — Real Estate Asset Price Index"

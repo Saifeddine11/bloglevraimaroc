@@ -11,8 +11,8 @@ date: 2026-07-17
 updatedDate: 2026-07-17
 readingTime: 12
 excerpt: "Desde el 1 de julio de 2026, las escrituras inmobiliarias en Marruecos por encima de 300.000 DH pueden generar un derecho de registro adicional del 2% cuando el pago no es trazable o cuando la escritura no menciona referencias de pago. Para fondos de comercio, el umbral de 300.000 DH no se aplica."
-heroImage: "/images/articles/fiscalite-immobiliere-marrakech-2026-2.webp"
-imageAlt: "Billetes de dirhams marroquíes que ilustran la trazabilidad de pagos inmobiliarios en 2026."
+heroImage: "/images/safe-og-official.webp"
+imageAlt: "Logo oficial S.A.F.E — Security, Analysis, Fidelity & Expert Guidance."
 featured: false
 sources:
   - label: "DGI — Nota circular 737 LF 2026"

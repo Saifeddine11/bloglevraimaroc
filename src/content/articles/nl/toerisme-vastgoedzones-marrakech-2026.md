@@ -11,8 +11,8 @@ date: 2026-07-17
 updatedDate: 2026-07-17
 readingTime: 12
 excerpt: "De Marokkaanse toeristische dynamiek van 2026 ondersteunt Marrakech, maar garandeert niet de prestatie van één pand. Wijken profiteren niet van dezelfde vraag."
-heroImage: "/images/articles/tourisme-prix-immobiliers-marrakech.webp"
-imageAlt: "Jemaa el-Fna in Marrakech als beeld voor toeristische vraag en vastgoedimpact."
+heroImage: "/images/safe-og-official.webp"
+imageAlt: "Officieel S.A.F.E-logo — Security, Analysis, Fidelity & Expert Guidance."
 featured: false
 sources:
   - label: "Ministerie van Toerisme — 7,7 miljoen aankomsten eind mei 2026"

@@ -11,8 +11,8 @@ date: 2026-07-17
 updatedDate: 2026-07-17
 readingTime: 12
 excerpt: "Morocco’s 2026 tourism momentum supports Marrakech, but it does not guarantee the performance of an individual property. Districts do not benefit from the same demand."
-heroImage: "/images/articles/tourisme-prix-immobiliers-marrakech.webp"
-imageAlt: "Jemaa el-Fna square in Marrakech illustrating tourism demand and property effects."
+heroImage: "/images/safe-og-official.webp"
+imageAlt: "Official S.A.F.E logo — Security, Analysis, Fidelity & Expert Guidance."
 featured: false
 sources:
   - label: "Tourism Ministry — 7.7 million arrivals to end-May 2026"

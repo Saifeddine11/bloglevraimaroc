@@ -11,8 +11,8 @@ date: 2026-07-17
 updatedDate: 2026-07-17
 readingTime: 12
 excerpt: "Marrakech avant 2030 doit être analysée projet par projet : opérationnel, en travaux, approuvé, annoncé, proposé ou non vérifié. Une infrastructure peut soutenir un quartier sans garantir une plus-value."
-heroImage: "/images/articles/marrakech-2030-infrastructures-tourisme.webp"
-imageAlt: "Entrée de l’aéroport Marrakech-Ménara illustrant les infrastructures à suivre avant 2030."
+heroImage: "/images/safe-og-official.webp"
+imageAlt: "Logo officiel S.A.F.E — Security, Analysis, Fidelity & Expert Guidance."
 featured: false
 sources:
   - label: "ONDA — Développement de Marrakech-Ménara"

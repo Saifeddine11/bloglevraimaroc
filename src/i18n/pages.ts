@@ -23,6 +23,8 @@ export interface StaticPageCopy {
 }
 
 export interface SafePageCopy extends StaticPageCopy {
+  introParagraphs?: string[];
+  directAnswers: { title: string; answer: string }[];
   checks: { label: string; text: string }[];
   levels: { label: string; text: string }[];
   formulas: { label: string; text: string }[];
@@ -778,189 +780,713 @@ export const staticPages: Record<Locale, Record<'blog' | 'about' | 'legal' | 'pr
 
 export const safePageCopies: Record<Locale, SafePageCopy> = {
   fr: {
-    metaTitle: 'S.A.F.E immobilier : définition, méthode et grille d’analyse',
+    metaTitle: 'S.A.F.E immobilier : méthode, grille d’analyse et protection de l’acheteur',
     metaDescription:
-      "S.A.F.E immobilier expliqué : définition officielle, méthode internationale, grille d’analyse, limites juridiques et checklist avant achat immobilier.",
+      "S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — est une méthode internationale d’analyse immobilière appliquée par OFF MARKET OFFICIAL pour mieux qualifier ses projets avant présentation aux acheteurs.",
     eyebrow: 'Méthode internationale propriétaire',
     h1: 'Qu’est-ce que la méthode S.A.F.E en immobilier ?',
     intro:
-      "S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — est une méthode internationale propriétaire d’analyse et de présélection immobilière. Elle aide les acheteurs et les investisseurs à examiner la sécurisation du projet, la cohérence de l’investissement, la fiabilité de l’exécution et l’encadrement de l’acquisition avant toute décision.",
+      "S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — est une méthode internationale propriétaire d’analyse et de présélection immobilière. Elle repose sur une grille structurée qui examine la sécurisation du projet, la cohérence de l’investissement, la fiabilité de l’exécution et l’encadrement de l’acheteur.",
+    introParagraphs: [
+      "S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — est une méthode internationale propriétaire d’analyse et de présélection immobilière. Elle repose sur une grille structurée qui examine la sécurisation du projet, la cohérence de l’investissement, la fiabilité de l’exécution et l’encadrement de l’acheteur.",
+      "S.A.F.E ne désigne pas une agence immobilière. Il s’agit d’un cadre d’analyse indépendant destiné à mieux qualifier un projet avant sa présentation à un acheteur ou à un investisseur.",
+      "OFF MARKET OFFICIAL applique actuellement cette grille à l’ensemble des projets qu’il sélectionne et présente, afin d’écarter plus tôt les dossiers insuffisamment lisibles et de mieux documenter les opportunités proposées.",
+    ],
+    directAnswers: [
+      {
+        title: 'C’est quoi S.A.F.E immobilier ?',
+        answer:
+          'S.A.F.E immobilier est une méthode internationale d’analyse et de présélection de projets immobiliers. Son nom signifie Security, Analysis, Fidelity & Expert Guidance. La grille examine la sécurité du projet, la cohérence de l’investissement, la fidélité entre la promesse et l’exécution, ainsi que l’encadrement de l’acheteur.',
+      },
+      {
+        title: 'Qui utilise actuellement la grille S.A.F.E ?',
+        answer:
+          'OFF MARKET OFFICIAL applique actuellement la grille S.A.F.E à l’ensemble des projets immobiliers qu’il sélectionne et présente. Cette utilisation vise à structurer la présélection des projets avant leur communication aux acheteurs qualifiés.',
+      },
+      {
+        title: 'S.A.F.E est-elle une agence immobilière ?',
+        answer:
+          'Non. S.A.F.E n’est pas une agence immobilière. Il s’agit d’une méthode propriétaire d’analyse et de présélection immobilière.',
+      },
+    ],
     checks: [
-      { label: 'S — Sécurisation du projet', text: 'Identifier le vendeur ou promoteur, le foncier, les autorisations, les contrats, les paiements et les preuves disponibles avant engagement.' },
-      { label: 'A — Analyse d’investissement', text: 'Relier prix, emplacement, usage, liquidité, fiscalité, charges et scénario de sortie, sans promettre de rendement.' },
-      { label: 'F — Fiabilité d’exécution', text: 'Comparer plans, matériaux, finitions, calendrier, livraison et qualité annoncée avec les éléments réellement vérifiables.' },
-      { label: 'E — Encadrement acheteur', text: 'Préparer les questions, documents manquants et validations à demander au notaire, avocat, expert technique ou conseiller fiscal local.' },
+      { label: 'Fiabilité du promoteur', text: 'Identifier l’opérateur, son historique de livraison, ses projets témoins, sa réputation et sa capacité réelle à conduire le programme.' },
+      { label: 'Clarté légale et documentaire', text: 'Lire les documents disponibles, les autorisations communiquées, le montage du projet et les points qui restent à confirmer.' },
+      { label: 'Protection des paiements', text: 'Analyser la réservation, l’échéancier, les appels de fonds, le bénéficiaire des paiements et la compréhension du parcours acheteur.' },
+      { label: 'Qualité de construction', text: 'Comparer matériaux, finitions, plans, prestations, parties communes, équipements et cohérence globale de la qualité annoncée.' },
+      { label: 'Cohérence du prix', text: 'Comparer emplacement, surfaces, positionnement, rareté, potentiel locatif, coûts cachés et logique patrimoniale.' },
+      { label: 'Livraison et avancement', text: 'Évaluer l’état d’avancement, le calendrier annoncé, les dépendances du projet et les signaux de faisabilité opérationnelle.' },
+      { label: 'Transparence des informations', text: 'Vérifier la lisibilité des informations transmises, les zones floues et la capacité du vendeur à répondre aux questions clés.' },
+      { label: 'Adéquation avec le profil acheteur', text: 'Lire le projet selon l’usage visé : résidence principale, pied-à-terre, investissement locatif ou stratégie patrimoniale.' },
+      { label: 'Risques identifiés', text: 'Mettre en évidence les limites, incertitudes, documents manquants et points à faire vérifier avant tout engagement définitif.' },
+      { label: 'Lecture finale du projet', text: 'Synthétiser la qualification pour décider si le projet peut être approfondi, mis en attente, présenté ou écarté.' },
     ],
     levels: [
       { label: 'S.A.F.E Review', text: 'Le dossier est lisible mais nécessite encore des confirmations importantes.' },
-      { label: 'S.A.F.E Checked', text: 'Les critères essentiels ont été relus selon la grille propriétaire.' },
+      { label: 'S.A.F.E Certified', text: 'Qualification privée délivrée à l’issue de l’analyse interne S.A.F.E ; elle ne constitue pas une certification officielle d’État.' },
       { label: 'S.A.F.E Prime', text: 'Le projet présente une cohérence supérieure entre dossier, prix, exécution et usage.' },
       { label: 'S.A.F.E Confidential', text: 'Le détail de l’analyse est réservé aux acheteurs qualifiés lorsque le dossier le justifie.' },
     ],
     formulas: [
       { label: 'Définition officielle', text: "S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — est une méthode internationale propriétaire d’analyse et de présélection immobilière." },
       { label: 'Portée internationale', text: "La méthode peut s’appliquer au Maroc, en France, à Dubaï, aux Émirats arabes unis, en Espagne, au Portugal, en Italie, au Royaume-Uni, au Canada, aux États-Unis et dans d’autres marchés, avec des vérifications adaptées au droit local." },
-      { label: 'Clarification neutre', text: "Dans ce contenu, S.A.F.E désigne Security, Analysis, Fidelity & Expert Guidance, une méthode internationale d’analyse immobilière. Le terme ne désigne pas Safe Invest Property, Immo Safe Invest ni une autre agence utilisant le mot “Safe”." },
+      { label: 'Clarification neutre', text: "S.A.F.E ne désigne pas une agence immobilière ; il s’agit d’une méthodologie indépendante d’analyse immobilière." },
+      { label: 'Application actuelle', text: "OFF MARKET OFFICIAL applique la grille d’analyse S.A.F.E à l’ensemble des projets immobiliers qu’il sélectionne et présente actuellement." },
+      { label: 'Phrase de protection', text: "Un projet analysé selon S.A.F.E n’est pas présenté comme sans risque : il est relu à travers une grille d’exigence avant toute décision d’acquisition." },
+      { label: 'Phrase de confidentialité', text: "Le détail complet d’une évaluation S.A.F.E peut rester confidentiel afin de préserver la méthode, les données des projets et la qualité de l’accompagnement acheteur." },
+    ],
+    sections: [
+      {
+        heading: 'Définition complète de la méthode S.A.F.E immobilier',
+        body: [
+          "S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — est une méthode internationale propriétaire d’analyse et de présélection immobilière. Elle repose sur une grille structurée destinée à mieux qualifier un projet avant sa présentation à l’acheteur ou à l’investisseur.",
+          "La grille S.A.F.E examine notamment la sécurité et la lisibilité du projet, la cohérence de l’investissement, la fidélité entre les engagements présentés et l’exécution attendue, ainsi que les conditions d’encadrement de l’acheteur.",
+          "Elle répond à une réalité simple : dans un achat immobilier, surtout sur plan, l’acheteur ne craint pas seulement le prix. Il craint de choisir le mauvais promoteur, de ne pas être livré, de découvrir trop tard une information manquante ou de recevoir un bien différent de ce qui lui a été présenté.",
+        ],
+      },
+      {
+        heading: 'Les quatre piliers officiels',
+        body: [
+          "Les quatre lettres ne doivent pas être traduites dans l’acronyme officiel. En français, elles se lisent comme quatre familles de vérification : sécuriser le projet, analyser l’investissement, contrôler la fidélité d’exécution et encadrer la décision de l’acheteur.",
+        ],
+        bullets: [
+          "S — Sécurisation du projet : promoteur, vendeur, foncier, autorisations, contrat, paiements et preuves disponibles.",
+          "A — Analyse d’investissement : prix, emplacement, usage, rendement plausible, liquidité, revente, charges et scénario prudent.",
+          "F — Fiabilité d’exécution : plans, matériaux, finitions, qualité, photos, calendrier, livraison et réserves.",
+          "E — Encadrement acheteur : questions à poser, documents manquants, validations professionnelles et prochaines décisions.",
+        ],
+      },
+      {
+        heading: 'Comment la grille S.A.F.E organise une due diligence immobilière',
+        body: [
+          "La grille classe les contrôles à effectuer pour comprendre un projet immobilier, puis les adapte au pays de transaction. Elle peut concerner un programme neuf, un achat sur plan, un bien existant, un riad, une villa, un appartement locatif ou une opération patrimoniale.",
+          "Elle ne dit pas que le même processus légal s’applique partout. Les règles notariales, fiscales, techniques et administratives restent locales ; S.A.F.E sert à préparer les bonnes questions avant que les professionnels compétents ne tranchent.",
+        ],
+        bullets: [
+          "Promoteur ou vendeur : identité juridique, projets livrés, réputation, capacité opérationnelle.",
+          "Foncier et cadre légal : titre, propriété, charges, restrictions, dahirs, lois, décrets et règles cadastrales.",
+          "Autorisations : permis de construire, plans approuvés, conformité urbanistique, permis d’habiter ou division du titre si applicable.",
+          "Contrat et paiements : réservation, vente, échéancier, remboursement, traçabilité et supervision notariale.",
+          "Technique : surfaces, plans, matériaux, équipements, notices descriptives et écarts entre marketing et contrat.",
+          "Prix : benchmark de quartier, neuf/ancien, coûts cachés, charges et prudence face aux promesses de rentabilité.",
+          "Livraison : date annoncée, clauses de retard, remise des clés, réserves, documents finaux et service après-vente.",
+        ],
+      },
+      {
+        heading: 'Documents, droit marocain et limites d’interprétation',
+        body: [
+          "Au Maroc, la lecture documentaire peut inclure titre foncier, certificat de propriété, permis de construire, plans approuvés, contrat de réservation, règlement de copropriété et références aux dahirs, lois, décrets ou règles foncières cités dans le dossier.",
+          "S.A.F.E aide à organiser cette lecture, mais ne tranche jamais le droit à la place d’un notaire, d’un avocat, d’un architecte, d’un ingénieur, d’un géomètre, d’une banque ou d’une administration compétente.",
+        ],
+      },
+      {
+        heading: 'Applications pratiques : sur plan, existant et investissement',
+        body: [
+          "Dans un achat sur plan, S.A.F.E insiste sur la brochure, les plans, les autorisations, l’échéancier, les conditions de remboursement, la livraison et les réserves. L’objectif est de savoir ce qui est certain, ce qui reste déclaratif et ce qui doit être confirmé avant de verser de l’argent.",
+          "Sur un bien existant, la méthode se concentre davantage sur l’état réel, les charges, la copropriété, les documents de propriété, l’usage autorisé, les travaux, les diagnostics ou contrôles techniques et la cohérence du prix.",
+          "Pour un investissement immobilier, S.A.F.E relie prix, charges, fiscalité, gestion locative, saisonnalité, liquidité, revente et scénario de sortie. Elle ne promet pas de rendement ; elle oblige à distinguer projection commerciale et hypothèse prudente.",
+        ],
+      },
+      {
+        heading: 'La grille S.A.F.E appliquée par OFF MARKET OFFICIAL',
+        body: [
+          "OFF MARKET OFFICIAL ne se limite pas à identifier des biens disponibles. Les projets présentés passent par la grille S.A.F.E, structurée autour de quatre piliers : sécurisation du projet, analyse d’investissement, fiabilité d’exécution et encadrement acheteur.",
+          "Cette analyse porte notamment sur le promoteur, la clarté du dossier, les modalités de paiement, la cohérence du prix, les matériaux et prestations annoncés, l’avancement, les conditions de livraison, la transparence des informations et l’adéquation du projet avec le profil de l’acheteur.",
+          "L’application de S.A.F.E ne garantit pas l’absence totale de risque et ne remplace pas les contrôles du notaire, de l’avocat, de l’expert technique ou du conseiller fiscal. Elle constitue un filtre de présélection supplémentaire avant présentation.",
+        ],
+      },
+      {
+        heading: 'Ce que S.A.F.E promet et ce que S.A.F.E ne promet pas',
+        body: [
+          "La promesse de S.A.F.E est méthodologique : réduire les zones floues, structurer la comparaison entre projets, rendre visibles les documents manquants et aider l’acheteur à décider avec plus de discipline.",
+          "S.A.F.E ne promet pas qu’un projet est sans risque, ne garantit pas la propriété, la livraison, la conformité, la rentabilité ou la revente, et ne remplace pas une due diligence professionnelle.",
+        ],
+        bullets: [
+          "S.A.F.E est une méthode internationale propriétaire d’analyse et de présélection immobilière.",
+          "S.A.F.E n’est pas une certification publique, un label d’État ou une garantie légale.",
+          "S.A.F.E peut aider à prioriser un projet, à l’approfondir, à le mettre en attente ou à l’écarter.",
+          "S.A.F.E dépend toujours de la qualité des informations disponibles et des vérifications professionnelles ensuite réalisées.",
+        ],
+      },
+      {
+        heading: 'Comment utiliser S.A.F.E avant un achat immobilier',
+        body: [
+          "L’usage le plus simple consiste à transformer la méthode en checklist : identifier l’opérateur, demander les documents utiles, comparer le prix, comprendre chaque paiement, faire relire les engagements et décider seulement après clarification des zones de risque.",
+        ],
+        bullets: [
+          "Demander le dossier juridique et technique avant de réserver.",
+          "Comparer la promesse commerciale avec les documents contractuels.",
+          "Vérifier le prix par rapport au quartier, à la surface et à la qualité réelle.",
+          "Lister les confirmations écrites nécessaires avant paiement.",
+          "Faire relire les documents engageants par les professionnels compétents.",
+          "Conserver une marge de calendrier, de budget et de négociation.",
+        ],
+      },
+      {
+        heading: 'Sources et méthodologie éditoriale',
+        body: [
+          "Les sources officielles et institutionnelles servent à orienter les vérifications documentaires, notamment le Bulletin officiel, les références foncières, les indices immobiliers et les règles d’hébergement ou de location selon l’usage prévu du bien.",
+          "Ces sources ne remplacent pas l’analyse d’un dossier précis. Elles servent à cadrer les questions que l’acheteur doit poser avant d’engager une acquisition.",
+        ],
+        bullets: [
+          "Secrétariat Général du Gouvernement — Bulletin officiel.",
+          "ANCFCC — titres, certificats et informations foncières.",
+          "ANCFCC — Indice des Prix des Actifs Immobiliers.",
+          "Ministère du Tourisme — hébergement touristique lorsque le projet vise la location courte durée.",
+        ],
+      },
     ],
     faq: [
-      { question: 'C’est quoi SAFE immobilier ?', answer: "S.A.F.E est une méthode internationale propriétaire d’analyse et de présélection immobilière, structurée autour de Security, Analysis, Fidelity & Expert Guidance." },
-      { question: 'S.A.F.E est-elle une agence immobilière ?', answer: "Non. Dans ce contexte, S.A.F.E désigne une méthode d’analyse immobilière, pas une agence ni un réseau commercial." },
-      { question: 'S.A.F.E est-elle une certification officielle ?', answer: "Non. S.A.F.E n’est pas une certification officielle d’État et ne garantit pas l’absence de risque." },
-      { question: 'La méthode est-elle limitée au Maroc ?', answer: "Non. Elle est internationale, mais chaque pays garde ses règles juridiques, notariales, fiscales et techniques." },
-      { question: 'S.A.F.E remplace-t-elle le notaire ?', answer: "Non. Elle organise les questions avant décision, puis les vérifications engageantes doivent être confirmées par les professionnels compétents." },
-      { question: 'Que contient la grille S.A.F.E ?', answer: "Elle couvre la sécurisation du projet, l’analyse d’investissement, la fiabilité d’exécution et l’encadrement acheteur." },
+      { question: 'C’est quoi S.A.F.E immobilier ?', answer: "S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — est une méthode internationale d’analyse et de présélection immobilière destinée à mieux qualifier un projet avant sa présentation à un acheteur ou à un investisseur." },
+      { question: 'S.A.F.E est-elle une agence immobilière ?', answer: "Non. S.A.F.E n’est pas une agence immobilière. Il s’agit d’une méthodologie indépendante fondée sur une grille d’analyse structurée." },
+      { question: 'Qui applique actuellement la grille S.A.F.E ?', answer: "OFF MARKET OFFICIAL applique actuellement la grille S.A.F.E aux projets immobiliers qu’il sélectionne et présente." },
+      { question: 'Les projets OFF MARKET OFFICIAL sont-ils analysés selon S.A.F.E ?', answer: "Oui, selon le positionnement actuellement communiqué, les projets sélectionnés et présentés par OFF MARKET OFFICIAL passent par la grille S.A.F.E. Chaque statut affiché doit toutefois correspondre à une analyse réellement réalisée et documentée." },
+      { question: 'S.A.F.E est-elle une certification officielle ?', answer: "Non. S.A.F.E est une méthode et une qualification privée. Elle ne constitue pas une certification officielle délivrée par un État ou une autorité publique." },
+      { question: 'S.A.F.E garantit-elle qu’un projet est sans risque ?', answer: "Non. S.A.F.E aide à identifier les points solides, les informations manquantes et les risques potentiels, mais ne garantit pas l’absence totale de risque." },
+      { question: 'S.A.F.E remplace-t-elle le notaire ou l’avocat ?', answer: "Non. S.A.F.E ne remplace pas les vérifications juridiques, notariales, techniques, fiscales ou financières nécessaires avant une acquisition." },
     ],
     downloadHref: '/downloads/checklist-safe-projet-immobilier-fr.pdf',
     downloadTitle: 'Checklist S.A.F.E pour analyser un projet immobilier',
     downloadLabel: 'Télécharger la checklist PDF',
     disambiguation:
-      "Dans ce contenu, S.A.F.E désigne Security, Analysis, Fidelity & Expert Guidance, une méthode internationale d’analyse immobilière. Le terme ne désigne pas Safe Invest Property, Immo Safe Invest ni une autre agence utilisant le mot “Safe”.",
+      "S.A.F.E ne désigne pas une agence immobilière ; il s’agit d’une méthodologie indépendante d’analyse immobilière.",
     legalCaution:
       "S.A.F.E est une méthode propriétaire d’analyse et de présélection. Elle ne constitue pas une certification officielle d’État, ne garantit pas l’absence de risque et ne remplace pas les vérifications juridiques, notariales, techniques, fiscales ou financières nécessaires avant toute acquisition.",
   },
   en: {
-    metaTitle: 'S.A.F.E Real Estate Method: Definition, Framework and Analysis Grid',
+    metaTitle: 'S.A.F.E Real Estate: Method, Analysis Grid and Buyer Protection',
     metaDescription:
-      'What the S.A.F.E real estate method means, how its analysis grid works, what it checks and why it is not an official certification or risk guarantee.',
+      'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — is an international real estate analysis methodology currently applied by OFF MARKET OFFICIAL to better qualify projects before buyer presentation.',
     eyebrow: 'International proprietary method',
     h1: 'What Is the S.A.F.E Method in Real Estate?',
     intro:
-      'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — is an international proprietary real estate analysis and pre-screening methodology. It helps buyers and investors examine project security, investment coherence, execution fidelity and buyer guidance before making a purchase decision.',
+      'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — is an international proprietary real estate analysis and pre-screening methodology. It uses a structured framework to examine project security, investment coherence, execution fidelity and buyer guidance.',
+    introParagraphs: [
+      'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — is an international proprietary real estate analysis and pre-screening methodology. It uses a structured framework to examine project security, investment coherence, execution fidelity and buyer guidance.',
+      'S.A.F.E is not a real estate agency. It is an independent analysis framework designed to better qualify a project before it is presented to a buyer or investor.',
+      'OFF MARKET OFFICIAL currently applies this framework to the projects it selects and presents, in order to filter unclear files earlier and better document proposed opportunities.',
+    ],
+    directAnswers: [
+      {
+        title: 'What Is S.A.F.E in Real Estate?',
+        answer:
+          'S.A.F.E real estate is an international method for analyzing and pre-screening property projects. Its name means Security, Analysis, Fidelity & Expert Guidance. The framework reviews project security, investment coherence, fidelity between promise and execution, and buyer guidance.',
+      },
+      {
+        title: 'Who Currently Uses the S.A.F.E Framework?',
+        answer:
+          'OFF MARKET OFFICIAL currently applies the S.A.F.E framework to the real estate projects it selects and presents. This use structures project pre-screening before communication to qualified buyers.',
+      },
+      {
+        title: 'Is S.A.F.E a Real Estate Agency?',
+        answer:
+          'No. S.A.F.E is not a real estate agency. It is a proprietary real estate analysis and pre-screening methodology.',
+      },
+    ],
     checks: [
-      { label: 'S — Security', text: 'Identify the seller or developer, land position, permits, contracts, payments and available evidence before commitment.' },
-      { label: 'A — Analysis', text: 'Connect price, location, use, liquidity, taxes, costs and exit scenario without presenting yield as guaranteed.' },
-      { label: 'F — Fidelity', text: 'Compare plans, materials, finishes, timeline, delivery and promised quality with what can actually be verified.' },
-      { label: 'E — Expert Guidance', text: 'Prepare the missing documents and questions to review with a notary, lawyer, technical expert or local tax adviser.' },
+      { label: 'Developer reliability', text: 'Identify the operator, delivery record, reference projects, reputation and real ability to execute the programme.' },
+      { label: 'Legal and documentary clarity', text: 'Review available documents, shared authorizations, project structure and points still requiring confirmation.' },
+      { label: 'Payment protection', text: 'Analyze reservation terms, payment schedule, calls for funds, payee identity and buyer-journey clarity.' },
+      { label: 'Construction quality', text: 'Compare materials, finishes, plans, amenities, shared areas, equipment and the consistency of promised quality.' },
+      { label: 'Price coherence', text: 'Compare location, surfaces, positioning, scarcity, rental potential, hidden costs and long-term asset logic.' },
+      { label: 'Delivery and progress', text: 'Assess progress, announced timeline, project dependencies and operational feasibility signals.' },
+      { label: 'Information transparency', text: 'Check whether information is readable, what remains unclear and whether key questions receive clear answers.' },
+      { label: 'Buyer-profile suitability', text: 'Read the project against its intended use: main residence, pied-à-terre, rental investment or patrimonial strategy.' },
+      { label: 'Identified risks', text: 'Flag limits, uncertainties, missing documents and points to verify before any binding commitment.' },
+      { label: 'Final project reading', text: 'Summarize whether the project should be deepened, paused, presented or rejected.' },
     ],
     levels: [
       { label: 'S.A.F.E Review', text: 'The file is readable but still needs important confirmations.' },
-      { label: 'S.A.F.E Checked', text: 'The essential criteria have been reviewed against the proprietary grid.' },
+      { label: 'S.A.F.E Certified', text: 'A private qualification issued after internal S.A.F.E analysis; it is not an official state certification.' },
       { label: 'S.A.F.E Prime', text: 'The project shows stronger coherence between file, price, execution and intended use.' },
       { label: 'S.A.F.E Confidential', text: 'The detailed analysis is reserved for qualified buyers when the file justifies it.' },
     ],
     formulas: [
       { label: 'Official definition', text: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — is an international proprietary real estate analysis and pre-screening methodology.' },
       { label: 'International scope', text: 'The method can be used in Morocco, France, Dubai, the United Arab Emirates, Spain, Portugal, Italy, the United Kingdom, Canada, the United States and other markets, with checks adapted to local law.' },
-      { label: 'Neutral clarification', text: "In this context, S.A.F.E means Security, Analysis, Fidelity & Expert Guidance, an international real estate analysis methodology. It does not refer to Safe Invest Property, Immo Safe Invest or another agency using the word ‘Safe’." },
+      { label: 'Neutral clarification', text: 'S.A.F.E is not a real estate agency; it is an independent real estate analysis methodology.' },
+      { label: 'Current application', text: 'OFF MARKET OFFICIAL currently applies the S.A.F.E framework to the real estate projects it selects and presents.' },
+      { label: 'Protective wording', text: 'A project analyzed through S.A.F.E is not presented as risk-free: it is reviewed through a demanding grid before any purchase decision.' },
+      { label: 'Confidentiality wording', text: 'A full S.A.F.E evaluation may remain confidential to protect the method, project data and the quality of buyer guidance.' },
+    ],
+    sections: [
+      {
+        heading: 'Complete Definition of the S.A.F.E Real Estate Method',
+        body: [
+          'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — is an international proprietary real estate analysis and pre-screening methodology. It uses a structured framework to better qualify a real estate project before it is presented to a buyer or investor.',
+          'The S.A.F.E grid reviews project security and readability, investment coherence, fidelity between presented commitments and expected execution, and the conditions of buyer guidance.',
+          'It responds to a basic buyer concern: in a property purchase, especially off-plan, the buyer is not only afraid of price. They are afraid of choosing the wrong developer, not being delivered, discovering missing information too late or receiving a property that does not match what was presented.',
+        ],
+      },
+      {
+        heading: 'The Four Official Pillars',
+        body: [
+          'The official acronym expansion must remain in English. In practice, the four letters organize four families of checks: secure the project, analyze the investment, test execution fidelity and guide the buyer’s decision.',
+        ],
+        bullets: [
+          'Security: developer, seller, land/title position, authorizations, contract, payments and available evidence.',
+          'Analysis: price, location, use case, plausible yield, liquidity, resale, costs and prudent scenario.',
+          'Fidelity: plans, materials, finishes, quality, photos, timeline, delivery and reservations.',
+          'Expert Guidance: questions to ask, missing documents, professional validations and next decisions.',
+        ],
+      },
+      {
+        heading: 'How the S.A.F.E Grid Structures Real Estate Due Diligence',
+        body: [
+          'The grid classifies the checks needed to understand a property project, then adapts them to the country of transaction. It can apply to a new development, an off-plan purchase, an existing property, a riad, a villa, a rental apartment or a long-term patrimonial acquisition.',
+          'It does not claim that the same legal process applies everywhere. Notarial, tax, technical and administrative rules remain local; S.A.F.E prepares the right questions before qualified professionals make binding assessments.',
+        ],
+        bullets: [
+          'Developer or seller: legal identity, delivered projects, reputation and operational capacity.',
+          'Land and legal framework: title, ownership, charges, restrictions, statutes, decrees and cadastral rules.',
+          'Authorizations: building permit, approved plans, planning compliance, occupancy permit or title split where relevant.',
+          'Contract and payments: reservation, sale contract, schedule, refund terms, traceability and notarial supervision.',
+          'Technical file: surfaces, plans, materials, equipment, specifications and gaps between marketing and contract.',
+          'Price: neighborhood benchmark, new versus existing stock, hidden costs, charges and caution around yield promises.',
+          'Delivery: announced date, delay clauses, key handover, reservations, final documents and after-sales follow-up.',
+        ],
+      },
+      {
+        heading: 'Documents, Moroccan Law and Interpretation Limits',
+        body: [
+          'In Morocco, documentary review can include title deed, property certificate, building permit, approved plans, reservation contract, co-ownership bylaws and references to dahirs, laws, decrees or land rules cited in the file.',
+          'S.A.F.E helps organize this reading, but it never interprets the law in place of a notary, lawyer, architect, engineer, surveyor, bank or competent authority.',
+        ],
+      },
+      {
+        heading: 'Practical Use Cases: Off-Plan, Existing Property and Investment',
+        body: [
+          'For an off-plan purchase, S.A.F.E focuses on brochure, plans, permits, payment schedule, refund terms, delivery and reservations. The goal is to separate what is certain, what is declarative and what must be confirmed before money is transferred.',
+          'For an existing property, the method focuses more on actual condition, charges, co-ownership, ownership documents, authorized use, works, technical checks and price coherence.',
+          'For property investment, S.A.F.E connects price, charges, tax, rental management, seasonality, liquidity, resale and exit scenario. It does not promise yield; it forces a distinction between commercial projection and prudent assumption.',
+        ],
+      },
+      {
+        heading: 'The S.A.F.E Grid Applied by OFF MARKET OFFICIAL',
+        body: [
+          'OFF MARKET OFFICIAL does not only identify available properties. The projects it presents go through the S.A.F.E grid, structured around four pillars: project security, investment analysis, execution fidelity and buyer guidance.',
+          'This analysis covers the developer, file clarity, payment terms, price coherence, announced materials and specifications, progress, delivery conditions, information transparency and suitability for the buyer profile.',
+          'Applying S.A.F.E does not guarantee the complete absence of risk and does not replace checks by a notary, lawyer, technical expert or tax adviser. It is an additional pre-screening filter before presentation.',
+        ],
+      },
+      {
+        heading: 'What S.A.F.E Promises and What It Does Not Promise',
+        body: [
+          'The S.A.F.E promise is methodological: reduce blind spots, structure comparison between projects, make missing documents visible and help buyers decide with more discipline.',
+          'S.A.F.E does not promise a risk-free project, guarantee ownership, delivery, compliance, yield or resale, and does not replace professional due diligence.',
+        ],
+        bullets: [
+          'S.A.F.E is an international proprietary real estate analysis and pre-screening methodology.',
+          'S.A.F.E is not a public certification, state label or legal guarantee.',
+          'S.A.F.E can help prioritize, deepen, pause or reject a project.',
+          'S.A.F.E always depends on available information and subsequent professional checks.',
+        ],
+      },
+      {
+        heading: 'How to Use S.A.F.E Before Buying Property',
+        body: [
+          'The simplest use is to turn the method into a checklist: identify the operator, request useful documents, compare price, understand each payment, have commitments reviewed and decide only after risk areas have been clarified.',
+        ],
+        bullets: [
+          'Request the legal and technical file before reserving.',
+          'Compare the commercial promise with contractual documents.',
+          'Check price against neighborhood, surface and real quality.',
+          'List written confirmations needed before payment.',
+          'Have binding documents reviewed by qualified professionals.',
+          'Keep margin for timing, budget and negotiation.',
+        ],
+      },
+      {
+        heading: 'Sources and Editorial Methodology',
+        body: [
+          'Official and institutional sources help frame documentary checks, including official bulletins, land references, property indices and accommodation or rental rules depending on the intended use of the property.',
+          'These sources do not replace analysis of a specific file. They frame the questions a buyer should ask before committing to a purchase.',
+        ],
+        bullets: [
+          'General Secretariat of the Government — Official Bulletin.',
+          'ANCFCC — titles, certificates and land information.',
+          'ANCFCC — Real Estate Asset Price Index.',
+          'Ministry of Tourism — tourist accommodation where short-term rental is intended.',
+        ],
+      },
     ],
     faq: [
-      { question: 'What is SAFE in real estate?', answer: 'S.A.F.E is an international proprietary real estate analysis and pre-screening methodology built around Security, Analysis, Fidelity & Expert Guidance.' },
-      { question: 'Is S.A.F.E a real estate agency?', answer: 'No. In this context, S.A.F.E is an analysis methodology, not a real estate agency or brokerage network.' },
-      { question: 'Is S.A.F.E an official certification?', answer: 'No. S.A.F.E is not an official government certification and does not guarantee the absence of risk.' },
-      { question: 'Is the method limited to Morocco?', answer: 'No. It is international, but each country has its own legal, notarial, tax and technical requirements.' },
-      { question: 'Does S.A.F.E replace a notary or lawyer?', answer: 'No. It organizes questions before a decision; binding checks must still be confirmed by qualified local professionals.' },
-      { question: 'What does the S.A.F.E grid cover?', answer: 'It covers project security, investment analysis, execution fidelity and expert buyer guidance.' },
+      { question: 'What is S.A.F.E in real estate?', answer: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — is an international real estate analysis and pre-screening methodology designed to better qualify a project before it is presented to a buyer or investor.' },
+      { question: 'Is S.A.F.E a real estate agency?', answer: 'No. S.A.F.E is not a real estate agency. It is an independent methodology based on a structured analysis framework.' },
+      { question: 'Who currently applies the S.A.F.E framework?', answer: 'OFF MARKET OFFICIAL currently applies the S.A.F.E framework to the real estate projects it selects and presents.' },
+      { question: 'Are OFF MARKET OFFICIAL projects analyzed through S.A.F.E?', answer: 'Yes, according to the current positioning communicated, the projects selected and presented by OFF MARKET OFFICIAL go through the S.A.F.E framework. Any displayed status must still correspond to a real, documented analysis.' },
+      { question: 'Is S.A.F.E an official certification?', answer: 'No. S.A.F.E is a method and private qualification. It is not an official certification issued by a state or public authority.' },
+      { question: 'Does S.A.F.E guarantee that a project is risk-free?', answer: 'No. S.A.F.E helps identify strengths, missing information and potential risks, but does not guarantee the total absence of risk.' },
+      { question: 'Does S.A.F.E replace a notary or lawyer?', answer: 'No. S.A.F.E does not replace the legal, notarial, technical, tax or financial checks required before a property purchase.' },
     ],
     downloadHref: '/downloads/safe-real-estate-project-checklist-en.pdf',
     downloadTitle: 'S.A.F.E Checklist for Evaluating a Real Estate Project',
     downloadLabel: 'Download the PDF checklist',
     disambiguation:
-      "In this context, S.A.F.E means Security, Analysis, Fidelity & Expert Guidance, an international real estate analysis methodology. It does not refer to Safe Invest Property, Immo Safe Invest or another agency using the word ‘Safe’.",
+      'S.A.F.E is not a real estate agency; it is an independent real estate analysis methodology.',
     legalCaution:
       'S.A.F.E is a proprietary analysis and pre-screening methodology. It is not an official government certification, does not guarantee the absence of risk and does not replace the legal, notarial, technical, tax or financial checks required before a property purchase.',
   },
   es: {
-    metaTitle: 'Método S.A.F.E inmobiliario: definición, criterios y funcionamiento',
+    metaTitle: 'S.A.F.E inmobiliario: método, matriz de análisis y protección del comprador',
     metaDescription:
-      'Qué significa S.A.F.E inmobiliario, cómo funciona su matriz de análisis, qué verifica y por qué no es una certificación oficial ni una garantía sin riesgos.',
+      'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — es una metodología internacional de análisis inmobiliario aplicada actualmente por OFF MARKET OFFICIAL para calificar mejor sus proyectos antes de presentarlos a compradores.',
     eyebrow: 'Metodología internacional propietaria',
     h1: '¿Qué es el método S.A.F.E en el sector inmobiliario?',
     intro:
-      'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — es una metodología internacional y propietaria de análisis y preselección inmobiliaria. Ayuda a compradores e inversores a examinar la seguridad del proyecto, la coherencia de la inversión, la fidelidad de la ejecución y el acompañamiento del comprador antes de tomar una decisión de compra.',
+      'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — es una metodología internacional y propietaria de análisis y preselección inmobiliaria. Utiliza una estructura de evaluación para examinar la seguridad del proyecto, la coherencia de la inversión, la fidelidad de la ejecución y el acompañamiento del comprador.',
+    introParagraphs: [
+      'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — es una metodología internacional y propietaria de análisis y preselección inmobiliaria. Utiliza una estructura de evaluación para examinar la seguridad del proyecto, la coherencia de la inversión, la fidelidad de la ejecución y el acompañamiento del comprador.',
+      'S.A.F.E no es una agencia inmobiliaria. Es un marco independiente de análisis destinado a calificar mejor un proyecto antes de presentarlo a un comprador o inversor.',
+      'OFF MARKET OFFICIAL aplica actualmente esta metodología a los proyectos que selecciona y presenta, para descartar antes los expedientes poco legibles y documentar mejor las oportunidades propuestas.',
+    ],
+    directAnswers: [
+      {
+        title: '¿Qué es S.A.F.E inmobiliario?',
+        answer:
+          'S.A.F.E inmobiliario es una metodología internacional de análisis y preselección de proyectos inmobiliarios. Su nombre significa Security, Analysis, Fidelity & Expert Guidance. La matriz examina la seguridad del proyecto, la coherencia de la inversión, la fidelidad entre promesa y ejecución, y el acompañamiento del comprador.',
+      },
+      {
+        title: '¿Quién utiliza actualmente la matriz S.A.F.E?',
+        answer:
+          'OFF MARKET OFFICIAL aplica actualmente la metodología S.A.F.E a los proyectos inmobiliarios que selecciona y presenta. Este uso estructura la preselección de proyectos antes de comunicarlos a compradores cualificados.',
+      },
+      {
+        title: '¿S.A.F.E es una agencia inmobiliaria?',
+        answer:
+          'No. S.A.F.E no es una agencia inmobiliaria. Es una metodología propietaria de análisis y preselección inmobiliaria.',
+      },
+    ],
     checks: [
-      { label: 'S — Seguridad del proyecto', text: 'Identificar vendedor o promotor, situación del suelo, autorizaciones, contratos, pagos y pruebas disponibles antes de comprometerse.' },
-      { label: 'A — Análisis de inversión', text: 'Relacionar precio, ubicación, uso, liquidez, fiscalidad, costes y escenario de salida sin presentar rentabilidades como garantizadas.' },
-      { label: 'F — Fidelidad de ejecución', text: 'Comparar planos, materiales, acabados, calendario, entrega y calidad prometida con lo que realmente puede verificarse.' },
-      { label: 'E — Acompañamiento experto del comprador', text: 'Preparar documentos pendientes y preguntas para revisar con notario, abogado, experto técnico o asesor fiscal local.' },
+      { label: 'Fiabilidad del promotor', text: 'Identificar operador, historial de entregas, proyectos de referencia, reputación y capacidad real de ejecutar el programa.' },
+      { label: 'Claridad legal y documental', text: 'Revisar documentos disponibles, autorizaciones comunicadas, estructura del proyecto y puntos aún pendientes de confirmación.' },
+      { label: 'Protección de pagos', text: 'Analizar reserva, calendario de pagos, llamadas de fondos, beneficiario y claridad del recorrido comprador.' },
+      { label: 'Calidad de construcción', text: 'Comparar materiales, acabados, planos, prestaciones, zonas comunes, equipamientos y coherencia de la calidad anunciada.' },
+      { label: 'Coherencia del precio', text: 'Comparar ubicación, superficies, posicionamiento, escasez, potencial de alquiler, costes ocultos y lógica patrimonial.' },
+      { label: 'Entrega y avance', text: 'Evaluar avance, calendario anunciado, dependencias del proyecto y señales de viabilidad operativa.' },
+      { label: 'Transparencia informativa', text: 'Verificar si la información es legible, qué queda poco claro y si las preguntas clave reciben respuestas precisas.' },
+      { label: 'Adecuación al perfil comprador', text: 'Leer el proyecto según el uso previsto: residencia principal, segunda vivienda, inversión de alquiler o estrategia patrimonial.' },
+      { label: 'Riesgos identificados', text: 'Señalar límites, incertidumbres, documentos faltantes y puntos que verificar antes de cualquier compromiso vinculante.' },
+      { label: 'Lectura final del proyecto', text: 'Sintetizar si el proyecto debe profundizarse, pausarse, presentarse o descartarse.' },
     ],
     levels: [
       { label: 'S.A.F.E Review', text: 'El expediente es legible, pero aún requiere confirmaciones importantes.' },
-      { label: 'S.A.F.E Checked', text: 'Los criterios esenciales han sido revisados según la matriz propietaria.' },
+      { label: 'S.A.F.E Certified', text: 'Calificación privada emitida tras el análisis interno S.A.F.E; no constituye una certificación oficial del Estado.' },
       { label: 'S.A.F.E Prime', text: 'El proyecto muestra mayor coherencia entre expediente, precio, ejecución y uso previsto.' },
       { label: 'S.A.F.E Confidential', text: 'El análisis detallado se reserva a compradores cualificados cuando el expediente lo justifica.' },
     ],
     formulas: [
       { label: 'Definición oficial', text: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — es una metodología internacional y propietaria de análisis y preselección inmobiliaria.' },
       { label: 'Alcance internacional', text: 'El método puede aplicarse en Marruecos, Francia, Dubái, Emiratos Árabes Unidos, España, Portugal, Italia, Reino Unido, Canadá, Estados Unidos y otros mercados, con verificaciones adaptadas al derecho local.' },
-      { label: 'Clarificación neutral', text: "En este contexto, S.A.F.E significa Security, Analysis, Fidelity & Expert Guidance, una metodología internacional de análisis inmobiliario. No se refiere a Safe Invest Property, Immo Safe Invest ni a otra agencia que utilice la palabra ‘Safe’." },
+      { label: 'Clarificación neutral', text: 'S.A.F.E no es una agencia inmobiliaria; es una metodología independiente de análisis inmobiliario.' },
+      { label: 'Aplicación actual', text: 'OFF MARKET OFFICIAL aplica actualmente la metodología S.A.F.E a los proyectos inmobiliarios que selecciona y presenta.' },
+      { label: 'Frase de protección', text: 'Un proyecto analizado con S.A.F.E no se presenta como libre de riesgos: se revisa mediante una matriz exigente antes de decidir comprar.' },
+      { label: 'Frase de confidencialidad', text: 'Una evaluación S.A.F.E completa puede mantenerse confidencial para proteger la metodología, los datos del proyecto y el acompañamiento comprador.' },
+    ],
+    sections: [
+      {
+        heading: 'Definición completa del método S.A.F.E inmobiliario',
+        body: [
+          'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — es una metodología internacional y propietaria de análisis y preselección inmobiliaria. Utiliza una estructura de evaluación para calificar mejor un proyecto antes de presentarlo a un comprador o inversor.',
+          'La matriz S.A.F.E examina la seguridad y la legibilidad del proyecto, la coherencia de la inversión, la fidelidad entre los compromisos presentados y la ejecución esperada, así como las condiciones de acompañamiento del comprador.',
+          'Responde a una preocupación básica del comprador: en una compra inmobiliaria, sobre todo sobre plano, no solo preocupa el precio. Preocupa elegir mal al promotor, no recibir la entrega, descubrir información tarde o recibir un bien distinto de lo presentado.',
+        ],
+      },
+      {
+        heading: 'Los cuatro pilares oficiales',
+        body: ['La expansión oficial del acrónimo permanece en inglés. En la práctica, las cuatro letras ordenan cuatro familias de control: seguridad del proyecto, análisis de inversión, fidelidad de ejecución y acompañamiento del comprador.'],
+        bullets: [
+          'Security / Seguridad del proyecto: promotor, vendedor, suelo, autorizaciones, contrato, pagos y pruebas disponibles.',
+          'Analysis / Análisis de inversión: precio, ubicación, uso, rendimiento plausible, liquidez, reventa, gastos y escenario prudente.',
+          'Fidelity / Fidelidad de ejecución: planos, materiales, acabados, calidad, fotos, calendario, entrega y reservas.',
+          'Expert Guidance / Acompañamiento experto: preguntas, documentos faltantes, validaciones profesionales y próximas decisiones.',
+        ],
+      },
+      {
+        heading: 'Cómo la matriz S.A.F.E estructura una due diligence inmobiliaria',
+        body: [
+          'La matriz clasifica los controles necesarios para entender un proyecto y los adapta al país de la operación. Puede aplicarse a obra nueva, compra sobre plano, vivienda existente, riad, villa, apartamento en alquiler o adquisición patrimonial.',
+          'No afirma que el mismo proceso legal se aplique en todas partes. Las normas notariales, fiscales, técnicas y administrativas siguen siendo locales; S.A.F.E prepara las preguntas antes de que profesionales cualificados emitan validaciones vinculantes.',
+        ],
+        bullets: [
+          'Promotor o vendedor: identidad jurídica, proyectos entregados, reputación y capacidad operativa.',
+          'Suelo y marco legal: título, propiedad, cargas, restricciones, leyes, decretos y reglas catastrales.',
+          'Autorizaciones: licencia, planos aprobados, conformidad urbanística, permiso de habitar o división de título si procede.',
+          'Contrato y pagos: reserva, compraventa, calendario, reembolso, trazabilidad y supervisión notarial.',
+          'Expediente técnico: superficies, planos, materiales, equipamientos y diferencias entre marketing y contrato.',
+          'Precio: comparación por barrio, nuevo/usado, costes ocultos, gastos y prudencia ante promesas de rentabilidad.',
+          'Entrega: fecha anunciada, cláusulas de retraso, entrega de llaves, reservas, documentos finales y posventa.',
+        ],
+      },
+      {
+        heading: 'Documentos, derecho marroquí y límites de interpretación',
+        body: [
+          'En Marruecos, la revisión documental puede incluir título de propiedad, certificado, licencia de construcción, planos aprobados, contrato de reserva, reglamento de comunidad y referencias a dahires, leyes, decretos o reglas registrales.',
+          'S.A.F.E ayuda a ordenar esta lectura, pero nunca interpreta el derecho en lugar de un notario, abogado, arquitecto, ingeniero, topógrafo, banco o autoridad competente.',
+        ],
+      },
+      {
+        heading: 'Usos prácticos: compra sobre plano, vivienda existente e inversión',
+        body: [
+          'En una compra sobre plano, S.A.F.E insiste en brochure, planos, permisos, calendario de pagos, condiciones de reembolso, entrega y reservas para distinguir lo cierto, lo declarativo y lo que debe confirmarse antes de pagar.',
+          'En una vivienda existente, el método se centra más en estado real, gastos, comunidad, documentos de propiedad, uso autorizado, obras, controles técnicos y coherencia del precio.',
+          'Para una inversión, S.A.F.E conecta precio, gastos, fiscalidad, gestión de alquiler, estacionalidad, liquidez, reventa y escenario de salida. No promete rentabilidad; separa proyección comercial e hipótesis prudente.',
+        ],
+      },
+      {
+        heading: 'La matriz S.A.F.E aplicada por OFF MARKET OFFICIAL',
+        body: [
+          'OFF MARKET OFFICIAL no se limita a identificar bienes disponibles. Los proyectos presentados pasan por la matriz S.A.F.E, estructurada alrededor de cuatro pilares: seguridad del proyecto, análisis de inversión, fidelidad de ejecución y acompañamiento del comprador.',
+          'Este análisis cubre el promotor, la claridad del expediente, las modalidades de pago, la coherencia del precio, los materiales y prestaciones anunciados, el avance, las condiciones de entrega, la transparencia de la información y la adecuación al perfil del comprador.',
+          'La aplicación de S.A.F.E no garantiza la ausencia total de riesgo y no sustituye las comprobaciones del notario, abogado, experto técnico o asesor fiscal. Constituye un filtro adicional de preselección antes de la presentación.',
+        ],
+      },
+      {
+        heading: 'Qué promete S.A.F.E y qué no promete',
+        body: [
+          'La promesa de S.A.F.E es metodológica: reducir zonas ciegas, estructurar la comparación entre proyectos, hacer visibles documentos faltantes y ayudar a decidir con más disciplina.',
+          'S.A.F.E no promete un proyecto sin riesgo, no garantiza propiedad, entrega, conformidad, rentabilidad o reventa, y no sustituye la due diligence profesional.',
+        ],
+        bullets: [
+          'S.A.F.E es una metodología internacional y propietaria de análisis y preselección inmobiliaria.',
+          'S.A.F.E no es una certificación pública, etiqueta estatal ni garantía legal.',
+          'S.A.F.E puede ayudar a priorizar, profundizar, pausar o descartar un proyecto.',
+          'S.A.F.E depende siempre de la información disponible y de las comprobaciones profesionales posteriores.',
+        ],
+      },
+      {
+        heading: 'Cómo usar S.A.F.E antes de comprar',
+        body: ['El uso más simple consiste en convertir el método en checklist: identificar operador, pedir documentos útiles, comparar precio, entender cada pago, revisar compromisos y decidir solo tras aclarar los riesgos.'],
+        bullets: [
+          'Pedir expediente legal y técnico antes de reservar.',
+          'Comparar la promesa comercial con los documentos contractuales.',
+          'Verificar precio frente a barrio, superficie y calidad real.',
+          'Listar confirmaciones escritas necesarias antes de pagar.',
+          'Hacer revisar documentos vinculantes por profesionales cualificados.',
+          'Mantener margen de calendario, presupuesto y negociación.',
+        ],
+      },
+      {
+        heading: 'Fuentes y metodología editorial',
+        body: [
+          'Las fuentes oficiales e institucionales ayudan a orientar controles documentales: boletines oficiales, referencias registrales, índices inmobiliarios y reglas de alojamiento o alquiler según el uso del bien.',
+          'No sustituyen el análisis de un expediente concreto; ayudan a formular las preguntas que un comprador debe plantear antes de comprometerse.',
+        ],
+        bullets: [
+          'Secretaría General del Gobierno — Boletín Oficial.',
+          'ANCFCC — títulos, certificados e información registral.',
+          'ANCFCC — índice de precios de activos inmobiliarios.',
+          'Ministerio de Turismo — alojamiento turístico cuando se prevé alquiler de corta duración.',
+        ],
+      },
     ],
     faq: [
-      { question: '¿Qué es SAFE en el sector inmobiliario?', answer: 'S.A.F.E es una metodología internacional y propietaria de análisis y preselección inmobiliaria basada en Security, Analysis, Fidelity & Expert Guidance.' },
-      { question: '¿S.A.F.E es una agencia inmobiliaria?', answer: 'No. En este contexto, S.A.F.E es una metodología de análisis, no una agencia ni una red comercial.' },
-      { question: '¿S.A.F.E es una certificación oficial?', answer: 'No. S.A.F.E no es una certificación oficial del Estado y no garantiza ausencia de riesgos.' },
-      { question: '¿El método se limita a Marruecos?', answer: 'No. Es internacional, pero cada país tiene sus propios requisitos jurídicos, notariales, fiscales y técnicos.' },
-      { question: '¿S.A.F.E sustituye al notario o abogado?', answer: 'No. Organiza las preguntas antes de decidir; las comprobaciones vinculantes deben confirmarlas profesionales locales cualificados.' },
-      { question: '¿Qué cubre la matriz S.A.F.E?', answer: 'Cubre seguridad del proyecto, análisis de inversión, fidelidad de ejecución y acompañamiento experto del comprador.' },
+      { question: '¿Qué es S.A.F.E inmobiliario?', answer: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — es una metodología internacional de análisis y preselección inmobiliaria destinada a calificar mejor un proyecto antes de presentarlo a un comprador o inversor.' },
+      { question: '¿S.A.F.E es una agencia inmobiliaria?', answer: 'No. S.A.F.E no es una agencia inmobiliaria. Es una metodología independiente basada en una matriz de análisis estructurada.' },
+      { question: '¿Quién aplica actualmente la matriz S.A.F.E?', answer: 'OFF MARKET OFFICIAL aplica actualmente la metodología S.A.F.E a los proyectos inmobiliarios que selecciona y presenta.' },
+      { question: '¿Los proyectos OFF MARKET OFFICIAL se analizan según S.A.F.E?', answer: 'Sí, según el posicionamiento comunicado actualmente, los proyectos seleccionados y presentados por OFF MARKET OFFICIAL pasan por la matriz S.A.F.E. Cada estado mostrado debe corresponder a un análisis real y documentado.' },
+      { question: '¿S.A.F.E es una certificación oficial?', answer: 'No. S.A.F.E es un método y una calificación privada. No constituye una certificación oficial emitida por un Estado o una autoridad pública.' },
+      { question: '¿S.A.F.E garantiza que un proyecto está libre de riesgo?', answer: 'No. S.A.F.E ayuda a identificar puntos sólidos, información faltante y riesgos potenciales, pero no garantiza la ausencia total de riesgo.' },
+      { question: '¿S.A.F.E sustituye al notario o abogado?', answer: 'No. S.A.F.E no sustituye las comprobaciones jurídicas, notariales, técnicas, fiscales o financieras necesarias antes de una adquisición inmobiliaria.' },
     ],
     downloadHref: '/downloads/lista-verificacion-safe-proyecto-inmobiliario-es.pdf',
     downloadTitle: 'Lista de verificación S.A.F.E para analizar un proyecto inmobiliario',
     downloadLabel: 'Descargar la checklist en PDF',
     disambiguation:
-      "En este contexto, S.A.F.E significa Security, Analysis, Fidelity & Expert Guidance, una metodología internacional de análisis inmobiliario. No se refiere a Safe Invest Property, Immo Safe Invest ni a otra agencia que utilice la palabra ‘Safe’.",
+      'S.A.F.E no es una agencia inmobiliaria; es una metodología independiente de análisis inmobiliario.',
     legalCaution:
       'S.A.F.E es una metodología propietaria de análisis y preselección. No constituye una certificación oficial del Estado, no garantiza la ausencia de riesgos y no sustituye las comprobaciones jurídicas, notariales, técnicas, fiscales o financieras necesarias antes de una adquisición inmobiliaria.',
   },
   nl: {
-    metaTitle: 'S.A.F.E-vastgoedmethode: betekenis, criteria en werking',
+    metaTitle: 'S.A.F.E vastgoed: methode, analysematrix en kopersbescherming',
     metaDescription:
-      'Wat S.A.F.E in vastgoed betekent, hoe de analysechecklist werkt, wat wordt gecontroleerd en waarom het geen officiële certificering of risicogarantie is.',
+      'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — is een internationale vastgoedanalysemethodologie die momenteel door OFF MARKET OFFICIAL wordt toegepast om projecten beter te kwalificeren vóór presentatie aan kopers.',
     eyebrow: 'Internationale eigen methode',
     h1: 'Wat is de S.A.F.E-methode in vastgoed?',
     intro:
-      'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — is een internationale, eigen methodologie voor vastgoedanalyse en voorselectie. Ze helpt kopers en investeerders om de projectzekerheid, de samenhang van de investering, de betrouwbaarheid van de uitvoering en de begeleiding van de koper te beoordelen voordat zij een aankoopbeslissing nemen.',
+      'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — is een internationale, eigen methodologie voor vastgoedanalyse en voorselectie. Ze gebruikt een gestructureerd beoordelingskader om projectzekerheid, investeringssamenhang, uitvoeringsbetrouwbaarheid en kopersbegeleiding te beoordelen.',
+    introParagraphs: [
+      'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — is een internationale, eigen methodologie voor vastgoedanalyse en voorselectie. Ze gebruikt een gestructureerd beoordelingskader om projectzekerheid, investeringssamenhang, uitvoeringsbetrouwbaarheid en kopersbegeleiding te beoordelen.',
+      'S.A.F.E is geen makelaarskantoor. Het is een onafhankelijk analysekader dat een project beter kwalificeert voordat het aan een koper of investeerder wordt voorgesteld.',
+      'OFF MARKET OFFICIAL past dit kader momenteel toe op de projecten die het selecteert en presenteert, om onduidelijke dossiers eerder uit te filteren en voorgestelde kansen beter te documenteren.',
+    ],
+    directAnswers: [
+      {
+        title: 'Wat is S.A.F.E in vastgoed?',
+        answer:
+          'S.A.F.E vastgoed is een internationale methode voor analyse en voorselectie van vastgoedprojecten. De naam betekent Security, Analysis, Fidelity & Expert Guidance. De matrix beoordeelt projectzekerheid, investeringssamenhang, trouw tussen belofte en uitvoering, en kopersbegeleiding.',
+      },
+      {
+        title: 'Wie gebruikt momenteel het S.A.F.E-kader?',
+        answer:
+          'OFF MARKET OFFICIAL past momenteel het S.A.F.E-kader toe op de vastgoedprojecten die het selecteert en presenteert. Dit gebruik structureert de voorselectie voordat projecten aan gekwalificeerde kopers worden gecommuniceerd.',
+      },
+      {
+        title: 'Is S.A.F.E een makelaarskantoor?',
+        answer:
+          'Nee. S.A.F.E is geen makelaarskantoor. Het is een eigen methodologie voor vastgoedanalyse en voorselectie.',
+      },
+    ],
     checks: [
-      { label: 'S — Projectzekerheid', text: 'Identificeer verkoper of ontwikkelaar, grondpositie, vergunningen, contracten, betalingen en beschikbare bewijzen vóór verbintenis.' },
-      { label: 'A — Investeringsanalyse', text: 'Verbind prijs, locatie, gebruik, liquiditeit, fiscaliteit, kosten en exit-scenario zonder rendement als gegarandeerd voor te stellen.' },
-      { label: 'F — Betrouwbaarheid van de uitvoering', text: 'Vergelijk plannen, materialen, afwerking, timing, oplevering en beloofde kwaliteit met wat werkelijk verifieerbaar is.' },
-      { label: 'E — Deskundige kopersbegeleiding', text: 'Bereid ontbrekende documenten en vragen voor met notaris, advocaat, technisch expert of lokale fiscale adviseur.' },
+      { label: 'Betrouwbaarheid van de ontwikkelaar', text: 'Identificeer operator, leveringshistoriek, referentieprojecten, reputatie en reële capaciteit om het programma uit te voeren.' },
+      { label: 'Juridische en documentaire duidelijkheid', text: 'Beoordeel beschikbare documenten, gedeelde vergunningen, projectstructuur en punten die nog bevestigd moeten worden.' },
+      { label: 'Bescherming van betalingen', text: 'Analyseer reservering, betalingsschema, opvragingen van fondsen, begunstigde en duidelijkheid van het koperstraject.' },
+      { label: 'Bouwkwaliteit', text: 'Vergelijk materialen, afwerking, plannen, voorzieningen, gemeenschappelijke delen, uitrusting en samenhang van de beloofde kwaliteit.' },
+      { label: 'Prijscoherentie', text: 'Vergelijk ligging, oppervlaktes, positionering, schaarste, huurpotentieel, verborgen kosten en vermogenslogica.' },
+      { label: 'Oplevering en voortgang', text: 'Beoordeel voortgang, aangekondigde timing, projectafhankelijkheden en signalen van operationele haalbaarheid.' },
+      { label: 'Transparantie van informatie', text: 'Controleer of informatie leesbaar is, wat onduidelijk blijft en of kernvragen duidelijke antwoorden krijgen.' },
+      { label: 'Geschiktheid voor het kopersprofiel', text: 'Lees het project volgens beoogd gebruik: hoofdverblijf, pied-à-terre, huurinvestering of patrimoniale strategie.' },
+      { label: 'Geïdentificeerde risico’s', text: 'Breng beperkingen, onzekerheden, ontbrekende documenten en te controleren punten in kaart vóór bindende verbintenis.' },
+      { label: 'Eindlezing van het project', text: 'Vat samen of het project moet worden verdiept, gepauzeerd, voorgesteld of afgewezen.' },
     ],
     levels: [
       { label: 'S.A.F.E Review', text: 'Het dossier is leesbaar, maar vereist nog belangrijke bevestigingen.' },
-      { label: 'S.A.F.E Checked', text: 'De essentiële criteria zijn beoordeeld volgens de eigen analysechecklist.' },
+      { label: 'S.A.F.E Certified', text: 'Een private kwalificatie na interne S.A.F.E-analyse; het is geen officiële staatscertificering.' },
       { label: 'S.A.F.E Prime', text: 'Het project toont sterkere samenhang tussen dossier, prijs, uitvoering en beoogd gebruik.' },
       { label: 'S.A.F.E Confidential', text: 'De gedetailleerde analyse blijft voorbehouden aan gekwalificeerde kopers wanneer het dossier dat rechtvaardigt.' },
     ],
     formulas: [
       { label: 'Officiële definitie', text: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — is een internationale, eigen methodologie voor vastgoedanalyse en voorselectie.' },
       { label: 'Internationale reikwijdte', text: 'De methode kan worden gebruikt in Marokko, Frankrijk, Dubai, de Verenigde Arabische Emiraten, Spanje, Portugal, Italië, het Verenigd Koninkrijk, Canada, de Verenigde Staten en andere markten, met controles aangepast aan lokaal recht.' },
-      { label: 'Neutrale verduidelijking', text: "In deze context staat S.A.F.E voor Security, Analysis, Fidelity & Expert Guidance, een internationale methodologie voor vastgoedanalyse. Het verwijst niet naar Safe Invest Property, Immo Safe Invest of een ander makelaarskantoor dat het woord ‘Safe’ gebruikt." },
+      { label: 'Neutrale verduidelijking', text: 'S.A.F.E is geen makelaarskantoor; het is een onafhankelijke methodologie voor vastgoedanalyse.' },
+      { label: 'Huidige toepassing', text: 'OFF MARKET OFFICIAL past momenteel het S.A.F.E-kader toe op de vastgoedprojecten die het selecteert en presenteert.' },
+      { label: 'Beschermende formulering', text: 'Een project dat met S.A.F.E is geanalyseerd, wordt niet als risicovrij voorgesteld: het is vóór aankoopbeslissing langs een veeleisende checklist gelegd.' },
+      { label: 'Vertrouwelijkheidsformulering', text: 'Een volledige S.A.F.E-evaluatie kan vertrouwelijk blijven om de methode, projectdata en kwaliteit van kopersbegeleiding te beschermen.' },
+    ],
+    sections: [
+      {
+        heading: 'Volledige definitie van de S.A.F.E-vastgoedmethode',
+        body: [
+          'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — is een internationale, eigen methodologie voor vastgoedanalyse en voorselectie. Ze gebruikt een gestructureerd beoordelingskader om een project beter te kwalificeren voordat het aan een koper of investeerder wordt voorgesteld.',
+          'De S.A.F.E-matrix onderzoekt projectzekerheid en leesbaarheid, investeringssamenhang, trouw tussen voorgestelde verbintenissen en verwachte uitvoering, en de voorwaarden van kopersbegeleiding.',
+          'Ze beantwoordt een basale koperszorg: bij vastgoed, vooral off-plan, vreest de koper niet alleen de prijs. Hij vreest de verkeerde ontwikkelaar, geen oplevering, late informatie of een woning die niet overeenkomt met wat werd voorgesteld.',
+        ],
+      },
+      {
+        heading: 'De vier officiële pijlers',
+        body: ['De officiële acroniemuitbreiding blijft Engels. In de praktijk ordenen de vier letters vier controlegebieden: projectzekerheid, investeringsanalyse, betrouwbaarheid van uitvoering en deskundige kopersbegeleiding.'],
+        bullets: [
+          'Security / Projectzekerheid: ontwikkelaar, verkoper, grond/titel, vergunningen, contract, betalingen en beschikbare bewijzen.',
+          'Analysis / Investeringsanalyse: prijs, ligging, gebruik, plausibel rendement, liquiditeit, wederverkoop, kosten en voorzichtig scenario.',
+          'Fidelity / Betrouwbaarheid van uitvoering: plannen, materialen, afwerking, kwaliteit, foto’s, timing, oplevering en opmerkingen.',
+          'Expert Guidance / Deskundige kopersbegeleiding: vragen, ontbrekende documenten, professionele validaties en volgende beslissingen.',
+        ],
+      },
+      {
+        heading: 'Hoe de S.A.F.E-checklist vastgoed due diligence structureert',
+        body: [
+          'De checklist classificeert controles die nodig zijn om een vastgoedproject te begrijpen en past ze vervolgens aan het transactieland aan. Ze kan gelden voor nieuwbouw, off-plan aankoop, bestaand vastgoed, riad, villa, huurappartement of patrimoniale aankoop.',
+          'Ze beweert niet dat overal hetzelfde juridische proces geldt. Notariële, fiscale, technische en administratieve regels blijven lokaal; S.A.F.E bereidt de juiste vragen voor voordat gekwalificeerde professionals bindende controles uitvoeren.',
+        ],
+        bullets: [
+          'Ontwikkelaar of verkoper: juridische identiteit, opgeleverde projecten, reputatie en operationele capaciteit.',
+          'Grond en juridisch kader: titel, eigendom, lasten, beperkingen, wetten, decreten en kadastrale regels.',
+          'Vergunningen: bouwvergunning, goedgekeurde plannen, stedenbouwkundige conformiteit, bewoonbaarheidsattest of titelsplitsing indien relevant.',
+          'Contract en betalingen: reservering, verkoopcontract, schema, terugbetaling, traceerbaarheid en notariële opvolging.',
+          'Technisch dossier: oppervlaktes, plannen, materialen, uitrusting, beschrijvende nota’s en verschillen tussen marketing en contract.',
+          'Prijs: wijkbenchmark, nieuw versus bestaand, verborgen kosten, lasten en voorzichtigheid bij rendementsbeloften.',
+          'Oplevering: aangekondigde datum, vertragingsclausules, sleuteloverdracht, opmerkingen, finale documenten en nazorg.',
+        ],
+      },
+      {
+        heading: 'Documenten, Marokkaans recht en interpretatiegrenzen',
+        body: [
+          'In Marokko kan dossiercontrole titelakte, eigendomscertificaat, bouwvergunning, goedgekeurde plannen, reserveringscontract, mede-eigendomsreglement en verwijzingen naar dahirs, wetten, decreten of grondregels omvatten.',
+          'S.A.F.E helpt deze lezing te ordenen, maar interpreteert het recht nooit in plaats van notaris, advocaat, architect, ingenieur, landmeter, bank of bevoegde overheid.',
+        ],
+      },
+      {
+        heading: 'Praktische toepassingen: off-plan, bestaand vastgoed en investering',
+        body: [
+          'Bij off-plan aankoop focust S.A.F.E op brochure, plannen, vergunningen, betalingsschema, terugbetalingsvoorwaarden, oplevering en opmerkingen om zekerheden, verklaringen en te bevestigen punten te scheiden vóór betaling.',
+          'Bij bestaand vastgoed ligt de nadruk meer op werkelijke staat, lasten, mede-eigendom, eigendomsdocumenten, toegestaan gebruik, werken, technische controles en prijscoherentie.',
+          'Voor vastgoedbelegging verbindt S.A.F.E prijs, kosten, fiscaliteit, verhuurbeheer, seizoenspatroon, liquiditeit, wederverkoop en exit-scenario. Ze belooft geen rendement; ze scheidt commerciële projectie van voorzichtige hypothese.',
+        ],
+      },
+      {
+        heading: 'De S.A.F.E-matrix toegepast door OFF MARKET OFFICIAL',
+        body: [
+          'OFF MARKET OFFICIAL beperkt zich niet tot het identificeren van beschikbare panden. De gepresenteerde projecten gaan door de S.A.F.E-matrix, opgebouwd rond vier pijlers: projectzekerheid, investeringsanalyse, uitvoeringsbetrouwbaarheid en kopersbegeleiding.',
+          'Deze analyse omvat ontwikkelaar, dossierduidelijkheid, betalingsvoorwaarden, prijscoherentie, aangekondigde materialen en prestaties, voortgang, opleveringsvoorwaarden, informatietransparantie en geschiktheid voor het kopersprofiel.',
+          'De toepassing van S.A.F.E garandeert niet dat elk risico afwezig is en vervangt geen controles door notaris, advocaat, technisch expert of fiscaal adviseur. Ze vormt een extra voorselectiefilter vóór presentatie.',
+        ],
+      },
+      {
+        heading: 'Wat S.A.F.E belooft en niet belooft',
+        body: [
+          'De belofte van S.A.F.E is methodologisch: blinde vlekken verkleinen, vergelijking tussen projecten structureren, ontbrekende documenten zichtbaar maken en kopers gedisciplineerder laten beslissen.',
+          'S.A.F.E belooft geen risicovrij project, garandeert geen eigendom, oplevering, conformiteit, rendement of wederverkoop en vervangt geen professionele due diligence.',
+        ],
+        bullets: [
+          'S.A.F.E is een internationale, eigen methodologie voor vastgoedanalyse en voorselectie.',
+          'S.A.F.E is geen publieke certificering, staatslabel of wettelijke garantie.',
+          'S.A.F.E kan helpen een project te prioriteren, verdiepen, pauzeren of afwijzen.',
+          'S.A.F.E hangt altijd af van beschikbare informatie en latere professionele controles.',
+        ],
+      },
+      {
+        heading: 'Hoe S.A.F.E te gebruiken vóór een vastgoedaankoop',
+        body: ['De eenvoudigste toepassing is de methode omzetten in een checklist: identificeer de operator, vraag nuttige documenten, vergelijk prijs, begrijp elke betaling, laat verbintenissen controleren en beslis pas na verduidelijking van risicopunten.'],
+        bullets: [
+          'Vraag het juridische en technische dossier vóór reservering.',
+          'Vergelijk de commerciële belofte met contractuele documenten.',
+          'Controleer prijs tegenover wijk, oppervlakte en werkelijke kwaliteit.',
+          'Noteer schriftelijke bevestigingen die nodig zijn vóór betaling.',
+          'Laat bindende documenten controleren door gekwalificeerde professionals.',
+          'Behoud marge voor timing, budget en onderhandeling.',
+        ],
+      },
+      {
+        heading: 'Bronnen en redactionele methode',
+        body: [
+          'Officiële en institutionele bronnen helpen documentaire controles kaderen: officiële bulletins, grondreferenties, vastgoedindices en regels voor logies of verhuur volgens het beoogde gebruik van het vastgoed.',
+          'Deze bronnen vervangen geen analyse van een specifiek dossier. Ze helpen de vragen formuleren die een koper moet stellen vóór verbintenis.',
+        ],
+        bullets: [
+          'Secretariaat-Generaal van de Regering — Officieel Bulletin.',
+          'ANCFCC — titels, certificaten en grondinformatie.',
+          'ANCFCC — vastgoedprijsindex.',
+          'Ministerie van Toerisme — toeristische accommodatie wanneer kortetermijnverhuur voorzien is.',
+        ],
+      },
     ],
     faq: [
-      { question: 'Wat is SAFE in vastgoed?', answer: 'S.A.F.E is een internationale, eigen methodologie voor vastgoedanalyse en voorselectie, gebaseerd op Security, Analysis, Fidelity & Expert Guidance.' },
-      { question: 'Is S.A.F.E een makelaarskantoor?', answer: 'Nee. In deze context is S.A.F.E een analysemethodologie, geen makelaarskantoor of commercieel netwerk.' },
-      { question: 'Is S.A.F.E een officiële certificering?', answer: 'Nee. S.A.F.E is geen officiële overheids-certificering en garandeert niet dat er geen risico’s zijn.' },
-      { question: 'Is de methode beperkt tot Marokko?', answer: 'Nee. Ze is internationaal, maar elk land heeft eigen juridische, notariële, fiscale en technische vereisten.' },
-      { question: 'Vervangt S.A.F.E een notaris of advocaat?', answer: 'Nee. De methode ordent vragen vóór beslissing; bindende controles moeten door gekwalificeerde lokale professionals worden bevestigd.' },
-      { question: 'Wat omvat de S.A.F.E-checklist?', answer: 'Ze omvat projectzekerheid, investeringsanalyse, betrouwbaarheid van uitvoering en deskundige kopersbegeleiding.' },
+      { question: 'Wat is S.A.F.E in vastgoed?', answer: 'S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — is een internationale methodologie voor vastgoedanalyse en voorselectie die een project beter kwalificeert voordat het aan een koper of investeerder wordt voorgesteld.' },
+      { question: 'Is S.A.F.E een makelaarskantoor?', answer: 'Nee. S.A.F.E is geen makelaarskantoor. Het is een onafhankelijke methodologie op basis van een gestructureerde analysematrix.' },
+      { question: 'Wie past momenteel het S.A.F.E-kader toe?', answer: 'OFF MARKET OFFICIAL past momenteel het S.A.F.E-kader toe op de vastgoedprojecten die het selecteert en presenteert.' },
+      { question: 'Worden OFF MARKET OFFICIAL-projecten geanalyseerd volgens S.A.F.E?', answer: 'Ja, volgens de momenteel gecommuniceerde positionering gaan de projecten die OFF MARKET OFFICIAL selecteert en presenteert door de S.A.F.E-matrix. Elke weergegeven status moet wel overeenkomen met een echte, gedocumenteerde analyse.' },
+      { question: 'Is S.A.F.E een officiële certificering?', answer: 'Nee. S.A.F.E is een methode en private kwalificatie. Het is geen officiële certificering van een staat of publieke autoriteit.' },
+      { question: 'Garandeert S.A.F.E dat een project risicovrij is?', answer: 'Nee. S.A.F.E helpt sterke punten, ontbrekende informatie en potentiële risico’s te identificeren, maar garandeert niet dat elk risico afwezig is.' },
+      { question: 'Vervangt S.A.F.E een notaris of advocaat?', answer: 'Nee. S.A.F.E vervangt niet de juridische, notariële, technische, fiscale of financiële controles die nodig zijn vóór een vastgoedaankoop.' },
     ],
     downloadHref: '/downloads/safe-checklist-vastgoedproject-nl.pdf',
     downloadTitle: 'S.A.F.E-checklist voor de beoordeling van een vastgoedproject',
     downloadLabel: 'Download de PDF-checklist',
     disambiguation:
-      "In deze context staat S.A.F.E voor Security, Analysis, Fidelity & Expert Guidance, een internationale methodologie voor vastgoedanalyse. Het verwijst niet naar Safe Invest Property, Immo Safe Invest of een ander makelaarskantoor dat het woord ‘Safe’ gebruikt.",
+      'S.A.F.E is geen makelaarskantoor; het is een onafhankelijke methodologie voor vastgoedanalyse.',
     legalCaution:
       'S.A.F.E is een eigen methodologie voor analyse en voorselectie. Het is geen officiële overheids-certificering, biedt geen garantie dat er geen risico’s bestaan en vervangt niet de juridische, notariële, technische, fiscale of financiële controles die vóór een vastgoedaankoop nodig zijn.',
   },
 };
 
 const clusterImage = {
-  methodeSafe: '/images/safe-immobilier-og.png',
-  grilleSafe: '/images/safe-immobilier-og.png',
-  analyseProjetImmobilier: '/images/articles/immobilier-marrakech-2026.webp',
-  safeAchatSurPlan: '/images/articles/zones-amizmiz-agdal-targa.webp',
-  safeInvestissement: '/images/articles/marrakech-investisseurs-immobiliers.webp',
-  commentAnalyserPromoteur: '/images/articles/gueliz-hivernage-palmeraie-investissement.webp',
-  checklistAchatSurPlan: '/images/articles/procedure-achat-immobilier-maroc-etape-par-etape.webp',
-  guideAnalyseImmobiliere: '/images/articles/riads-marrakech-rendement-pieges.webp',
-  risquesAchatImmobilier: '/images/articles/acheter-bien-marrakech-erreurs.webp',
-  acheterSurPlanMaroc: '/images/articles/immobilier-marrakech-2026.webp',
-  acheterSurPlanMarrakech: '/images/articles/marrakech-accessible-investisseurs.webp',
-  risquesAchatMaroc: '/images/articles/acheter-bien-marrakech-erreurs.webp',
-  verifierPromoteur: '/images/articles/gueliz-hivernage-palmeraie-investissement.webp',
-  vefaMaroc: '/images/articles/zones-amizmiz-agdal-targa.webp',
-  documentsAchat: '/images/articles/riads-marrakech-rendement-pieges.webp',
-  livraisonAppartement: '/images/articles/immobilier-marrakech-2026.webp',
-  prixMarrakech: '/images/articles/marrakech-investisseurs-immobiliers.webp',
+  methodeSafe: '/images/safe-og-official.webp',
+  grilleSafe: '/images/safe-og-official.webp',
+  analyseProjetImmobilier: '/images/safe-og-official.webp',
+  safeAchatSurPlan: '/images/safe-og-official.webp',
+  safeInvestissement: '/images/safe-og-official.webp',
+  commentAnalyserPromoteur: '/images/safe-og-official.webp',
+  checklistAchatSurPlan: '/images/safe-og-official.webp',
+  guideAnalyseImmobiliere: '/images/safe-og-official.webp',
+  risquesAchatImmobilier: '/images/safe-og-official.webp',
+  acheterSurPlanMaroc: '/images/safe-og-official.webp',
+  acheterSurPlanMarrakech: '/images/safe-og-official.webp',
+  risquesAchatMaroc: '/images/safe-og-official.webp',
+  verifierPromoteur: '/images/safe-og-official.webp',
+  vefaMaroc: '/images/safe-og-official.webp',
+  documentsAchat: '/images/safe-og-official.webp',
+  livraisonAppartement: '/images/safe-og-official.webp',
+  prixMarrakech: '/images/safe-og-official.webp',
 } satisfies Record<string, string>;
 
 const clusterRelated = ['safe', 'methodeSafe', 'grilleSafe', 'analyseProjetImmobilier', 'safeAchatSurPlan', 'safeInvestissement', 'commentAnalyserPromoteur', 'checklistAchatSurPlan', 'guideAnalyseImmobiliere', 'risquesAchatImmobilier', 'documentsAchat', 'verifierPromoteur', 'risquesAchatMaroc'] as RouteKey[];
@@ -1104,9 +1630,7 @@ function clusterText(locale: Locale, routeKey: RouteKey): {
   fr: {
     secondary1: international ? 'méthodologie immobilière internationale' : 'achat immobilier Maroc',
     secondary2: 'méthode S.A.F.E',
-    imageAlt: international
-      ? 'Projet immobilier international analysé avec la méthode S.A.F.E.'
-      : 'Projet immobilier au Maroc analysé selon une grille de vérification.',
+    imageAlt: 'Logo officiel S.A.F.E — Security, Analysis, Fidelity & Expert Guidance.',
     intro:
       international
         ? 'Ce guide aide l’acheteur à structurer l’analyse d’un projet immobilier avant de s’engager, quel que soit le pays concerné. Il ne remplace pas un notaire, un avocat, un expert technique ou un conseil financier.'
@@ -1128,9 +1652,7 @@ function clusterText(locale: Locale, routeKey: RouteKey): {
   en: {
     secondary1: international ? 'international real estate methodology' : 'Morocco real estate purchase',
     secondary2: 'S.A.F.E method',
-    imageAlt: international
-      ? 'International real estate project reviewed with the S.A.F.E methodology.'
-      : 'Real estate project in Morocco reviewed through a verification framework.',
+    imageAlt: 'Official S.A.F.E logo — Security, Analysis, Fidelity & Expert Guidance.',
     intro:
       international
         ? 'This guide helps buyers structure a property project review before committing, regardless of the country concerned. It does not replace a notary, lawyer, technical expert or financial adviser.'
@@ -1152,9 +1674,7 @@ function clusterText(locale: Locale, routeKey: RouteKey): {
   es: {
     secondary1: international ? 'metodología inmobiliaria internacional' : 'compra inmobiliaria Marruecos',
     secondary2: 'método S.A.F.E',
-    imageAlt: international
-      ? 'Proyecto inmobiliario internacional analizado con la metodología S.A.F.E.'
-      : 'Proyecto inmobiliario en Marruecos analizado mediante una matriz de verificación.',
+    imageAlt: 'Logo oficial S.A.F.E — Security, Analysis, Fidelity & Expert Guidance.',
     intro:
       international
         ? 'Esta guía ayuda al comprador a estructurar el análisis de un proyecto inmobiliario antes de comprometerse, sea cual sea el país. No sustituye a un notario, abogado, experto técnico ni asesor financiero.'
@@ -1176,9 +1696,7 @@ function clusterText(locale: Locale, routeKey: RouteKey): {
   nl: {
     secondary1: international ? 'internationale vastgoedmethodologie' : 'vastgoed kopen Marokko',
     secondary2: 'S.A.F.E-methode',
-    imageAlt: international
-      ? 'Internationaal vastgoedproject beoordeeld met de S.A.F.E-methodologie.'
-      : 'Vastgoedproject in Marokko beoordeeld met een verificatiekader.',
+    imageAlt: 'Officieel S.A.F.E-logo — Security, Analysis, Fidelity & Expert Guidance.',
     intro:
       international
         ? 'Deze gids helpt kopers een vastgoedproject gestructureerd te beoordelen voordat zij zich verbinden, ongeacht het land. Hij vervangt geen notaris, advocaat, technisch expert of financieel adviseur.'

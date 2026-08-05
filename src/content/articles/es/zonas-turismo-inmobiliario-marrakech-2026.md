@@ -11,8 +11,8 @@ date: 2026-07-17
 updatedDate: 2026-07-17
 readingTime: 12
 excerpt: "La dinámica turística marroquí de 2026 apoya Marrakech, pero no garantiza el rendimiento de un inmueble individual. Los barrios no se benefician de la misma demanda."
-heroImage: "/images/articles/tourisme-prix-immobiliers-marrakech.webp"
-imageAlt: "Plaza Jemaa el-Fna de Marrakech que ilustra demanda turística e impacto inmobiliario."
+heroImage: "/images/safe-og-official.webp"
+imageAlt: "Logo oficial S.A.F.E — Security, Analysis, Fidelity & Expert Guidance."
 featured: false
 sources:
   - label: "Ministerio de Turismo — 7,7 millones de llegadas a finales de mayo de 2026"

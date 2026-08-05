@@ -11,8 +11,8 @@ date: 2026-07-17
 updatedDate: 2026-07-17
 readingTime: 12
 excerpt: "Un appartement neuf à Marrakech peut rester pertinent en 2026 si le prix, le quartier, l’avancement, les documents promoteur et le potentiel locatif net sont cohérents. Le neuf ne doit jamais être acheté uniquement parce qu’il est neuf."
-heroImage: "/images/articles/macan-development-marrakech-rabat-2026.webp"
-imageAlt: "Chantier résidentiel au Maroc illustrant l’achat d’un appartement neuf à Marrakech."
+heroImage: "/images/safe-og-official.webp"
+imageAlt: "Logo officiel S.A.F.E — Security, Analysis, Fidelity & Expert Guidance."
 featured: false
 sources:
   - label: "ANCFCC — Indice des Prix des Actifs Immobiliers"

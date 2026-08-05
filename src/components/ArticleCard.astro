@@ -15,6 +15,7 @@ interface Props {
 const { article, variant = 'default', eager = false, locale = article.data.locale ?? 'fr' } = Astro.props;
 const { title, category, date, readingTime, excerpt, heroImage, imageAlt } = article.data;
 const currentUi = ui[locale];
+const isSafeLogoImage = heroImage.includes('/safe-logo-official') || heroImage.includes('/safe-og-official');
 
 const formattedDate = new Intl.DateTimeFormat(locale === 'fr' ? 'fr-FR' : locale === 'en' ? 'en-US' : locale === 'es' ? 'es-ES' : 'nl-NL', {
   year: 'numeric',
@@ -29,11 +30,14 @@ const url = articleHref(article);
   <article class="group card-lift rounded-2xl overflow-hidden bg-white border border-rdm-border shadow-card relative">
     <a href={url} class="block cursor-pointer focus-visible:outline-rdm-orange" aria-label={`${currentUi.labels.readArticle}: ${title}`}>
       <!-- Image -->
-      <div class="aspect-[16/9] overflow-hidden">
+      <div class:list={['aspect-[16/9] overflow-hidden', isSafeLogoImage && 'bg-white p-6']}>
         <img
           src={heroImage}
           alt={imageAlt}
-          class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-[1.03]"
+          class:list={[
+            'w-full h-full transition-transform duration-700',
+            isSafeLogoImage ? 'object-contain group-hover:scale-[1.02]' : 'object-cover group-hover:scale-[1.03]',
+          ]}
           loading={eager ? 'eager' : 'lazy'}
           width="800"
           height="450"
@@ -67,11 +71,14 @@ const url = articleHref(article);
   <article class="group card-lift rounded-2xl overflow-hidden bg-white border border-rdm-border shadow-card h-full flex flex-col">
     <a href={url} class="block flex-1 flex flex-col cursor-pointer focus-visible:outline-rdm-orange" aria-label={`${currentUi.labels.readArticle}: ${title}`}>
       <!-- Image -->
-      <div class="aspect-square-card overflow-hidden flex-shrink-0">
+      <div class:list={['aspect-square-card overflow-hidden flex-shrink-0', isSafeLogoImage && 'bg-white p-6']}>
         <img
           src={heroImage}
           alt={imageAlt}
-          class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+          class:list={[
+            'w-full h-full transition-transform duration-500',
+            isSafeLogoImage ? 'object-contain group-hover:scale-[1.02]' : 'object-cover group-hover:scale-105',
+          ]}
           loading="lazy"
           width="600"
           height="450"
@@ -104,11 +111,14 @@ const url = articleHref(article);
 {variant === 'compact' && (
   <article class="group flex items-start gap-4 py-4 border-b border-rdm-border last:border-0">
     <a href={url} class="flex-shrink-0 cursor-pointer" aria-label={`${currentUi.labels.readArticle}: ${title}`}>
-      <div class="w-20 h-16 rounded-xl overflow-hidden">
+      <div class:list={['w-20 h-16 rounded-xl overflow-hidden', isSafeLogoImage && 'bg-white p-2']}>
         <img
           src={heroImage}
           alt={imageAlt}
-          class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+          class:list={[
+            'w-full h-full transition-transform duration-300',
+            isSafeLogoImage ? 'object-contain group-hover:scale-[1.02]' : 'object-cover group-hover:scale-105',
+          ]}
           loading="lazy"
           width="160"
           height="128"
@@ -131,11 +141,14 @@ const url = articleHref(article);
   <article class="group card-lift rounded-2xl overflow-hidden bg-white border border-rdm-border shadow-card">
     <a href={url} class="flex gap-0 cursor-pointer focus-visible:outline-rdm-orange" aria-label={`${currentUi.labels.readArticle}: ${title}`}>
       <!-- Image -->
-      <div class="w-48 md:w-64 flex-shrink-0 overflow-hidden">
+      <div class:list={['w-48 md:w-64 flex-shrink-0 overflow-hidden', isSafeLogoImage && 'bg-white p-4']}>
         <img
           src={heroImage}
           alt={imageAlt}
-          class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+          class:list={[
+            'w-full h-full transition-transform duration-500',
+            isSafeLogoImage ? 'object-contain group-hover:scale-[1.02]' : 'object-cover group-hover:scale-105',
+          ]}
           loading="lazy"
           width="400"
           height="300"

@@ -11,8 +11,8 @@ date: 2026-07-17
 updatedDate: 2026-07-17
 readingTime: 12
 excerpt: "Depuis le 1er juillet 2026, les actes immobiliers au Maroc dont le prix dépasse 300 000 DH peuvent supporter un droit d’enregistrement supplémentaire de 2% lorsque le paiement n’est pas traçable ou lorsque l’acte ne mentionne pas les références de règlement. Pour les fonds de commerce, le seuil de 300 000 DH ne s’applique pas."
-heroImage: "/images/articles/fiscalite-immobiliere-marrakech-2026-2.webp"
-imageAlt: "Billets de dirhams marocains illustrant la traçabilité des paiements immobiliers en 2026."
+heroImage: "/images/safe-og-official.webp"
+imageAlt: "Logo officiel S.A.F.E — Security, Analysis, Fidelity & Expert Guidance."
 featured: false
 sources:
   - label: "DGI — Note circulaire n°737 LF 2026"

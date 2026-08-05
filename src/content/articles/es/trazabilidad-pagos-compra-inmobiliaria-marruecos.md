@@ -11,8 +11,8 @@ date: 2026-07-17
 updatedDate: 2026-07-17
 readingTime: 12
 excerpt: "Asegurar una compra inmobiliaria en Marruecos empieza por la trazabilidad de cada pago: depósito, anticipo, etapa, cuenta notarial, saldo final y entrega."
-heroImage: "/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-2.webp"
-imageAlt: "Firma de contrato que ilustra la trazabilidad de pagos en una compra inmobiliaria en Marruecos."
+heroImage: "/images/safe-og-official.webp"
+imageAlt: "Logo oficial S.A.F.E — Security, Analysis, Fidelity & Expert Guidance."
 featured: false
 sources:
   - label: "DGI — Nota circular 737 LF 2026"

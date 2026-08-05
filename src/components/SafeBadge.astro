@@ -7,40 +7,28 @@ const { class: className = '' } = Astro.props;
 
 const levels = [
   'S.A.F.E Review',
-  'S.A.F.E Documenté',
-  'S.A.F.E Approfondi',
+  'S.A.F.E Certified',
+  'S.A.F.E Prime',
   'S.A.F.E Confidential',
 ];
 ---
 
 <figure
   class:list={[
-    'relative overflow-hidden rounded-lg border border-white/20 bg-white/90 p-5 text-rdm-black shadow-glass backdrop-blur-glass',
+    'relative overflow-hidden rounded-lg border border-rdm-border bg-white p-5 text-rdm-black',
     className,
   ]}
   aria-label="Niveaux de qualification S.A.F.E"
 >
-  <div class="absolute inset-x-0 top-0 h-1 bg-rdm-orange" aria-hidden="true"></div>
-
-  <div class="flex items-start justify-between gap-4">
-    <div>
-      <p class="text-[11px] font-bold uppercase text-rdm-gray">Méthodologie éditoriale</p>
-      <h2 class="mt-1 text-2xl font-black leading-none">S.A.F.E</h2>
-      <p class="mt-1 text-[10px] font-semibold uppercase text-rdm-orange">Security, Analysis, Fidelity & Expert Guidance</p>
-    </div>
-    <svg class="h-9 w-9 text-rdm-orange" viewBox="0 0 48 48" fill="none" aria-hidden="true">
-      <rect x="8" y="8" width="32" height="32" rx="6" stroke="currentColor" stroke-width="2" />
-      <path d="M16 24h16M24 16v16" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
-      <path d="M16 16h5v5h-5zM27 16h5v5h-5zM16 27h5v5h-5zM27 27h5v5h-5z" fill="currentColor" />
-    </svg>
-  </div>
-
-  <div class="mt-5 grid grid-cols-4 overflow-hidden rounded-lg border border-rdm-border bg-rdm-black text-white">
-    {['S', 'A', 'F', 'E'].map((letter) => (
-      <div class="flex aspect-square items-center justify-center border-r border-white/10 last:border-r-0">
-        <span class="text-xl font-black">{letter}</span>
-      </div>
-    ))}
+  <div class="rounded-lg bg-white p-4">
+    <img
+      src="/images/safe-logo-official.webp"
+      alt="Logo officiel S.A.F.E — Security, Analysis, Fidelity & Expert Guidance"
+      class="h-auto w-full object-contain"
+      width="1536"
+      height="1024"
+      loading="lazy"
+    />
   </div>
 
   <div class="mt-5 grid gap-2">
