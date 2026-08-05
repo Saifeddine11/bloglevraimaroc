@@ -40,7 +40,8 @@ const isCategoryPage = !!currentCategoryKey;
 const clusterPage = safeClusterCopies[locale].find((page) => page.routeKey === routeKey);
 const localizedSafeLinkTitle = (key: RouteKey) =>
   key === 'safe' ? 'S.A.F.E' : safeClusterCopies[locale].find((page) => page.routeKey === key)?.primaryKeyword ?? key;
-const safeCopy = routeKey === 'safe' ? safePageCopies[locale] : undefined;
+const safeHubCopy = safePageCopies[locale];
+const safeCopy = routeKey === 'safe' ? safeHubCopy : undefined;
 const safeSupportLinks = {
   fr: [
     { href: '/articles/dahir-maroc-definition', title: 'Définition du dahir au Maroc' },
@@ -66,19 +67,27 @@ const safeSupportLinks = {
 const safeLimitCopy = {
   fr: {
     heading: 'Méthode internationale et limites',
-    body: "S.A.F.E est une méthode internationale propriétaire d'analyse et de présélection immobilière. Elle peut s’appliquer dans différents marchés, avec des vérifications adaptées au pays concerné. Elle ne constitue pas une certification officielle d’État, ne garantit pas l’absence de risque et ne remplace pas les vérifications juridiques, notariales, techniques, fiscales ou financières nécessaires avant toute acquisition.",
+    body: safeHubCopy.legalCaution,
+    formulasHeading: 'Définition, portée et clarification',
+    levelsHeading: 'Statuts méthodologiques',
   },
   en: {
     heading: 'International method and limits',
-    body: 'S.A.F.E is an international proprietary real estate analysis and pre-screening methodology. It can be applied across different markets, with checks adapted to the country concerned. It is not an official state certification, does not guarantee the absence of risk and does not replace the legal, notarial, technical, tax or financial due diligence required before any acquisition.',
+    body: safeHubCopy.legalCaution,
+    formulasHeading: 'Definition, scope and clarification',
+    levelsHeading: 'Methodology statuses',
   },
   es: {
     heading: 'Método internacional y límites',
-    body: 'S.A.F.E es una metodología internacional propietaria de análisis y preselección inmobiliaria. Puede aplicarse en distintos mercados, con verificaciones adaptadas al país correspondiente. No constituye una certificación oficial del Estado, no garantiza la ausencia de riesgo y no sustituye las verificaciones jurídicas, notariales, técnicas, fiscales o financieras necesarias antes de cualquier adquisición.',
+    body: safeHubCopy.legalCaution,
+    formulasHeading: 'Definición, alcance y aclaración',
+    levelsHeading: 'Estados metodológicos',
   },
   nl: {
     heading: 'Internationale methode en grenzen',
-    body: 'S.A.F.E is een internationale eigen methodologie voor vastgoedscreening en analyse. Ze kan in verschillende markten worden toegepast, met controles die aan het betrokken land worden aangepast. Het is geen officiële staatscertificering, garandeert geen afwezigheid van risico en vervangt geen juridische, notariële, technische, fiscale of financiële due diligence vóór aankoop.',
+    body: safeHubCopy.legalCaution,
+    formulasHeading: 'Definitie, reikwijdte en verduidelijking',
+    levelsHeading: 'Methodologische statussen',
   },
 }[locale];
 const safeOpenGraphDescriptions = {
@@ -161,6 +170,23 @@ const clusterArticleSchema = clusterPage
     }
   : undefined;
 
+const safeDefinedTermSchema = safeCopy
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'DefinedTerm',
+      name: 'S.A.F.E',
+      alternateName: ['SAFE real estate', 'S.A.F.E method', 'S.A.F.E analysis grid'],
+      termCode: 'Security, Analysis, Fidelity & Expert Guidance',
+      description: safeCopy.intro,
+      inLanguage: localeInfo.htmlLang,
+      inDefinedTermSet: {
+        '@type': 'DefinedTermSet',
+        name: 'S.A.F.E real estate methodology',
+        url: absoluteUrl(localizedPath(locale, 'safe')),
+      },
+    }
+  : undefined;
+
 const clusterHowToSchema = clusterPage
   ? {
       '@context': 'https://schema.org',
@@ -176,13 +202,6 @@ const clusterHowToSchema = clusterPage
     }
   : undefined;
 
-const localizedSafeDefinition = {
-  fr: 'S.A.F.E est une méthodologie internationale propriétaire conçue pour analyser, qualifier et prioriser des projets immobiliers avant achat.',
-  en: 'S.A.F.E is an international proprietary methodology designed to analyze, qualify and prioritize real estate projects before purchase.',
-  es: 'S.A.F.E es una metodología internacional propietaria diseñada para analizar, calificar y priorizar proyectos inmobiliarios antes de comprar.',
-  nl: 'S.A.F.E is een internationale eigen methodologie om vastgoedprojecten vóór aankoop te analyseren, kwalificeren en prioriteren.',
-}[locale];
-
 const clusterDefinedTermSchema = clusterPage
   ? {
       '@context': 'https://schema.org',
@@ -190,7 +209,8 @@ const clusterDefinedTermSchema = clusterPage
       name: 'S.A.F.E',
       alternateName: ['SAFE real estate', 'S.A.F.E method', 'S.A.F.E grid'],
       termCode: 'Security, Analysis, Fidelity & Expert Guidance',
-      description: localizedSafeDefinition,
+      description: safeHubCopy.intro,
+      inLanguage: localeInfo.htmlLang,
       inDefinedTermSet: {
         '@type': 'DefinedTermSet',
         name: 'S.A.F.E real estate methodology',
@@ -221,6 +241,7 @@ const latestArticles = articles.slice(0, 6);
     <script type="application/ld+json" set:html={JSON.stringify(webPageSchema)} />
     {breadcrumbSchema && <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />}
     {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
+    {safeDefinedTermSchema && <script type="application/ld+json" set:html={JSON.stringify(safeDefinedTermSchema)} />}
     {clusterArticleSchema && <script type="application/ld+json" set:html={JSON.stringify(clusterArticleSchema)} />}
     {clusterHowToSchema && <script type="application/ld+json" set:html={JSON.stringify(clusterHowToSchema)} />}
     {clusterDefinedTermSchema && <script type="application/ld+json" set:html={JSON.stringify(clusterDefinedTermSchema)} />}
@@ -476,15 +497,36 @@ const latestArticles = articles.slice(0, 6);
               <div class="glass-card p-6"><h2 class="font-black text-rdm-black mb-2">{item.label}</h2><p class="text-sm text-rdm-gray leading-relaxed">{item.text}</p></div>
             ))}
           </div>
+          <div class="mt-8 rounded-lg border border-rdm-border bg-white p-6">
+            <h2 class="mb-5 text-xl font-black text-rdm-black">{safeLimitCopy.formulasHeading}</h2>
+            <div class="grid gap-4 md:grid-cols-3">
+              {safeCopy.formulas.map((item) => (
+                <article class="rounded-lg border border-rdm-border bg-rdm-bg p-5">
+                  <h3 class="mb-2 text-sm font-black text-rdm-black">{item.label}</h3>
+                  <p class="text-sm leading-relaxed text-rdm-gray">{item.text}</p>
+                </article>
+              ))}
+            </div>
+          </div>
           <div class="mt-8 rounded-lg border border-amber-200 bg-amber-50 p-5 text-amber-950">
             <h2 class="mb-2 text-base font-black">{safeLimitCopy.heading}</h2>
             <p class="text-sm leading-relaxed">{safeLimitCopy.body}</p>
+          </div>
+          <div class="mt-8 rounded-lg border border-rdm-border bg-rdm-black p-6 text-white">
+            <h2 class="mb-2 text-xl font-black">{safeCopy.downloadTitle}</h2>
+            <p class="mb-5 text-sm leading-relaxed text-white/70">{safeCopy.disambiguation}</p>
+            <a href={safeCopy.downloadHref} class="inline-flex items-center gap-2 rounded-full bg-rdm-orange px-5 py-3 text-sm font-bold text-white transition-colors hover:bg-rdm-orange-mid">
+              {safeCopy.downloadLabel}
+              <svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M12 3v12m0 0 4-4m-4 4-4-4M4 21h16" />
+              </svg>
+            </a>
           </div>
         </div>
       </section>
       <section class="py-16 bg-rdm-bg">
         <div class="container-rdm">
-          <h2 class="text-2xl font-black text-rdm-black mb-8">S.A.F.E</h2>
+          <h2 class="text-2xl font-black text-rdm-black mb-8">{safeLimitCopy.levelsHeading}</h2>
           <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
             {safeCopy.levels.map((item) => <div class="bg-white border border-rdm-border rounded-xl p-5"><h3 class="font-black text-rdm-black mb-2">{item.label}</h3><p class="text-sm text-rdm-gray">{item.text}</p></div>)}
           </div>
@@ -526,6 +568,11 @@ const latestArticles = articles.slice(0, 6);
       </section>
       <section class="py-16">
         <div class="container-rdm max-w-4xl">
+          <div class="mb-10 rounded-lg border border-rdm-border bg-rdm-bg p-6">
+            <h2 class="mb-3 text-xl font-black text-rdm-black">{safeLimitCopy.formulasHeading}</h2>
+            <p class="text-sm leading-relaxed text-rdm-gray">{safeHubCopy.intro}</p>
+            <p class="mt-4 text-sm leading-relaxed text-rdm-gray">{safeHubCopy.disambiguation}</p>
+          </div>
           <div class="prose prose-rdm prose-lg max-w-none">
             {clusterPage.sections?.map((section) => (
               <>
@@ -536,7 +583,7 @@ const latestArticles = articles.slice(0, 6);
             ))}
             <h2>{clusterPage.checklistTitle}</h2>
             <ul>{clusterPage.checklistItems.map((item) => <li>{item}</li>)}</ul>
-            <blockquote>{clusterPage.disclaimer}</blockquote>
+            <blockquote>{safeHubCopy.legalCaution}</blockquote>
           </div>
         </div>
       </section>
