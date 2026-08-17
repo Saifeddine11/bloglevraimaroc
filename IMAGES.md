@@ -233,3 +233,16 @@ Images téléchargées depuis les pages sources Wikimedia Commons, converties en
 | Économie du Maroc 2026 | Inline agriculture | `public/images/articles/economie-maroc-2026/economie-maroc-2026-agriculture.webp` | [Wheat cultivation in Ben semim commune.jpg](https://commons.wikimedia.org/wiki/File:Wheat_cultivation_in_Ben_semim_commune.jpg) | CC BY-SA 4.0 / Mounir Neddi | Installé |
 | Économie du Maroc 2026 | Inline logistique/export | `public/images/articles/economie-maroc-2026/economie-maroc-2026-tanger-med.webp` | [Tanger Med Port logistic area.jpg](https://commons.wikimedia.org/wiki/File:Tanger_Med_Port_logistic_area.jpg) | CC BY-SA 2.0 / hiroo yamagata | Installé |
 | Économie du Maroc 2026 | Inline énergie | `public/images/articles/economie-maroc-2026/economie-maroc-2026-noor-ouarzazate.webp` | [Noor 1 and 2 - Ouarzazate Solar Power Station](https://commons.wikimedia.org/wiki/File:Noor_1_and_2_-_Ouarzazate_Solar_Power_Station_(48962353822).jpg) | CC BY 2.0 / Richard Allaway | Installé |
+
+## Acheter un terrain à Marrakech : statut foncier, restrictions étrangers (2026-08-17)
+
+Article multilingue (FR/EN/ES/NL, même `translationKey` : `acheter-terrain-marrakech-statut-foncier-etranger`). **Sandbox sans accès réseau direct à Unsplash/Pexels/Wikimedia ce jour** (testé par curl, échec de connexion — cf. note environnement CLAUDE.md) : réutilisation contrôlée de 4 images locales déjà licenciées et inventoriées ci-dessus, choisies pour leur cohérence thématique avec le sujet (foncier, démarches, documents). Aucun nouveau téléchargement, aucun hotlink, aucune image non licenciée.
+
+| Article | Placement | Fichier local | Source / licence déjà enregistrée | Alt text publié (FR) | Statut |
+|---|---|---|---|---|---|
+| Acheter un terrain à Marrakech | Hero (FR/EN/ES/NL) | `public/images/articles/dahir-maroc-immobilier-acheteur.webp` | Rawpixel/PxHere CC0, déjà installée et enregistrée plus haut | Documents fonciers marocains illustrant la vérification du statut d'un terrain avant achat à Marrakech. | Installé (réutilisée) |
+| Acheter un terrain à Marrakech | Section « types de terrain / prix » | `public/images/articles/zones-amizmiz-agdal-targa.webp` | Wikimedia Commons, CC BY-SA 2.5 / gildemax, déjà installée et enregistrée plus haut | Zone périurbaine de Marrakech entre Route d'Amizmiz, Agdal et Targa, où se concentrent les terrains à statut variable. | Installé (réutilisée) |
+| Acheter un terrain à Marrakech | Section « étranger / AVNA » | `public/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-3.webp` | Unsplash / Kit (formerly ConvertKit), déjà installée et enregistrée plus haut | Passeport tamponné, symbole des démarches spécifiques aux acheteurs étrangers et MRE pour un terrain au Maroc. | Installé (réutilisée) |
+| Acheter un terrain à Marrakech | Section « vérifier avant de signer » | `public/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-2.webp` | Unsplash / Romain Dancre, déjà installée et enregistrée plus haut | Signature et relecture d'un document juridique lié à l'achat d'un terrain au Maroc. | Installé (réutilisée) |
+
+**Audit multilingue** : les versions anglaises, espagnoles et néerlandaises utilisent les mêmes 4 fichiers locaux, avec alt text traduits dans chaque article. Aucun nouvel asset externe introduit.
