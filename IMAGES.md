@@ -246,3 +246,16 @@ Article multilingue (FR/EN/ES/NL, même `translationKey` : `acheter-terrain-marr
 | Acheter un terrain à Marrakech | Section « vérifier avant de signer » | `public/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-2.webp` | Unsplash / Romain Dancre, déjà installée et enregistrée plus haut | Signature et relecture d'un document juridique lié à l'achat d'un terrain au Maroc. | Installé (réutilisée) |
 
 **Audit multilingue** : les versions anglaises, espagnoles et néerlandaises utilisent les mêmes 4 fichiers locaux, avec alt text traduits dans chaque article. Aucun nouvel asset externe introduit.
+
+## Villa à Marrakech : prix, rendement et lotissement (2026-08-18)
+
+Article multilingue (FR/EN/ES/NL, même `translationKey` : `villa-marrakech-investissement`). **Sandbox de nouveau sans accès réseau direct à Unsplash/Pexels/Wikimedia ce jour** (testé par curl vers unsplash.com, images.unsplash.com, commons.wikimedia.org et pexels.com : 403 depuis le proxy sur les quatre) et aucun navigateur Chrome de Sif Eddine connecté pour ce run automatisé (`list_connected_browsers` vide). Réutilisation contrôlée de 4 images locales déjà licenciées et inventoriées ci-dessus, choisies pour leur cohérence thématique avec le sujet (villa, jardin, piscine, résidence, document juridique). Aucun nouveau téléchargement, aucun hotlink, aucune image non licenciée.
+
+| Article | Placement | Fichier local | Source / licence déjà enregistrée | Alt text publié (FR) | Statut |
+|---|---|---|---|---|---|
+| Villa à Marrakech | Hero (FR/EN/ES/NL) | `public/images/articles/marrakech-investisseurs-immobiliers.webp` | Wikimedia Commons, CC BY 2.0 / Jean-Pierre Dalbéra (Villa Majorelle), déjà installée et enregistrée plus haut | Villa avec jardin arboré à Marrakech, illustrant l'investissement dans ce type de bien. | Installé (réutilisée) |
+| Villa à Marrakech | Section « rendement locatif » | `public/images/articles/location-courte-duree-marrakech.webp` | Wikimedia Commons, CC BY-SA 4.0 / Laurendorman1 (El Fenn Marrakech), déjà installée et enregistrée plus haut | Terrasse et intérieur meublés d'une villa à Marrakech destinée à la location courte durée. | Installé (réutilisée) |
+| Villa à Marrakech | Section « charges d'entretien » | `public/images/articles/charges-copropriete-gestion-locative-marrakech.webp` | Wikimedia Commons, CC BY 3.0 / karel291, déjà installée et enregistrée plus haut | Résidence avec piscine et espaces verts à Marrakech, illustrant les charges d'entretien d'une villa. | Installé (réutilisée) |
+| Villa à Marrakech | Section « risque juridique lotissement » | `public/images/articles/charges-copropriete-gestion-locative-marrakech-2.webp` | Unsplash / Romain Dancre, déjà installée et enregistrée plus haut | Signature et relecture d'un document juridique lié à l'achat d'une villa en lotissement à Marrakech. | Installé (réutilisée) |
+
+**Audit multilingue** : les versions anglaises, espagnoles et néerlandaises utilisent les mêmes 4 fichiers locaux, avec alt text traduits dans chaque article. Aucun nouvel asset externe introduit.
