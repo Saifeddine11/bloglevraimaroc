@@ -259,3 +259,16 @@ Article multilingue (FR/EN/ES/NL, même `translationKey` : `villa-marrakech-inve
 | Villa à Marrakech | Section « risque juridique lotissement » | `public/images/articles/charges-copropriete-gestion-locative-marrakech-2.webp` | Unsplash / Romain Dancre, déjà installée et enregistrée plus haut | Signature et relecture d'un document juridique lié à l'achat d'une villa en lotissement à Marrakech. | Installé (réutilisée) |
 
 **Audit multilingue** : les versions anglaises, espagnoles et néerlandaises utilisent les mêmes 4 fichiers locaux, avec alt text traduits dans chaque article. Aucun nouvel asset externe introduit.
+
+## Crédit immobilier à Marrakech, étrangers et MRE (2026-08-20)
+
+Article multilingue (FR/EN/ES/NL, même `translationKey` : `credit-immobilier-marrakech-etranger-mre-2026`). **Sandbox de nouveau sans accès réseau direct à Unsplash/Pexels/Wikimedia Commons ce jour** (testé par curl vers images.unsplash.com, images.pexels.com, commons.wikimedia.org et upload.wikimedia.org : échec de connexion sur les quatre, proxy HTTP 403/timeout) et aucun navigateur Chrome connecté pour ce run automatisé. Réutilisation contrôlée de 4 images locales déjà licenciées et inventoriées ci-dessus, choisies pour leur cohérence thématique avec le sujet (financement, devises, documents, acquisition). Aucun nouveau téléchargement, aucun hotlink, aucune image non licenciée.
+
+| Article | Placement | Fichier local | Source / licence déjà enregistrée | Alt text publié (FR) | Statut |
+|---|---|---|---|---|---|
+| Crédit immobilier Marrakech, étrangers et MRE | Hero (FR/EN/ES/NL) | `public/images/articles/fiscalite-immobiliere-marrakech-2026-4.webp` | Unsplash / Tierra Mallorca, https://unsplash.com/photos/rgJ1J8SDEAY, déjà installée et enregistrée plus haut | Maquette de maison avec un jeu de clés, symbolisant le financement d'un achat immobilier au Maroc. | Installé (réutilisée) |
+| Crédit immobilier Marrakech, étrangers et MRE | Section « trois profils » | `public/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-3.webp` | Unsplash / Kit (formerly ConvertKit), https://unsplash.com/photos/htQznS-Rx7w, déjà installée et enregistrée plus haut | Passeport tamponné, symbole des démarches d'un acheteur étranger ou MRE pour financer un bien à Marrakech. | Installé (réutilisée) |
+| Crédit immobilier Marrakech, étrangers et MRE | Section « apport en devises / réglementation » | `public/images/articles/fiscalite-immobiliere-marrakech-2026-2.webp` | Unsplash / Kim Jeffal, https://unsplash.com/photos/dZaP_BgT5vQ, déjà installée et enregistrée plus haut | Billets de 50 dirhams marocains, illustrant l'apport en devises exigé pour un crédit immobilier au Maroc. | Installé (réutilisée) |
+| Crédit immobilier Marrakech, étrangers et MRE | Section « procédure bancaire » | `public/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-2.webp` | Unsplash / Romain Dancre, https://unsplash.com/photos/doplSDELX7E, déjà installée et enregistrée plus haut | Signature et relecture d'une offre de prêt immobilier avant un achat à Marrakech. | Installé (réutilisée) |
+
+**Audit multilingue** : les versions anglaises, espagnoles et néerlandaises utilisent les mêmes 4 fichiers locaux, avec alt text traduits dans chaque article. Aucun nouvel asset externe introduit.
