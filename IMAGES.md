@@ -272,3 +272,16 @@ Article multilingue (FR/EN/ES/NL, même `translationKey` : `credit-immobilier-ma
 | Crédit immobilier Marrakech, étrangers et MRE | Section « procédure bancaire » | `public/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-2.webp` | Unsplash / Romain Dancre, https://unsplash.com/photos/doplSDELX7E, déjà installée et enregistrée plus haut | Signature et relecture d'une offre de prêt immobilier avant un achat à Marrakech. | Installé (réutilisée) |
 
 **Audit multilingue** : les versions anglaises, espagnoles et néerlandaises utilisent les mêmes 4 fichiers locaux, avec alt text traduits dans chaque article. Aucun nouvel asset externe introduit.
+
+## Notaire : rôle, honoraires et choix pour un achat immobilier au Maroc (2026-08-23)
+
+Article multilingue (FR/EN/ES/NL, même `translationKey` : `notaire-achat-immobilier-maroc-role-honoraires`). **Sandbox de nouveau sans accès réseau direct à Unsplash/Pexels/Wikimedia Commons ce jour** (testé par curl vers images.unsplash.com, images.pexels.com, upload.wikimedia.org, unsplash.com et commons.wikimedia.org : échec « 403 from proxy after CONNECT » sur les cinq) et aucun navigateur Chrome connecté pour ce run automatisé (`list_connected_browsers` vide). Réutilisation contrôlée de 4 images locales déjà licenciées et inventoriées ci-dessus, choisies pour leur cohérence thématique avec le sujet (signature d'acte, documents fonciers, honoraires/devises, acheteur étranger). Aucun nouveau téléchargement, aucun hotlink, aucune image non licenciée.
+
+| Article | Placement | Fichier local | Source / licence déjà enregistrée | Alt text publié (FR) | Statut |
+|---|---|---|---|---|---|
+| Notaire : rôle, honoraires, choix | Hero (FR/EN/ES/NL) | `public/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-2.webp` | Unsplash / Romain Dancre, https://unsplash.com/photos/doplSDELX7E, déjà installée et enregistrée plus haut | Signature et relecture d'un acte immobilier chez le notaire au Maroc. | Installé (réutilisée) |
+| Notaire : rôle, honoraires, choix | Section « ce qu'il vérifie » | `public/images/articles/dahir-maroc-immobilier-acheteur.webp` | Image locale déjà installée et enregistrée plus haut (Rawpixel / PxHere, CC0) | Documents fonciers marocains examinés avant la signature d'un acte notarié. | Installé (réutilisée) |
+| Notaire : rôle, honoraires, choix | Section « honoraires » | `public/images/articles/fiscalite-immobiliere-marrakech-2026-2.webp` | Unsplash / Kim Jeffal, https://unsplash.com/photos/dZaP_BgT5vQ, déjà installée et enregistrée plus haut | Billets de 50 dirhams marocains, illustrant les honoraires et frais liés à l'intervention du notaire. | Installé (réutilisée) |
+| Notaire : rôle, honoraires, choix | Section « comment le choisir, à distance » | `public/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-3.webp` | Unsplash / Kit (formerly ConvertKit), https://unsplash.com/photos/htQznS-Rx7w, déjà installée et enregistrée plus haut | Passeport tamponné, illustrant le choix d'un notaire par un acheteur étranger ou MRE au Maroc. | Installé (réutilisée) |
+
+**Audit multilingue** : les versions anglaises, espagnoles et néerlandaises utilisent les mêmes 4 fichiers locaux, avec alt text traduits dans chaque article. Aucun nouvel asset externe introduit.
