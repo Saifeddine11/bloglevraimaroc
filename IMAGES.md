@@ -330,3 +330,18 @@ Article multilingue (FR/EN/ES/NL, même `translationKey` : `heritage-bien-immobi
 | Héritage d'un bien immobilier au Maroc | Section « anticiper : testament ou donation » | `public/images/articles/procedure-achat-immobilier-maroc-etape-par-etape-3.webp` | Unsplash / Kit (formerly ConvertKit), https://unsplash.com/photos/htQznS-Rx7w, déjà installée et enregistrée plus haut | Passeport tamponné, illustrant les démarches successorales d'un propriétaire étranger ou MRE au Maroc. | Installé (réutilisée) |
 
 **Audit multilingue** : les versions anglaise, espagnole et néerlandaise utilisent les mêmes 4 fichiers locaux (1600x900, WebP, qualité 82), avec alt text traduits dans chaque article.
+
+---
+
+## Commission d'agence immobilière au Maroc — frais et mandat (2026-09-07)
+
+Article multilingue (FR/EN/ES/NL, même `translationKey` : `commission-agence-immobiliere-maroc-frais-marrakech`). **Sandbox toujours sans accès réseau aux banques d'images ce jour** : `curl` vers `images.unsplash.com`, `upload.wikimedia.org` et `images.pexels.com` renvoie un code `000` (aucune connexion établie) sur les trois domaines. Le navigateur intégré exige une autorisation explicite de Sif Eddine par domaine, impossible à obtenir sur un run automatisé sans utilisateur présent. Aucun téléchargement neuf n'a donc été possible. Application du fallback prévu par CLAUDE.md : réutilisation contrôlée de 4 images locales déjà licenciées et inventoriées plus haut, choisies pour leur cohérence avec le sujet (visite immobilière = relation acheteur/agent, signature de document = mandat et contrat de courtage, billets de dirhams = barème et TVA, remise des clés = fait générateur de la commission). Aucun hotlink, aucune image non licenciée. Les 4 fichiers ont été revérifiés : 1600x900, WebP valide.
+
+| Article | Placement | Fichier local | Source / licence déjà enregistrée | Alt text publié (FR) | Statut |
+|---|---|---|---|---|---|
+| Commission d'agence immobilière au Maroc | Hero (FR/EN/ES/NL) | `public/images/articles/acheter-bien-marrakech-erreurs.webp` | [Marrakesh White DOOR](https://commons.wikimedia.org/wiki/File:Marrakesh_White_DOOR_(5100327811).jpg) — CC BY 2.0 / Khalid Albaih, déjà installée et enregistrée plus haut | Visite d'un bien immobilier à Marrakech avec un agent, illustrant la question des frais et de la commission d'agence. | Installé (réutilisée) |
+| Commission d'agence immobilière au Maroc | Section « métier sans statut légal » | `public/images/articles/charges-copropriete-gestion-locative-marrakech-2.webp` | [Photo Unsplash](https://unsplash.com/photos/doplSDELX7E) — Licence Unsplash / Romain Dancre, crédit canonique, déjà installée | Signature d'un document juridique lié à une transaction immobilière au Maroc. | Installé (réutilisée) |
+| Commission d'agence immobilière au Maroc | Section « combien coûte une commission » | `public/images/articles/fiscalite-immobiliere-marrakech-2026-2.webp` | [Photo Unsplash](https://unsplash.com/photos/dZaP_BgT5vQ) — Licence Unsplash / Kim Jeffal, crédit canonique, déjà installée | Billets de dirhams marocains, illustrant le calcul d'une commission d'agence immobilière au Maroc. | Installé (réutilisée) |
+| Commission d'agence immobilière au Maroc | Section « revente et TPI » | `public/images/articles/charges-copropriete-gestion-locative-marrakech-3.webp` | [Photo Unsplash](https://unsplash.com/photos/jJnZg7vBfMs) — Licence Unsplash / Maria Ziegler, crédit canonique, déjà installée | Remise des clés d'un bien immobilier à Marrakech après la signature de la vente. | Installé (réutilisée) |
+
+**Audit multilingue** : les versions anglaise, espagnole et néerlandaise utilisent les mêmes 4 fichiers locaux (1600x900, WebP, qualité 82), avec alt text traduits dans chaque article.
