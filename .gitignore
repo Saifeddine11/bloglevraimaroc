@@ -16,3 +16,6 @@ dist/
 # Astro
 .vercel/
 .netlify/
+
+# Research originals and intermediate editorial files
+tmp/editorial-2026-09-05/

@@ -27,8 +27,15 @@ const locale = articleLocale(article);
 const { Content, headings } = await render(article);
 const allArticles = await getCollection('articles');
 const alternates = articleAlternates(article, allArticles);
+const currentUsesEditorialImages = article.data.heroImage.includes('/editorial-2026-09-05/');
 const related = allArticles
-  .filter((candidate) => candidate.id !== article.id && articleLocale(candidate) === locale && candidate.data.category === article.data.category)
+  .filter(
+    (candidate) =>
+      candidate.id !== article.id &&
+      articleLocale(candidate) === locale &&
+      candidate.data.category === article.data.category &&
+      (!currentUsesEditorialImages || candidate.data.heroImage.includes('/editorial-2026-09-05/'))
+  )
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
   .slice(0, 3);
 ---

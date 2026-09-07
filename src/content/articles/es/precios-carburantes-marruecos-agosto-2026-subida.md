@@ -1,177 +1,101 @@
 ---
-title: "Precios de carburantes en Marruecos: lo que se sabe de la subida"
-slug: "precios-carburantes-marruecos-agosto-2026-subida"
-urlSlug: "precios-carburantes-marruecos-agosto-2026-subida"
-locale: "es"
-translationKey: "prix-carburants-maroc-aout-2026"
-metaTitle: "Precios de carburantes en Marruecos: lo que se sabe de la subida"
-metaDescription: "Gasoil y gasolina en Marruecos: subida de julio de 2026, diferencias entre estaciones, contexto internacional e impacto."
-category: "analyses"
-tags: ["precios","de","carburantes","en","marruecos","lo","que","se"]
-date: 2026-08-03
-updatedDate: 2026-08-03
-readingTime: 8
-excerpt: "Los precios varían por enseña y ciudad; las cifras publicadas son indicativas."
-heroImage: "/images/articles/news-2026-08-03/prix-carburants-maroc-aout-2026-hausse-cover.webp"
-imageAlt: "Estación de servicio en Marruecos, imagen contextual del seguimiento de carburantes."
-featured: false
-sources:
-  - label: "Médias24 — hausse du 16 juillet 2026"
-    url: "https://medias24.com/2026/07/16/carburant-les-prix-a-la-pompe-repartent-a-la-hausse-ce-jeudi-16-juillet-1723769/"
-  - label: "LeBrief — prix carburants Maroc"
-    url: "https://www.lebrief.ma/services/prix-carburants-maroc/"
-  - label: "Conseil de la concurrence — note carburants mars 2026"
-    url: "https://conseil-concurrence.ma/note-sur-levolution-des-prix-du-gasoil-et-de-lessence-sur-les-marches-internationaux-et-leur-repercussion-sur-les-prix-de-vente-a-la-pompe-au-marche-national-periode-du-1er-mars-a/"
-  - label: "SNRT News / MAP — transmission des cotations internationales"
-    url: "https://snrtnews.com/fr/article/gasoil-et-essence-le-conseil-de-la-concurrence-note-une-transmission-globalement-proche-des"
-disclaimer: false
+"title": "Precio del gasoil en Marruecos: referencia del 1 de septiembre de 2026"
+"slug": "precios-carburantes-marruecos-agosto-2026-subida"
+"urlSlug": "precios-carburantes-marruecos-agosto-2026-subida"
+"locale": "es"
+"translationKey": "prix-carburants-maroc-aout-2026"
+"metaTitle": "Precios del combustible en Marruecos"
+"metaDescription": "El último ajuste documentado aquí corresponde al 1 de septiembre de 2026. LeBrief informa de una subida del gasoil de 0,06 dírhams por litro, hasta una…"
+"category": "analyses"
+"tags":
+  - "Carburantes"
+  - "Marruecos"
+"date": "2026-08-03"
+"updatedDate": "2026-09-07"
+"readingTime": 3
+"excerpt": "El último ajuste documentado aquí corresponde al 1 de septiembre de 2026. LeBrief informa de una subida del gasoil de 0,06 dírhams por litro, hasta una referencia indicativa de 15,01 DH. La gasolina permanece en 14,94 DH en ese seguimiento. No son tarifas nacionales garantizadas ni precios en directo de todas las estaciones."
+"heroImage": "/images/articles/editorial-2026-09-05/prix-carburants-maroc-aout-2026-cover.webp"
+"imageAlt": "Estación Afriquia en Bouznika. Los posibles precios visibles son antiguos."
+"articleType": "NewsArticle"
+"heroCaption": "Estación Afriquia en Bouznika. Los posibles precios visibles son antiguos. Fotografía de contexto · 2023."
+"heroCredit": "Anass Sedrati"
+"heroSource": "https://commons.wikimedia.org/wiki/File:Afriquia_Station_-_Bouznika_-_October_2023.jpg"
+"heroLicense": "https://creativecommons.org/licenses/by-sa/4.0"
+"heroWidth": 1600
+"heroHeight": 900
+"featured": false
+"sources":
+  - "label": "LeBrief · 01.09.2026"
+    "url": "https://www.lebrief.ma/carburants-le-gasoil-augmente-de-6-centimes-au-1er-septembre-100164260/"
+  - "label": "Kech24 · 01.09.2026"
+    "url": "https://fr.kech24.com/carburants-le-gasoil-passe-au-dessus-de-15-dh-le-litre-lessence-inchangee/"
+  - "label": "Consejo de la Competencia · 2026"
+    "url": "https://conseil-concurrence.ma/note-sur-levolution-des-prix-du-gasoil-et-de-lessence-sur-les-marches-internationaux-et-leur-repercussion-sur-les-prix-de-vente-a-la-pompe-au-marche-national-periode-du-1er-mars-a/"
+"disclaimer": false
 ---
-**Respuesta rápida.** La última subida documentada accesible es del 16 de julio de 2026: unos +0,69 DH en gasoil y +0,39 DH en gasolina super, según Médias24, con precios indicativos cerca de 13,30 y 14,24 DH.
 
-> **Lo esencial**
-> - Los precios están liberalizados.
-> - Los ajustes siguen las cotizaciones internacionales con desfase.
-> - Existen diferencias entre estaciones.
-> - Transporte, entregas y viajes de verano son los más expuestos.
+## La fecha importa tanto como el precio
 
-Nota de actualización: este tema evoluciona. Los datos siguientes están cerrados el 3 de agosto de 2026 a las 19:10, hora de Casablanca.
+| Combustible | Referencia publicada el 1 de septiembre | Variación publicada |
+| ----------- | --------------------------------------- | ------------------- |
+| Gasoil      | 15,01 DH/l                              | +0,06 DH/l          |
+| Gasolina    | 14,94 DH/l                              | Sin cambios         |
 
-## Por qué importa ahora
-
-Los precios están liberalizados.
-
-Los ajustes siguen las cotizaciones internacionales con desfase.
-
-Existen diferencias entre estaciones.
-
-Transporte, entregas y viajes de verano son los más expuestos.
+Kech24 también informa de que el gasoil supera los 15 DH. Ambas publicaciones documentan el ajuste, pero no demuestran que todas las marcas y ciudades tengan precios idénticos. Las fotografías ilustran la red de distribución; sus carteles no constituyen mediciones de septiembre de 2026.
 
 <figure>
-  <img src="/images/articles/news-2026-08-03/prix-carburants-maroc-aout-2026-hausse-01.webp" alt="Estación Afriquia en Marruecos, contexto de distribución de carburantes." width="1200" height="675" loading="lazy" decoding="async" />
-  <figcaption>Imagen de ilustración. Estación Afriquia en Marruecos, contexto de distribución de carburantes. Crédito: karel291 / Wikimedia Commons (CC BY 3.0).</figcaption>
+  <img src="/images/articles/editorial-2026-09-05/prix-carburants-maroc-aout-2026-01.webp" alt="Estación TotalEnergies en Tilila, Agadir; fotografía de contexto." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Estación TotalEnergies en Tilila, Agadir; fotografía de contexto. Fotografía de contexto · 2023. Crédito: <a href="https://commons.wikimedia.org/wiki/File:At_Morocco_2023_13.jpg" rel="noopener">Mike Peel (www.mikepeel.net)</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="license">CC BY-SA 4.0</a>.</figcaption>
 </figure>
 
-## Referencias verificadas
+## ¿Cuánto cuesta llenar el depósito?
 
-| Elemento | Lectura útil |
-|---|---|
-| 1 | Los precios están liberalizados. |
-| 2 | Los ajustes siguen las cotizaciones internacionales con desfase. |
-| 3 | Existen diferencias entre estaciones. |
-| 4 | Transporte, entregas y viajes de verano son los más expuestos. |
+Los ejemplos utilizan 15,01 DH por litro, sin descuentos. El sobrecoste refleja exclusivamente los seis céntimos de subida respecto a la referencia anterior de 14,95 DH.
+
+| Volumen de gasoil | Coste calculado | Sobrecoste por 0,06 DH/l |
+| ----------------- | --------------- | ------------------------ |
+| 30 litros         | 450,30 DH       | 1,80 DH                  |
+| 40 litros         | 600,40 DH       | 2,40 DH                  |
+| 50 litros         | 750,50 DH       | 3,00 DH                  |
+
+Un vehículo que consume seis litros cada 100 km necesita 60 litros para recorrer 1.000 km: 900,60 DH al precio indicativo, incluidos 3,60 DH atribuibles al último ajuste. El consumo real depende del vehículo, la carga, el tráfico y la ruta.
+
+## Comparar Casablanca, Marrakech y Rabat
+
+No disponemos de una serie de recibos fechados que permita comparar con rigor sus estaciones el 5 de septiembre. Asignar un precio exacto a cada ciudad simularía una medición local inexistente. Compare el mismo producto y día, y compruebe el precio antes de repostar.
+
+Un desvío puede eliminar el ahorro: una diferencia de 0,10 DH en 40 litros ahorra 4 DH. Si el trayecto adicional consume más, la estación más barata deja de compensar. Registre litros, precio unitario, importe, estación y fecha.
 
 <figure>
-  <img src="/images/articles/news-2026-08-03/prix-carburants-maroc-aout-2026-hausse-02.webp" alt="Surtidor de carburante, imagen contextual de precios en la bomba." width="1200" height="900" loading="lazy" decoding="async" />
-  <figcaption>Imagen de ilustración. Surtidor de carburante, imagen contextual de precios en la bomba. Crédito: Antony Stanley from Gloucester, UK / Wikimedia Commons (CC BY-SA 2.0).</figcaption>
+  <img src="/images/articles/editorial-2026-09-05/prix-carburants-maroc-aout-2026-02.webp" alt="Estación Afriquia del área de Imintanoute; contexto de viajes por carretera." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Estación Afriquia del área de Imintanoute; contexto de viajes por carretera. Fotografía de contexto · 2023. Crédito: <a href="https://commons.wikimedia.org/wiki/File:At_Morocco_2023_25.jpg" rel="noopener">Mike Peel (www.mikepeel.net)</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="license">CC BY-SA 4.0</a>.</figcaption>
 </figure>
+
+## Por qué cambia el precio
+
+Influyen los productos refinados importados, el dólar, el transporte, el almacenamiento, los impuestos y la distribución. El Brent es una referencia de crudo: no determina directamente el precio minorista del gasoil. Las compras y las existencias también pueden retrasar la transmisión de los movimientos internacionales.
+
+El Consejo de la Competencia estudia esa transmisión en sus informes sectoriales. El ajuste de un distribuidor no es una tarifa uniforme fijada por el Estado. El [análisis de la próxima variación posible](/es/articulos/carburantes-marruecos-proxima-subida) separa los escenarios de los cambios confirmados.
 
 <figure>
-  <img src="/images/articles/news-2026-08-03/prix-carburants-maroc-aout-2026-hausse-03.webp" alt="Flujos logísticos en Tanger Med, contexto del impacto del carburante en transporte." width="1200" height="453" loading="lazy" decoding="async" />
-  <figcaption>Imagen de ilustración. Flujos logísticos en Tanger Med, contexto del impacto del carburante en transporte. Crédito: Vincent Motel / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
+  <img src="/images/articles/editorial-2026-09-05/prix-carburants-maroc-aout-2026-03.webp" alt="Estación Tanger Ville tras su remodelación para alta velocidad, en 2018." width="1200" height="675" loading="lazy" decoding="async" />
+  <figcaption>Estación Tanger Ville tras su remodelación para alta velocidad, en 2018. Fotografía de contexto · 2018. Crédito: <a href="https://commons.wikimedia.org/wiki/File:Tanger_Ville_Railway_Station.jpg" rel="noopener">NicholasNCE</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="license">CC BY-SA 4.0</a>.</figcaption>
 </figure>
 
-## Lo confirmado
+## Efecto en familias y transporte
 
-- Subida documentada el 16 de julio de 2026
-- Revisiones bimensuales frecuentes
-- Seguimiento del Consejo de la Competencia
-
-## Lo que queda por vigilar
-
-- Revisión del 1 de agosto
-- Petróleo
-- Tipo dirham-dólar
-- Diferencias por ciudad
-
-## Qué cambia en la práctica
-
-- Los precios están liberalizados.
-- Los ajustes siguen las cotizaciones internacionales con desfase.
-- Existen diferencias entre estaciones.
-- Transporte, entregas y viajes de verano son los más expuestos.
-
-## También leer
-
-- [Turismo Marruecos 2030: trayectoria ONMT](/es/articulos/turismo-marruecos-2030-onmt-llegadas-2026)
-- [LGV Kenitra-Marrakech: impacto en viajes](/es/articulos/lgv-kenitra-marrakech-2026-impacto-viaje)
-- [Marrakech antes de 2030](/es/articulos/marrakech-antes-2030-turismo-infraestructuras-oportunidades)
-
-## Matriz editorial de lectura
-
-Un tema como **Precios de carburantes en Marruecos: lo que se sabe de la subida** no debe leerse como una cadena de noticias aisladas. El primer paso útil consiste en separar hechos verificados, formulaciones oficiales, interpretaciones periodísticas y escenarios probables. Este método protege al lector de dos errores frecuentes: convertir una hipótesis en certeza o minimizar una señal importante porque todavía no se conocen todos sus efectos administrativos, económicos o diplomáticos.
-
-El primer nivel es la calidad de la fuente. Una institución pública, una federación deportiva, un regulador, una organización internacional o una empresa cotizada no producen el mismo tipo de información que un artículo de prensa. Una fuente oficial puede confirmar una fecha, una cifra o una decisión, pero puede no explicar sus consecuencias prácticas. Un medio fiable puede contextualizar y señalar zonas grises, pero no sustituye el documento primario cuando se trata de un trámite, precio, calendario o alerta.
-
-El segundo nivel es el vocabulario. En la actualidad marroquí, palabras como “anunciado”, “confirmado”, “previsto”, “esperado”, “reportado”, “probable” o “en discusión” no son intercambiables. Un anuncio de inversión no es una fábrica operativa. Un mapa de riesgo no es un incendio activo. Un calendario deportivo no es un resultado. Una posición diplomática no es automáticamente una resolución internacional. Mantener estas distinciones visibles hace el contenido más útil y duradero.
-
-El tercer nivel es territorial. Los efectos de una misma noticia rara vez se reparten de forma uniforme entre Rabat, Casablanca, Marrakech, Tánger, Agadir, las provincias del sur, las zonas forestales o los puntos fronterizos. Marruecos avanza por polos, corredores, temporadas y administraciones especializadas. Por eso el artículo privilegia lugares, fechas y actores identificables en lugar de generalizaciones nacionales demasiado rápidas.
-
-El cuarto nivel es práctico. El lector no solo pregunta “¿qué pasó?”, sino “¿qué debo comprobar antes de decidir?”. A veces eso significa consultar un mapa de vigilancia, esperar un comunicado, revisar un portal administrativo, confirmar el horario de un partido, comparar precios en estaciones o distinguir una obra financiada de un proyecto aún en estructuración.
-
-### Antes de compartir
-
-- Los precios están liberalizados.
-- Los ajustes siguen las cotizaciones internacionales con desfase.
-- Existen diferencias entre estaciones.
-- Transporte, entregas y viajes de verano son los más expuestos.
-
-Estos puntos deben entenderse como una fotografía editorial, no como una verdad inmóvil. Los temas que ganan visibilidad en Google Discover, Google News o respuestas generadas por IA suelen evolucionar tras la publicación. La función del artículo no es simular certeza total, sino mostrar dónde empieza la certeza y dónde comienza la vigilancia.
-
-## Por qué puede aumentar el interés de búsqueda
-
-La demanda de búsqueda crece cuando un tema combina proximidad, utilidad e incertidumbre. La proximidad puede ser geográfica, familiar, económica o simbólica. La utilidad aparece cuando el lector puede tomar una decisión: viajar antes, aplazar un trámite, seguir un partido, entender una factura, evitar una zona de riesgo o medir el alcance de un anuncio público. La incertidumbre crea una necesidad de aclaración: los usuarios buscan entonces una respuesta sencilla pero con fuentes.
-
-El calendario también pesa. A comienzos de agosto se concentran viajes de verano, picos de calor, flujos turísticos, retornos de MRE, competiciones deportivas y preparativos económicos de fin de temporada. Una información publicada en este periodo puede circular rápido si toca seguridad, presupuesto familiar, viaje, identidad administrativa o imagen internacional de Marruecos.
-
-Conviene evitar la falsa urgencia. Decir que un tema está bajo vigilancia no significa dramatizarlo. Una buena escritura da la respuesta rápida al inicio y luego explica los límites. También ayuda a buscadores y sistemas de IA: las entidades están nombradas, las fechas son explícitas, la incertidumbre es visible y las fuentes quedan listadas.
-
-## Qué puede modificar el artículo
-
-- Elemento confirmado: Subida documentada el 16 de julio de 2026
-- Elemento confirmado: Revisiones bimensuales frecuentes
-- Elemento confirmado: Seguimiento del Consejo de la Competencia
-- Punto de vigilancia: Revisión del 1 de agosto
-- Punto de vigilancia: Petróleo
-- Punto de vigilancia: Tipo dirham-dólar
-- Punto de vigilancia: Diferencias por ciudad
-
-Un artículo de actualidad debe estar dispuesto a corregirse. Si una fuente oficial publica un nuevo boletín, si una institución precisa una cifra, si una federación actualiza un marcador, si una empresa cambia su calendario o si un gobierno confirma una medida, el texto debe revisarse. Esta disciplina importa tanto como el estilo: evita titulares excesivos, cifras antiguas y enlaces internos hacia situaciones superadas.
-
-## Método de verificación
-
-La selección de fuentes siguió tres prioridades. Primero, fuentes primarias: portales oficiales marroquíes, instituciones públicas, organismos internacionales, federaciones o empresas directamente implicadas. Después, medios reconocidos capaces de aportar contexto factual y fechado. Por último, fuentes especializadas cuando el tema exigía seguimiento de mercado, transporte, meteorología, deporte o migración.
-
-Las cifras se trataron con prudencia cuando eran indicativas, provisionales o dependientes de una localización. Las fechas futuras se presentaron como plazos anunciados, no como resultados ya conseguidos. Las imágenes se trataron como ilustraciones cuando su función era contextual. Ninguna imagen debe entenderse como prueba documental de un evento preciso si la leyenda no lo indica claramente.
-
-## Consecuencias posibles para los lectores
-
-Para los particulares, el valor inmediato consiste en saber qué verificar y dónde. Para profesionales del turismo, inmobiliario, transporte, industria o servicios, el reto es separar el ruido de la información utilizable. Para lectores internacionales, el artículo también funciona como puente: explica entidades marroquíes, calendarios, siglas y límites de interpretación sin suponer conocimiento previo del país.
-
-La prudencia no debilita la información; la vuelve más sólida. Un hecho modesto pero bien atribuido vale más que una conclusión espectacular sin soporte. Esa es la línea editorial elegida aquí para proteger al lector y preservar la credibilidad del sitio.
-
-## Lista final de seguimiento
-
-Antes de actuar sobre esta información, el lector debería hacer una última comprobación en la fuente que posee la decisión. Para meteorología, el mapa oficial de vigilancia. Para deporte, la federación, CAF u organizador de la competición. Para transporte, el aeropuerto, la aerolínea, el operador ferroviario o el aviso oficial al pasajero. Para administración, el portal gubernamental competente. Para diplomacia, la declaración, resolución o comunicado institucional original.
-
-La distinción importa porque la conversación pública suele avanzar más rápido que el registro administrativo. Los buscadores pueden mostrar artículos antiguos, las redes sociales pueden comprimir matices y las capturas pueden circular sin fecha ni contexto. Un artículo fiable reduce la confusión, pero no congela un expediente vivo. Por eso la fecha de publicación, la nota de actualización y la lista de fuentes forman parte de la propia información.
-
-Para Le Vrai Maroc, la próxima actualización útil debería ser un cambio factual, no estilístico: una nueva cifra oficial, un nuevo nivel de alerta, un marcador confirmado, un decreto publicado, una decisión de financiación, un avance de obra, una declaración fronteriza o una corrección de calendario. Sin ese tipo de cambio, la acción editorial honesta es vigilar, no repetir la incertidumbre con palabras más fuertes.
+El encarecimiento afecta directamente al coste de circular. Su efecto en un envío, un billete o un alimento no coincide necesariamente con la subida porcentual del surtidor: el combustible solo representa una parte del coste. Solicite el desglose de un presupuesto revisado antes de trasladar la subida a toda la factura.
 
 ## Preguntas frecuentes
 
-<details><summary>¿Pueden cambiar las cifras?</summary><p>Sí. Actualidad, meteorología, deporte, migración y precios cambian rápido; conviene verificar fuentes oficiales al leer.</p></details>
+<details><summary>¿El gasoil cuesta 15,01 DH en todas partes?</summary><p>No. Es una referencia indicativa publicada el 1 de septiembre. El precio efectivo se comprueba en la estación.</p></details>
 
-<details><summary>¿Por qué usar varias fuentes?</summary><p>Porque un solo medio no equivale a confirmación oficial, sobre todo en diplomacia, seguridad, migración o precios.</p></details>
+<details><summary>¿Está confirmada otra subida?</summary><p>Las fuentes de esta actualización no confirman una subida futura. Un escenario de mercado no equivale a una tarifa nueva.</p></details>
 
-<details><summary>¿Sustituye una gestión oficial?</summary><p>No. Para trámites, alertas o viajes, la fuente administrativa u organizador oficial tiene prioridad.</p></details>
+<details><summary>¿Por qué la URL conserva agosto de 2026?</summary><p>Se mantiene la página existente para seguir los precios. El texto y el cuadro indican la fecha de la última referencia.</p></details>
 
-<details><summary>¿Por qué algunas imágenes son ilustraciones?</summary><p>Porque documentan el contexto sin afirmar que muestran el evento exacto descrito.</p></details>
+## Para ampliar
 
-<details><summary>¿Cuál es el siguiente paso editorial?</summary><p>Vigilar comunicados oficiales, actualizar cifras y corregir escenarios cuando haya un hecho nuevo confirmado.</p></details>
-
-## Fuentes utilizadas
-
-- [Médias24 — hausse du 16 juillet 2026](https://medias24.com/2026/07/16/carburant-les-prix-a-la-pompe-repartent-a-la-hausse-ce-jeudi-16-juillet-1723769/)
-- [LeBrief — prix carburants Maroc](https://www.lebrief.ma/services/prix-carburants-maroc/)
-- [Conseil de la concurrence — note carburants mars 2026](https://conseil-concurrence.ma/note-sur-levolution-des-prix-du-gasoil-et-de-lessence-sur-les-marches-internationaux-et-leur-repercussion-sur-les-prix-de-vente-a-la-pompe-au-marche-national-periode-du-1er-mars-a/)
-- [SNRT News / MAP — transmission des cotations internationales](https://snrtnews.com/fr/article/gasoil-et-essence-le-conseil-de-la-concurrence-note-une-transmission-globalement-proche-des)
+- [Carburantes en Marruecos: ¿está confirmada otra subida?](/es/articulos/carburantes-marruecos-proxima-subida)
+- [Elecciones de Marruecos 2026: propuestas para el poder adquisitivo](/es/articulos/programas-electorales-poder-adquisitivo-marruecos-2026)
+- [Turismo en Marruecos 2026: 14,1 millones de llegadas hasta agosto](/es/articulos/turismo-marruecos-2030-onmt-llegadas-2026)

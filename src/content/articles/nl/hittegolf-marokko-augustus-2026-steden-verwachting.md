@@ -1,180 +1,112 @@
 ---
-title: "Hittegolf in Marokko: kwetsbare steden en verwachtingen deze week"
-slug: "hittegolf-marokko-augustus-2026-steden-verwachting"
-urlSlug: "hittegolf-marokko-augustus-2026-steden-verwachting"
-locale: "nl"
-translationKey: "canicule-maroc-aout-2026"
-metaTitle: "Hittegolf in Marokko: kwetsbare steden en verwachtingen deze week"
-metaDescription: "Hittegolf Marokko augustus 2026: DGM-waakzaamheid, gezondheid, brandrisico, reizen en praktische adviezen."
-category: "guides"
-tags: ["hittegolf","in","marokko","kwetsbare","steden","en","verwachtingen","deze"]
-date: 2026-08-03
-updatedDate: 2026-08-03
-readingTime: 8
-excerpt: "Hitte blijft een nationale waakzaamheidskwestie, vooral in het binnenland en de zuidelijke provincies."
-heroImage: "/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-cover.webp"
-imageAlt: "Jemaa el-Fna overdag, stedelijke hittecontext in Marrakech."
-featured: false
-sources:
-  - label: "Maroc Météo — vigilance et communiqués DGM"
-    url: "https://www.marocmeteo.ma/"
-  - label: "Maroc Météo — vague de chaleur au Maroc"
-    url: "https://www.marocmeteo.ma/fr/episode-de-forte-chaleur-au-maroc"
-  - label: "Le Monde — Morocco faces repeated heatwaves"
-    url: "https://www.lemonde.fr/en/environment/article/2026/07/26/morocco-facing-repeated-heatwaves-and-fears-water-shortages_6755844_114.html"
-disclaimer: false
+"title": "Hittegolf Marokko: hitte en onweer van 7 tot 9 september 2026"
+"slug": "hittegolf-marokko-augustus-2026-steden-verwachting"
+"urlSlug": "hittegolf-marokko-augustus-2026-steden-verwachting"
+"locale": "nl"
+"translationKey": "canicule-maroc-aout-2026"
+"metaTitle": "Hitte Marokko: weer en waarschuwingen"
+"metaDescription": "DGM verwacht op maandag 7 september 2026 maximaal 42°C in Marrakech, 41°C in Fez en Meknes, 42°C in Laayoune en 46°C in Aousserd. De oranje waarschuwing…"
+"category": "guides"
+"tags":
+  - "Hitte"
+  - "Marokko"
+"date": "2026-08-03"
+"updatedDate": "2026-09-07"
+"readingTime": 3
+"excerpt": "DGM verwacht op maandag 7 september 2026 maximaal 42°C in Marrakech, 41°C in Fez en Meknes, 42°C in Laayoune en 46°C in Aousserd. De oranje waarschuwing meldt ook onweer met hagel en windstoten in achttien provincies van 14.00 tot 23.00 uur. Hittewaarschuwingen en stadsverwachtingen hebben verschillende geldigheidsperioden."
+"heroImage": "/images/articles/editorial-2026-09-05/canicule-maroc-aout-2026-cover.webp"
+"imageAlt": "Verkeer in de medina van Marrakech; stedelijke context, geen temperatuurmeting."
+"articleType": "NewsArticle"
+"heroCaption": "Verkeer in de medina van Marrakech; stedelijke context, geen temperatuurmeting. Contextfoto · 2015."
+"heroCredit": "Elgaard"
+"heroSource": "https://commons.wikimedia.org/wiki/File:MarrakechMedinaSun.jpg"
+"heroLicense": "https://creativecommons.org/licenses/by-sa/4.0"
+"heroWidth": 1600
+"heroHeight": 900
+"featured": false
+"sources":
+  - "label": "DGM / H24Info / MAP · 07.09.2026"
+    "url": "https://h24info.ma/maroc/meteo-les-couleurs-du-ciel-ce-lundi-7-septembre/"
+  - "label": "DGM / H24Info / MAP · 07.09.2026 · 13:40"
+    "url": "https://h24info.ma/maroc/alerte-meteo-vague-de-chaleur-et-averses-orageuses-jusqua-mercredi-2/"
+  - "label": "DGM / Le360 / MAP · 07.09.2026"
+    "url": "https://fr.le360.ma/societe/meteo-forte-hausse-des-temperatures-et-orages-locaux-sur-le-royaume-ce-lundi-7-septembre_M3U5YHERFNF7JKOHMNV2ISYNMI/"
+  - "label": "DGM · Vigilance"
+    "url": "https://vigilance.marocmeteo.ma/?q=fr"
+  - "label": "WHO · 31.07.2026"
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health"
+"disclaimer": false
+"forecastValidUntil": "2026-09-08T00:00:00+01:00"
 ---
-**Kort antwoord.** De DGM beschrijft een hitteperiode onder invloed van Chergui-wind en temperaturen boven normaal. Omdat geen recenter provinciaal bulletin toegankelijk was, verwijst dit artikel naar de officiële waakzaamheidskaart die tweemaal per dag wordt bijgewerkt.
 
-> **Belangrijkste punten**
-> - Binnenlandse steden zijn kwetsbaarder dan geventileerde kustzones.
-> - Hitte verhoogt water- en aircogebruik.
-> - Lokale onweersbuien kunnen ontstaan in Atlas en Oriental.
-> - Reizigers moeten tijden, hydratatie en wegen controleren.
+## Waar wordt het het warmst?
 
-Update-opmerking: dit onderwerp ontwikkelt zich. De feiten hieronder zijn bijgewerkt tot 3 augustus 2026 om 19:10 uur in Casablanca.
+Het dagelijkse DGM-bulletin voor 7 september, gepubliceerd door H24Info met MAP, verwacht vrij warm tot warm weer op de noordelijke en centrale vlakten, in Souss, het zuidoosten en het binnenland van de zuidelijke provincies.
 
-## Waarom dit nu telt
+| Plaats      | Verwacht minimum | Verwacht maximum op 7 september |
+| ----------- | ---------------- | ------------------------------- |
+| Marrakech   | 24°C             | 42°C                            |
+| Fez         | 27°C             | 41°C                            |
+| Meknes      | 27°C             | 41°C                            |
+| Settat      | 25°C             | 40°C                            |
+| Beni Mellal | 27°C             | 39°C                            |
+| Aousserd    | 27°C             | 46°C                            |
 
-Binnenlandse steden zijn kwetsbaarder dan geventileerde kustzones.
-
-Hitte verhoogt water- en aircogebruik.
-
-Lokale onweersbuien kunnen ontstaan in Atlas en Oriental.
-
-Reizigers moeten tijden, hydratatie en wegen controleren.
+Hoge minimumtemperaturen beperken de nachtelijke afkoeling. Casablanca heeft een verwachte maximumtemperatuur van 27°C en Agadir van 37°C. De hitte verschilt sterk per plaats.
 
 <figure>
-  <img src="/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-01.webp" alt="Zonnige straat in de medina van Marrakech als context voor stedelijke hitte." width="530" height="799" loading="lazy" decoding="async" />
-  <figcaption>Contextuele illustratie. Zonnige straat in de medina van Marrakech als context voor stedelijke hitte. Credit: Francisco Anzola / Wikimedia Commons (CC BY 2.0).</figcaption>
+  <img src="/images/articles/editorial-2026-09-05/canicule-maroc-aout-2026-01.webp" alt="Landschap bij Ouarzazate; contextfoto." width="1200" height="798" loading="lazy" decoding="async" />
+  <figcaption>Landschap bij Ouarzazate; contextfoto. Contextfoto · 2018. Foto: <a href="https://commons.wikimedia.org/wiki/File:Ouarzazate_Landscape.jpg" rel="noopener">Mariel arg</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="license">CC BY-SA 4.0</a>.</figcaption>
 </figure>
 
-## Geverifieerde ijkpunten
+## Onweer is niet hetzelfde als een waarschuwingskleur
 
-| Element | Nuttige lezing |
-|---|---|
-| 1 | Binnenlandse steden zijn kwetsbaarder dan geventileerde kustzones. |
-| 2 | Hitte verhoogt water- en aircogebruik. |
-| 3 | Lokale onweersbuien kunnen ontstaan in Atlas en Oriental. |
-| 4 | Reizigers moeten tijden, hydratatie en wegen controleren. |
+Het dagelijkse bulletin verwacht onweersbuien boven de Atlas, de oostelijke hellingen en de Fosfaatplateaus, met mogelijk uitbreiding naar Chaouia in de avond. Ook in Souss, de Rif en het zuiden van de Oriental worden buien en onweer genoemd.
+
+Update van 7 september: het om 13.40 uur verspreide DGM-bulletin meldt code oranje. De tabel onderscheidt gebieden en perioden en vervangt de verwijzing naar een verlopen kaart.
+
+| September 2026 | Verwachte hitte (°C) | Provincies                                                                                                                                                                                                 |
+| -------------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 7–9            | 42–46                | Tata, Es-Semara, Assa-Zag, Boujdour, Oued Ed-Dahab, Aousserd                                                                                                                                               |
+| 7–8            | 38–42                | Chtouka-Ait Baha, Guelmim, Laâyoune, Taroudant, Tan-Tan, Tiznit, Sidi Ifni, Tarfaya                                                                                                                        |
+| 7              | 38–42                | Marrakech, Sidi Slimane, Kénitra, Khouribga, Settat, Béni Mellal, Fquih Ben Salah, Taounate, Sidi Kacem, Khénifra, Larache, Ouezzane, El Kelâa des Sraghna, Rehamna, Khémisset, Meknès, Fès, Moulay Yacoub |
+
+Onweer met hagel en windstoten, met 25–35 mm neerslag, betreft de achttien provincies die in het artikel staan op 7 september van 14.00 tot 23.00 uur. Controleer de DGM-kaart voor eventuele herzieningen voordat u vertrekt.
 
 <figure>
-  <img src="/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-02.webp" alt="Zonnige kust van Agadir als context voor steden blootgesteld aan hitte." width="1200" height="900" loading="lazy" decoding="async" />
-  <figcaption>Contextuele illustratie. Zonnige kust van Agadir als context voor steden blootgesteld aan hitte. Credit: Marcin Sochacki (Wanted) / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
+  <img src="/images/articles/editorial-2026-09-05/canicule-maroc-aout-2026-02.webp" alt="Boulevard langs het strand van Agadir." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Boulevard langs het strand van Agadir. Contextfoto · 2014. Foto: <a href="https://commons.wikimedia.org/wiki/File:02-beach-agadir-morocco.JPG" rel="noopener">Elmschrat</a> · <a href="https://creativecommons.org/licenses/by-sa/3.0" rel="license">CC BY-SA 3.0</a>.</figcaption>
 </figure>
+
+## Wanneer wordt het koeler?
+
+Voor 7 september verwacht DGM een duidelijke temperatuurstijging in het zuiden, op de noordelijke en centrale vlakten, in de Rif en aan de westelijke mediterrane kant. De hittewaarschuwing loopt voor de heetste groep provincies tot 9 september en voor een andere groep tot 8 september. Die einddata garanderen niet overal onmiddellijke afkoeling. Controleer het volgende bulletin op onze [weerpagina per stad](/nl/artikelen/weer-marokko-vandaag).
+
+## Pas uitstapjes en buitenwerk aan
+
+De WHO adviseert zware inspanning tijdens de heetste uren te beperken, schaduw en koelte op te zoeken, regelmatig te drinken en kwetsbare mensen te helpen. Laat nooit een kind achter in een geparkeerde auto. Ernstig onwel worden of verwardheid na blootstelling aan hitte vraagt om dringende medische hulp.
+
+Plan lange wandelingen in Marrakech vroeg en neem beschutte pauzes. Buitenwerkers hebben water, rustmomenten en bescherming nodig. Een kustroute kan heel andere omstandigheden hebben dan een excursie landinwaarts.
 
 <figure>
-  <img src="/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-03.webp" alt="Zonnig beeld van Ouarzazate als context voor warme binnenlandse gebieden." width="1200" height="675" loading="lazy" decoding="async" />
-  <figcaption>Contextuele illustratie. Zonnig beeld van Ouarzazate als context voor warme binnenlandse gebieden. Credit: GuHKS / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
+  <img src="/images/articles/editorial-2026-09-05/canicule-maroc-aout-2026-03.webp" alt="Zonnig weer in Béni Mellal, archieffoto." width="1200" height="675" loading="lazy" decoding="async" />
+  <figcaption>Zonnig weer in Béni Mellal, archieffoto. Contextfoto · 2017. Foto: <a href="https://commons.wikimedia.org/wiki/File:Sunny_weather_in_Beni_Mellal,_Morocco.jpg" rel="noopener">Wassim Mellali</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="license">CC BY-SA 4.0</a>.</figcaption>
 </figure>
 
-## Wat bevestigd is
+## Bosbrandgevaar afzonderlijk controleren
 
-- DGM-bericht van 2 juli 2026
-- Maroc Météo-kaart om 10:00 en 16:00 bijgewerkt
-- Blijvende druk op waterbronnen
+Ook wind, luchtvochtigheid en begroeiing bepalen brandgevaar. Een maximum van 42°C bewijst geen actieve brand en geen officiële risicocategorie. Controleer ANEF-berichten en plaatselijke beperkingen, respecteer afsluitingen en vermijd open vuur.
 
-## Wat gevolgd moet worden
+## Veelgestelde vragen
 
-- Oranje of rode alerts
-- Onweer en windstoten
-- ANEF-bosbrandrisico
-- Elektriciteitspieken
+<details><summary>Zijn dit live gemeten temperaturen?</summary><p>Nee. Het zijn de minimum- en maximumverwachtingen van DGM voor 7 september 2026.</p></details>
 
-## Wat dit concreet verandert
+<details><summary>Bevestigt dit artikel code oranje?</summary><p>Ja. Het op 7 september verspreide bulletin meldt code oranje, met verschillende gebieden en perioden voor hitte en onweer. Controleer herzieningen op de DGM-kaart.</p></details>
 
-- Binnenlandse steden zijn kwetsbaarder dan geventileerde kustzones.
-- Hitte verhoogt water- en aircogebruik.
-- Lokale onweersbuien kunnen ontstaan in Atlas en Oriental.
-- Reizigers moeten tijden, hydratatie en wegen controleren.
+<details><summary>Geldt deze verwachting ook morgen?</summary><p>Nee. De verwachting voor 7 september beschrijft niet automatisch 8 september.</p></details>
 
 ## Verder lezen
 
-- [Toerisme Marokko 2030: ONMT-traject](/nl/artikelen/toerisme-marokko-2030-onmt-aankomsten-2026)
-- [HSL Kenitra-Marrakech: reisimpact](/nl/artikelen/hsl-kenitra-marrakech-2026-reisimpact)
-- [Marrakech voor 2030](/nl/artikelen/marrakech-voor-2030-toerisme-infrastructuur-kansen)
-
-## Redactioneel Leeskader
-
-Een onderwerp als **Hittegolf in Marokko: kwetsbare steden en verwachtingen deze week** moet niet gelezen worden als een losse reeks korte berichten. De nuttige eerste stap is het scheiden van geverifieerde feiten, officiële formuleringen, mediainterpretaties en waarschijnlijke scenario’s. Dat beschermt lezers tegen twee veel voorkomende fouten: een aanname als zekerheid behandelen, of een belangrijk signaal onderschatten omdat de administratieve, economische of diplomatieke gevolgen nog niet volledig zichtbaar zijn.
-
-De eerste laag is bronkwaliteit. Een publieke instelling, sportfederatie, toezichthouder, internationale organisatie of beursgenoteerd bedrijf produceert andere informatie dan een nieuwsartikel. Een officiële bron kan een datum, cijfer of besluit bevestigen, maar zwijgen over praktische gevolgen. Een betrouwbaar medium kan context toevoegen en blinde vlekken tonen, maar vervangt het primaire document niet wanneer het gaat om procedure, prijs, kalender of waarschuwing.
-
-De tweede laag is woordkeuze. In Marokkaans nieuws zijn woorden als “aangekondigd”, “bevestigd”, “gepland”, “verwacht”, “gemeld”, “waarschijnlijk” en “in bespreking” niet uitwisselbaar. Een investeringsaankondiging is geen werkende fabriek. Een risicokaart is geen actieve brand. Een wedstrijdkalender is geen uitslag. Een diplomatieke positie is niet automatisch een internationale resolutie. Die verschillen zichtbaar houden maakt de tekst nuttiger en duurzamer.
-
-De derde laag is territoriaal. De effecten van één nieuwsfeit verspreiden zich zelden gelijkmatig over Rabat, Casablanca, Marrakech, Tanger, Agadir, zuidelijke provincies, bosgebieden of grenspunten. Marokko beweegt via hubs, corridors, seizoenen en gespecialiseerde administraties. Daarom kiest dit artikel voor herkenbare plaatsen, data en actoren in plaats van snelle nationale veralgemeningen.
-
-De vierde laag is praktisch. Lezers vragen niet alleen “wat is er gebeurd?”, maar ook “wat moet ik controleren voor ik beslis?”. Soms betekent dat een waakzaamheidskaart raadplegen, wachten op een communiqué, een administratief portaal controleren, een wedstrijdtijd bevestigen, pompprijzen vergelijken of een gefinancierde werf onderscheiden van een project dat nog wordt gestructureerd.
-
-### Voor het delen
-
-- Binnenlandse steden zijn kwetsbaarder dan geventileerde kustzones.
-- Hitte verhoogt water- en aircogebruik.
-- Lokale onweersbuien kunnen ontstaan in Atlas en Oriental.
-- Reizigers moeten tijden, hydratatie en wegen controleren.
-
-Deze punten zijn een redactionele momentopname, geen bevroren waarheid. Onderwerpen die zichtbaar worden in Google Discover, Google News of AI-antwoorden veranderen vaak na publicatie. De rol van het artikel is niet totale zekerheid simuleren, maar tonen waar zekerheid begint en monitoring nodig blijft.
-
-## Waarom zoekinteresse kan stijgen
-
-Zoekvraag stijgt wanneer een onderwerp nabijheid, nut en onzekerheid combineert. Nabijheid kan geografisch, familiaal, economisch of symbolisch zijn. Nut ontstaat wanneer lezers een beslissing kunnen nemen: vroeger reizen, een afspraak uitstellen, een wedstrijd volgen, een rekening begrijpen, een risicogebied vermijden of de waarde van een publieke aankondiging inschatten. Onzekerheid creëert behoefte aan verduidelijking: gebruikers zoeken dan een eenvoudig maar onderbouwd antwoord.
-
-Ook timing telt. Begin augustus komen zomerreizen, hittepieken, toeristische stromen, terugkeer van Marokkanen uit het buitenland, sportcompetities en economische voorbereiding samen. Een verhaal kan in deze periode snel circuleren wanneer het raakt aan veiligheid, gezinsbudget, reizen, administratieve identiteit of het internationale beeld van Marokko.
-
-Valse urgentie moet vermeden worden. Zeggen dat een onderwerp wordt gevolgd betekent niet dat het gedramatiseerd moet worden. Goede redactionele tekst geeft bovenaan het korte antwoord en legt daarna de grenzen uit. Dat helpt ook zoekmachines en AI-systemen: entiteiten zijn genoemd, data zijn expliciet, onzekerheid is zichtbaar en bronnen staan vermeld.
-
-## Wat het artikel kan veranderen
-
-- Bevestigd element: DGM-bericht van 2 juli 2026
-- Bevestigd element: Maroc Météo-kaart om 10:00 en 16:00 bijgewerkt
-- Bevestigd element: Blijvende druk op waterbronnen
-- Te volgen punt: Oranje of rode alerts
-- Te volgen punt: Onweer en windstoten
-- Te volgen punt: ANEF-bosbrandrisico
-- Te volgen punt: Elektriciteitspieken
-
-Een nieuwsartikel moet gecorrigeerd kunnen worden. Als een officiële bron een nieuw bulletin publiceert, een instelling een cijfer verduidelijkt, een federatie een score bijwerkt, een bedrijf een planning wijzigt of een overheid een maatregel bevestigt, moet de tekst worden herlezen. Deze discipline telt evenveel als stijl: ze voorkomt te sterke titels, verouderde cijfers en interne links naar achterhaalde situaties.
-
-## Verificatiemethode
-
-De bronselectie volgde drie prioriteiten. Eerst kwamen primaire bronnen: Marokkaanse officiële portalen, publieke instellingen, internationale instanties, federaties of direct betrokken bedrijven. Daarna erkende media die gedateerde feitelijke context konden geven. Tot slot gespecialiseerde bronnen wanneer het onderwerp markt-, transport-, weer-, sport- of migratieopvolging vroeg.
-
-Cijfers zijn voorzichtig behandeld wanneer ze indicatief, voorlopig of locatieafhankelijk waren. Toekomstige data zijn gepresenteerd als aangekondigde termijnen, niet als reeds behaalde uitkomsten. Beelden zijn als illustraties behandeld wanneer hun rol contextueel was. Geen enkel beeld moet worden gelezen als documentair bewijs van een precies evenement tenzij het bijschrift dat duidelijk zegt.
-
-## Mogelijke gevolgen voor lezers
-
-Voor particulieren is de onmiddellijke waarde weten wat gecontroleerd moet worden en waar. Voor professionals in toerisme, vastgoed, transport, industrie of diensten gaat het om ruis scheiden van bruikbare informatie. Voor internationale lezers werkt het artikel ook als brug: het verklaart Marokkaanse entiteiten, kalenders, afkortingen en interpretatiegrenzen zonder voorkennis van het land te veronderstellen.
-
-Voorzichtigheid verzwakt informatie niet; ze maakt haar sterker. Een bescheiden maar goed toegeschreven feit is meer waard dan een spectaculaire conclusie zonder steun. Dat is de redactionele lijn hier: de lezer beschermen en de geloofwaardigheid van de site bewaren.
-
-## Laatste Monitoringchecklist
-
-Voor iemand op basis van deze informatie handelt, is één laatste controle nodig bij de bron die de beslissing bezit. Voor weer is dat de officiële waakzaamheidskaart. Voor sport is dat de federatie, CAF of organisator. Voor transport is dat de luchthaven, luchtvaartmaatschappij, spooroperator of officiële passagiersmelding. Voor administratie is dat het bevoegde overheidsportaal. Voor diplomatie is dat de oorspronkelijke verklaring, resolutie of institutionele mededeling.
-
-Dit onderscheid is belangrijk omdat het publieke gesprek vaak sneller beweegt dan het administratieve dossier. Zoekmachines kunnen oudere artikelen tonen, sociale netwerken kunnen nuance platdrukken en screenshots kunnen zonder datum of context circuleren. Een betrouwbaar artikel kan verwarring verminderen, maar bevriest geen levend dossier. Publicatiedatum, update-opmerking en bronnenlijst zijn daarom onderdeel van de informatie zelf.
-
-Voor Le Vrai Maroc zou de volgende nuttige update een feitelijke wijziging moeten zijn, geen stilistische: een nieuw officieel cijfer, een nieuw waarschuwingsniveau, een bevestigde score, een gepubliceerd decreet, een financieringsbesluit, een projectmijlpaal, een grensverklaring of een gecorrigeerde kalender. Zonder zo'n wijziging is de eerlijkste redactionele actie monitoren, niet dezelfde onzekerheid met hardere woorden herhalen.
-
-## Redactionele slotcontrole
-
-De Nederlandse versie behoudt dezelfde feitelijke voorzichtigheid als de Franse brontekst. Namen van instellingen, data, bedragen en onzekerheden zijn bewust niet versterkt om natuurlijker te klinken. Wanneer een officiële bron later preciezer wordt, moet ook deze vertaling worden bijgewerkt zodat lezers in elke taal dezelfde mate van zekerheid krijgen. Dat geldt vooral voor voorlopige cijfers, toekomstige deadlines, waarschuwingen, wedstrijdinformatie en administratieve details.
-
-Ook bij snelle verspreiding op sociale media blijft de controle eenvoudig: datum, bron, plaats, betrokken instelling en exacte formulering moeten overeenkomen voordat een conclusie wordt gedeeld of gebruikt.
-
-## FAQ
-
-<details><summary>Kunnen cijfers veranderen?</summary><p>Ja. Nieuws, weer, sport, migratie en prijzen veranderen snel; controleer officiële bronnen bij het lezen.</p></details>
-
-<details><summary>Waarom meerdere bronnen?</summary><p>Omdat één mediabericht geen officiële bevestiging is, zeker niet bij diplomatie, veiligheid, migratie of prijzen.</p></details>
-
-<details><summary>Vervangt dit een officiële procedure?</summary><p>Nee. Voor procedures, alerts of reizen blijft de administratieve bron of officiële organisator leidend.</p></details>
-
-<details><summary>Waarom heten sommige beelden illustraties?</summary><p>Omdat ze context tonen zonder te beweren dat ze het exacte beschreven evenement weergeven.</p></details>
-
-<details><summary>Wat is de volgende redactionele stap?</summary><p>Officiële berichten volgen, cijfers actualiseren en scenario’s aanpassen zodra nieuwe feiten bevestigd zijn.</p></details>
-
-## Gebruikte bronnen
-
-- [Maroc Météo — vigilance et communiqués DGM](https://www.marocmeteo.ma/)
-- [Maroc Météo — vague de chaleur au Maroc](https://www.marocmeteo.ma/fr/episode-de-forte-chaleur-au-maroc)
-- [Le Monde — Morocco faces repeated heatwaves](https://www.lemonde.fr/en/environment/article/2026/07/26/morocco-facing-repeated-heatwaves-and-fears-water-shortages_6755844_114.html)
+- [Weer in Marokko vandaag: stadsverwachting voor 7 september 2026](/nl/artikelen/weer-marokko-vandaag)
+- [Toerisme Marokko 2026: 14,1 miljoen aankomsten tot en met augustus](/nl/artikelen/toerisme-marokko-2030-onmt-aankomsten-2026)
+- [Schooljaar 2026–2027 in Marokko: startdata, vakanties en praktische planning](/nl/artikelen/schooljaar-marokko-2026-2027)

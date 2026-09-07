@@ -1,26 +1,40 @@
 ---
-import BaseLayout from './BaseLayout.astro';
-import TableOfContents from '@/components/TableOfContents.astro';
-import RelatedArticles from '@/components/RelatedArticles.astro';
-import NewsletterBlock from '@/components/NewsletterBlock.astro';
-import CategoryPill from '@/components/CategoryPill.astro';
-import { SITE } from '@/data/site';
-import type { CollectionEntry } from 'astro:content';
-import { localeMeta, type Locale } from '@/i18n/config';
-import { categoryCopies } from '@/i18n/pages';
-import { articleHref, articleLocale } from '@/i18n/articles';
-import { absoluteUrl, categoryRouteKeys, localizedPath } from '@/i18n/routes';
-import { ui } from '@/i18n/ui';
+import BaseLayout from "./BaseLayout.astro";
+import TableOfContents from "@/components/TableOfContents.astro";
+import RelatedArticles from "@/components/RelatedArticles.astro";
+import NewsletterBlock from "@/components/NewsletterBlock.astro";
+import CategoryPill from "@/components/CategoryPill.astro";
+import { SITE } from "@/data/site";
+import type { CollectionEntry } from "astro:content";
+import { localeMeta, type Locale } from "@/i18n/config";
+import { categoryCopies } from "@/i18n/pages";
+import { articleHref, articleLocale } from "@/i18n/articles";
+import { absoluteUrl, categoryRouteKeys, localizedPath } from "@/i18n/routes";
+import { ui } from "@/i18n/ui";
 
 interface Props {
-  article: CollectionEntry<'articles'>;
-  relatedArticles: CollectionEntry<'articles'>[];
+  article: CollectionEntry<"articles">;
+  relatedArticles: CollectionEntry<"articles">[];
   headings: { depth: number; text: string; slug: string }[];
-  alternates?: Record<Locale | 'x-default', string>;
+  alternates?: Record<Locale | "x-default", string>;
 }
 
 const { article, relatedArticles, headings, alternates } = Astro.props;
-const { title, metaTitle, metaDescription, category, tags, date, updatedDate, readingTime, excerpt, heroImage, imageAlt, sources, disclaimer } = article.data;
+const {
+  title,
+  metaTitle,
+  metaDescription,
+  category,
+  tags,
+  date,
+  updatedDate,
+  readingTime,
+  excerpt,
+  heroImage,
+  imageAlt,
+  sources,
+  disclaimer,
+} = article.data;
 const locale = articleLocale(article);
 const localeInfo = localeMeta[locale];
 const currentUi = ui[locale];
@@ -28,117 +42,208 @@ const categoryKey = category as keyof typeof categoryRouteKeys;
 const categoryCopy = categoryCopies[locale][categoryKey];
 const categoryHref = localizedPath(locale, categoryRouteKeys[categoryKey]);
 const editorialRoleLabel = {
-  fr: 'Analyse éditoriale',
-  en: 'Editorial analysis',
-  es: 'Análisis editorial',
-  nl: 'Redactionele analyse',
+  fr: "Analyse éditoriale",
+  en: "Editorial analysis",
+  es: "Análisis editorial",
+  nl: "Redactionele analyse",
 }[locale];
 const authorLabel = {
   fr: SITE.author,
-  en: 'Le Vrai Maroc editorial team',
-  es: 'Redacción de Le Vrai Maroc',
-  nl: 'Redactie Le Vrai Maroc',
+  en: "Le Vrai Maroc editorial team",
+  es: "Redacción de Le Vrai Maroc",
+  nl: "Redactie Le Vrai Maroc",
 }[locale];
 const updatedDateLabel = {
-  fr: 'Mis à jour le',
-  en: 'Updated on',
-  es: 'Actualizado el',
-  nl: 'Bijgewerkt op',
+  fr: "Mis à jour le",
+  en: "Updated on",
+  es: "Actualizado el",
+  nl: "Bijgewerkt op",
 }[locale];
 const breadcrumbLabel = {
   fr: "Fil d'Ariane",
-  en: 'Breadcrumb',
-  es: 'Miga de pan',
-  nl: 'Broodkruimel',
+  en: "Breadcrumb",
+  es: "Miga de pan",
+  nl: "Broodkruimel",
 }[locale];
 
 // Preserve absolute URLs (https://...) unchanged; prepend / for relative paths
-const ogImage = heroImage.startsWith('http') ? heroImage : (heroImage.startsWith('/') ? heroImage : `/${heroImage}`);
-const ogImageAbsolute = ogImage.startsWith('http') ? ogImage : `${SITE.url}${ogImage}`;
-const isSafeLogoImage = heroImage.includes('/safe-logo-official') || heroImage.includes('/safe-og-official');
+const ogImage = heroImage.startsWith("http")
+  ? heroImage
+  : heroImage.startsWith("/")
+    ? heroImage
+    : `/${heroImage}`;
+const ogImageAbsolute = ogImage.startsWith("http")
+  ? ogImage
+  : `${SITE.url}${ogImage}`;
+const isSafeLogoImage =
+  heroImage.includes("/safe-logo-official") ||
+  heroImage.includes("/safe-og-official");
 const canonicalURL = absoluteUrl(articleHref(article));
 const stripInlineHtml = (value: string) =>
   value
-    .replace(/<[^>]+>/g, ' ')
-    .replace(/\s+/g, ' ')
+    .replace(/<[^>]+>/g, " ")
+    .replace(/\s+/g, " ")
     .trim();
-const faqItemsFromDetails = [...(article.body ?? '').matchAll(/<details>\s*<summary>([\s\S]*?)<\/summary>\s*<p>([\s\S]*?)<\/p>\s*<\/details>/g)].map(
-  ([, question, answer]) => ({
-    question: stripInlineHtml(question),
-    answer: stripInlineHtml(answer),
-  })
-);
-const hasEmbeddedFaqSchema = /"@type"\s*:\s*"FAQPage"/.test(article.body ?? '');
+const faqItemsFromDetails = [
+  ...(article.body ?? "").matchAll(
+    /<details>\s*<summary>([\s\S]*?)<\/summary>\s*<p>([\s\S]*?)<\/p>\s*<\/details>/g,
+  ),
+].map(([, question, answer]) => ({
+  question: stripInlineHtml(question),
+  answer: stripInlineHtml(answer),
+}));
+const hasEmbeddedFaqSchema = /"@type"\s*:\s*"FAQPage"/.test(article.body ?? "");
 
 const formattedDate = new Intl.DateTimeFormat(localeInfo.htmlLang, {
-  year: 'numeric',
-  month: 'long',
-  day: 'numeric',
+  year: "numeric",
+  month: "long",
+  day: "numeric",
 }).format(date);
 
 const formattedUpdatedDate = updatedDate
   ? new Intl.DateTimeFormat(localeInfo.htmlLang, {
-      year: 'numeric',
-      month: 'long',
-      day: 'numeric',
+      year: "numeric",
+      month: "long",
+      day: "numeric",
     }).format(updatedDate)
   : undefined;
 
 const blogPostingSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'BlogPosting',
+  "@context": "https://schema.org",
+  "@type": article.data.articleType,
   headline: title,
   description: metaDescription,
-  image: ogImageAbsolute,
+  image: {
+    "@type": "ImageObject",
+    url: ogImageAbsolute,
+    contentUrl: ogImageAbsolute,
+    caption: article.data.heroCaption ?? imageAlt,
+    creditText: article.data.heroCredit,
+    license: article.data.heroLicense,
+    acquireLicensePage: article.data.heroSource,
+    width: article.data.heroWidth,
+    height: article.data.heroHeight,
+  },
   datePublished: date.toISOString(),
   dateModified: article.data.updatedDate?.toISOString() ?? date.toISOString(),
   author: {
-    '@type': 'Organization',
+    "@type": "Organization",
     name: authorLabel,
     url: SITE.url,
   },
   publisher: {
-    '@type': 'Organization',
+    "@type": "Organization",
     name: SITE.name,
     logo: {
-      '@type': 'ImageObject',
+      "@type": "ImageObject",
       url: `${SITE.url}/images/og/default.webp`,
     },
   },
   mainEntityOfPage: {
-    '@type': 'WebPage',
-    '@id': canonicalURL,
+    "@type": "WebPage",
+    "@id": canonicalURL,
   },
-  keywords: tags.join(', '),
+  keywords: tags.join(", "),
   articleSection: categoryCopy.label,
   inLanguage: localeInfo.htmlLang,
   url: canonicalURL,
 };
 
 const breadcrumbSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'BreadcrumbList',
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
   itemListElement: [
-    { '@type': 'ListItem', position: 1, name: currentUi.labels.home, item: new URL(localizedPath(locale, 'home'), SITE.url).href },
-    { '@type': 'ListItem', position: 2, name: categoryCopy.label, item: new URL(categoryHref, SITE.url).href },
-    { '@type': 'ListItem', position: 3, name: title, item: canonicalURL },
+    {
+      "@type": "ListItem",
+      position: 1,
+      name: currentUi.labels.home,
+      item: new URL(localizedPath(locale, "home"), SITE.url).href,
+    },
+    {
+      "@type": "ListItem",
+      position: 2,
+      name: categoryCopy.label,
+      item: new URL(categoryHref, SITE.url).href,
+    },
+    { "@type": "ListItem", position: 3, name: title, item: canonicalURL },
   ],
 };
 
-const faqSchema = faqItemsFromDetails.length > 0
-  ? {
-      '@context': 'https://schema.org',
-      '@type': 'FAQPage',
-      mainEntity: faqItemsFromDetails.map((item) => ({
-        '@type': 'Question',
-        name: item.question,
-        acceptedAnswer: {
-          '@type': 'Answer',
-          text: item.answer,
-        },
-      })),
-    }
-  : undefined;
+const faqSchema =
+  faqItemsFromDetails.length > 0
+    ? {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: faqItemsFromDetails.map((item) => ({
+          "@type": "Question",
+          name: item.question,
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: item.answer,
+          },
+        })),
+      }
+    : undefined;
+
+const eventSchemas = article.data.events.map((event) => ({
+  "@context": "https://schema.org",
+  "@type": "MusicEvent",
+  name: event.name,
+  description: excerpt,
+  startDate: event.startDate,
+  endDate: event.endDate,
+  eventAttendanceMode: "https://schema.org/OfflineEventAttendanceMode",
+  location: {
+    "@type": "Place",
+    name: event.location,
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: event.street,
+      addressLocality: event.city,
+      addressCountry: "MA",
+    },
+  },
+  image: ogImageAbsolute,
+  url: event.url,
+  inLanguage: localeInfo.htmlLang,
+}));
+const forecastExpiry = article.data.forecastValidUntil?.toISOString();
+const forecastDateLabel = forecastExpiry
+  ? new Intl.DateTimeFormat(localeInfo.htmlLang, {
+      dateStyle: "long",
+      timeZone: "Africa/Casablanca",
+    }).format(new Date(Date.parse(forecastExpiry) - 86400000))
+  : "";
+const forecastCopy = {
+  fr: {
+    label: "Validité du bulletin",
+    date: `Prévisions quotidiennes du ${forecastDateLabel}. Les périodes des alertes sont indiquées séparément.`,
+    expired:
+      "Ce bulletin quotidien a expiré. Consultez la DGM pour les prévisions et alertes actuelles.",
+    link: "Vérifier la vigilance DGM",
+  },
+  en: {
+    label: "Forecast validity",
+    date: `Daily forecast for ${forecastDateLabel}. Warning periods are listed separately.`,
+    expired:
+      "This daily forecast has expired. Check DGM for current forecasts and warnings.",
+    link: "Check DGM warnings",
+  },
+  es: {
+    label: "Validez del boletín",
+    date: `Previsión diaria del ${forecastDateLabel}. Los avisos tienen sus propios períodos indicados.`,
+    expired:
+      "Esta previsión diaria ha caducado. Consulte la DGM para conocer las previsiones y avisos actuales.",
+    link: "Consultar avisos DGM",
+  },
+  nl: {
+    label: "Geldigheid van het bulletin",
+    date: `Dagverwachting voor ${forecastDateLabel}. Waarschuwingsperioden staan afzonderlijk vermeld.`,
+    expired:
+      "Deze dagverwachting is verlopen. Raadpleeg DGM voor actuele verwachtingen en waarschuwingen.",
+    link: "DGM-waarschuwingen controleren",
+  },
+}[locale];
 ---
 
 <BaseLayout
@@ -148,24 +253,55 @@ const faqSchema = faqItemsFromDetails.length > 0
   canonicalURL={canonicalURL}
   article={true}
   publishDate={date}
+  modifiedDate={updatedDate ?? date}
+  imageAlt={imageAlt}
+  imageWidth={article.data.heroWidth}
+  imageHeight={article.data.heroHeight}
   locale={locale}
   alternates={alternates}
 >
   <div class="reading-progress" aria-hidden="true"><span></span></div>
   <Fragment slot="head">
-    <script type="application/ld+json" set:html={JSON.stringify(blogPostingSchema)} />
-    <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
-    {faqSchema && !hasEmbeddedFaqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
+    <script
+      type="application/ld+json"
+      set:html={JSON.stringify(blogPostingSchema)}
+    />
+    <script
+      type="application/ld+json"
+      set:html={JSON.stringify(breadcrumbSchema)}
+    />
+    {
+      faqSchema && !hasEmbeddedFaqSchema && (
+        <script
+          type="application/ld+json"
+          set:html={JSON.stringify(faqSchema)}
+        />
+      )
+    }
+    {
+      eventSchemas.map((schema) => (
+        <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+      ))
+    }
   </Fragment>
 
   <!-- Article Hero -->
   <section class="relative bg-rdm-bg pt-8 pb-0 overflow-hidden">
     <!-- Breadcrumb -->
     <div class="container-rdm mb-6">
-      <nav aria-label={breadcrumbLabel} class="flex items-center gap-2 text-sm text-rdm-gray">
-        <a href={localizedPath(locale, 'home')} class="hover:text-rdm-orange transition-colors">{currentUi.labels.home}</a>
+      <nav
+        aria-label={breadcrumbLabel}
+        class="flex items-center gap-2 text-sm text-rdm-gray"
+      >
+        <a
+          href={localizedPath(locale, "home")}
+          class="hover:text-rdm-orange transition-colors"
+          >{currentUi.labels.home}</a
+        >
         <span aria-hidden="true">/</span>
-        <a href={categoryHref} class="hover:text-rdm-orange transition-colors">{categoryCopy.label}</a>
+        <a href={categoryHref} class="hover:text-rdm-orange transition-colors"
+          >{categoryCopy.label}</a
+        >
         <span aria-hidden="true">/</span>
         <span class="text-rdm-black truncate max-w-xs">{title}</span>
       </nav>
@@ -176,49 +312,152 @@ const faqSchema = faqItemsFromDetails.length > 0
       <div class="mb-4">
         <CategoryPill category={category} locale={locale} />
       </div>
-      <h1 class="text-headline font-black text-rdm-black mb-4 leading-tight">{title}</h1>
+      <h1 class="text-headline font-black text-rdm-black mb-4 leading-tight">
+        {title}
+      </h1>
       <p class="text-lg text-rdm-gray leading-relaxed mb-6">{excerpt}</p>
 
+      {
+        forecastExpiry && (
+          <aside
+            class="mb-6 rounded-xl border border-rdm-border bg-white p-5 text-sm"
+            aria-label={forecastCopy.label}
+            data-forecast-expiry={forecastExpiry}
+          >
+            <p>
+              <strong>{forecastCopy.label}.</strong> {forecastCopy.date}
+            </p>
+            <p
+              data-forecast-expired
+              hidden={Date.now() < Date.parse(forecastExpiry)}
+              class="mt-2 font-semibold"
+            >
+              {forecastCopy.expired}
+            </p>
+            <a
+              class="mt-2 inline-block text-rdm-orange underline"
+              href="https://vigilance.marocmeteo.ma/?q=fr"
+            >
+              {forecastCopy.link}
+            </a>
+          </aside>
+        )
+      }
+
       <!-- Meta bar -->
-      <div class="flex flex-wrap items-center gap-4 text-sm text-rdm-gray pb-6 border-b border-rdm-border">
+      <div
+        class="flex flex-wrap items-center gap-4 text-sm text-rdm-gray pb-6 border-b border-rdm-border"
+      >
         <div class="flex items-center gap-2">
-          <div class="w-7 h-7 rounded-full bg-rdm-orange flex items-center justify-center text-white text-xs font-bold">R</div>
+          <div
+            class="w-7 h-7 rounded-full bg-rdm-orange flex items-center justify-center text-white text-xs font-bold"
+          >
+            R
+          </div>
           <span class="font-medium text-rdm-black">{authorLabel}</span>
-          <span class="hidden sm:inline text-rdm-gray">· {editorialRoleLabel}</span>
+          <span class="hidden sm:inline text-rdm-gray"
+            >· {editorialRoleLabel}</span
+          >
         </div>
         <time datetime={date.toISOString()} class="flex items-center gap-1">
-          <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 012.25-2.25h13.5A2.25 2.25 0 0121 7.5v11.25m-18 0A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75m-18 0v-7.5A2.25 2.25 0 015.25 9h13.5A2.25 2.25 0 0121 11.25v7.5" />
+          <svg
+            class="w-4 h-4"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+            stroke-width="1.5"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 012.25-2.25h13.5A2.25 2.25 0 0121 7.5v11.25m-18 0A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75m-18 0v-7.5A2.25 2.25 0 015.25 9h13.5A2.25 2.25 0 0121 11.25v7.5"
+            ></path>
           </svg>
           {formattedDate}
         </time>
         <span class="flex items-center gap-1">
-          <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M12 6v6h4.5m4.5 0a9 9 0 11-18 0 9 9 0 0118 0z" />
+          <svg
+            class="w-4 h-4"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+            stroke-width="1.5"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              d="M12 6v6h4.5m4.5 0a9 9 0 11-18 0 9 9 0 0118 0z"></path>
           </svg>
-          {readingTime} {currentUi.labels.minutesRead}
+          {readingTime}
+          {currentUi.labels.minutesRead}
         </span>
-        {formattedUpdatedDate && (
-          <span class="flex items-center gap-1 rounded-full bg-white px-3 py-1 border border-rdm-border text-rdm-black">
-            {updatedDateLabel} {formattedUpdatedDate}
-          </span>
-        )}
+        {
+          formattedUpdatedDate && (
+            <span class="flex items-center gap-1 rounded-full bg-white px-3 py-1 border border-rdm-border text-rdm-black">
+              {updatedDateLabel} {formattedUpdatedDate}
+            </span>
+          )
+        }
       </div>
     </div>
 
     <!-- Hero image -->
-    <div class="container-rdm max-w-5xl mt-8">
-      <div class:list={['rounded-2xl overflow-hidden aspect-editorial shadow-card', isSafeLogoImage && 'bg-white p-8']}>
+    <figure class="container-rdm max-w-5xl mt-8">
+      <div
+        class:list={[
+          "rounded-2xl overflow-hidden aspect-editorial shadow-card",
+          isSafeLogoImage && "bg-white p-8",
+        ]}
+      >
         <img
           src={heroImage}
           alt={imageAlt}
-          class:list={['w-full h-full', isSafeLogoImage ? 'object-contain' : 'object-cover']}
+          class:list={[
+            "w-full h-full",
+            isSafeLogoImage ? "object-contain" : "object-cover",
+          ]}
           loading="eager"
-          width="1200"
-          height="675"
+          width={article.data.heroWidth ?? 1200}
+          height={article.data.heroHeight ?? 675}
         />
       </div>
-    </div>
+      {
+        article.data.heroCaption && (
+          <figcaption class="mt-3 text-sm text-rdm-gray leading-relaxed">
+            {article.data.heroCaption}{" "}
+            {article.data.heroSource && (
+              <a
+                href={article.data.heroSource}
+                class="underline"
+                rel="noopener noreferrer"
+              >
+                {article.data.heroCredit}
+              </a>
+            )}
+            {article.data.heroLicense && (
+              <>
+                {" "}
+                ·{" "}
+                <a
+                  href={article.data.heroLicense}
+                  class="underline"
+                  rel="noopener noreferrer"
+                >
+                  {
+                    {
+                      fr: "Licence",
+                      en: "License",
+                      es: "Licencia",
+                      nl: "Licentie",
+                    }[locale]
+                  }
+                </a>
+              </>
+            )}
+          </figcaption>
+        )
+      }
+    </figure>
   </section>
 
   <!-- Article body + ToC -->
@@ -232,67 +471,92 @@ const faqSchema = faqItemsFromDetails.length > 0
           </div>
 
           <!-- Tags -->
-          {tags.length > 0 && (
-            <div class="mt-10 pt-6 border-t border-rdm-border">
-              <p class="text-xs font-semibold uppercase tracking-widest text-rdm-gray mb-3">{currentUi.labels.keywords}</p>
-              <div class="flex flex-wrap gap-2">
-                {tags.map((tag) => (
-                  <span class="px-3 py-1 rounded-full bg-rdm-bg text-sm text-rdm-gray border border-rdm-border">
-                    {tag}
-                  </span>
-                ))}
+          {
+            tags.length > 0 && (
+              <div class="mt-10 pt-6 border-t border-rdm-border">
+                <p class="text-xs font-semibold uppercase tracking-widest text-rdm-gray mb-3">
+                  {currentUi.labels.keywords}
+                </p>
+                <div class="flex flex-wrap gap-2">
+                  {tags.map((tag) => (
+                    <span class="px-3 py-1 rounded-full bg-rdm-bg text-sm text-rdm-gray border border-rdm-border">
+                      {tag}
+                    </span>
+                  ))}
+                </div>
               </div>
-            </div>
-          )}
+            )
+          }
 
           <!-- Disclaimer -->
-          {disclaimer && (
-            <div class="mt-8 p-5 rounded-xl bg-amber-50 border border-amber-200">
-              <p class="text-sm text-amber-800">
-                <strong>{currentUi.labels.disclaimerTitle} :</strong> {
-                  locale === 'fr'
+          {
+            disclaimer && (
+              <div class="mt-8 p-5 rounded-xl bg-amber-50 border border-amber-200">
+                <p class="text-sm text-amber-800">
+                  <strong>{currentUi.labels.disclaimerTitle} :</strong>{" "}
+                  {locale === "fr"
                     ? "Cet article est une analyse éditoriale et ne constitue pas un conseil financier, juridique ou fiscal. Toute décision d'investissement doit être précédée d'une consultation auprès de professionnels qualifiés."
-                    : locale === 'en'
-                      ? 'This article is editorial analysis and does not constitute financial, legal or tax advice. Any investment decision should be preceded by consultation with qualified professionals.'
-                      : locale === 'es'
-                        ? 'Este artículo es un análisis editorial y no constituye asesoramiento financiero, jurídico ni fiscal. Toda decisión de inversión debe consultarse con profesionales cualificados.'
-                        : 'Dit artikel is redactionele analyse en vormt geen financieel, juridisch of fiscaal advies. Raadpleeg gekwalificeerde professionals vóór elke investeringsbeslissing.'
-                }
-              </p>
-            </div>
-          )}
+                    : locale === "en"
+                      ? "This article is editorial analysis and does not constitute financial, legal or tax advice. Any investment decision should be preceded by consultation with qualified professionals."
+                      : locale === "es"
+                        ? "Este artículo es un análisis editorial y no constituye asesoramiento financiero, jurídico ni fiscal. Toda decisión de inversión debe consultarse con profesionales cualificados."
+                        : "Dit artikel is redactionele analyse en vormt geen financieel, juridisch of fiscaal advies. Raadpleeg gekwalificeerde professionals vóór elke investeringsbeslissing."}
+                </p>
+              </div>
+            )
+          }
 
           <!-- Sources -->
-          {sources && sources.length > 0 && (
-            <div class="mt-8 p-6 rounded-xl bg-rdm-bg border border-rdm-border">
-              <h3 class="text-sm font-bold uppercase tracking-widest text-rdm-gray mb-4">{currentUi.labels.sources}</h3>
-              <ul class="space-y-2">
-                {sources.map((source) => (
-                  <li class="text-sm">
-                    <a
-                      href={source.url}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      class="text-rdm-orange hover:underline flex items-start gap-2"
-                    >
-                      <svg class="w-4 h-4 mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5">
-                        <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25" />
-                      </svg>
-                      {source.label}
-                    </a>
-                  </li>
-                ))}
-              </ul>
-            </div>
-          )}
+          {
+            sources && sources.length > 0 && (
+              <div class="mt-8 p-6 rounded-xl bg-rdm-bg border border-rdm-border">
+                <h3 class="text-sm font-bold uppercase tracking-widest text-rdm-gray mb-4">
+                  {currentUi.labels.sources}
+                </h3>
+                <ul class="space-y-2">
+                  {sources.map((source) => (
+                    <li class="text-sm">
+                      <a
+                        href={source.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="text-rdm-orange hover:underline flex items-start gap-2"
+                      >
+                        <svg
+                          class="w-4 h-4 mt-0.5 flex-shrink-0"
+                          fill="none"
+                          viewBox="0 0 24 24"
+                          stroke="currentColor"
+                          stroke-width="1.5"
+                        >
+                          <path
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                            d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25"
+                          />
+                        </svg>
+                        {source.label}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )
+          }
         </article>
 
         <!-- Sticky Table of Contents -->
-        {headings.length > 2 && (
-          <aside class="hidden lg:block w-64 flex-shrink-0 sticky top-24 toc-scroll">
-            <TableOfContents headings={headings} title={currentUi.labels.toc} ariaLabel={currentUi.labels.tocNavigation} />
-          </aside>
-        )}
+        {
+          headings.length > 2 && (
+            <aside class="hidden lg:block w-64 flex-shrink-0 sticky top-24 toc-scroll">
+              <TableOfContents
+                headings={headings}
+                title={currentUi.labels.toc}
+                ariaLabel={currentUi.labels.tocNavigation}
+              />
+            </aside>
+          )
+        }
       </div>
     </div>
   </section>
@@ -303,26 +567,51 @@ const faqSchema = faqItemsFromDetails.length > 0
   </div>
 
   <!-- Related articles -->
-  {relatedArticles.length > 0 && (
-    <RelatedArticles articles={relatedArticles} locale={locale} />
-  )}
+  {
+    relatedArticles.length > 0 && (
+      <RelatedArticles articles={relatedArticles} locale={locale} />
+    )
+  }
 </BaseLayout>
 
 <script>
+  const refreshForecastValidity = () => {
+    document
+      .querySelectorAll<HTMLElement>("[data-forecast-expiry]")
+      .forEach((notice) => {
+        const expired = notice.querySelector<HTMLElement>(
+          "[data-forecast-expired]",
+        );
+        if (expired)
+          expired.hidden =
+            Date.now() < Date.parse(notice.dataset.forecastExpiry ?? "");
+      });
+  };
+  refreshForecastValidity();
+  window.addEventListener("pageshow", refreshForecastValidity);
+  if (document.querySelector("[data-forecast-expiry]"))
+    window.setInterval(refreshForecastValidity, 60_000);
+
   // Active heading tracking for ToC
-  const headings = document.querySelectorAll('article h2, article h3');
-  const tocLinks = document.querySelectorAll('.toc-link');
-  const progressBar = document.querySelector('.reading-progress span') as HTMLElement | null;
+  const headings = document.querySelectorAll("article h2, article h3");
+  const tocLinks = document.querySelectorAll(".toc-link");
+  const progressBar = document.querySelector(
+    ".reading-progress span",
+  ) as HTMLElement | null;
 
   if (progressBar) {
     const updateProgress = () => {
-      const scrollable = document.documentElement.scrollHeight - window.innerHeight;
-      const progress = scrollable > 0 ? Math.min(100, Math.max(0, (window.scrollY / scrollable) * 100)) : 0;
+      const scrollable =
+        document.documentElement.scrollHeight - window.innerHeight;
+      const progress =
+        scrollable > 0
+          ? Math.min(100, Math.max(0, (window.scrollY / scrollable) * 100))
+          : 0;
       progressBar.style.width = `${progress}%`;
     };
 
     updateProgress();
-    window.addEventListener('scroll', updateProgress, { passive: true });
+    window.addEventListener("scroll", updateProgress, { passive: true });
   }
 
   if (headings.length && tocLinks.length) {
@@ -331,15 +620,15 @@ const faqSchema = faqItemsFromDetails.length > 0
         entries.forEach((entry) => {
           if (entry.isIntersecting) {
             tocLinks.forEach((link) => {
-              link.classList.remove('active');
-              if (link.getAttribute('href') === `#${entry.target.id}`) {
-                link.classList.add('active');
+              link.classList.remove("active");
+              if (link.getAttribute("href") === `#${entry.target.id}`) {
+                link.classList.add("active");
               }
             });
           }
         });
       },
-      { rootMargin: '-20% 0% -60% 0%' }
+      { rootMargin: "-20% 0% -60% 0%" },
     );
 
     headings.forEach((h) => observer.observe(h));

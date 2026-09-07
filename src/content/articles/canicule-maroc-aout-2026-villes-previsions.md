@@ -1,166 +1,112 @@
 ---
-title: "Canicule au Maroc : les villes les plus exposées et l’évolution attendue cette semaine"
-slug: "canicule-maroc-aout-2026-villes-previsions"
-urlSlug: "canicule-maroc-aout-2026-villes-previsions"
-locale: "fr"
-translationKey: "canicule-maroc-aout-2026"
-metaTitle: "Canicule au Maroc : les villes les plus exposées et l’évolution attendue cette semaine"
-metaDescription: "Canicule au Maroc en août 2026 : régions exposées, vigilance DGM, risques sanitaires, incendies, voyages et conseils pratiques."
-category: "guides"
-tags: ["canicule","au","maroc","les","villes","les","plus","exposées"]
-date: 2026-08-03
-updatedDate: 2026-08-03
-readingTime: 8
-excerpt: "La chaleur reste un sujet de vigilance nationale, surtout à l’intérieur du pays et dans les provinces sahariennes."
-heroImage: "/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-cover.webp"
-imageAlt: "Place Jemaa el-Fna en plein jour, contexte urbain de chaleur à Marrakech."
-featured: false
-sources:
-  - label: "Maroc Météo — vigilance et communiqués DGM"
-    url: "https://www.marocmeteo.ma/"
-  - label: "Maroc Météo — vague de chaleur au Maroc"
-    url: "https://www.marocmeteo.ma/fr/episode-de-forte-chaleur-au-maroc"
-  - label: "Le Monde — Morocco faces repeated heatwaves"
-    url: "https://www.lemonde.fr/en/environment/article/2026/07/26/morocco-facing-repeated-heatwaves-and-fears-water-shortages_6755844_114.html"
-disclaimer: false
+"title": "Canicule au Maroc : chaleur et orages du 7 au 9 septembre 2026"
+"slug": "canicule-maroc-aout-2026-villes-previsions"
+"urlSlug": "canicule-maroc-aout-2026-villes-previsions"
+"locale": "fr"
+"translationKey": "canicule-maroc-aout-2026"
+"metaTitle": "Chaleur Maroc : prévisions et alertes"
+"metaDescription": "La DGM prévoit le lundi 7 septembre 2026 jusqu’à 42 °C à Marrakech, 41 °C à Fès et Meknès, 42 °C à Laâyoune et 46 °C à Aousserd. Son bulletin de vigilance…"
+"category": "guides"
+"tags":
+  - "Chaleur"
+  - "Maroc"
+"date": "2026-08-03"
+"updatedDate": "2026-09-07"
+"readingTime": 4
+"excerpt": "La DGM prévoit le lundi 7 septembre 2026 jusqu’à 42 °C à Marrakech, 41 °C à Fès et Meknès, 42 °C à Laâyoune et 46 °C à Aousserd. Son bulletin de vigilance orange annonce aussi des orages avec grêle et rafales dans dix-huit provinces de 14 h à 23 h. Les alertes chaleur et les prévisions par ville ont des périodes distinctes."
+"heroImage": "/images/articles/editorial-2026-09-05/canicule-maroc-aout-2026-cover.webp"
+"imageAlt": "Circulation dans la médina de Marrakech ; contexte urbain, sans mesure de température."
+"articleType": "NewsArticle"
+"heroCaption": "Circulation dans la médina de Marrakech ; contexte urbain, sans mesure de température. Photographie de contexte · 2015."
+"heroCredit": "Elgaard"
+"heroSource": "https://commons.wikimedia.org/wiki/File:MarrakechMedinaSun.jpg"
+"heroLicense": "https://creativecommons.org/licenses/by-sa/4.0"
+"heroWidth": 1600
+"heroHeight": 900
+"featured": false
+"sources":
+  - "label": "DGM / H24Info / MAP · 07.09.2026"
+    "url": "https://h24info.ma/maroc/meteo-les-couleurs-du-ciel-ce-lundi-7-septembre/"
+  - "label": "DGM / H24Info / MAP · 07.09.2026 · 13:40"
+    "url": "https://h24info.ma/maroc/alerte-meteo-vague-de-chaleur-et-averses-orageuses-jusqua-mercredi-2/"
+  - "label": "DGM / Le360 / MAP · 07.09.2026"
+    "url": "https://fr.le360.ma/societe/meteo-forte-hausse-des-temperatures-et-orages-locaux-sur-le-royaume-ce-lundi-7-septembre_M3U5YHERFNF7JKOHMNV2ISYNMI/"
+  - "label": "DGM · Vigilance"
+    "url": "https://vigilance.marocmeteo.ma/?q=fr"
+  - "label": "WHO · 31.07.2026"
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health"
+"disclaimer": false
+"forecastValidUntil": "2026-09-08T00:00:00+01:00"
 ---
-**Réponse courte.** La DGM décrit une séquence de chaleur dominée par le Chergui et des températures supérieures aux normales. À défaut de bulletin provincial public plus récent dans les résultats accessibles, l'article renvoie à la carte de vigilance officielle, mise à jour deux fois par jour.
 
-> **L'essentiel à retenir**
-> - Les villes intérieures sont plus vulnérables que le littoral ventilé.
-> - La chaleur accentue les besoins en eau et en climatisation.
-> - Des orages locaux peuvent apparaître sur l’Atlas et l’Oriental.
-> - Les voyageurs doivent vérifier horaires, hydratation et état des routes.
+## Les secteurs les plus chauds
 
-Note de mise à jour : ce sujet évolue. Les faits ci-dessous sont arrêtés au 3 août 2026 à 19:10 heure de Casablanca.
+Le bulletin quotidien DGM du 7 septembre, relayé par H24Info avec MAP, annonce un temps assez chaud à chaud sur les plaines du Nord et du Centre, le Souss, le Sud-Est et l’intérieur des provinces sahariennes.
 
-## Pourquoi ce sujet compte maintenant
+| Localité    | Minimum prévu | Maximum prévu le 7 septembre |
+| ----------- | ------------- | ---------------------------- |
+| Marrakech   | 24 °C         | 42 °C                        |
+| Fès         | 27 °C         | 41 °C                        |
+| Meknès      | 27 °C         | 41 °C                        |
+| Settat      | 25 °C         | 40 °C                        |
+| Béni Mellal | 27 °C         | 39 °C                        |
+| Aousserd    | 27 °C         | 46 °C                        |
 
-Les villes intérieures sont plus vulnérables que le littoral ventilé.
-
-La chaleur accentue les besoins en eau et en climatisation.
-
-Des orages locaux peuvent apparaître sur l’Atlas et l’Oriental.
-
-Les voyageurs doivent vérifier horaires, hydratation et état des routes.
+Les températures minimales élevées limitent le rafraîchissement nocturne. Casablanca est annoncée à 27 °C au maximum et Agadir à 37 °C. La chaleur varie fortement selon le lieu.
 
 <figure>
-  <img src="/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-01.webp" alt="Rue ensoleillée de la médina de Marrakech, image d’illustration de chaleur urbaine." width="530" height="799" loading="lazy" decoding="async" />
-  <figcaption>Image d’illustration. Rue ensoleillée de la médina de Marrakech, image d’illustration de chaleur urbaine. Crédit: Francisco Anzola / Wikimedia Commons (CC BY 2.0).</figcaption>
+  <img src="/images/articles/editorial-2026-09-05/canicule-maroc-aout-2026-01.webp" alt="Paysage près de Ouarzazate ; photographie de contexte." width="1200" height="798" loading="lazy" decoding="async" />
+  <figcaption>Paysage près de Ouarzazate ; photographie de contexte. Photographie de contexte · 2018. Crédit: <a href="https://commons.wikimedia.org/wiki/File:Ouarzazate_Landscape.jpg" rel="noopener">Mariel arg</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="license">CC BY-SA 4.0</a>.</figcaption>
 </figure>
 
-## Repères vérifiés
+## Orages et vigilance : ne pas confondre prévision et alerte
 
-| Élément | Lecture utile |
-|---|---|
-| 1 | Les villes intérieures sont plus vulnérables que le littoral ventilé. |
-| 2 | La chaleur accentue les besoins en eau et en climatisation. |
-| 3 | Des orages locaux peuvent apparaître sur l’Atlas et l’Oriental. |
-| 4 | Les voyageurs doivent vérifier horaires, hydratation et état des routes. |
+Le bulletin quotidien prévoit des averses orageuses sur l’Atlas, ses versants est et les plateaux des Phosphates, avec risque de débordement sur la Chaouia le soir. Il mentionne aussi des ondées et orages sur le Souss, le Rif et le sud de l’Oriental.
+
+Mise à jour du 7 septembre : le bulletin DGM relayé à 13 h 40 annonce une vigilance orange. Le tableau distingue les zones et périodes ; il remplace la référence à une carte expirée.
+
+| Septembre 2026 | Chaleur prévue (°C) | Provinces                                                                                                                                                                                                  |
+| -------------- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 7–9            | 42–46               | Tata, Es-Semara, Assa-Zag, Boujdour, Oued Ed-Dahab, Aousserd                                                                                                                                               |
+| 7–8            | 38–42               | Chtouka-Ait Baha, Guelmim, Laâyoune, Taroudant, Tan-Tan, Tiznit, Sidi Ifni, Tarfaya                                                                                                                        |
+| 7              | 38–42               | Marrakech, Sidi Slimane, Kénitra, Khouribga, Settat, Béni Mellal, Fquih Ben Salah, Taounate, Sidi Kacem, Khénifra, Larache, Ouezzane, El Kelâa des Sraghna, Rehamna, Khémisset, Meknès, Fès, Moulay Yacoub |
+
+Les orages avec grêle et rafales, de 25 à 35 mm, concernent Midelt, Khénifra, Ifrane, Fquih Ben Salah, Ouarzazate, Taroudant, Figuig, Settat, Azilal, Khouribga, Béni Mellal, Tinghir, El Kelâa des Sraghna, Marrakech, Rehamna, Al Haouz, Chichaoua et Boulemane le 7 septembre de 14 h à 23 h. Consultez la carte DGM avant tout déplacement pour vérifier une éventuelle révision.
 
 <figure>
-  <img src="/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-02.webp" alt="Front de mer d’Agadir sous le soleil, contexte des villes exposées à la chaleur." width="1200" height="900" loading="lazy" decoding="async" />
-  <figcaption>Image d’illustration. Front de mer d’Agadir sous le soleil, contexte des villes exposées à la chaleur. Crédit: Marcin Sochacki (Wanted) / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
+  <img src="/images/articles/editorial-2026-09-05/canicule-maroc-aout-2026-02.webp" alt="Promenade du front de mer d’Agadir." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Promenade du front de mer d’Agadir. Photographie de contexte · 2014. Crédit: <a href="https://commons.wikimedia.org/wiki/File:02-beach-agadir-morocco.JPG" rel="noopener">Elmschrat</a> · <a href="https://creativecommons.org/licenses/by-sa/3.0" rel="license">CC BY-SA 3.0</a>.</figcaption>
 </figure>
+
+## Quand fera-t-il moins chaud ?
+
+Pour le 7 septembre, la DGM prévoit une hausse sensible des températures sur le Sud, les plaines nord et centre, le Rif et l’ouest de la rive méditerranéenne. L’alerte chaleur va jusqu’au 9 septembre pour le groupe de provinces le plus chaud et jusqu’au 8 pour un second groupe. Ces échéances ne garantissent pas un rafraîchissement immédiat partout. Le prochain bulletin doit être vérifié dans notre [page météo par ville](/articles/meteo-maroc-aujourdhui).
+
+## Adapter sorties, travail et visites
+
+L’OMS recommande de réduire les efforts aux heures les plus chaudes, de rechercher l’ombre et un lieu frais, de boire régulièrement et de prendre des nouvelles des personnes fragiles. Ne laissez jamais un enfant dans un véhicule stationné. Un malaise important ou une confusion après exposition à la chaleur nécessite une aide médicale urgente.
+
+Pour visiter Marrakech, prévoyez les longues marches tôt et gardez des pauses à l’abri. Les personnes travaillant dehors doivent pouvoir accéder à de l’eau, à des pauses et à un espace protégé. Un itinéraire côtier et une excursion dans l’intérieur ne présentent pas la même exposition.
 
 <figure>
-  <img src="/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-03.webp" alt="Vue ensoleillée de Ouarzazate, repère pour les zones intérieures très chaudes." width="1200" height="675" loading="lazy" decoding="async" />
-  <figcaption>Image d’illustration. Vue ensoleillée de Ouarzazate, repère pour les zones intérieures très chaudes. Crédit: GuHKS / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
+  <img src="/images/articles/editorial-2026-09-05/canicule-maroc-aout-2026-03.webp" alt="Temps ensoleillé à Béni Mellal, photographie d’archive." width="1200" height="675" loading="lazy" decoding="async" />
+  <figcaption>Temps ensoleillé à Béni Mellal, photographie d’archive. Photographie de contexte · 2017. Crédit: <a href="https://commons.wikimedia.org/wiki/File:Sunny_weather_in_Beni_Mellal,_Morocco.jpg" rel="noopener">Wassim Mellali</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="license">CC BY-SA 4.0</a>.</figcaption>
 </figure>
 
-## Ce qui est confirmé
+## Forêts : une carte de chaleur ne suffit pas
 
-- Communiqué DGM du 2 juillet 2026
-- Carte de vigilance Maroc Météo actualisée à 10h et 16h
-- Pression durable sur les ressources en eau
+Le risque d’incendie dépend aussi du vent, de l’humidité et de la végétation. Une température de 42 °C ne prouve ni un feu actif ni un niveau officiel de risque forestier. Vérifiez les avis de l’ANEF et les restrictions locales avant une sortie ; respectez les fermetures et évitez toute flamme.
 
-## Ce qui reste à surveiller
+## Questions fréquentes
 
-- Bulletins orange ou rouge
-- Orages et rafales
-- Risque d’incendie ANEF
-- Pics de demande électrique
+<details><summary>Ces températures sont-elles des mesures en direct ?</summary><p>Non. Ce sont les minima et maxima prévus par la DGM pour le 7 septembre 2026.</p></details>
 
-## Ce que cela change concrètement
+<details><summary>Une alerte orange est-elle confirmée ici ?</summary><p>Oui. Le bulletin relayé le 7 septembre annonce une vigilance orange, avec des provinces et des périodes distinctes pour la chaleur et les orages. Vérifiez les révisions sur la carte DGM.</p></details>
 
-- Les villes intérieures sont plus vulnérables que le littoral ventilé.
-- La chaleur accentue les besoins en eau et en climatisation.
-- Des orages locaux peuvent apparaître sur l’Atlas et l’Oriental.
-- Les voyageurs doivent vérifier horaires, hydratation et état des routes.
+<details><summary>Peut-on utiliser ce bulletin pour demain ?</summary><p>Non. Une prévision datée du 7 septembre ne décrit pas automatiquement le 8 septembre.</p></details>
 
-## À lire aussi
+## Pour approfondir
 
-- [Tourisme Maroc 2030 : trajectoire ONMT](/articles/tourisme-maroc-2030-onmt-arrivees-2026)
-- [LGV Kénitra-Marrakech : impact voyage](/articles/lgv-kenitra-marrakech-2026-impact-voyage)
-- [Marrakech avant 2030](/articles/marrakech-avant-2030)
-
-## Grille de lecture éditoriale
-
-Un sujet comme **Canicule au Maroc : les villes les plus exposées et l’évolution attendue cette semaine** ne se lit pas seulement comme une succession de nouvelles brèves. Il faut d'abord séparer les faits vérifiés, les formulations officielles, les interprétations de presse et les scénarios probables. Cette méthode protège le lecteur contre deux erreurs fréquentes : transformer une hypothèse en certitude ou, à l'inverse, minimiser un signal important parce qu'il n'est pas encore accompagné de tous ses effets administratifs, économiques ou diplomatiques.
-
-Le premier niveau de lecture concerne la source. Une institution publique, une fédération sportive, un régulateur, une organisation internationale ou une entreprise cotée ne produisent pas le même type d'information qu'un article de presse. Une source officielle peut confirmer une date, un chiffre ou une décision, mais elle peut aussi rester silencieuse sur les conséquences pratiques. Un média fiable peut contextualiser, comparer et interroger les zones grises, mais il ne remplace pas le document primaire lorsqu'une procédure, un prix, un calendrier ou une alerte est en jeu.
-
-Le deuxième niveau concerne le vocabulaire. Dans l'actualité marocaine, les mots « annoncé », « confirmé », « prévu », « attendu », « rapporté », « probable » ou « en discussion » ne sont pas interchangeables. Une annonce d'investissement n'est pas une usine opérationnelle. Une carte de risque n'est pas un incendie actif. Un calendrier sportif n'est pas un résultat. Une position diplomatique n'est pas automatiquement une résolution internationale. Garder ces distinctions visibles est essentiel pour un contenu utile, indexable et durable.
-
-Le troisième niveau est territorial. Les effets d'une même nouvelle ne se répartissent jamais uniformément entre Rabat, Casablanca, Marrakech, Tanger, Agadir, les provinces du Sud, les zones forestières ou les points frontaliers. Le Maroc avance par pôles, corridors, saisons et administrations spécialisées. C'est pourquoi cet article privilégie les lieux, les dates et les acteurs identifiables plutôt que les généralisations nationales trop rapides.
-
-Le quatrième niveau est pratique. Pour un lecteur, la bonne question n'est pas seulement « que s'est-il passé ? », mais « que dois-je vérifier avant de décider ? ». Dans certains cas, cela signifie consulter la carte de vigilance, attendre un communiqué, vérifier un portail administratif, confirmer un horaire de match, comparer les prix à la pompe ou distinguer un chantier financé d'un projet encore en montage.
-
-### Points à retenir avant de partager
-
-- Les villes intérieures sont plus vulnérables que le littoral ventilé.
-- La chaleur accentue les besoins en eau et en climatisation.
-- Des orages locaux peuvent apparaître sur l’Atlas et l’Oriental.
-- Les voyageurs doivent vérifier horaires, hydratation et état des routes.
-
-Ces points doivent être lus comme un instantané éditorial, pas comme une vérité figée. Les contenus très recherchés dans Google Discover, Google News ou les réponses générées par l'IA ont souvent un point commun : ils évoluent après publication. Le rôle de l'article n'est donc pas de simuler une certitude totale, mais de montrer au lecteur où commence la certitude et où commence la surveillance.
-
-## Pourquoi cette information peut devenir très recherchée
-
-La demande de recherche augmente lorsqu'un sujet combine proximité, utilité et incertitude. La proximité peut être géographique, familiale, économique ou symbolique. L'utilité apparaît lorsque le lecteur peut prendre une décision : voyager plus tôt, reporter une démarche, suivre un match, comprendre une facture, éviter une zone à risque ou mesurer la portée d'une annonce publique. L'incertitude, elle, crée un besoin de clarification : les internautes cherchent alors une réponse simple, mais sourcée.
-
-Dans ce cas, l'intérêt tient aussi à la saison. Début août concentre les déplacements estivaux, les pics de chaleur, les flux touristiques, les retours de MRE, les compétitions sportives et les préparatifs économiques de fin d'été. Une information publiée pendant cette période peut circuler très vite si elle touche à la sécurité, au portefeuille, au voyage, à l'identité administrative ou à l'image internationale du Maroc.
-
-Il faut toutefois éviter la fausse urgence. Dire qu'un sujet est surveillé ne signifie pas qu'il faut dramatiser. La bonne écriture consiste à donner la réponse courte dès le haut de page, puis à détailler les limites. C'est aussi ce qui rend l'article plus utile pour les moteurs de recherche et les systèmes de réponse IA : les entités sont nommées, les dates sont explicites, les incertitudes sont visibles et les sources sont listées.
-
-## Ce qui peut faire évoluer l'article
-
-- Élément confirmé : Communiqué DGM du 2 juillet 2026
-- Élément confirmé : Carte de vigilance Maroc Météo actualisée à 10h et 16h
-- Élément confirmé : Pression durable sur les ressources en eau
-- Élément à surveiller : Bulletins orange ou rouge
-- Élément à surveiller : Orages et rafales
-- Élément à surveiller : Risque d’incendie ANEF
-- Élément à surveiller : Pics de demande électrique
-
-Un article d'actualité doit accepter d'être corrigé. Si une source officielle publie un nouveau bulletin, si une institution précise un chiffre, si une fédération actualise un score, si une entreprise modifie son calendrier ou si un gouvernement confirme une mesure, l'article doit être relu. Cette discipline compte autant que le style : elle évite les titres trop forts, les anciennes données conservées par inertie et les liens internes qui envoient le lecteur vers une situation dépassée.
-
-## Méthode de vérification utilisée
-
-La sélection des sources a suivi trois priorités. D'abord les sources primaires : portails officiels marocains, institutions publiques, organismes internationaux, fédérations ou entreprises concernées. Ensuite les médias reconnus capables d'apporter un contexte factuel et daté. Enfin les sources spécialisées lorsque le sujet exige un suivi de marché, de transport, de météo, de sport ou de migration.
-
-Les chiffres ont été repris avec prudence lorsqu'ils étaient indicatifs, provisoires ou dépendants d'une localisation. Les dates futures ont été présentées comme des échéances annoncées, non comme des résultats déjà acquis. Les images ont été traitées comme des illustrations lorsque leur rôle est contextuel. Aucune image ne doit être comprise comme preuve documentaire d'un événement précis si la légende ne l'indique pas clairement.
-
-## Conséquences possibles pour les lecteurs
-
-Pour les particuliers, l'utilité immédiate consiste à savoir quoi vérifier et où. Pour les professionnels du tourisme, de l'immobilier, du transport, de l'industrie ou des services, l'enjeu est de distinguer le bruit de l'information exploitable. Pour les lecteurs internationaux, l'article sert aussi de passerelle : il explique les entités marocaines, les calendriers, les sigles et les limites d'interprétation sans supposer une connaissance préalable du pays.
-
-La prudence n'affaiblit pas l'information ; elle la rend plus solide. Un fait bien attribué, même modeste, vaut mieux qu'une conclusion spectaculaire non vérifiée. C'est la ligne éditoriale retenue ici pour protéger le lecteur et préserver la crédibilité du site.
-
-## FAQ
-
-<details><summary>Les chiffres peuvent-ils changer ?</summary><p>Oui. Les sujets d’actualité, de météo, de sport, de migration et de prix évoluent vite ; il faut vérifier les sources officielles au moment de la lecture.</p></details>
-
-<details><summary>Pourquoi citer plusieurs sources ?</summary><p>Parce qu’un média seul ne vaut pas confirmation officielle, surtout lorsqu’il s’agit de diplomatie, de sécurité, de migration ou de prix.</p></details>
-
-<details><summary>L’article remplace-t-il une démarche officielle ?</summary><p>Non. Pour les procédures, les alertes ou les déplacements, la source administrative ou l’organisateur officiel reste prioritaire.</p></details>
-
-<details><summary>Pourquoi certaines images sont-elles indiquées comme illustrations ?</summary><p>Parce qu’elles documentent le contexte sans prétendre montrer l’événement précis décrit dans l’article.</p></details>
-
-<details><summary>Quelle est la prochaine étape éditoriale ?</summary><p>Surveiller les communiqués officiels, mettre à jour les chiffres et corriger les scénarios dès qu’un fait nouveau est confirmé.</p></details>
-
-## Sources utilisées
-
-- [Maroc Météo — vigilance et communiqués DGM](https://www.marocmeteo.ma/)
-- [Maroc Météo — vague de chaleur au Maroc](https://www.marocmeteo.ma/fr/episode-de-forte-chaleur-au-maroc)
-- [Le Monde — Morocco faces repeated heatwaves](https://www.lemonde.fr/en/environment/article/2026/07/26/morocco-facing-repeated-heatwaves-and-fears-water-shortages_6755844_114.html)
+- [Météo Maroc aujourd’hui : bulletin du 7 septembre 2026 par ville](/articles/meteo-maroc-aujourdhui)
+- [Tourisme Maroc 2026 : 14,1 millions d’arrivées à fin août et perspectives](/articles/tourisme-maroc-2030-onmt-arrivees-2026)
+- [Rentrée scolaire Maroc 2026-2027 : dates, vacances et guide des familles](/articles/rentree-scolaire-maroc-2026-2027)

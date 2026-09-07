@@ -17,8 +17,15 @@ const { Content, headings } = await render(article);
 // Get related articles (same category, excluding current)
 const allArticles = await getCollection('articles');
 const alternates = articleAlternates(article, allArticles);
+const currentUsesEditorialImages = article.data.heroImage.includes('/editorial-2026-09-05/');
 const related = allArticles
-  .filter((a) => a.id !== article.id && articleLocale(a) === 'fr' && a.data.category === article.data.category)
+  .filter(
+    (a) =>
+      a.id !== article.id &&
+      articleLocale(a) === 'fr' &&
+      a.data.category === article.data.category &&
+      (!currentUsesEditorialImages || a.data.heroImage.includes('/editorial-2026-09-05/'))
+  )
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
   .slice(0, 3);
 ---

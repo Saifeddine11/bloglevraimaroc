@@ -1,169 +1,115 @@
 ---
-title: "Sebta : ce que disent les sources fiables sur la crise migratoire et la coopération Maroc-UE"
-slug: "sebta-crise-migratoire-maroc-ue-2026"
-urlSlug: "sebta-crise-migratoire-maroc-ue-2026"
-locale: "fr"
-translationKey: "sebta-cooperation-maroc-ue-2026"
-metaTitle: "Sebta : ce que disent les sources fiables sur la crise migratoire et la coopération Maroc-UE"
-metaDescription: "Sebta/Ceuta 2026 : faits vérifiés, chiffres à manier avec prudence, coopération Maroc-Espagne-UE et désinformation."
-category: "analyses"
-tags: ["sebta","ce","que","disent","les","sources","fiables","sur"]
-date: 2026-08-03
-updatedDate: 2026-08-03
-readingTime: 8
-excerpt: "La crise de Sebta impose de distinguer faits confirmés, chiffres provisoires et accusations politiques."
-heroImage: "/images/articles/news-2026-08-03/sebta-crise-migratoire-maroc-ue-2026-cover.webp"
-imageAlt: "Clôture frontalière de Sebta/Ceuta, image d’illustration de la pression migratoire."
-featured: false
-sources:
-  - label: "AP — Fact Focus on Ceuta claims"
-    url: "https://apnews.com/article/50baa964ecfb07a2d19223d7ec375b91"
-  - label: "The Guardian — EU borders and Ceuta crisis"
-    url: "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen"
-  - label: "La Moncloa — Operation Crossing the Strait 2026"
-    url: "https://www.lamoncloa.gob.es/lang/en/gobierno/news/Paginas/2026/20260716-cperation-crossing-the-strait.aspx"
-  - label: "Médias24 — migration route shifts in 2026"
-    url: "https://medias24.com/2026/07/05/migration-la-route-des-canaries-recule-fortement-sur-fond-de-cooperation-maroco-espagnole-1716421/"
-disclaimer: false
+"title": "Sebta : faits vérifiés et positions du Maroc, de l’Espagne et de l’UE"
+"slug": "sebta-crise-migratoire-maroc-ue-2026"
+"urlSlug": "sebta-crise-migratoire-maroc-ue-2026"
+"locale": "fr"
+"translationKey": "sebta-cooperation-maroc-ue-2026"
+"metaTitle": "Sebta : faits et positions officielles"
+"metaDescription": "La crise migratoire ouverte à Sebta, appelée Ceuta en Espagne, le 30 juillet 2026 reste au centre des échanges diplomatiques début septembre. Le 3…"
+"category": "analyses"
+"tags":
+  - "Sebta"
+  - "Maroc"
+"date": "2026-08-03"
+"updatedDate": "2026-09-07"
+"readingTime": 4
+"excerpt": "La crise migratoire ouverte à Sebta, appelée Ceuta en Espagne, le 30 juillet 2026 reste au centre des échanges diplomatiques début septembre. Le 3 septembre, Pedro Sánchez a déclaré devant le Parlement espagnol ne pas disposer de preuves solides établissant que le Maroc avait planifié ou exécuté cet épisode. Les accusations rapportées dans la presse doivent rester distinguées de cette position officielle et des conclusions d’une enquête."
+"heroImage": "/images/articles/editorial-2026-09-05/sebta-cooperation-maroc-ue-2026-cover.webp"
+"imageAlt": "Clôture frontalière de Ceuta/Sebta ; aucun événement de 2026 n’est représenté."
+"articleType": "NewsArticle"
+"heroCaption": "Clôture frontalière de Ceuta/Sebta ; aucun événement de 2026 n’est représenté. Photographie de contexte · 2026."
+"heroCredit": "Xemenendura"
+"heroSource": "https://commons.wikimedia.org/wiki/File:Valla_de_Ceuta..jpg"
+"heroLicense": "https://creativecommons.org/licenses/by-sa/4.0"
+"heroWidth": 1600
+"heroHeight": 900
+"featured": false
+"sources":
+  - "label": "La Moncloa · 03.09.2026"
+    "url": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/030926-sanchez-comparecencia-ceuta.aspx"
+  - "label": "European Commission · 18.08.2026"
+    "url": "https://audiovisual.ec.europa.eu/en/media/video/I-293122"
+  - "label": "European Commission · Schengen"
+    "url": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-area/temporary-reintroduction-border-control_en"
+  - "label": "EFE · 03.09.2026"
+    "url": "https://efe.com/euro-efe/2026-09-03/ue-marruecos-ceuta/"
+  - "label": "Euronews · 02.09.2026"
+    "url": "https://fr.euronews.com/my-europe/2026/09/02/crise-de-ceuta-dapres-un-rapport-espagnol-des-agents-marocains-auraient-dirige-des-migrant"
+  - "label": "Euronews · 03.09.2026"
+    "url": "https://fr.euronews.com/my-europe/2026/09/03/crise-migratoire-de-ceuta-sanchez-affirme-que-son-gouvernement-na-rien-a-cacher"
+  - "label": "TelQuel · 04.09.2026"
+    "url": "https://telquel.ma/instant-t/2026/09/04/bruxelles-annonce-des-avancees-importantes-dans-loctroi-dune-aide-durgence-a-lespagne-pour-sebta_2005722/"
+"disclaimer": false
 ---
-**Réponse courte.** Les agences internationales décrivent une crise majeure à Ceuta/Sebta début août 2026, avec de nombreux chiffres encore sensibles. L'article retient une approche prudente : ne pas publier d'images de personnes vulnérables et ne pas transformer les rumeurs en confirmation.
 
-> **L'essentiel à retenir**
-> - AP signale des affirmations non étayées circulant autour de la crise.
-> - La Moncloa documentait déjà en juillet une coopération opérationnelle OPE entre autorités espagnoles et marocaines.
-> - Les routes migratoires se recomposent : baisse aux Canaries mais pression locale sur Sebta et Melilla.
-> - La dimension humanitaire reste centrale.
+## La chronologie vérifiée
 
-Note de mise à jour : ce sujet évolue. Les faits ci-dessous sont arrêtés au 3 août 2026 à 19:10 heure de Casablanca.
+| Date          | Développement                                                               | Statut                                            |
+| ------------- | --------------------------------------------------------------------------- | ------------------------------------------------- |
+| 30 juillet    | Début des franchissements massifs évoqués par les autorités espagnoles      | Événement documenté ; chiffres à attribuer        |
+| 18 août       | Point de presse de la Commission européenne sur l’accueil et la coopération | Source européenne directe                         |
+| 1er septembre | Plan espagnol de 309 millions d’euros pour Sebta                            | Mesures annoncées comme approuvées par Madrid     |
+| 2 septembre   | Publication d’accusations issues d’un rapport espagnol                      | Allégations rapportées, pas conclusion judiciaire |
+| 3 septembre   | Explications de Sánchez au Congrès                                          | Déclaration officielle espagnole                  |
+| 4 septembre   | Avancées rapportées sur une aide européenne d’urgence                       | Procédure à distinguer d’un versement effectif    |
 
-## Pourquoi ce sujet compte maintenant
-
-AP signale des affirmations non étayées circulant autour de la crise.
-
-La Moncloa documentait déjà en juillet une coopération opérationnelle OPE entre autorités espagnoles et marocaines.
-
-Les routes migratoires se recomposent : baisse aux Canaries mais pression locale sur Sebta et Melilla.
-
-La dimension humanitaire reste centrale.
+Sebta est une ville administrée par l’Espagne, à la frontière du Maroc. Employer le nom marocain ou espagnol ne change pas l’exigence de vérifier chaque affirmation.
 
 <figure>
-  <img src="/images/articles/news-2026-08-03/sebta-crise-migratoire-maroc-ue-2026-01.webp" alt="Poste frontalier du Tarajal, contexte des passages entre le Maroc et Sebta." width="1200" height="900" loading="lazy" decoding="async" />
-  <figcaption>Image d’illustration. Poste frontalier du Tarajal, contexte des passages entre le Maroc et Sebta. Crédit: Xemenendura / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
+  <img src="/images/articles/editorial-2026-09-05/sebta-cooperation-maroc-ue-2026-01.webp" alt="Frontière entre le Maroc et Ceuta/Sebta, vue du côté espagnol." width="1200" height="891" loading="lazy" decoding="async" />
+  <figcaption>Frontière entre le Maroc et Ceuta/Sebta, vue du côté espagnol. Photographie de contexte · 2004. Crédit: <a href="https://commons.wikimedia.org/wiki/File:Spanish-Moroccan_border_(Ceuta-Sebta).JPG" rel="noopener">Jguk 2</a> · <a href="http://creativecommons.org/licenses/by-sa/3.0/" rel="license">CC BY-SA 3.0</a>.</figcaption>
 </figure>
 
-## Repères vérifiés
+## Ce que dit Madrid
 
-| Élément | Lecture utile |
-|---|---|
-| 1 | AP signale des affirmations non étayées circulant autour de la crise. |
-| 2 | La Moncloa documentait déjà en juillet une coopération opérationnelle OPE entre autorités espagnoles et marocaines. |
-| 3 | Les routes migratoires se recomposent : baisse aux Canaries mais pression locale sur Sebta et Melilla. |
-| 4 | La dimension humanitaire reste centrale. |
+Le compte rendu de La Moncloa du 3 septembre attribue à Sánchez environ 70 000 arrivées pendant l’épisode initial et environ 63 000 retours au Maroc dans les premières 72 heures. Ces chiffres sont ceux présentés par le gouvernement espagnol ; ils ne constituent pas un nouveau recensement indépendant effectué le 5 septembre.
+
+Sánchez décrit des causes multiples, annonce la poursuite des investigations et demande la publication des rapports disponibles. Son affirmation d’absence de preuves solides d’une opération marocaine ne signifie pas que toutes les circonstances sont définitivement établies.
+
+Le plan espagnol de 309 millions d’euros concerne notamment l’économie locale, les services publics, la sécurité et l’accueil. Il ne doit pas être confondu avec une subvention européenne déjà versée.
+
+## La position européenne et la coopération marocaine
+
+Le 18 août, la Commission européenne a salué les résultats de la coopération frontalière pendant le week-end précédent et l’augmentation annoncée des capacités d’accueil espagnoles. Elle a aussi pris acte de déclarations marocaines indiquant une disposition à reprendre les personnes arrivées irrégulièrement, y compris les mineurs non accompagnés. Il s’agit ici de déclarations marocaines rapportées par une source européenne officielle, pas d’un communiqué marocain reproduit directement.
+
+Le 3 septembre, EFE rapporte que Bruxelles maintient sa qualification du Maroc comme partenaire stratégique dans la gestion migratoire. Les informations du 4 septembre sur une aide d’urgence décrivent une procédure en progrès : elles ne permettent pas de publier un montant effectivement décaissé.
 
 <figure>
-  <img src="/images/articles/news-2026-08-03/sebta-crise-migratoire-maroc-ue-2026-02.webp" alt="Vue de la frontière entre Fnideq et Sebta, repère territorial du dossier frontalier." width="1200" height="804" loading="lazy" decoding="async" />
-  <figcaption>Image d’illustration. Vue de la frontière entre Fnideq et Sebta, repère territorial du dossier frontalier. Crédit: José Sáez / Wikimedia Commons (CC BY-SA 2.0).</figcaption>
+  <img src="/images/articles/editorial-2026-09-05/sebta-cooperation-maroc-ue-2026-02.webp" alt="Baie sud de Ceuta depuis Fuente Caballo." width="1200" height="675" loading="lazy" decoding="async" />
+  <figcaption>Baie sud de Ceuta depuis Fuente Caballo. Photographie de contexte · 2021. Crédit: <a href="https://commons.wikimedia.org/wiki/File:Bah%C3%ADa_sur_Ceuta.jpg" rel="noopener">Xemenendura</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="license">CC BY-SA 4.0</a>.</figcaption>
 </figure>
+
+## Les accusations et ce qui reste à établir
+
+Euronews a relaté le 2 septembre des accusations selon lesquelles des agents marocains auraient orienté des migrants vers la frontière. Le conditionnel est indispensable. Un rapport cité par un média, une position politique et une preuve vérifiée ne sont pas interchangeables.
+
+Nous n’avons pas identifié, dans les documents authentifiés pour cet article, de communiqué marocain daté répondant précisément à ce rapport. Cela ne permet pas d’affirmer que le Maroc n’a jamais réagi. Une éventuelle réponse directe devra être ajoutée avec sa date et son texte source.
+
+## Conséquences pour les habitants et les déplacements
+
+La question porte aussi sur les capacités d’accueil, les services locaux et la protection des personnes vulnérables. Les manifestations et les discours politiques témoignent du débat public ; leurs slogans ne prouvent ni l’origine des événements ni le nombre de personnes encore présentes.
+
+Le registre officiel de la Commission mentionne des contrôles temporaires italiens aux frontières aériennes et maritimes avec l’Espagne du 1er au 16 septembre. Les contrôles espagnols correspondants avec l’Italie sont notifiés jusqu’au 7 septembre. Ces mesures limitées ne signifient pas une fermeture générale de Schengen.
 
 <figure>
-  <img src="/images/articles/news-2026-08-03/sebta-crise-migratoire-maroc-ue-2026-03.webp" alt="Autre vue de la clôture frontalière de Sebta/Ceuta, contexte des contrôles et flux." width="1200" height="900" loading="lazy" decoding="async" />
-  <figcaption>Image d’illustration. Autre vue de la clôture frontalière de Sebta/Ceuta, contexte des contrôles et flux. Crédit: Xemenendura / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
+  <img src="/images/articles/editorial-2026-09-05/sebta-cooperation-maroc-ue-2026-03.webp" alt="Vue depuis Ceuta vers Fnideq/Castillejos, au Maroc." width="1200" height="675" loading="lazy" decoding="async" />
+  <figcaption>Vue depuis Ceuta vers Fnideq/Castillejos, au Maroc. Photographie de contexte · 2021. Crédit: <a href="https://commons.wikimedia.org/wiki/File:Castillejos_desde_Ceuta.jpg" rel="noopener">Xemenendura</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="license">CC BY-SA 4.0</a>.</figcaption>
 </figure>
 
-## Ce qui est confirmé
+## Vérifier une image ou un chiffre
 
-- Crise migratoire à Sebta/Ceuta rapportée par AP et The Guardian
-- Coopération Maroc-Espagne sur l’OPE 2026
-- Forte circulation de désinformation
+Avant de relayer une vidéo, recherchez sa date, son lieu et sa première publication. Une image de 2021 ne documente pas automatiquement juillet 2026. Les photographies utilisées ici montrent le contexte géographique et frontalier ; elles ne prétendent pas représenter l’épisode actuel ni identifier des personnes vulnérables.
 
-## Ce qui reste à surveiller
+## Questions fréquentes
 
-- Bilans officiels consolidés
-- Réactions de Rabat et Madrid
-- Décisions de l’UE
-- Situation des mineurs et demandeurs d’asile
+<details><summary>Une opération organisée par le Maroc est-elle établie ?</summary><p>Non dans les sources vérifiées ici. Le 3 septembre, Sánchez a indiqué ne pas disposer de preuves solides en ce sens, tout en maintenant les investigations.</p></details>
 
-## Ce que cela change concrètement
+<details><summary>Les 309 millions d’euros sont-ils une aide européenne ?</summary><p>Le montant concerne le plan annoncé par le gouvernement espagnol. La procédure d’aide européenne est distincte.</p></details>
 
-- AP signale des affirmations non étayées circulant autour de la crise.
-- La Moncloa documentait déjà en juillet une coopération opérationnelle OPE entre autorités espagnoles et marocaines.
-- Les routes migratoires se recomposent : baisse aux Canaries mais pression locale sur Sebta et Melilla.
-- La dimension humanitaire reste centrale.
+<details><summary>Les chiffres décrivent-ils la situation d’aujourd’hui ?</summary><p>Les chiffres d’arrivées et de retours cités concernent l’épisode initial tel que présenté par Madrid le 3 septembre, pas un comptage du 5 septembre.</p></details>
 
-## À lire aussi
+## Pour approfondir
 
-- [Tourisme Maroc 2030 : trajectoire ONMT](/articles/tourisme-maroc-2030-onmt-arrivees-2026)
-- [LGV Kénitra-Marrakech : impact voyage](/articles/lgv-kenitra-marrakech-2026-impact-voyage)
-- [Marrakech avant 2030](/articles/marrakech-avant-2030)
-
-## Grille de lecture éditoriale
-
-Un sujet comme **Sebta : ce que disent les sources fiables sur la crise migratoire et la coopération Maroc-UE** ne se lit pas seulement comme une succession de nouvelles brèves. Il faut d'abord séparer les faits vérifiés, les formulations officielles, les interprétations de presse et les scénarios probables. Cette méthode protège le lecteur contre deux erreurs fréquentes : transformer une hypothèse en certitude ou, à l'inverse, minimiser un signal important parce qu'il n'est pas encore accompagné de tous ses effets administratifs, économiques ou diplomatiques.
-
-Le premier niveau de lecture concerne la source. Une institution publique, une fédération sportive, un régulateur, une organisation internationale ou une entreprise cotée ne produisent pas le même type d'information qu'un article de presse. Une source officielle peut confirmer une date, un chiffre ou une décision, mais elle peut aussi rester silencieuse sur les conséquences pratiques. Un média fiable peut contextualiser, comparer et interroger les zones grises, mais il ne remplace pas le document primaire lorsqu'une procédure, un prix, un calendrier ou une alerte est en jeu.
-
-Le deuxième niveau concerne le vocabulaire. Dans l'actualité marocaine, les mots « annoncé », « confirmé », « prévu », « attendu », « rapporté », « probable » ou « en discussion » ne sont pas interchangeables. Une annonce d'investissement n'est pas une usine opérationnelle. Une carte de risque n'est pas un incendie actif. Un calendrier sportif n'est pas un résultat. Une position diplomatique n'est pas automatiquement une résolution internationale. Garder ces distinctions visibles est essentiel pour un contenu utile, indexable et durable.
-
-Le troisième niveau est territorial. Les effets d'une même nouvelle ne se répartissent jamais uniformément entre Rabat, Casablanca, Marrakech, Tanger, Agadir, les provinces du Sud, les zones forestières ou les points frontaliers. Le Maroc avance par pôles, corridors, saisons et administrations spécialisées. C'est pourquoi cet article privilégie les lieux, les dates et les acteurs identifiables plutôt que les généralisations nationales trop rapides.
-
-Le quatrième niveau est pratique. Pour un lecteur, la bonne question n'est pas seulement « que s'est-il passé ? », mais « que dois-je vérifier avant de décider ? ». Dans certains cas, cela signifie consulter la carte de vigilance, attendre un communiqué, vérifier un portail administratif, confirmer un horaire de match, comparer les prix à la pompe ou distinguer un chantier financé d'un projet encore en montage.
-
-### Points à retenir avant de partager
-
-- AP signale des affirmations non étayées circulant autour de la crise.
-- La Moncloa documentait déjà en juillet une coopération opérationnelle OPE entre autorités espagnoles et marocaines.
-- Les routes migratoires se recomposent : baisse aux Canaries mais pression locale sur Sebta et Melilla.
-- La dimension humanitaire reste centrale.
-
-Ces points doivent être lus comme un instantané éditorial, pas comme une vérité figée. Les contenus très recherchés dans Google Discover, Google News ou les réponses générées par l'IA ont souvent un point commun : ils évoluent après publication. Le rôle de l'article n'est donc pas de simuler une certitude totale, mais de montrer au lecteur où commence la certitude et où commence la surveillance.
-
-## Pourquoi cette information peut devenir très recherchée
-
-La demande de recherche augmente lorsqu'un sujet combine proximité, utilité et incertitude. La proximité peut être géographique, familiale, économique ou symbolique. L'utilité apparaît lorsque le lecteur peut prendre une décision : voyager plus tôt, reporter une démarche, suivre un match, comprendre une facture, éviter une zone à risque ou mesurer la portée d'une annonce publique. L'incertitude, elle, crée un besoin de clarification : les internautes cherchent alors une réponse simple, mais sourcée.
-
-Dans ce cas, l'intérêt tient aussi à la saison. Début août concentre les déplacements estivaux, les pics de chaleur, les flux touristiques, les retours de MRE, les compétitions sportives et les préparatifs économiques de fin d'été. Une information publiée pendant cette période peut circuler très vite si elle touche à la sécurité, au portefeuille, au voyage, à l'identité administrative ou à l'image internationale du Maroc.
-
-Il faut toutefois éviter la fausse urgence. Dire qu'un sujet est surveillé ne signifie pas qu'il faut dramatiser. La bonne écriture consiste à donner la réponse courte dès le haut de page, puis à détailler les limites. C'est aussi ce qui rend l'article plus utile pour les moteurs de recherche et les systèmes de réponse IA : les entités sont nommées, les dates sont explicites, les incertitudes sont visibles et les sources sont listées.
-
-## Ce qui peut faire évoluer l'article
-
-- Élément confirmé : Crise migratoire à Sebta/Ceuta rapportée par AP et The Guardian
-- Élément confirmé : Coopération Maroc-Espagne sur l’OPE 2026
-- Élément confirmé : Forte circulation de désinformation
-- Élément à surveiller : Bilans officiels consolidés
-- Élément à surveiller : Réactions de Rabat et Madrid
-- Élément à surveiller : Décisions de l’UE
-- Élément à surveiller : Situation des mineurs et demandeurs d’asile
-
-Un article d'actualité doit accepter d'être corrigé. Si une source officielle publie un nouveau bulletin, si une institution précise un chiffre, si une fédération actualise un score, si une entreprise modifie son calendrier ou si un gouvernement confirme une mesure, l'article doit être relu. Cette discipline compte autant que le style : elle évite les titres trop forts, les anciennes données conservées par inertie et les liens internes qui envoient le lecteur vers une situation dépassée.
-
-## Méthode de vérification utilisée
-
-La sélection des sources a suivi trois priorités. D'abord les sources primaires : portails officiels marocains, institutions publiques, organismes internationaux, fédérations ou entreprises concernées. Ensuite les médias reconnus capables d'apporter un contexte factuel et daté. Enfin les sources spécialisées lorsque le sujet exige un suivi de marché, de transport, de météo, de sport ou de migration.
-
-Les chiffres ont été repris avec prudence lorsqu'ils étaient indicatifs, provisoires ou dépendants d'une localisation. Les dates futures ont été présentées comme des échéances annoncées, non comme des résultats déjà acquis. Les images ont été traitées comme des illustrations lorsque leur rôle est contextuel. Aucune image ne doit être comprise comme preuve documentaire d'un événement précis si la légende ne l'indique pas clairement.
-
-## Conséquences possibles pour les lecteurs
-
-Pour les particuliers, l'utilité immédiate consiste à savoir quoi vérifier et où. Pour les professionnels du tourisme, de l'immobilier, du transport, de l'industrie ou des services, l'enjeu est de distinguer le bruit de l'information exploitable. Pour les lecteurs internationaux, l'article sert aussi de passerelle : il explique les entités marocaines, les calendriers, les sigles et les limites d'interprétation sans supposer une connaissance préalable du pays.
-
-La prudence n'affaiblit pas l'information ; elle la rend plus solide. Un fait bien attribué, même modeste, vaut mieux qu'une conclusion spectaculaire non vérifiée. C'est la ligne éditoriale retenue ici pour protéger le lecteur et préserver la crédibilité du site.
-
-## FAQ
-
-<details><summary>Les chiffres peuvent-ils changer ?</summary><p>Oui. Les sujets d’actualité, de météo, de sport, de migration et de prix évoluent vite ; il faut vérifier les sources officielles au moment de la lecture.</p></details>
-
-<details><summary>Pourquoi citer plusieurs sources ?</summary><p>Parce qu’un média seul ne vaut pas confirmation officielle, surtout lorsqu’il s’agit de diplomatie, de sécurité, de migration ou de prix.</p></details>
-
-<details><summary>L’article remplace-t-il une démarche officielle ?</summary><p>Non. Pour les procédures, les alertes ou les déplacements, la source administrative ou l’organisateur officiel reste prioritaire.</p></details>
-
-<details><summary>Pourquoi certaines images sont-elles indiquées comme illustrations ?</summary><p>Parce qu’elles documentent le contexte sans prétendre montrer l’événement précis décrit dans l’article.</p></details>
-
-<details><summary>Quelle est la prochaine étape éditoriale ?</summary><p>Surveiller les communiqués officiels, mettre à jour les chiffres et corriger les scénarios dès qu’un fait nouveau est confirmé.</p></details>
-
-## Sources utilisées
-
-- [AP — Fact Focus on Ceuta claims](https://apnews.com/article/50baa964ecfb07a2d19223d7ec375b91)
-- [The Guardian — EU borders and Ceuta crisis](https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen)
-- [La Moncloa — Operation Crossing the Strait 2026](https://www.lamoncloa.gob.es/lang/en/gobierno/news/Paginas/2026/20260716-cperation-crossing-the-strait.aspx)
-- [Médias24 — migration route shifts in 2026](https://medias24.com/2026/07/05/migration-la-route-des-canaries-recule-fortement-sur-fond-de-cooperation-maroco-espagnole-1716421/)
+- [Élections Maroc 2026 : date, calendrier, partis et mode d’emploi](/articles/elections-maroc-2026)
+- [Tourisme Maroc 2026 : 14,1 millions d’arrivées à fin août et perspectives](/articles/tourisme-maroc-2030-onmt-arrivees-2026)
+- [Tanjazz 2026 : programme, billets et lieux du 18 au 20 septembre à Tanger](/articles/tanjazz-2026)

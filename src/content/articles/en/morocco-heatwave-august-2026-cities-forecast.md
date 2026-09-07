@@ -1,174 +1,112 @@
 ---
-title: "Morocco heatwave: exposed cities and what to watch this week"
-slug: "morocco-heatwave-august-2026-cities-forecast"
-urlSlug: "morocco-heatwave-august-2026-cities-forecast"
-locale: "en"
-translationKey: "canicule-maroc-aout-2026"
-metaTitle: "Morocco heatwave: exposed cities and what to watch this week"
-metaDescription: "Morocco heatwave August 2026: DGM vigilance, health risks, wildfire risk, travel advice and practical precautions."
-category: "guides"
-tags: ["morocco","heatwave","exposed","cities","and","what","to","watch"]
-date: 2026-08-03
-updatedDate: 2026-08-03
-readingTime: 8
-excerpt: "Heat remains a national vigilance issue, especially inland and in southern provinces."
-heroImage: "/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-cover.webp"
-imageAlt: "Jemaa el-Fnaa in daylight, urban heat context in Marrakech."
-featured: false
-sources:
-  - label: "Maroc Météo — vigilance et communiqués DGM"
-    url: "https://www.marocmeteo.ma/"
-  - label: "Maroc Météo — vague de chaleur au Maroc"
-    url: "https://www.marocmeteo.ma/fr/episode-de-forte-chaleur-au-maroc"
-  - label: "Le Monde — Morocco faces repeated heatwaves"
-    url: "https://www.lemonde.fr/en/environment/article/2026/07/26/morocco-facing-repeated-heatwaves-and-fears-water-shortages_6755844_114.html"
-disclaimer: false
+"title": "Morocco heatwave: heat and storms on 7–9 September 2026"
+"slug": "morocco-heatwave-august-2026-cities-forecast"
+"urlSlug": "morocco-heatwave-august-2026-cities-forecast"
+"locale": "en"
+"translationKey": "canicule-maroc-aout-2026"
+"metaTitle": "Morocco heat: forecasts and warnings"
+"metaDescription": "DGM forecasts up to 42°C in Marrakech, 41°C in Fez and Meknes, 42°C in Laayoune and 46°C in Aousserd on Monday 7 September 2026. Its orange warning also…"
+"category": "guides"
+"tags":
+  - "Heat"
+  - "Morocco"
+"date": "2026-08-03"
+"updatedDate": "2026-09-07"
+"readingTime": 4
+"excerpt": "DGM forecasts up to 42°C in Marrakech, 41°C in Fez and Meknes, 42°C in Laayoune and 46°C in Aousserd on Monday 7 September 2026. Its orange warning also announces thunderstorms with hail and gusts in eighteen provinces from 2 pm to 11 pm. Heat warnings and city forecasts have separate validity periods."
+"heroImage": "/images/articles/editorial-2026-09-05/canicule-maroc-aout-2026-cover.webp"
+"imageAlt": "Traffic in Marrakech medina; urban context, not a temperature measurement."
+"articleType": "NewsArticle"
+"heroCaption": "Traffic in Marrakech medina; urban context, not a temperature measurement. Context photograph · 2015."
+"heroCredit": "Elgaard"
+"heroSource": "https://commons.wikimedia.org/wiki/File:MarrakechMedinaSun.jpg"
+"heroLicense": "https://creativecommons.org/licenses/by-sa/4.0"
+"heroWidth": 1600
+"heroHeight": 900
+"featured": false
+"sources":
+  - "label": "DGM / H24Info / MAP · 07.09.2026"
+    "url": "https://h24info.ma/maroc/meteo-les-couleurs-du-ciel-ce-lundi-7-septembre/"
+  - "label": "DGM / H24Info / MAP · 07.09.2026 · 13:40"
+    "url": "https://h24info.ma/maroc/alerte-meteo-vague-de-chaleur-et-averses-orageuses-jusqua-mercredi-2/"
+  - "label": "DGM / Le360 / MAP · 07.09.2026"
+    "url": "https://fr.le360.ma/societe/meteo-forte-hausse-des-temperatures-et-orages-locaux-sur-le-royaume-ce-lundi-7-septembre_M3U5YHERFNF7JKOHMNV2ISYNMI/"
+  - "label": "DGM · Vigilance"
+    "url": "https://vigilance.marocmeteo.ma/?q=fr"
+  - "label": "WHO · 31.07.2026"
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health"
+"disclaimer": false
+"forecastValidUntil": "2026-09-08T00:00:00+01:00"
 ---
-**Short answer.** The DGM describes a heat sequence driven by Chergui winds and temperatures above normal. No newer province-by-province public bulletin was accessible in search results, so readers should follow the official vigilance map, updated twice daily.
 
-> **Key takeaways**
-> - Inland cities are more exposed than ventilated coastal areas.
-> - Heat increases water use and air-conditioning demand.
-> - Local storms can develop over the Atlas and Oriental regions.
-> - Travellers should check timing, hydration and road conditions.
+## Where the heat is strongest
 
-Update note: this story is evolving. The facts below are current as of 3 August 2026 at 19:10 Casablanca time.
+The daily DGM bulletin for 7 September, carried by H24Info with MAP, forecasts fairly hot to hot weather on the northern and central plains, in Souss, the southeast and inside the southern provinces.
 
-## Why this matters now
+| Location    | Forecast minimum | Forecast maximum, 7 September |
+| ----------- | ---------------- | ----------------------------- |
+| Marrakech   | 24°C             | 42°C                          |
+| Fez         | 27°C             | 41°C                          |
+| Meknes      | 27°C             | 41°C                          |
+| Settat      | 25°C             | 40°C                          |
+| Beni Mellal | 27°C             | 39°C                          |
+| Aousserd    | 27°C             | 46°C                          |
 
-Inland cities are more exposed than ventilated coastal areas.
-
-Heat increases water use and air-conditioning demand.
-
-Local storms can develop over the Atlas and Oriental regions.
-
-Travellers should check timing, hydration and road conditions.
+High overnight minima limit cooling. Casablanca has a forecast high of 27°C and Agadir 37°C. Heat varies considerably between locations.
 
 <figure>
-  <img src="/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-01.webp" alt="Sunny street in Marrakech medina, contextual image for urban heat." width="530" height="799" loading="lazy" decoding="async" />
-  <figcaption>Contextual illustration. Sunny street in Marrakech medina, contextual image for urban heat. Credit: Francisco Anzola / Wikimedia Commons (CC BY 2.0).</figcaption>
+  <img src="/images/articles/editorial-2026-09-05/canicule-maroc-aout-2026-01.webp" alt="Landscape near Ouarzazate; contextual photograph." width="1200" height="798" loading="lazy" decoding="async" />
+  <figcaption>Landscape near Ouarzazate; contextual photograph. Context photograph · 2018. Credit: <a href="https://commons.wikimedia.org/wiki/File:Ouarzazate_Landscape.jpg" rel="noopener">Mariel arg</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="license">CC BY-SA 4.0</a>.</figcaption>
 </figure>
 
-## Verified markers
+## Thunderstorms and warning levels
 
-| Item | Useful reading |
-|---|---|
-| 1 | Inland cities are more exposed than ventilated coastal areas. |
-| 2 | Heat increases water use and air-conditioning demand. |
-| 3 | Local storms can develop over the Atlas and Oriental regions. |
-| 4 | Travellers should check timing, hydration and road conditions. |
+The daily bulletin forecasts thundery showers over the Atlas, its eastern slopes and the Phosphate plateaus, with a risk of spillover into Chaouia in the evening. It also mentions showers and thunderstorms in Souss, the Rif and the south of the Oriental region.
+
+Update, 7 September: the DGM bulletin relayed at 1.40 pm announces an orange warning. The table distinguishes areas and periods, replacing the reference to an expired map.
+
+| September 2026 | Forecast heat (°C) | Provinces                                                                                                                                                                                                  |
+| -------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 7–9            | 42–46              | Tata, Es-Semara, Assa-Zag, Boujdour, Oued Ed-Dahab, Aousserd                                                                                                                                               |
+| 7–8            | 38–42              | Chtouka-Ait Baha, Guelmim, Laâyoune, Taroudant, Tan-Tan, Tiznit, Sidi Ifni, Tarfaya                                                                                                                        |
+| 7              | 38–42              | Marrakech, Sidi Slimane, Kénitra, Khouribga, Settat, Béni Mellal, Fquih Ben Salah, Taounate, Sidi Kacem, Khénifra, Larache, Ouezzane, El Kelâa des Sraghna, Rehamna, Khémisset, Meknès, Fès, Moulay Yacoub |
+
+Thunderstorms with hail and gusts, bringing 25–35 mm, concern the eighteen provinces listed in the article on 7 September from 2 pm to 11 pm. Check DGM’s map before travelling for any revision.
 
 <figure>
-  <img src="/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-02.webp" alt="Agadir seafront in the sun, context for heat-exposed cities." width="1200" height="900" loading="lazy" decoding="async" />
-  <figcaption>Contextual illustration. Agadir seafront in the sun, context for heat-exposed cities. Credit: Marcin Sochacki (Wanted) / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
+  <img src="/images/articles/editorial-2026-09-05/canicule-maroc-aout-2026-02.webp" alt="Agadir seafront promenade." width="1200" height="900" loading="lazy" decoding="async" />
+  <figcaption>Agadir seafront promenade. Context photograph · 2014. Credit: <a href="https://commons.wikimedia.org/wiki/File:02-beach-agadir-morocco.JPG" rel="noopener">Elmschrat</a> · <a href="https://creativecommons.org/licenses/by-sa/3.0" rel="license">CC BY-SA 3.0</a>.</figcaption>
 </figure>
+
+## When will temperatures fall?
+
+For 7 September, DGM expects a marked temperature rise in the south, on the northern and central plains, in the Rif and on the western Mediterranean side. The heat warning runs until 9 September for the hottest group of provinces and until 8 September for another group. Those end dates do not guarantee immediate cooling everywhere. Check the next bulletin on our [city weather page](/en/articles/morocco-weather-today).
+
+## Adjust sightseeing and outdoor work
+
+WHO advises reducing strenuous activity during peak heat, finding shade and a cool place, drinking regularly and checking on vulnerable people. Never leave a child in a parked vehicle. Severe illness or confusion after heat exposure requires urgent medical help.
+
+For Marrakech sightseeing, schedule long walks early and allow sheltered breaks. Outdoor workers need access to water, rest periods and protection from exposure. A coastal itinerary and an inland excursion can involve very different conditions.
 
 <figure>
-  <img src="/images/articles/news-2026-08-03/canicule-maroc-aout-2026-villes-previsions-03.webp" alt="Sunny view of Ouarzazate, context for very hot inland areas." width="1200" height="675" loading="lazy" decoding="async" />
-  <figcaption>Contextual illustration. Sunny view of Ouarzazate, context for very hot inland areas. Credit: GuHKS / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
+  <img src="/images/articles/editorial-2026-09-05/canicule-maroc-aout-2026-03.webp" alt="Sunny weather in Béni Mellal, archive photograph." width="1200" height="675" loading="lazy" decoding="async" />
+  <figcaption>Sunny weather in Béni Mellal, archive photograph. Context photograph · 2017. Credit: <a href="https://commons.wikimedia.org/wiki/File:Sunny_weather_in_Beni_Mellal,_Morocco.jpg" rel="noopener">Wassim Mellali</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="license">CC BY-SA 4.0</a>.</figcaption>
 </figure>
 
-## What is confirmed
+## Forest risk needs a separate check
 
-- DGM release of 2 July 2026
-- Maroc Météo vigilance map updated at 10:00 and 16:00
-- Ongoing pressure on water resources
+Fire risk also depends on wind, humidity and vegetation. A 42°C forecast proves neither an active fire nor an official forest-risk classification. Check ANEF notices and local restrictions before visiting woodland, respect closures and avoid open flames.
 
-## What still needs monitoring
+## Frequently asked questions
 
-- Orange or red alerts
-- Storms and gusts
-- ANEF wildfire risk
-- Electricity demand peaks
+<details><summary>Are these live temperature readings?</summary><p>No. They are DGM’s forecast minima and maxima for 7 September 2026.</p></details>
 
-## What changes in practice
+<details><summary>Does this article confirm an orange alert?</summary><p>Yes. The bulletin relayed on 7 September announces an orange warning, with different areas and periods for heat and thunderstorms. Check DGM’s map for revisions.</p></details>
 
-- Inland cities are more exposed than ventilated coastal areas.
-- Heat increases water use and air-conditioning demand.
-- Local storms can develop over the Atlas and Oriental regions.
-- Travellers should check timing, hydration and road conditions.
+<details><summary>Can this forecast be used for tomorrow?</summary><p>No. A forecast for 7 September does not automatically describe 8 September.</p></details>
 
-## Related reading
+## Further reading
 
-- [Morocco tourism 2030: ONMT trajectory](/en/articles/morocco-tourism-2030-onmt-arrivals-2026)
-- [Kenitra-Marrakech HSR: travel impact](/en/articles/kenitra-marrakech-hsr-2026-travel-impact)
-- [Marrakech before 2030](/en/articles/marrakech-before-2030-tourism-infrastructure-opportunities)
-
-## Editorial Reading Grid
-
-A story such as **Morocco heatwave: exposed cities and what to watch this week** should not be read as a loose chain of news snippets. The useful first step is to separate verified facts, official wording, media interpretation and probable scenarios. This protects readers from two common mistakes: turning an assumption into certainty, or downplaying an important signal because its administrative, economic or diplomatic effects are not yet fully visible.
-
-The first layer is source quality. A public institution, sports federation, regulator, international organisation or listed company does not produce the same kind of information as a media article. An official source can confirm a date, a number or a decision, but it may stay silent on practical consequences. A reliable media source can add context and identify blind spots, but it does not replace the primary document when a procedure, price, calendar or alert is involved.
-
-The second layer is vocabulary. In Moroccan news, words such as “announced”, “confirmed”, “scheduled”, “expected”, “reported”, “probable” and “under discussion” are not interchangeable. An investment announcement is not an operating factory. A risk map is not an active fire. A sports fixture is not a result. A diplomatic position is not automatically an international resolution. Keeping these distinctions visible makes the article more useful and more durable.
-
-The third layer is territory. The effects of one item rarely spread evenly across Rabat, Casablanca, Marrakech, Tangier, Agadir, southern provinces, forest areas or border points. Morocco works through hubs, corridors, seasons and specialised administrations. That is why this article privileges identifiable places, dates and actors instead of broad national generalisations.
-
-The fourth layer is practical use. Readers do not only ask “what happened?” They ask “what should I check before deciding?” Sometimes that means consulting a vigilance map, waiting for a release, checking an administrative portal, confirming a match time, comparing pump prices or distinguishing a funded worksite from a project still being structured.
-
-### Before sharing
-
-- Inland cities are more exposed than ventilated coastal areas.
-- Heat increases water use and air-conditioning demand.
-- Local storms can develop over the Atlas and Oriental regions.
-- Travellers should check timing, hydration and road conditions.
-
-These points should be read as an editorial snapshot, not as a frozen truth. Topics that perform well in Google Discover, Google News or AI-generated answers often evolve after publication. The role of the article is not to simulate total certainty, but to show where certainty starts and where monitoring begins.
-
-## Why Search Interest Can Rise
-
-Search demand rises when a topic combines proximity, usefulness and uncertainty. Proximity may be geographic, family-related, economic or symbolic. Usefulness appears when readers can make a decision: travel earlier, delay an errand, follow a match, understand a bill, avoid a risky area or measure the weight of a public announcement. Uncertainty creates the need for clarification, and users then want a simple but sourced answer.
-
-The timing also matters. Early August concentrates summer travel, heat peaks, tourism flows, Moroccan expatriate returns, sports competitions and late-summer economic preparation. A story published in this period can move quickly if it touches safety, household budgets, travel, administrative identity or Morocco’s international image.
-
-False urgency should still be avoided. Saying that a topic is being monitored does not mean it should be dramatized. Good editorial writing gives the short answer at the top, then explains limits. It also helps search engines and AI answer systems: entities are named, dates are explicit, uncertainty is visible and sources are listed.
-
-## What Could Change The Article
-
-- Confirmed element: DGM release of 2 July 2026
-- Confirmed element: Maroc Météo vigilance map updated at 10:00 and 16:00
-- Confirmed element: Ongoing pressure on water resources
-- Monitoring point: Orange or red alerts
-- Monitoring point: Storms and gusts
-- Monitoring point: ANEF wildfire risk
-- Monitoring point: Electricity demand peaks
-
-A news article must be ready to be corrected. If an official source publishes a new bulletin, if an institution clarifies a figure, if a federation updates a score, if a company changes a timetable or if a government confirms a measure, the article should be reviewed. This discipline matters as much as style: it prevents over-strong headlines, stale figures and internal links that send readers to outdated situations.
-
-## Verification Method
-
-Source selection followed three priorities. First came primary sources: Moroccan official portals, public institutions, international bodies, federations or companies directly involved. Then came recognised media able to provide dated factual context. Finally, specialist sources were used when the topic required market, transport, weather, sport or migration monitoring.
-
-Figures were handled cautiously when they were indicative, provisional or location-dependent. Future dates were presented as announced deadlines, not as outcomes already achieved. Images were treated as illustrations when their role was contextual. No image should be read as documentary proof of a precise event unless the caption clearly says so.
-
-## Possible Consequences For Readers
-
-For individuals, the immediate value is knowing what to verify and where. For professionals in tourism, property, transport, industry or services, the issue is separating noise from usable information. For international readers, the article also acts as a bridge: it explains Moroccan entities, calendars, acronyms and limits of interpretation without assuming prior knowledge of the country.
-
-Caution does not weaken information; it makes it stronger. A modest but well-attributed fact is worth more than a spectacular unsupported conclusion. That is the editorial line used here to protect readers and preserve the credibility of the site.
-
-## Final Monitoring Checklist
-
-Before acting on this information, readers should run one final check against the source that owns the decision. For weather, that means the official meteorological vigilance map. For sport, it means the federation, CAF or the competition organiser. For transport, it means the airport, airline, rail operator or official passenger notice. For administration, it means the relevant government portal. For diplomacy, it means the original statement, resolution or institutional communiqué.
-
-This distinction matters because the public conversation often moves faster than the administrative record. Search engines may surface older articles, social networks may compress nuance, and screenshots may circulate without date or context. A reliable article can reduce confusion, but it cannot freeze a live file. The reader should therefore treat the publication date, update note and source list as part of the information itself.
-
-For Le Vrai Maroc, the next useful update would be a factual change rather than a stylistic one: a new official number, a new alert level, a confirmed score, a published decree, a financing decision, a project milestone, a border statement or a corrected timetable. Without that kind of change, the most honest editorial action is monitoring, not rewriting the same uncertainty with louder words.
-
-## FAQ
-
-<details><summary>Can the figures change?</summary><p>Yes. News, weather, sport, migration and price topics move quickly; official sources should be checked at reading time.</p></details>
-
-<details><summary>Why use several sources?</summary><p>Because one media report is not official confirmation, especially for diplomacy, security, migration or prices.</p></details>
-
-<details><summary>Does this replace an official procedure?</summary><p>No. For procedures, alerts or travel, the administrative source or official organiser remains the priority.</p></details>
-
-<details><summary>Why are some images labelled as illustrations?</summary><p>Because they document the context without claiming to show the exact event described.</p></details>
-
-<details><summary>What is the next editorial step?</summary><p>Monitor official releases, update figures and correct scenarios once a new fact is confirmed.</p></details>
-
-## Sources used
-
-- [Maroc Météo — vigilance et communiqués DGM](https://www.marocmeteo.ma/)
-- [Maroc Météo — vague de chaleur au Maroc](https://www.marocmeteo.ma/fr/episode-de-forte-chaleur-au-maroc)
-- [Le Monde — Morocco faces repeated heatwaves](https://www.lemonde.fr/en/environment/article/2026/07/26/morocco-facing-repeated-heatwaves-and-fears-water-shortages_6755844_114.html)
+- [Morocco weather today: city forecast for 7 September 2026](/en/articles/morocco-weather-today)
+- [Morocco tourism 2026: 14.1 million arrivals by August and the outlook](/en/articles/morocco-tourism-2030-onmt-arrivals-2026)
+- [Morocco school year 2026–2027: start dates, holidays and family checklist](/en/articles/morocco-school-calendar-2026-2027)

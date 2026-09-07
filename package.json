@@ -7,7 +7,11 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "check": "astro check",
+    "lint": "node scripts/validate-editorial.mjs",
+    "format:check": "node scripts/format-editorial.mjs --check",
+    "format:editorial": "node scripts/format-editorial.mjs --write"
   },
   "dependencies": {
     "@astrojs/mdx": "^7.0.0",
@@ -18,8 +22,13 @@
     "tailwindcss": "^3.4.10"
   },
   "devDependencies": {
+    "@astrojs/check": "^0.9.10",
     "autoprefixer": "^10.4.20",
+    "linkedom": "^0.18.13",
     "postcss": "^8.4.41",
-    "typescript": "^5.5.4"
+    "prettier": "^3.9.6",
+    "prettier-plugin-astro": "^0.14.1",
+    "typescript": "^5.5.4",
+    "yaml": "^2.9.0"
   }
 }

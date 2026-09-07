@@ -1,0 +1,1152 @@
+{
+  "checkedAt": "2026-09-07T15:01:30.156Z",
+  "articles": 80,
+  "topics": 20,
+  "locales": [
+    "fr",
+    "en",
+    "es",
+    "nl"
+  ],
+  "images": 80,
+  "htmlPages": 429,
+  "preservedRoutes": 357,
+  "preservedImages": 89,
+  "failures": [],
+  "pages": [
+    {
+      "route": "/articles/cnss-maroc-2026",
+      "locale": "fr",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/articles/cnss-maroc-guide-pratique",
+        "/articles/chomage-maroc-2026",
+        "/articles/smig-5000-dh-maroc-2026",
+        "/articles/campagne-electorale-maroc-2026",
+        "/articles/candidats-elections-maroc-2026",
+        "/articles/carburants-maroc-nouvelle-hausse"
+      ]
+    },
+    {
+      "route": "/en/articles/cnss-morocco-2026",
+      "locale": "en",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/en/articles/cnss-morocco-practical-guide",
+        "/en/articles/morocco-unemployment-2026",
+        "/en/articles/morocco-minimum-wage-5000-dirhams-2026",
+        "/en/articles/compare-morocco-election-programmes-2026",
+        "/en/articles/million-jobs-morocco-election-promises-2026",
+        "/en/articles/morocco-election-campaign-2026"
+      ]
+    },
+    {
+      "route": "/es/articulos/cnss-marruecos-2026",
+      "locale": "es",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/es/articulos/cnss-marruecos-guia-practica",
+        "/es/articulos/desempleo-marruecos-2026",
+        "/es/articulos/salario-minimo-marruecos-5000-dirhams-2026",
+        "/es/articulos/campana-electoral-marruecos-2026",
+        "/es/articulos/candidatos-elecciones-marruecos-2026",
+        "/es/articulos/carburantes-marruecos-proxima-subida"
+      ]
+    },
+    {
+      "route": "/nl/artikelen/cnss-marokko-2026",
+      "locale": "nl",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/nl/artikelen/cnss-marokko-praktische-gids",
+        "/nl/artikelen/werkloosheid-marokko-2026",
+        "/nl/artikelen/minimumloon-marokko-5000-dirham-2026",
+        "/nl/artikelen/brandstof-marokko-volgende-prijsstijging",
+        "/nl/artikelen/kandidaten-verkiezingen-marokko-2026",
+        "/nl/artikelen/marokko-mediterrane-spelen-2026"
+      ]
+    },
+    {
+      "route": "/articles/rentree-scolaire-maroc-2026-2027",
+      "locale": "fr",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/articles/meteo-maroc-aujourdhui",
+        "/articles/programmes-electoraux-pouvoir-achat-2026",
+        "/articles/cnss-maroc-2026",
+        "/articles/cnss-maroc-guide-pratique",
+        "/articles/canicule-maroc-aout-2026-villes-previsions"
+      ]
+    },
+    {
+      "route": "/en/articles/morocco-school-calendar-2026-2027",
+      "locale": "en",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/en/articles/morocco-weather-today",
+        "/en/articles/morocco-election-promises-purchasing-power-2026",
+        "/en/articles/cnss-morocco-2026",
+        "/en/articles/cnss-morocco-practical-guide",
+        "/en/articles/morocco-heatwave-august-2026-cities-forecast"
+      ]
+    },
+    {
+      "route": "/es/articulos/vuelta-colegio-marruecos-2026-2027",
+      "locale": "es",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/es/articulos/tiempo-marruecos-hoy",
+        "/es/articulos/programas-electorales-poder-adquisitivo-marruecos-2026",
+        "/es/articulos/cnss-marruecos-2026",
+        "/es/articulos/cnss-marruecos-guia-practica",
+        "/es/articulos/canicula-marruecos-agosto-2026-ciudades-prevision"
+      ]
+    },
+    {
+      "route": "/nl/artikelen/schooljaar-marokko-2026-2027",
+      "locale": "nl",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/nl/artikelen/weer-marokko-vandaag",
+        "/nl/artikelen/verkiezingsbeloften-koopkracht-marokko-2026",
+        "/nl/artikelen/cnss-marokko-2026",
+        "/nl/artikelen/cnss-marokko-praktische-gids",
+        "/nl/artikelen/hittegolf-marokko-augustus-2026-steden-verwachting"
+      ]
+    },
+    {
+      "route": "/articles/elections-maroc-2026",
+      "locale": "fr",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/articles/candidats-elections-maroc-2026",
+        "/articles/comparatif-programmes-elections-maroc-2026",
+        "/articles/campagne-electorale-maroc-2026",
+        "/articles/carburants-maroc-nouvelle-hausse"
+      ]
+    },
+    {
+      "route": "/en/articles/morocco-elections-2026",
+      "locale": "en",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/en/articles/morocco-election-candidates-2026",
+        "/en/articles/compare-morocco-election-programmes-2026",
+        "/en/articles/morocco-election-campaign-2026",
+        "/en/articles/cnss-morocco-2026",
+        "/en/articles/million-jobs-morocco-election-promises-2026"
+      ]
+    },
+    {
+      "route": "/es/articulos/elecciones-marruecos-2026",
+      "locale": "es",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/es/articulos/candidatos-elecciones-marruecos-2026",
+        "/es/articulos/comparativa-programas-elecciones-marruecos-2026",
+        "/es/articulos/campana-electoral-marruecos-2026",
+        "/es/articulos/carburantes-marruecos-proxima-subida"
+      ]
+    },
+    {
+      "route": "/nl/artikelen/verkiezingen-marokko-2026",
+      "locale": "nl",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/nl/artikelen/kandidaten-verkiezingen-marokko-2026",
+        "/nl/artikelen/vergelijking-verkiezingsprogrammas-marokko-2026",
+        "/nl/artikelen/verkiezingscampagne-marokko-2026",
+        "/nl/artikelen/brandstof-marokko-volgende-prijsstijging",
+        "/nl/artikelen/cnss-marokko-2026"
+      ]
+    },
+    {
+      "route": "/articles/chomage-maroc-2026",
+      "locale": "fr",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/articles/million-emplois-maroc-programmes-2026",
+        "/articles/smig-5000-dh-maroc-2026",
+        "/articles/cnss-maroc-2026",
+        "/articles/campagne-electorale-maroc-2026",
+        "/articles/candidats-elections-maroc-2026",
+        "/articles/carburants-maroc-nouvelle-hausse"
+      ]
+    },
+    {
+      "route": "/en/articles/morocco-unemployment-2026",
+      "locale": "en",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/en/articles/million-jobs-morocco-election-promises-2026",
+        "/en/articles/morocco-minimum-wage-5000-dirhams-2026",
+        "/en/articles/cnss-morocco-2026",
+        "/en/articles/compare-morocco-election-programmes-2026"
+      ]
+    },
+    {
+      "route": "/es/articulos/desempleo-marruecos-2026",
+      "locale": "es",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/es/articulos/millon-empleos-marruecos-programas-2026",
+        "/es/articulos/salario-minimo-marruecos-5000-dirhams-2026",
+        "/es/articulos/cnss-marruecos-2026",
+        "/es/articulos/campana-electoral-marruecos-2026",
+        "/es/articulos/candidatos-elecciones-marruecos-2026",
+        "/es/articulos/carburantes-marruecos-proxima-subida"
+      ]
+    },
+    {
+      "route": "/nl/artikelen/werkloosheid-marokko-2026",
+      "locale": "nl",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/nl/artikelen/miljoen-banen-marokko-verkiezingsbeloften-2026",
+        "/nl/artikelen/minimumloon-marokko-5000-dirham-2026",
+        "/nl/artikelen/cnss-marokko-2026",
+        "/nl/artikelen/brandstof-marokko-volgende-prijsstijging",
+        "/nl/artikelen/kandidaten-verkiezingen-marokko-2026"
+      ]
+    },
+    {
+      "route": "/articles/prix-carburants-maroc-aout-2026-hausse",
+      "locale": "fr",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/articles/carburants-maroc-nouvelle-hausse",
+        "/articles/programmes-electoraux-pouvoir-achat-2026",
+        "/articles/tourisme-maroc-2030-onmt-arrivees-2026",
+        "/articles/campagne-electorale-maroc-2026",
+        "/articles/candidats-elections-maroc-2026"
+      ]
+    },
+    {
+      "route": "/en/articles/morocco-fuel-prices-august-2026-rise",
+      "locale": "en",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/en/articles/morocco-fuel-prices-next-increase",
+        "/en/articles/morocco-election-promises-purchasing-power-2026",
+        "/en/articles/morocco-tourism-2030-onmt-arrivals-2026",
+        "/en/articles/cnss-morocco-2026",
+        "/en/articles/compare-morocco-election-programmes-2026",
+        "/en/articles/million-jobs-morocco-election-promises-2026"
+      ]
+    },
+    {
+      "route": "/es/articulos/precios-carburantes-marruecos-agosto-2026-subida",
+      "locale": "es",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/es/articulos/carburantes-marruecos-proxima-subida",
+        "/es/articulos/programas-electorales-poder-adquisitivo-marruecos-2026",
+        "/es/articulos/turismo-marruecos-2030-onmt-llegadas-2026",
+        "/es/articulos/campana-electoral-marruecos-2026",
+        "/es/articulos/candidatos-elecciones-marruecos-2026"
+      ]
+    },
+    {
+      "route": "/nl/artikelen/brandstofprijzen-marokko-augustus-2026-stijging",
+      "locale": "nl",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/nl/artikelen/brandstof-marokko-volgende-prijsstijging",
+        "/nl/artikelen/verkiezingsbeloften-koopkracht-marokko-2026",
+        "/nl/artikelen/toerisme-marokko-2030-onmt-aankomsten-2026",
+        "/nl/artikelen/cnss-marokko-2026",
+        "/nl/artikelen/kandidaten-verkiezingen-marokko-2026"
+      ]
+    },
+    {
+      "route": "/articles/sebta-crise-migratoire-maroc-ue-2026",
+      "locale": "fr",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/articles/elections-maroc-2026",
+        "/articles/tourisme-maroc-2030-onmt-arrivees-2026",
+        "/articles/tanjazz-2026",
+        "/articles/campagne-electorale-maroc-2026",
+        "/articles/candidats-elections-maroc-2026",
+        "/articles/carburants-maroc-nouvelle-hausse"
+      ]
+    },
+    {
+      "route": "/en/articles/ceuta-migration-crisis-morocco-eu-2026",
+      "locale": "en",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/en/articles/morocco-elections-2026",
+        "/en/articles/morocco-tourism-2030-onmt-arrivals-2026",
+        "/en/articles/tanjazz-2026-tangier",
+        "/en/articles/cnss-morocco-2026",
+        "/en/articles/compare-morocco-election-programmes-2026",
+        "/en/articles/million-jobs-morocco-election-promises-2026"
+      ]
+    },
+    {
+      "route": "/es/articulos/ceuta-crisis-migratoria-marruecos-ue-2026",
+      "locale": "es",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/es/articulos/elecciones-marruecos-2026",
+        "/es/articulos/turismo-marruecos-2030-onmt-llegadas-2026",
+        "/es/articulos/tanjazz-2026-tanger",
+        "/es/articulos/campana-electoral-marruecos-2026",
+        "/es/articulos/candidatos-elecciones-marruecos-2026",
+        "/es/articulos/carburantes-marruecos-proxima-subida"
+      ]
+    },
+    {
+      "route": "/nl/artikelen/ceuta-migratiecrisis-marokko-eu-2026",
+      "locale": "nl",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/nl/artikelen/verkiezingen-marokko-2026",
+        "/nl/artikelen/toerisme-marokko-2030-onmt-aankomsten-2026",
+        "/nl/artikelen/tanjazz-2026-tanger",
+        "/nl/artikelen/brandstof-marokko-volgende-prijsstijging",
+        "/nl/artikelen/cnss-marokko-2026",
+        "/nl/artikelen/kandidaten-verkiezingen-marokko-2026"
+      ]
+    },
+    {
+      "route": "/articles/canicule-maroc-aout-2026-villes-previsions",
+      "locale": "fr",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/articles/meteo-maroc-aujourdhui",
+        "/articles/tourisme-maroc-2030-onmt-arrivees-2026",
+        "/articles/rentree-scolaire-maroc-2026-2027",
+        "/articles/cnss-maroc-guide-pratique"
+      ]
+    },
+    {
+      "route": "/en/articles/morocco-heatwave-august-2026-cities-forecast",
+      "locale": "en",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/en/articles/morocco-weather-today",
+        "/en/articles/morocco-tourism-2030-onmt-arrivals-2026",
+        "/en/articles/morocco-school-calendar-2026-2027",
+        "/en/articles/cnss-morocco-practical-guide"
+      ]
+    },
+    {
+      "route": "/es/articulos/canicula-marruecos-agosto-2026-ciudades-prevision",
+      "locale": "es",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/es/articulos/tiempo-marruecos-hoy",
+        "/es/articulos/turismo-marruecos-2030-onmt-llegadas-2026",
+        "/es/articulos/vuelta-colegio-marruecos-2026-2027",
+        "/es/articulos/cnss-marruecos-guia-practica"
+      ]
+    },
+    {
+      "route": "/nl/artikelen/hittegolf-marokko-augustus-2026-steden-verwachting",
+      "locale": "nl",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/nl/artikelen/weer-marokko-vandaag",
+        "/nl/artikelen/toerisme-marokko-2030-onmt-aankomsten-2026",
+        "/nl/artikelen/schooljaar-marokko-2026-2027",
+        "/nl/artikelen/cnss-marokko-praktische-gids"
+      ]
+    },
+    {
+      "route": "/articles/tourisme-maroc-2030-onmt-arrivees-2026",
+      "locale": "fr",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/articles/fado-festival-maroc-2026",
+        "/articles/tanjazz-2026",
+        "/articles/meteo-maroc-aujourdhui"
+      ]
+    },
+    {
+      "route": "/en/articles/morocco-tourism-2030-onmt-arrivals-2026",
+      "locale": "en",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/en/articles/fado-festival-morocco-2026",
+        "/en/articles/tanjazz-2026-tangier",
+        "/en/articles/morocco-weather-today"
+      ]
+    },
+    {
+      "route": "/es/articulos/turismo-marruecos-2030-onmt-llegadas-2026",
+      "locale": "es",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/es/articulos/festival-fado-marruecos-2026",
+        "/es/articulos/tanjazz-2026-tanger",
+        "/es/articulos/tiempo-marruecos-hoy"
+      ]
+    },
+    {
+      "route": "/nl/artikelen/toerisme-marokko-2030-onmt-aankomsten-2026",
+      "locale": "nl",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/nl/artikelen/fado-festival-marokko-2026",
+        "/nl/artikelen/tanjazz-2026-tanger",
+        "/nl/artikelen/weer-marokko-vandaag"
+      ]
+    },
+    {
+      "route": "/articles/jeux-mediterraneens-maroc-2026",
+      "locale": "fr",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/articles/tourisme-maroc-2030-onmt-arrivees-2026",
+        "/articles/elections-maroc-2026",
+        "/articles/canicule-maroc-aout-2026-villes-previsions",
+        "/articles/campagne-electorale-maroc-2026",
+        "/articles/candidats-elections-maroc-2026",
+        "/articles/carburants-maroc-nouvelle-hausse"
+      ]
+    },
+    {
+      "route": "/en/articles/morocco-mediterranean-games-2026",
+      "locale": "en",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/en/articles/morocco-tourism-2030-onmt-arrivals-2026",
+        "/en/articles/morocco-elections-2026",
+        "/en/articles/morocco-heatwave-august-2026-cities-forecast",
+        "/en/articles/cnss-morocco-2026",
+        "/en/articles/compare-morocco-election-programmes-2026",
+        "/en/articles/million-jobs-morocco-election-promises-2026"
+      ]
+    },
+    {
+      "route": "/es/articulos/marruecos-juegos-mediterraneos-2026",
+      "locale": "es",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/es/articulos/turismo-marruecos-2030-onmt-llegadas-2026",
+        "/es/articulos/elecciones-marruecos-2026",
+        "/es/articulos/canicula-marruecos-agosto-2026-ciudades-prevision",
+        "/es/articulos/campana-electoral-marruecos-2026",
+        "/es/articulos/candidatos-elecciones-marruecos-2026",
+        "/es/articulos/carburantes-marruecos-proxima-subida"
+      ]
+    },
+    {
+      "route": "/nl/artikelen/marokko-mediterrane-spelen-2026",
+      "locale": "nl",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/nl/artikelen/toerisme-marokko-2030-onmt-aankomsten-2026",
+        "/nl/artikelen/verkiezingen-marokko-2026",
+        "/nl/artikelen/hittegolf-marokko-augustus-2026-steden-verwachting",
+        "/nl/artikelen/brandstof-marokko-volgende-prijsstijging",
+        "/nl/artikelen/cnss-marokko-2026",
+        "/nl/artikelen/kandidaten-verkiezingen-marokko-2026"
+      ]
+    },
+    {
+      "route": "/articles/programmes-electoraux-pouvoir-achat-2026",
+      "locale": "fr",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/articles/smig-5000-dh-maroc-2026",
+        "/articles/million-emplois-maroc-programmes-2026",
+        "/articles/comparatif-programmes-elections-maroc-2026",
+        "/articles/prix-carburants-maroc-aout-2026-hausse",
+        "/articles/campagne-electorale-maroc-2026",
+        "/articles/candidats-elections-maroc-2026",
+        "/articles/carburants-maroc-nouvelle-hausse"
+      ]
+    },
+    {
+      "route": "/en/articles/morocco-election-promises-purchasing-power-2026",
+      "locale": "en",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/en/articles/morocco-minimum-wage-5000-dirhams-2026",
+        "/en/articles/million-jobs-morocco-election-promises-2026",
+        "/en/articles/compare-morocco-election-programmes-2026",
+        "/en/articles/morocco-fuel-prices-august-2026-rise",
+        "/en/articles/cnss-morocco-2026"
+      ]
+    },
+    {
+      "route": "/es/articulos/programas-electorales-poder-adquisitivo-marruecos-2026",
+      "locale": "es",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/es/articulos/salario-minimo-marruecos-5000-dirhams-2026",
+        "/es/articulos/millon-empleos-marruecos-programas-2026",
+        "/es/articulos/comparativa-programas-elecciones-marruecos-2026",
+        "/es/articulos/precios-carburantes-marruecos-agosto-2026-subida",
+        "/es/articulos/campana-electoral-marruecos-2026",
+        "/es/articulos/candidatos-elecciones-marruecos-2026",
+        "/es/articulos/carburantes-marruecos-proxima-subida"
+      ]
+    },
+    {
+      "route": "/nl/artikelen/verkiezingsbeloften-koopkracht-marokko-2026",
+      "locale": "nl",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/nl/artikelen/minimumloon-marokko-5000-dirham-2026",
+        "/nl/artikelen/miljoen-banen-marokko-verkiezingsbeloften-2026",
+        "/nl/artikelen/vergelijking-verkiezingsprogrammas-marokko-2026",
+        "/nl/artikelen/brandstofprijzen-marokko-augustus-2026-stijging",
+        "/nl/artikelen/brandstof-marokko-volgende-prijsstijging",
+        "/nl/artikelen/cnss-marokko-2026",
+        "/nl/artikelen/kandidaten-verkiezingen-marokko-2026"
+      ]
+    },
+    {
+      "route": "/articles/candidats-elections-maroc-2026",
+      "locale": "fr",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/articles/elections-maroc-2026",
+        "/articles/campagne-electorale-maroc-2026",
+        "/articles/comparatif-programmes-elections-maroc-2026",
+        "/articles/carburants-maroc-nouvelle-hausse",
+        "/articles/chomage-maroc-2026"
+      ]
+    },
+    {
+      "route": "/en/articles/morocco-election-candidates-2026",
+      "locale": "en",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/en/articles/morocco-elections-2026",
+        "/en/articles/morocco-election-campaign-2026",
+        "/en/articles/compare-morocco-election-programmes-2026",
+        "/en/articles/cnss-morocco-2026",
+        "/en/articles/million-jobs-morocco-election-promises-2026"
+      ]
+    },
+    {
+      "route": "/es/articulos/candidatos-elecciones-marruecos-2026",
+      "locale": "es",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/es/articulos/elecciones-marruecos-2026",
+        "/es/articulos/campana-electoral-marruecos-2026",
+        "/es/articulos/comparativa-programas-elecciones-marruecos-2026",
+        "/es/articulos/carburantes-marruecos-proxima-subida",
+        "/es/articulos/cnss-marruecos-2026"
+      ]
+    },
+    {
+      "route": "/nl/artikelen/kandidaten-verkiezingen-marokko-2026",
+      "locale": "nl",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/nl/artikelen/verkiezingen-marokko-2026",
+        "/nl/artikelen/verkiezingscampagne-marokko-2026",
+        "/nl/artikelen/vergelijking-verkiezingsprogrammas-marokko-2026",
+        "/nl/artikelen/brandstof-marokko-volgende-prijsstijging",
+        "/nl/artikelen/cnss-marokko-2026",
+        "/nl/artikelen/marokko-mediterrane-spelen-2026"
+      ]
+    },
+    {
+      "route": "/articles/campagne-electorale-maroc-2026",
+      "locale": "fr",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/articles/elections-maroc-2026",
+        "/articles/candidats-elections-maroc-2026",
+        "/articles/programmes-electoraux-pouvoir-achat-2026",
+        "/articles/carburants-maroc-nouvelle-hausse",
+        "/articles/chomage-maroc-2026"
+      ]
+    },
+    {
+      "route": "/en/articles/morocco-election-campaign-2026",
+      "locale": "en",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/en/articles/morocco-elections-2026",
+        "/en/articles/morocco-election-candidates-2026",
+        "/en/articles/morocco-election-promises-purchasing-power-2026",
+        "/en/articles/cnss-morocco-2026",
+        "/en/articles/compare-morocco-election-programmes-2026",
+        "/en/articles/million-jobs-morocco-election-promises-2026"
+      ]
+    },
+    {
+      "route": "/es/articulos/campana-electoral-marruecos-2026",
+      "locale": "es",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/es/articulos/elecciones-marruecos-2026",
+        "/es/articulos/candidatos-elecciones-marruecos-2026",
+        "/es/articulos/programas-electorales-poder-adquisitivo-marruecos-2026",
+        "/es/articulos/carburantes-marruecos-proxima-subida",
+        "/es/articulos/cnss-marruecos-2026"
+      ]
+    },
+    {
+      "route": "/nl/artikelen/verkiezingscampagne-marokko-2026",
+      "locale": "nl",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/nl/artikelen/verkiezingen-marokko-2026",
+        "/nl/artikelen/kandidaten-verkiezingen-marokko-2026",
+        "/nl/artikelen/verkiezingsbeloften-koopkracht-marokko-2026",
+        "/nl/artikelen/brandstof-marokko-volgende-prijsstijging",
+        "/nl/artikelen/cnss-marokko-2026"
+      ]
+    },
+    {
+      "route": "/articles/smig-5000-dh-maroc-2026",
+      "locale": "fr",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/articles/cnss-maroc-guide-pratique",
+        "/articles/chomage-maroc-2026",
+        "/articles/programmes-electoraux-pouvoir-achat-2026",
+        "/articles/campagne-electorale-maroc-2026",
+        "/articles/candidats-elections-maroc-2026",
+        "/articles/carburants-maroc-nouvelle-hausse"
+      ]
+    },
+    {
+      "route": "/en/articles/morocco-minimum-wage-5000-dirhams-2026",
+      "locale": "en",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/en/articles/cnss-morocco-practical-guide",
+        "/en/articles/morocco-unemployment-2026",
+        "/en/articles/morocco-election-promises-purchasing-power-2026",
+        "/en/articles/cnss-morocco-2026",
+        "/en/articles/compare-morocco-election-programmes-2026",
+        "/en/articles/million-jobs-morocco-election-promises-2026"
+      ]
+    },
+    {
+      "route": "/es/articulos/salario-minimo-marruecos-5000-dirhams-2026",
+      "locale": "es",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/es/articulos/cnss-marruecos-guia-practica",
+        "/es/articulos/desempleo-marruecos-2026",
+        "/es/articulos/programas-electorales-poder-adquisitivo-marruecos-2026",
+        "/es/articulos/campana-electoral-marruecos-2026",
+        "/es/articulos/candidatos-elecciones-marruecos-2026",
+        "/es/articulos/carburantes-marruecos-proxima-subida"
+      ]
+    },
+    {
+      "route": "/nl/artikelen/minimumloon-marokko-5000-dirham-2026",
+      "locale": "nl",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/nl/artikelen/cnss-marokko-praktische-gids",
+        "/nl/artikelen/werkloosheid-marokko-2026",
+        "/nl/artikelen/verkiezingsbeloften-koopkracht-marokko-2026",
+        "/nl/artikelen/brandstof-marokko-volgende-prijsstijging",
+        "/nl/artikelen/cnss-marokko-2026",
+        "/nl/artikelen/kandidaten-verkiezingen-marokko-2026"
+      ]
+    },
+    {
+      "route": "/articles/million-emplois-maroc-programmes-2026",
+      "locale": "fr",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/articles/chomage-maroc-2026",
+        "/articles/comparatif-programmes-elections-maroc-2026",
+        "/articles/smig-5000-dh-maroc-2026",
+        "/articles/campagne-electorale-maroc-2026",
+        "/articles/candidats-elections-maroc-2026",
+        "/articles/carburants-maroc-nouvelle-hausse"
+      ]
+    },
+    {
+      "route": "/en/articles/million-jobs-morocco-election-promises-2026",
+      "locale": "en",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/en/articles/morocco-unemployment-2026",
+        "/en/articles/compare-morocco-election-programmes-2026",
+        "/en/articles/morocco-minimum-wage-5000-dirhams-2026",
+        "/en/articles/cnss-morocco-2026",
+        "/en/articles/morocco-election-campaign-2026"
+      ]
+    },
+    {
+      "route": "/es/articulos/millon-empleos-marruecos-programas-2026",
+      "locale": "es",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/es/articulos/desempleo-marruecos-2026",
+        "/es/articulos/comparativa-programas-elecciones-marruecos-2026",
+        "/es/articulos/salario-minimo-marruecos-5000-dirhams-2026",
+        "/es/articulos/campana-electoral-marruecos-2026",
+        "/es/articulos/candidatos-elecciones-marruecos-2026",
+        "/es/articulos/carburantes-marruecos-proxima-subida"
+      ]
+    },
+    {
+      "route": "/nl/artikelen/miljoen-banen-marokko-verkiezingsbeloften-2026",
+      "locale": "nl",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/nl/artikelen/werkloosheid-marokko-2026",
+        "/nl/artikelen/vergelijking-verkiezingsprogrammas-marokko-2026",
+        "/nl/artikelen/minimumloon-marokko-5000-dirham-2026",
+        "/nl/artikelen/brandstof-marokko-volgende-prijsstijging",
+        "/nl/artikelen/cnss-marokko-2026",
+        "/nl/artikelen/kandidaten-verkiezingen-marokko-2026"
+      ]
+    },
+    {
+      "route": "/articles/carburants-maroc-nouvelle-hausse",
+      "locale": "fr",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/articles/prix-carburants-maroc-aout-2026-hausse",
+        "/articles/programmes-electoraux-pouvoir-achat-2026",
+        "/articles/tourisme-maroc-2030-onmt-arrivees-2026",
+        "/articles/campagne-electorale-maroc-2026",
+        "/articles/candidats-elections-maroc-2026",
+        "/articles/chomage-maroc-2026"
+      ]
+    },
+    {
+      "route": "/en/articles/morocco-fuel-prices-next-increase",
+      "locale": "en",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/en/articles/morocco-fuel-prices-august-2026-rise",
+        "/en/articles/morocco-election-promises-purchasing-power-2026",
+        "/en/articles/morocco-tourism-2030-onmt-arrivals-2026",
+        "/en/articles/cnss-morocco-2026",
+        "/en/articles/compare-morocco-election-programmes-2026",
+        "/en/articles/million-jobs-morocco-election-promises-2026"
+      ]
+    },
+    {
+      "route": "/es/articulos/carburantes-marruecos-proxima-subida",
+      "locale": "es",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/es/articulos/precios-carburantes-marruecos-agosto-2026-subida",
+        "/es/articulos/programas-electorales-poder-adquisitivo-marruecos-2026",
+        "/es/articulos/turismo-marruecos-2030-onmt-llegadas-2026",
+        "/es/articulos/campana-electoral-marruecos-2026",
+        "/es/articulos/candidatos-elecciones-marruecos-2026",
+        "/es/articulos/cnss-marruecos-2026"
+      ]
+    },
+    {
+      "route": "/nl/artikelen/brandstof-marokko-volgende-prijsstijging",
+      "locale": "nl",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/nl/artikelen/brandstofprijzen-marokko-augustus-2026-stijging",
+        "/nl/artikelen/verkiezingsbeloften-koopkracht-marokko-2026",
+        "/nl/artikelen/toerisme-marokko-2030-onmt-aankomsten-2026",
+        "/nl/artikelen/cnss-marokko-2026",
+        "/nl/artikelen/kandidaten-verkiezingen-marokko-2026",
+        "/nl/artikelen/marokko-mediterrane-spelen-2026"
+      ]
+    },
+    {
+      "route": "/articles/meteo-maroc-aujourdhui",
+      "locale": "fr",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/articles/canicule-maroc-aout-2026-villes-previsions",
+        "/articles/tourisme-maroc-2030-onmt-arrivees-2026",
+        "/articles/tanjazz-2026",
+        "/articles/cnss-maroc-guide-pratique",
+        "/articles/rentree-scolaire-maroc-2026-2027"
+      ]
+    },
+    {
+      "route": "/en/articles/morocco-weather-today",
+      "locale": "en",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/en/articles/morocco-heatwave-august-2026-cities-forecast",
+        "/en/articles/morocco-tourism-2030-onmt-arrivals-2026",
+        "/en/articles/tanjazz-2026-tangier",
+        "/en/articles/cnss-morocco-practical-guide",
+        "/en/articles/morocco-school-calendar-2026-2027"
+      ]
+    },
+    {
+      "route": "/es/articulos/tiempo-marruecos-hoy",
+      "locale": "es",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/es/articulos/canicula-marruecos-agosto-2026-ciudades-prevision",
+        "/es/articulos/turismo-marruecos-2030-onmt-llegadas-2026",
+        "/es/articulos/tanjazz-2026-tanger",
+        "/es/articulos/cnss-marruecos-guia-practica",
+        "/es/articulos/vuelta-colegio-marruecos-2026-2027"
+      ]
+    },
+    {
+      "route": "/nl/artikelen/weer-marokko-vandaag",
+      "locale": "nl",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/nl/artikelen/hittegolf-marokko-augustus-2026-steden-verwachting",
+        "/nl/artikelen/toerisme-marokko-2030-onmt-aankomsten-2026",
+        "/nl/artikelen/tanjazz-2026-tanger",
+        "/nl/artikelen/cnss-marokko-praktische-gids",
+        "/nl/artikelen/schooljaar-marokko-2026-2027"
+      ]
+    },
+    {
+      "route": "/articles/cnss-maroc-guide-pratique",
+      "locale": "fr",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/articles/cnss-maroc-2026",
+        "/articles/smig-5000-dh-maroc-2026",
+        "/articles/chomage-maroc-2026",
+        "/articles/meteo-maroc-aujourdhui",
+        "/articles/rentree-scolaire-maroc-2026-2027",
+        "/articles/canicule-maroc-aout-2026-villes-previsions"
+      ]
+    },
+    {
+      "route": "/en/articles/cnss-morocco-practical-guide",
+      "locale": "en",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/en/articles/cnss-morocco-2026",
+        "/en/articles/morocco-minimum-wage-5000-dirhams-2026",
+        "/en/articles/morocco-unemployment-2026",
+        "/en/articles/morocco-school-calendar-2026-2027",
+        "/en/articles/morocco-weather-today",
+        "/en/articles/morocco-heatwave-august-2026-cities-forecast"
+      ]
+    },
+    {
+      "route": "/es/articulos/cnss-marruecos-guia-practica",
+      "locale": "es",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/es/articulos/cnss-marruecos-2026",
+        "/es/articulos/salario-minimo-marruecos-5000-dirhams-2026",
+        "/es/articulos/desempleo-marruecos-2026",
+        "/es/articulos/tiempo-marruecos-hoy",
+        "/es/articulos/vuelta-colegio-marruecos-2026-2027",
+        "/es/articulos/canicula-marruecos-agosto-2026-ciudades-prevision"
+      ]
+    },
+    {
+      "route": "/nl/artikelen/cnss-marokko-praktische-gids",
+      "locale": "nl",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/nl/artikelen/cnss-marokko-2026",
+        "/nl/artikelen/minimumloon-marokko-5000-dirham-2026",
+        "/nl/artikelen/werkloosheid-marokko-2026",
+        "/nl/artikelen/schooljaar-marokko-2026-2027",
+        "/nl/artikelen/weer-marokko-vandaag",
+        "/nl/artikelen/hittegolf-marokko-augustus-2026-steden-verwachting"
+      ]
+    },
+    {
+      "route": "/articles/fado-festival-maroc-2026",
+      "locale": "fr",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/articles/tanjazz-2026",
+        "/articles/tourisme-maroc-2030-onmt-arrivees-2026",
+        "/articles/meteo-maroc-aujourdhui"
+      ]
+    },
+    {
+      "route": "/en/articles/fado-festival-morocco-2026",
+      "locale": "en",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/en/articles/tanjazz-2026-tangier",
+        "/en/articles/morocco-tourism-2030-onmt-arrivals-2026",
+        "/en/articles/morocco-weather-today"
+      ]
+    },
+    {
+      "route": "/es/articulos/festival-fado-marruecos-2026",
+      "locale": "es",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/es/articulos/tanjazz-2026-tanger",
+        "/es/articulos/turismo-marruecos-2030-onmt-llegadas-2026",
+        "/es/articulos/tiempo-marruecos-hoy"
+      ]
+    },
+    {
+      "route": "/nl/artikelen/fado-festival-marokko-2026",
+      "locale": "nl",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/nl/artikelen/tanjazz-2026-tanger",
+        "/nl/artikelen/toerisme-marokko-2030-onmt-aankomsten-2026",
+        "/nl/artikelen/weer-marokko-vandaag"
+      ]
+    },
+    {
+      "route": "/articles/tanjazz-2026",
+      "locale": "fr",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/articles/fado-festival-maroc-2026",
+        "/articles/tourisme-maroc-2030-onmt-arrivees-2026",
+        "/articles/meteo-maroc-aujourdhui"
+      ]
+    },
+    {
+      "route": "/en/articles/tanjazz-2026-tangier",
+      "locale": "en",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/en/articles/fado-festival-morocco-2026",
+        "/en/articles/morocco-tourism-2030-onmt-arrivals-2026",
+        "/en/articles/morocco-weather-today"
+      ]
+    },
+    {
+      "route": "/es/articulos/tanjazz-2026-tanger",
+      "locale": "es",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/es/articulos/festival-fado-marruecos-2026",
+        "/es/articulos/turismo-marruecos-2030-onmt-llegadas-2026",
+        "/es/articulos/tiempo-marruecos-hoy"
+      ]
+    },
+    {
+      "route": "/nl/artikelen/tanjazz-2026-tanger",
+      "locale": "nl",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/nl/artikelen/fado-festival-marokko-2026",
+        "/nl/artikelen/toerisme-marokko-2030-onmt-aankomsten-2026",
+        "/nl/artikelen/weer-marokko-vandaag"
+      ]
+    },
+    {
+      "route": "/articles/comparatif-programmes-elections-maroc-2026",
+      "locale": "fr",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/articles/million-emplois-maroc-programmes-2026",
+        "/articles/smig-5000-dh-maroc-2026",
+        "/articles/elections-maroc-2026",
+        "/articles/programmes-electoraux-pouvoir-achat-2026",
+        "/articles/campagne-electorale-maroc-2026",
+        "/articles/candidats-elections-maroc-2026",
+        "/articles/carburants-maroc-nouvelle-hausse"
+      ]
+    },
+    {
+      "route": "/en/articles/compare-morocco-election-programmes-2026",
+      "locale": "en",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/en/articles/million-jobs-morocco-election-promises-2026",
+        "/en/articles/morocco-minimum-wage-5000-dirhams-2026",
+        "/en/articles/morocco-elections-2026",
+        "/en/articles/morocco-election-promises-purchasing-power-2026",
+        "/en/articles/cnss-morocco-2026",
+        "/en/articles/morocco-election-campaign-2026"
+      ]
+    },
+    {
+      "route": "/es/articulos/comparativa-programas-elecciones-marruecos-2026",
+      "locale": "es",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/es/articulos/millon-empleos-marruecos-programas-2026",
+        "/es/articulos/salario-minimo-marruecos-5000-dirhams-2026",
+        "/es/articulos/elecciones-marruecos-2026",
+        "/es/articulos/programas-electorales-poder-adquisitivo-marruecos-2026",
+        "/es/articulos/campana-electoral-marruecos-2026",
+        "/es/articulos/candidatos-elecciones-marruecos-2026",
+        "/es/articulos/carburantes-marruecos-proxima-subida"
+      ]
+    },
+    {
+      "route": "/nl/artikelen/vergelijking-verkiezingsprogrammas-marokko-2026",
+      "locale": "nl",
+      "canonical": true,
+      "hreflang": true,
+      "structuredData": true,
+      "internalLinks": [
+        "/nl/artikelen/miljoen-banen-marokko-verkiezingsbeloften-2026",
+        "/nl/artikelen/minimumloon-marokko-5000-dirham-2026",
+        "/nl/artikelen/verkiezingen-marokko-2026",
+        "/nl/artikelen/verkiezingsbeloften-koopkracht-marokko-2026",
+        "/nl/artikelen/brandstof-marokko-volgende-prijsstijging",
+        "/nl/artikelen/cnss-marokko-2026",
+        "/nl/artikelen/kandidaten-verkiezingen-marokko-2026"
+      ]
+    }
+  ]
+}

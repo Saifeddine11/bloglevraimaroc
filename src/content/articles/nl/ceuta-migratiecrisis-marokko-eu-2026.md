@@ -1,183 +1,115 @@
 ---
-title: "Ceuta: wat betrouwbare bronnen zeggen over migratiecrisis en Marokko-EU-samenwerking"
-slug: "ceuta-migratiecrisis-marokko-eu-2026"
-urlSlug: "ceuta-migratiecrisis-marokko-eu-2026"
-locale: "nl"
-translationKey: "sebta-cooperation-maroc-ue-2026"
-metaTitle: "Ceuta: wat betrouwbare bronnen zeggen over migratiecrisis en Marokko-EU-samenwerking"
-metaDescription: "Ceuta/Sebta 2026: geverifieerde feiten, voorzichtige cijfers, samenwerking Marokko-Spanje-EU en desinformatie."
-category: "analyses"
-tags: ["ceuta","wat","betrouwbare","bronnen","zeggen","over","migratiecrisis","en"]
-date: 2026-08-03
-updatedDate: 2026-08-03
-readingTime: 8
-excerpt: "De crisis in Ceuta vraagt om onderscheid tussen bevestigde feiten, voorlopige cijfers en politieke beschuldigingen."
-heroImage: "/images/articles/news-2026-08-03/sebta-crise-migratoire-maroc-ue-2026-cover.webp"
-imageAlt: "Grenshek bij Ceuta/Sebta als context voor migratiedruk."
-featured: false
-sources:
-  - label: "AP — Fact Focus on Ceuta claims"
-    url: "https://apnews.com/article/50baa964ecfb07a2d19223d7ec375b91"
-  - label: "The Guardian — EU borders and Ceuta crisis"
-    url: "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen"
-  - label: "La Moncloa — Operation Crossing the Strait 2026"
-    url: "https://www.lamoncloa.gob.es/lang/en/gobierno/news/Paginas/2026/20260716-cperation-crossing-the-strait.aspx"
-  - label: "Médias24 — migration route shifts in 2026"
-    url: "https://medias24.com/2026/07/05/migration-la-route-des-canaries-recule-fortement-sur-fond-de-cooperation-maroco-espagnole-1716421/"
-disclaimer: false
+"title": "Ceuta: gecontroleerde feiten en standpunten van Marokko, Spanje en de EU"
+"slug": "ceuta-migratiecrisis-marokko-eu-2026"
+"urlSlug": "ceuta-migratiecrisis-marokko-eu-2026"
+"locale": "nl"
+"translationKey": "sebta-cooperation-maroc-ue-2026"
+"metaTitle": "Ceuta: feiten en officiële standpunten"
+"metaDescription": "De migratiecrisis die op 30 juli 2026 begon in Ceuta, in Marokko Sebta genoemd, blijft begin september onderwerp van diplomatiek overleg. Pedro Sánchez…"
+"category": "analyses"
+"tags":
+  - "Ceuta"
+  - "Marokko"
+"date": "2026-08-03"
+"updatedDate": "2026-09-07"
+"readingTime": 4
+"excerpt": "De migratiecrisis die op 30 juli 2026 begon in Ceuta, in Marokko Sebta genoemd, blijft begin september onderwerp van diplomatiek overleg. Pedro Sánchez verklaarde op 3 september in het Spaanse parlement geen solide bewijs te hebben dat Marokko de gebeurtenissen had gepland of uitgevoerd. Gepubliceerde beschuldigingen moeten worden onderscheiden van dit officiële standpunt en van onderzoeksconclusies."
+"heroImage": "/images/articles/editorial-2026-09-05/sebta-cooperation-maroc-ue-2026-cover.webp"
+"imageAlt": "Grenshek bij Ceuta/Sebta; geen gebeurtenis uit 2026 afgebeeld."
+"articleType": "NewsArticle"
+"heroCaption": "Grenshek bij Ceuta/Sebta; geen gebeurtenis uit 2026 afgebeeld. Contextfoto · 2026."
+"heroCredit": "Xemenendura"
+"heroSource": "https://commons.wikimedia.org/wiki/File:Valla_de_Ceuta..jpg"
+"heroLicense": "https://creativecommons.org/licenses/by-sa/4.0"
+"heroWidth": 1600
+"heroHeight": 900
+"featured": false
+"sources":
+  - "label": "La Moncloa · 03.09.2026"
+    "url": "https://www.lamoncloa.gob.es/presidente/actividades/Paginas/2026/030926-sanchez-comparecencia-ceuta.aspx"
+  - "label": "European Commission · 18.08.2026"
+    "url": "https://audiovisual.ec.europa.eu/en/media/video/I-293122"
+  - "label": "European Commission · Schengen"
+    "url": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-area/temporary-reintroduction-border-control_en"
+  - "label": "EFE · 03.09.2026"
+    "url": "https://efe.com/euro-efe/2026-09-03/ue-marruecos-ceuta/"
+  - "label": "Euronews · 02.09.2026"
+    "url": "https://fr.euronews.com/my-europe/2026/09/02/crise-de-ceuta-dapres-un-rapport-espagnol-des-agents-marocains-auraient-dirige-des-migrant"
+  - "label": "Euronews · 03.09.2026"
+    "url": "https://fr.euronews.com/my-europe/2026/09/03/crise-migratoire-de-ceuta-sanchez-affirme-que-son-gouvernement-na-rien-a-cacher"
+  - "label": "TelQuel · 04.09.2026"
+    "url": "https://telquel.ma/instant-t/2026/09/04/bruxelles-annonce-des-avancees-importantes-dans-loctroi-dune-aide-durgence-a-lespagne-pour-sebta_2005722/"
+"disclaimer": false
 ---
-**Kort antwoord.** Internationale agentschappen beschrijven begin augustus 2026 een grote crisis in Ceuta/Sebta, met gevoelige cijfers die nog bewegen. Dit artikel kiest voorzichtigheid: geen beelden van kwetsbare personen en geen geruchten als bevestiging.
 
-> **Belangrijkste punten**
-> - AP wijst op ongefundeerde claims rond de crisis.
-> - La Moncloa documenteerde al OPE 2026-coordinatie tussen Spanje en Marokko.
-> - Migratieroutes verschuiven: minder Canarische aankomsten maar lokale druk in Ceuta en Melilla.
-> - De humanitaire dimensie blijft centraal.
+## Gecontroleerde tijdlijn
 
-Update-opmerking: dit onderwerp ontwikkelt zich. De feiten hieronder zijn bijgewerkt tot 3 augustus 2026 om 19:10 uur in Casablanca.
+| Datum       | Ontwikkeling                                                | Status                                                       |
+| ----------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
+| 30 juli     | Begin van de door Spanje beschreven massale grensovergangen | Gedocumenteerde gebeurtenis; cijfers vereisen bronvermelding |
+| 18 augustus | Persbriefing Europese Commissie over opvang en samenwerking | Rechtstreekse EU-bron                                        |
+| 1 september | Spaans pakket van 309 miljoen euro voor Ceuta               | Door Madrid als goedgekeurd aangekondigd                     |
+| 2 september | Publicatie van beschuldigingen uit een Spaans rapport       | Gemelde aantijgingen, geen rechterlijke conclusie            |
+| 3 september | Sánchez spreekt het parlement toe                           | Officiële Spaanse verklaring                                 |
+| 4 september | Voortgang gemeld bij Europese noodhulp                      | Procedure, te onderscheiden van uitbetaling                  |
 
-## Waarom dit nu telt
-
-AP wijst op ongefundeerde claims rond de crisis.
-
-La Moncloa documenteerde al OPE 2026-coordinatie tussen Spanje en Marokko.
-
-Migratieroutes verschuiven: minder Canarische aankomsten maar lokale druk in Ceuta en Melilla.
-
-De humanitaire dimensie blijft centraal.
+Ceuta is een door Spanje bestuurde stad aan de grens met Marokko. De Spaanse of Marokkaanse naam verandert niets aan de noodzaak om iedere bewering te controleren.
 
 <figure>
-  <img src="/images/articles/news-2026-08-03/sebta-crise-migratoire-maroc-ue-2026-01.webp" alt="Grenspost Tarajal als context voor oversteken tussen Marokko en Ceuta." width="1200" height="900" loading="lazy" decoding="async" />
-  <figcaption>Contextuele illustratie. Grenspost Tarajal als context voor oversteken tussen Marokko en Ceuta. Credit: Xemenendura / Wikimedia Commons (CC BY-SA 4.0).</figcaption>
+  <img src="/images/articles/editorial-2026-09-05/sebta-cooperation-maroc-ue-2026-01.webp" alt="Grens tussen Marokko en Ceuta/Sebta vanaf de Spaanse kant." width="1200" height="891" loading="lazy" decoding="async" />
+  <figcaption>Grens tussen Marokko en Ceuta/Sebta vanaf de Spaanse kant. Contextfoto · 2004. Foto: <a href="https://commons.wikimedia.org/wiki/File:Spanish-Moroccan_border_(Ceuta-Sebta).JPG" rel="noopener">Jguk 2</a> · <a href="http://creativecommons.org/licenses/by-sa/3.0/" rel="license">CC BY-SA 3.0</a>.</figcaption>
 </figure>
 
-## Geverifieerde ijkpunten
+## Wat Madrid verklaart
 
-| Element | Nuttige lezing |
-|---|---|
-| 1 | AP wijst op ongefundeerde claims rond de crisis. |
-| 2 | La Moncloa documenteerde al OPE 2026-coordinatie tussen Spanje en Marokko. |
-| 3 | Migratieroutes verschuiven: minder Canarische aankomsten maar lokale druk in Ceuta en Melilla. |
-| 4 | De humanitaire dimensie blijft centraal. |
+Het verslag van La Moncloa van 3 september schrijft aan Sánchez ongeveer 70.000 aankomsten tijdens het eerste incident toe en circa 63.000 terugkeren naar Marokko in de eerste 72 uur. Dit zijn cijfers van de Spaanse regering, geen nieuwe onafhankelijke telling van 5 september.
+
+Sánchez beschreef meerdere oorzaken, kondigde voortgezet onderzoek aan en gaf opdracht beschikbare rapporten te publiceren. Zijn verklaring dat solide bewijs voor een Marokkaanse operatie ontbreekt, beslecht niet alle omstandigheden definitief.
+
+Het Spaanse pakket van 309 miljoen euro betreft onder meer de lokale economie, publieke diensten, veiligheid en opvang. Het mag niet worden beschreven als een reeds uitbetaalde Europese subsidie.
+
+## Europese verklaringen en Marokkaanse samenwerking
+
+Op 18 augustus verwelkomde de Europese Commissie resultaten van grenssamenwerking in het voorafgaande weekend en de aangekondigde uitbreiding van Spaanse opvang. Zij nam ook kennis van Marokkaanse verklaringen over bereidheid mensen terug te nemen die onregelmatig waren aangekomen, inclusief alleenstaande minderjarigen. Dit betreft een Marokkaans standpunt dat via een officiële Europese bron wordt weergegeven, geen rechtstreeks overgenomen Marokkaans communiqué.
+
+EFE meldde op 3 september dat Brussel Marokko bleef omschrijven als strategische migratiepartner. De berichten van 4 september over noodhulp beschrijven voortgang in de procedure, geen vastgesteld uitbetaald bedrag.
 
 <figure>
-  <img src="/images/articles/news-2026-08-03/sebta-crise-migratoire-maroc-ue-2026-02.webp" alt="Beeld van de grens tussen Fnideq en Ceuta als territoriale context bij het grensdossier." width="1200" height="804" loading="lazy" decoding="async" />
-  <figcaption>Contextuele illustratie. Beeld van de grens tussen Fnideq en Ceuta als territoriale context bij het grensdossier. Credit: José Sáez / Wikimedia Commons (CC BY-SA 2.0).</figcaption>
+  <img src="/images/articles/editorial-2026-09-05/sebta-cooperation-maroc-ue-2026-02.webp" alt="Zuidelijke baai van Ceuta vanaf Fuente Caballo." width="1200" height="675" loading="lazy" decoding="async" />
+  <figcaption>Zuidelijke baai van Ceuta vanaf Fuente Caballo. Contextfoto · 2021. Foto: <a href="https://commons.wikimedia.org/wiki/File:Bah%C3%ADa_sur_Ceuta.jpg" rel="noopener">Xemenendura</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="license">CC BY-SA 4.0</a>.</figcaption>
 </figure>
+
+## Beschuldigingen en openstaande vragen
+
+Euronews berichtte op 2 september over beschuldigingen dat Marokkaanse agenten migranten naar de grens zouden hebben geleid. Die aantijging blijft voorwaardelijk en aan de bron toegeschreven. Een door media aangehaald rapport, een politiek standpunt en gecontroleerd bewijs zijn verschillende zaken.
+
+Onder de voor dit artikel geverifieerde documenten vonden we geen gedateerd Marokkaans communiqué dat specifiek op dat rapport antwoordt. Dat bewijst niet dat Marokko nooit reageerde. Een directe reactie moet met datum en oorspronkelijke bron worden toegevoegd.
+
+## Bewoners en reizen
+
+Opvangcapaciteit, lokale diensten en bescherming van kwetsbare mensen zijn eveneens van belang. Demonstraties en politieke toespraken behoren tot het publieke debat; slogans bewijzen niet de oorzaak of het huidige aantal aanwezige mensen.
+
+Het officiële Commissieregister vermeldt tijdelijke Italiaanse controles aan lucht- en zeegrenzen met Spanje van 1 tot 16 september. Overeenkomstige Spaanse controles met Italië zijn aangemeld tot 7 september. Deze beperkte maatregelen betekenen geen algemene sluiting van Schengen.
 
 <figure>
-  <img src="/images/articles/news-2026-08-03/sebta-crise-migratoire-maroc-ue-2026-03.webp" alt="Andere blik op het grenshek bij Ceuta/Sebta als context voor controles en stromen." width="1200" height="900" loading="lazy" decoding="async" />
-  <figcaption>Contextuele illustratie. Andere blik op het grenshek bij Ceuta/Sebta als context voor controles en stromen. Credit: Xemenendura / Wikimedia Commons (CC BY-SA 3.0).</figcaption>
+  <img src="/images/articles/editorial-2026-09-05/sebta-cooperation-maroc-ue-2026-03.webp" alt="Uitzicht vanaf Ceuta richting Fnideq/Castillejos, Marokko." width="1200" height="675" loading="lazy" decoding="async" />
+  <figcaption>Uitzicht vanaf Ceuta richting Fnideq/Castillejos, Marokko. Contextfoto · 2021. Foto: <a href="https://commons.wikimedia.org/wiki/File:Castillejos_desde_Ceuta.jpg" rel="noopener">Xemenendura</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="license">CC BY-SA 4.0</a>.</figcaption>
 </figure>
 
-## Wat bevestigd is
+## Beelden en cijfers controleren
 
-- Crisis gemeld door AP en The Guardian
-- Marokko-Spanje-samenwerking in OPE 2026
-- Veel desinformatie
+Controleer bij een video de datum, plaats en eerste publicatie voordat u die deelt. Beelden uit 2021 documenteren niet automatisch juli 2026. De foto’s hier tonen de geografische en grenscontext; ze pretenderen niet de actuele gebeurtenissen vast te leggen of kwetsbare personen te identificeren.
 
-## Wat gevolgd moet worden
+## Veelgestelde vragen
 
-- Geconsolideerde officiële cijfers
-- Reacties van Rabat en Madrid
-- EU-besluiten
-- Situatie van minderjarigen en asielzoekers
+<details><summary>Staat een door Marokko georganiseerde operatie vast?</summary><p>Niet volgens de hier gecontroleerde bronnen. Sánchez verklaarde op 3 september geen solide bewijs daarvoor te hebben, terwijl het onderzoek doorgaat.</p></details>
 
-## Wat dit concreet verandert
+<details><summary>Is de 309 miljoen euro Europese hulp?</summary><p>Dat bedrag betreft het door de Spaanse regering aangekondigde pakket. De Europese noodhulpprocedure staat daar los van.</p></details>
 
-- AP wijst op ongefundeerde claims rond de crisis.
-- La Moncloa documenteerde al OPE 2026-coordinatie tussen Spanje en Marokko.
-- Migratieroutes verschuiven: minder Canarische aankomsten maar lokale druk in Ceuta en Melilla.
-- De humanitaire dimensie blijft centraal.
+<details><summary>Beschrijven de cijfers de situatie van vandaag?</summary><p>De aantallen aankomsten en terugkeren betreffen de beginfase zoals Madrid die op 3 september beschreef, geen telling van 5 september.</p></details>
 
 ## Verder lezen
 
-- [Toerisme Marokko 2030: ONMT-traject](/nl/artikelen/toerisme-marokko-2030-onmt-aankomsten-2026)
-- [HSL Kenitra-Marrakech: reisimpact](/nl/artikelen/hsl-kenitra-marrakech-2026-reisimpact)
-- [Marrakech voor 2030](/nl/artikelen/marrakech-voor-2030-toerisme-infrastructuur-kansen)
-
-## Redactioneel Leeskader
-
-Een onderwerp als **Ceuta: wat betrouwbare bronnen zeggen over migratiecrisis en Marokko-EU-samenwerking** moet niet gelezen worden als een losse reeks korte berichten. De nuttige eerste stap is het scheiden van geverifieerde feiten, officiële formuleringen, mediainterpretaties en waarschijnlijke scenario’s. Dat beschermt lezers tegen twee veel voorkomende fouten: een aanname als zekerheid behandelen, of een belangrijk signaal onderschatten omdat de administratieve, economische of diplomatieke gevolgen nog niet volledig zichtbaar zijn.
-
-De eerste laag is bronkwaliteit. Een publieke instelling, sportfederatie, toezichthouder, internationale organisatie of beursgenoteerd bedrijf produceert andere informatie dan een nieuwsartikel. Een officiële bron kan een datum, cijfer of besluit bevestigen, maar zwijgen over praktische gevolgen. Een betrouwbaar medium kan context toevoegen en blinde vlekken tonen, maar vervangt het primaire document niet wanneer het gaat om procedure, prijs, kalender of waarschuwing.
-
-De tweede laag is woordkeuze. In Marokkaans nieuws zijn woorden als “aangekondigd”, “bevestigd”, “gepland”, “verwacht”, “gemeld”, “waarschijnlijk” en “in bespreking” niet uitwisselbaar. Een investeringsaankondiging is geen werkende fabriek. Een risicokaart is geen actieve brand. Een wedstrijdkalender is geen uitslag. Een diplomatieke positie is niet automatisch een internationale resolutie. Die verschillen zichtbaar houden maakt de tekst nuttiger en duurzamer.
-
-De derde laag is territoriaal. De effecten van één nieuwsfeit verspreiden zich zelden gelijkmatig over Rabat, Casablanca, Marrakech, Tanger, Agadir, zuidelijke provincies, bosgebieden of grenspunten. Marokko beweegt via hubs, corridors, seizoenen en gespecialiseerde administraties. Daarom kiest dit artikel voor herkenbare plaatsen, data en actoren in plaats van snelle nationale veralgemeningen.
-
-De vierde laag is praktisch. Lezers vragen niet alleen “wat is er gebeurd?”, maar ook “wat moet ik controleren voor ik beslis?”. Soms betekent dat een waakzaamheidskaart raadplegen, wachten op een communiqué, een administratief portaal controleren, een wedstrijdtijd bevestigen, pompprijzen vergelijken of een gefinancierde werf onderscheiden van een project dat nog wordt gestructureerd.
-
-### Voor het delen
-
-- AP wijst op ongefundeerde claims rond de crisis.
-- La Moncloa documenteerde al OPE 2026-coordinatie tussen Spanje en Marokko.
-- Migratieroutes verschuiven: minder Canarische aankomsten maar lokale druk in Ceuta en Melilla.
-- De humanitaire dimensie blijft centraal.
-
-Deze punten zijn een redactionele momentopname, geen bevroren waarheid. Onderwerpen die zichtbaar worden in Google Discover, Google News of AI-antwoorden veranderen vaak na publicatie. De rol van het artikel is niet totale zekerheid simuleren, maar tonen waar zekerheid begint en monitoring nodig blijft.
-
-## Waarom zoekinteresse kan stijgen
-
-Zoekvraag stijgt wanneer een onderwerp nabijheid, nut en onzekerheid combineert. Nabijheid kan geografisch, familiaal, economisch of symbolisch zijn. Nut ontstaat wanneer lezers een beslissing kunnen nemen: vroeger reizen, een afspraak uitstellen, een wedstrijd volgen, een rekening begrijpen, een risicogebied vermijden of de waarde van een publieke aankondiging inschatten. Onzekerheid creëert behoefte aan verduidelijking: gebruikers zoeken dan een eenvoudig maar onderbouwd antwoord.
-
-Ook timing telt. Begin augustus komen zomerreizen, hittepieken, toeristische stromen, terugkeer van Marokkanen uit het buitenland, sportcompetities en economische voorbereiding samen. Een verhaal kan in deze periode snel circuleren wanneer het raakt aan veiligheid, gezinsbudget, reizen, administratieve identiteit of het internationale beeld van Marokko.
-
-Valse urgentie moet vermeden worden. Zeggen dat een onderwerp wordt gevolgd betekent niet dat het gedramatiseerd moet worden. Goede redactionele tekst geeft bovenaan het korte antwoord en legt daarna de grenzen uit. Dat helpt ook zoekmachines en AI-systemen: entiteiten zijn genoemd, data zijn expliciet, onzekerheid is zichtbaar en bronnen staan vermeld.
-
-## Wat het artikel kan veranderen
-
-- Bevestigd element: Crisis gemeld door AP en The Guardian
-- Bevestigd element: Marokko-Spanje-samenwerking in OPE 2026
-- Bevestigd element: Veel desinformatie
-- Te volgen punt: Geconsolideerde officiële cijfers
-- Te volgen punt: Reacties van Rabat en Madrid
-- Te volgen punt: EU-besluiten
-- Te volgen punt: Situatie van minderjarigen en asielzoekers
-
-Een nieuwsartikel moet gecorrigeerd kunnen worden. Als een officiële bron een nieuw bulletin publiceert, een instelling een cijfer verduidelijkt, een federatie een score bijwerkt, een bedrijf een planning wijzigt of een overheid een maatregel bevestigt, moet de tekst worden herlezen. Deze discipline telt evenveel als stijl: ze voorkomt te sterke titels, verouderde cijfers en interne links naar achterhaalde situaties.
-
-## Verificatiemethode
-
-De bronselectie volgde drie prioriteiten. Eerst kwamen primaire bronnen: Marokkaanse officiële portalen, publieke instellingen, internationale instanties, federaties of direct betrokken bedrijven. Daarna erkende media die gedateerde feitelijke context konden geven. Tot slot gespecialiseerde bronnen wanneer het onderwerp markt-, transport-, weer-, sport- of migratieopvolging vroeg.
-
-Cijfers zijn voorzichtig behandeld wanneer ze indicatief, voorlopig of locatieafhankelijk waren. Toekomstige data zijn gepresenteerd als aangekondigde termijnen, niet als reeds behaalde uitkomsten. Beelden zijn als illustraties behandeld wanneer hun rol contextueel was. Geen enkel beeld moet worden gelezen als documentair bewijs van een precies evenement tenzij het bijschrift dat duidelijk zegt.
-
-## Mogelijke gevolgen voor lezers
-
-Voor particulieren is de onmiddellijke waarde weten wat gecontroleerd moet worden en waar. Voor professionals in toerisme, vastgoed, transport, industrie of diensten gaat het om ruis scheiden van bruikbare informatie. Voor internationale lezers werkt het artikel ook als brug: het verklaart Marokkaanse entiteiten, kalenders, afkortingen en interpretatiegrenzen zonder voorkennis van het land te veronderstellen.
-
-Voorzichtigheid verzwakt informatie niet; ze maakt haar sterker. Een bescheiden maar goed toegeschreven feit is meer waard dan een spectaculaire conclusie zonder steun. Dat is de redactionele lijn hier: de lezer beschermen en de geloofwaardigheid van de site bewaren.
-
-## Laatste Monitoringchecklist
-
-Voor iemand op basis van deze informatie handelt, is één laatste controle nodig bij de bron die de beslissing bezit. Voor weer is dat de officiële waakzaamheidskaart. Voor sport is dat de federatie, CAF of organisator. Voor transport is dat de luchthaven, luchtvaartmaatschappij, spooroperator of officiële passagiersmelding. Voor administratie is dat het bevoegde overheidsportaal. Voor diplomatie is dat de oorspronkelijke verklaring, resolutie of institutionele mededeling.
-
-Dit onderscheid is belangrijk omdat het publieke gesprek vaak sneller beweegt dan het administratieve dossier. Zoekmachines kunnen oudere artikelen tonen, sociale netwerken kunnen nuance platdrukken en screenshots kunnen zonder datum of context circuleren. Een betrouwbaar artikel kan verwarring verminderen, maar bevriest geen levend dossier. Publicatiedatum, update-opmerking en bronnenlijst zijn daarom onderdeel van de informatie zelf.
-
-Voor Le Vrai Maroc zou de volgende nuttige update een feitelijke wijziging moeten zijn, geen stilistische: een nieuw officieel cijfer, een nieuw waarschuwingsniveau, een bevestigde score, een gepubliceerd decreet, een financieringsbesluit, een projectmijlpaal, een grensverklaring of een gecorrigeerde kalender. Zonder zo'n wijziging is de eerlijkste redactionele actie monitoren, niet dezelfde onzekerheid met hardere woorden herhalen.
-
-## Redactionele slotcontrole
-
-De Nederlandse versie behoudt dezelfde feitelijke voorzichtigheid als de Franse brontekst. Namen van instellingen, data, bedragen en onzekerheden zijn bewust niet versterkt om natuurlijker te klinken. Wanneer een officiële bron later preciezer wordt, moet ook deze vertaling worden bijgewerkt zodat lezers in elke taal dezelfde mate van zekerheid krijgen. Dat geldt vooral voor voorlopige cijfers, toekomstige deadlines, waarschuwingen, wedstrijdinformatie en administratieve details.
-
-Ook bij snelle verspreiding op sociale media blijft de controle eenvoudig: datum, bron, plaats, betrokken instelling en exacte formulering moeten overeenkomen voordat een conclusie wordt gedeeld of gebruikt.
-
-## FAQ
-
-<details><summary>Kunnen cijfers veranderen?</summary><p>Ja. Nieuws, weer, sport, migratie en prijzen veranderen snel; controleer officiële bronnen bij het lezen.</p></details>
-
-<details><summary>Waarom meerdere bronnen?</summary><p>Omdat één mediabericht geen officiële bevestiging is, zeker niet bij diplomatie, veiligheid, migratie of prijzen.</p></details>
-
-<details><summary>Vervangt dit een officiële procedure?</summary><p>Nee. Voor procedures, alerts of reizen blijft de administratieve bron of officiële organisator leidend.</p></details>
-
-<details><summary>Waarom heten sommige beelden illustraties?</summary><p>Omdat ze context tonen zonder te beweren dat ze het exacte beschreven evenement weergeven.</p></details>
-
-<details><summary>Wat is de volgende redactionele stap?</summary><p>Officiële berichten volgen, cijfers actualiseren en scenario’s aanpassen zodra nieuwe feiten bevestigd zijn.</p></details>
-
-## Gebruikte bronnen
-
-- [AP — Fact Focus on Ceuta claims](https://apnews.com/article/50baa964ecfb07a2d19223d7ec375b91)
-- [The Guardian — EU borders and Ceuta crisis](https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen)
-- [La Moncloa — Operation Crossing the Strait 2026](https://www.lamoncloa.gob.es/lang/en/gobierno/news/Paginas/2026/20260716-cperation-crossing-the-strait.aspx)
-- [Médias24 — migration route shifts in 2026](https://medias24.com/2026/07/05/migration-la-route-des-canaries-recule-fortement-sur-fond-de-cooperation-maroco-espagnole-1716421/)
+- [Verkiezingen Marokko 2026: datum, kalender, partijen en praktische uitleg](/nl/artikelen/verkiezingen-marokko-2026)
+- [Toerisme Marokko 2026: 14,1 miljoen aankomsten tot en met augustus](/nl/artikelen/toerisme-marokko-2030-onmt-aankomsten-2026)
+- [Tanjazz 2026: programma, tickets en locaties in Tanger op 18–20 september](/nl/artikelen/tanjazz-2026-tanger)
