@@ -1,118 +1,105 @@
 ---
-title: "Marrakech real estate market in 2026: why prices and sales move differently"
-slug: "marrakech-real-estate-market-2026"
-locale: "en"
-translationKey: "marche-immobilier-marrakech-2026"
-metaTitle: "Marrakech real estate market in 2026: prices, sales and trends"
-metaDescription: "Marrakech real estate market 2026: prices, sales, ANCFCC data, local limits, apartments, villas, riads, land and 2027 trends."
-category: "analyses"
-tags: ["Marrakech real estate market in 2026: prices, sales and trends", "Marrakech 2026", "S.A.F.E.", "immobilier"]
-date: 2026-07-17
-updatedDate: 2026-07-17
-readingTime: 12
-excerpt: "The Marrakech property market in 2026 is not a simple rise-or-fall story. Asking prices, signed prices, transaction volumes and local segments may move differently."
-heroImage: "/images/safe-og-official.webp"
-imageAlt: "Official S.A.F.E logo — Security, Analysis, Fidelity & Expert Guidance."
+title: "Marrakech real estate market 2026: prices, transactions and recovery —
+  September update"
+slug: marrakech-real-estate-market-2026
+urlSlug: marrakech-real-estate-market-2026
+locale: en
+translationKey: marche-immobilier-marrakech-2026
+metaTitle: "Marrakech real estate market 2026: September update"
+metaDescription: "Marrakech real estate market 2026: ANCFCC/BAM data,
+  transactions, asking prices, active segments, overheating risk and buyer
+  analysis."
+category: analyses
+tags:
+  - Marrakech real estate market 2026
+  - transactions
+  - ANCFCC
+  - property prices
+date: 2026-09-14
+updatedDate: 2026-09-14
+readingTime: 6
+excerpt: "Marrakech remains fragmented: official transactions, asking prices and
+  2030 narratives do not say the same thing."
+heroImage: /images/articles/realestate-2026-09-14/marche-immobilier-marrakech-2026-septembre.webp
+imageAlt: Hivernage district in Marrakech, a high-end real-estate segment.
+articleType: Article
+heroCaption: Hivernage illustrates the top end; it does not represent all Marrakech.
+heroCredit: karel291 / CC BY 3.0
+heroSource: https://commons.wikimedia.org/wiki/File:Hivernage,_Marrakesh,_Morocco_-_panoramio.jpg
+heroLicense: https://creativecommons.org/licenses/by/3.0
+heroWidth: 1600
+heroHeight: 900
 featured: false
 sources:
-  - label: "ANCFCC — Real Estate Asset Price Index"
-    url: "https://ancfcc.gov.ma/IndicePrixImmobiliers/"
-  - label: "HCP Marrakech-Safi — 2026 indicators"
-    url: "https://www.hcp.ma/region-marrakech/Indicateurs_r5.html?start=3"
+  - label: ANCFCC — Indice des Prix des Actifs Immobiliers, T1 et T2 2026
+    url: https://ancfcc.gov.ma/IndicePrixImmobiliers/
+  - label: Bank Al-Maghrib — données et communiqués
+    url: https://www.bkam.ma/
+  - label: Médias24 — taux directeur maintenu à 2,25 %
+    url: https://medias24.com/2026/06/23/bank-al-maghrib-maintient-le-taux-directeur-inchange-a-225-1706361/
 disclaimer: true
 ---
-<div class="article-summary"><span class="article-kicker">Immediate answer</span><p>The Marrakech property market in 2026 is not a simple rise-or-fall story. Asking prices, signed prices, transaction volumes and local segments may move differently.</p></div>
-<div class="article-warning"><p><strong>Watch point:</strong> ANCFCC/BAM data is the official base for registered transactions, but it does not explain every micro-location. Private listings, agency observations and commercial promises must be separated from actually registered transactions.</p></div>
 
-## Prices, sales, volumes and data limits
-
-
-
-<table><caption>Prices, sales, volumes and data limits</caption><thead><tr><th>Buyer</th><th>Check</th><th>Risk</th><th>Action</th></tr></thead><tbody><tr><td>Payment</td><td>Bank or notary references</td><td>Informal supplement</td><td>Keep proof and receipt</td></tr><tr><td>Area</td><td>Price, access, real demand</td><td>Brochure price</td><td>Compare with transactions and delivered units</td></tr><tr><td>Project</td><td>Permit, plans, progress</td><td>Oral promise</td><td>Have the file reviewed</td></tr><tr><td>Yield</td><td>Net after costs</td><td>Undocumented guarantee</td><td>Test a cautious scenario</td></tr></tbody></table>
-
+Updated on **14 September 2026**.
 
 
 <figure>
-  <img src="/images/articles/gueliz-hivernage-palmeraie-investissement.webp" alt="Marrakech real estate market in 2026: why prices and sales move differently" width="1600" height="900" loading="lazy" />
-  <figcaption>Image credit already recorded in IMAGES.md.</figcaption>
+  <img src="/images/articles/realestate-2026-09-14/marche-immobilier-marrakech-2026-septembre.webp" alt="Hivernage district in Marrakech, a high-end real-estate segment." width="1600" height="900" loading="lazy" />
+  <figcaption>Hivernage illustrates the top end; it does not represent all Marrakech.</figcaption>
 </figure>
 
-## Method
 
-<div class="article-method"><span class="article-kicker">Le Vrai Maroc</span><p>ANCFCC/BAM data is the official base for registered transactions, but it does not explain every micro-location. Private listings, agency observations and commercial promises must be separated from actually registered transactions.</p><p><a href="/en/articles/marrakech-property-prices-2026">Prices</a>, <a href="/en/articles/best-neighborhoods-marrakech">neighborhoods</a>, <a href="/en/articles/real-estate-developer-documents-morocco">developer documents</a>, <a href="/en/articles/property-buying-process-morocco-step-by-step">purchase procedure</a> and <a href="/en/safe-real-estate-certification">S.A.F.E.</a> should be read together, within the same language version.</p></div>
+## Key points
 
-## S.A.F.E. reading
+- Official ANCFCC/BAM IPAI data measures registered transactions, not portal asking prices.
+- Marrakech has stronger micro-market dispersion than a single city average suggests.
+- A rise in citywide indicators does not make every project attractive.
+- Financing conditions remained relatively stable after Bank Al-Maghrib kept the key rate at 2.25% in June 2026.
 
-<div class="article-method"><span class="article-kicker">S.A.F.E.</span><p>Under the S.A.F.E. methodology, the file is reviewed against available documents: price, payments, beneficiary, contract, permits, delivery, charges and consistency of commercial claims. This is an internal methodology status, not public certification, legal guarantee or yield promise.</p></div>
+| Segment | Official / market reading | Buyer implication |
+|---|---|---|
+| Registered transactions | Read through ANCFCC/BAM indicators | Useful for trend, limited for micro-neighborhood pricing. |
+| Asking prices | Read through portals and local agencies | Useful for negotiation range, not a signed price. |
+| New-build / off-plan | Often premium-priced | Requires developer, permit, schedule and delivery checks. |
+| Resale | Visible asset and charges | Requires title, building condition and negotiation analysis. |
 
-<div class="visual-scale" aria-label="S.A.F.E. review flow"><div class="scale-row"><strong>1</strong><div class="scale-track"><span class="scale-fill" style="width:25%"></span></div><span>source</span></div><div class="scale-row"><strong>2</strong><div class="scale-track"><span class="scale-fill" style="width:50%"></span></div><span>document</span></div><div class="scale-row"><strong>3</strong><div class="scale-track"><span class="scale-fill" style="width:75%"></span></div><span>price</span></div><div class="scale-row"><strong>4</strong><div class="scale-track"><span class="scale-fill" style="width:100%"></span></div><span>risk</span></div></div>
+## Is the market really recovering?
 
-<figure>
-  <img src="/images/articles/marrakech-investisseurs-immobiliers.webp" alt="Prices, sales, volumes and data limits" width="1600" height="900" loading="lazy" />
-  <figcaption>Image credit already recorded in IMAGES.md.</figcaption>
-</figure>
+The answer is nuanced. Transaction indicators and asking-price ranges can move in different directions. A recovery in volumes may coexist with buyer selectivity. Premium addresses such as Hivernage, Guéliz, Palmeraie or golf areas can remain liquid while standard peripheral stock faces negotiation pressure. Buyers should therefore compare the project with its own segment rather than extrapolate from the headline market.
 
-## Checklist
+## Which segments are moving?
 
-<div class="article-checklist"><ul><li>Identify the official or contractual source.</li><li>Check dates, amounts, references and beneficiaries.</li><li>Compare the property with its district and real use case.</li><li>Keep proof in one file.</li><li>Ask a professional for any legal, tax or technical point.</li></ul></div>
+Apartments in central, walkable locations remain easier to benchmark. Villas and riads require more case-by-case analysis because land, renovation quality, legal status, tourist use and operating costs change the equation. Land and commercial property should not be mixed with residential trends.
 
-<figure>
-  <img src="/images/articles/zones-amizmiz-agdal-targa.webp" alt="Prices, sales, volumes and data limits" width="1600" height="900" loading="lazy" />
-  <figcaption>Image credit already recorded in IMAGES.md.</figcaption>
-</figure>
+## Is Marrakech overheating?
 
-<!-- depth-expansion -->
-## Detailed analysis
+Some micro-markets show speculative pricing, especially where 2030 narratives are used as a sales argument. That does not mean the whole city is in a bubble. It means buyers must separate confirmed infrastructure, actual rental demand, signed transactions and sales brochures. A citywide rise is not enough: the [S.A.F.E real-estate analysis method](/en/safe-real-estate-certification/) helps test whether a specific project deserves attention.
 
-This page should be read as a decision grid, not as a market promise. The first filter is to separate what is confirmed by a document, what is estimated from market observation and what is simply commercial presentation. This distinction matters in Marrakech, where two nearby properties can have very different liquidity.
+## Sources and method
 
-The second filter is total cost. An asking price is never enough: registration duties, notary, agency, works, furniture, charges, management, tax, vacancy and resale timing can change the decision. A property that looks cheaper may become expensive if the documents are weak or if operating it is heavy.
+Official references are ANCFCC/BAM IPAI publications. Private references are used only for neighborhood-level indications and are labelled as market observations, not notarized transaction data.
 
-The third filter is use. Main residence, pied-à-terre, rental investment, riad, family villa or commercial asset are not verified with the same grid. The question is not only “where to buy?” but “which file holds up for this exact objective?”.
+## How to use these figures without misreading them
 
-Finally, the buyer should keep a prudence margin. A positive trend, announced infrastructure, tourism growth or known address does not guarantee yield, quick resale or absence of works. Numerical claims must remain dated, sourced and connected to the property being reviewed.
+The first mistake is to treat a range as an absolute truth. Official data, property listings, agency observations and bank simulations do not answer the same question. Official data describes registered market activity; a listing shows a seller’s or landlord’s asking position; a banking simulation gives an order of magnitude; field observations help with negotiation. A sound decision puts each source in its proper place.
 
-<!-- practical-audit-grid -->
-## Practical Audit Grid
+Start with the use case: main home, second home, rental investment, family purchase, MRE purchase or long-term wealth asset. The same price can be reasonable for one use and excessive for another. Then isolate the total cost: price, acquisition fees, furniture, works, service charges, taxes, vacancy, financing, insurance, management and safety margin.
 
-This grid turns the analysis into concrete questions to ask before signing, reserving, investing or publishing a yield assumption.
+## Checks before signing
 
-- **official data**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **registered transactions**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **asking prices**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **signed prices**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **sales volume**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **apartments**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **villas**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **riads**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **land**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **new-build**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **resale**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **Gueliz**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **Hivernage**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **Agdal**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **Palmeraie**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **Medina**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **local buyers**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **Moroccans living abroad**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **foreign demand**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **credit conditions**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **construction costs**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **tourism demand**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **airport connectivity**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **listing bias**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **agency observations**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **private estimates**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **2026 outlook**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **2027 outlook**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **downside risks**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
-- **S.A.F.E. market reading**: verify this point with a dated document, a clear amount and an accountable person. For this topic, the mistake is accepting a stand-alone claim without knowing whether it comes from an official document, a contract, market observation or a sales argument. Record the source, consultation date and any reservation in the purchase file.
+- Request documents before discussing yield.
+- Compare the price with genuinely comparable assets.
+- Reject oral promises that are not written down.
+- Check the consistency of advertised area, usable area and plans.
+- Anticipate post-purchase costs: co-ownership, maintenance, tax, furniture and vacancy.
+- Have major commitments reviewed by the relevant professional.
+
+## Warning signs
+
+A price “valid only today”, a guaranteed return without details, refusal to provide documents, a vague delivery calendar, a seller who downplays costs or a pitch based only on 2030 should slow the decision. In Moroccan property, risk often sits in details: incomplete title, missing authorisation, misunderstood surface area, ignored charges or poorly documented payment.
 
 ## FAQ
-<details><summary>What is the short answer?</summary><p>The Marrakech property market in 2026 is not a simple rise-or-fall story. Asking prices, signed prices, transaction volumes and local segments may move differently.</p></details>
-<details><summary>What should be checked first?</summary><p>Total price, documents, payment references, beneficiary identity and consistency between commercial promise and contract.</p></details>
-<details><summary>Does S.A.F.E. guarantee the outcome?</summary><p>No. S.A.F.E. structures checks and reservations from available documents, without public, legal or financial guarantee.</p></details>
 
-<div class="article-warning"><p><strong>Watch point:</strong> This article is editorial analysis. It does not replace a notary, lawyer, tax adviser, architect or bank.</p></div>
+<details><summary>Are the figures official?</summary><p>Official indicators are separated from private market estimates and simulations. Listing ranges are not notarized transaction prices.</p></details>
 
-<div class="article-cta"><p><strong>Read next:</strong> <a href="/en/safe-real-estate-certification">S.A.F.E.</a>, <a href="/en/articles/dahir-morocco-definition">Dahir</a>, <a href="/en/articles/investing-marrakech-2026">investment</a>, <a href="/en/articles/marrakech-tourism-2026-real-estate">tourism</a>, <a href="/en/vefa-morocco-guarantees-risks">VEFA</a>.</p></div>
+<details><summary>Should a buyer decide only on yield?</summary><p>No. Yield must be tested with costs, tax, vacancy, property quality and resale potential.</p></details>

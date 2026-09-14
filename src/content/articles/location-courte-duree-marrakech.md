@@ -1,135 +1,94 @@
 ---
-title: "Location courte durée à Marrakech : opportunité réelle ou marché sous pression ?"
-metaTitle: "Airbnb et location courte durée à Marrakech : rendement, réglementation et réalité 2026"
-metaDescription: "Analyse complète de la location courte durée à Marrakech : rendements réels, réglementation 2025, saisonnalité, risques et comparaison avec la location longue durée."
-category: "investissement"
-tags: ["location courte durée Marrakech", "Airbnb Marrakech", "rendement locatif Marrakech", "location saisonnière Marrakech", "investissement immobilier Marrakech"]
-date: 2026-04-01
-readingTime: 9
-excerpt: "La location courte durée à Marrakech attire de nombreux investisseurs séduits par des rendements annoncés à deux chiffres. La réalité est plus nuancée : réglementation en durcissement, saisonnalité marquée et concurrence accrue."
-heroImage: "/images/articles/location-courte-duree-marrakech.webp"
-imageAlt: "Appartement meublé ou terrasse à Marrakech pour illustrer la location courte durée."
+title: "Airbnb ou location longue durée à Marrakech : quelle stratégie rapporte
+  réellement en 2026 ?"
+slug: location-courte-duree-marrakech
+urlSlug: location-courte-duree-marrakech
+locale: fr
+translationKey: location-courte-duree-marrakech
+metaTitle: Airbnb vs location longue durée Marrakech 2026
+metaDescription: "Airbnb ou location longue durée à Marrakech en 2026 : revenus
+  bruts, frais, occupation, gestion, rendement net et risques réels."
+category: investissement
+tags:
+  - Airbnb Marrakech
+  - location longue durée Marrakech
+  - rendement locatif Marrakech
+date: 2026-09-14
+updatedDate: 2026-09-14
+readingTime: 6
+excerpt: La courte durée peut rapporter plus en brut, mais le net dépend de la
+  gestion, des coûts et de la régularité de la demande.
+heroImage: /images/articles/realestate-2026-09-14/airbnb-location-longue-duree-marrakech-2026.webp
+imageAlt: Cour intérieure du musée de Marrakech, illustration d’un environnement
+  de riad prisé en location touristique.
+articleType: Article
+heroCaption: Le rendement brut ne suffit pas.
+heroCredit: Mike Prince from Bangalore, India / CC BY 2.0
+heroSource: https://commons.wikimedia.org/wiki/File:Courtyard_with_Chandelier_and_Fountain_(5038922480).jpg
+heroLicense: https://creativecommons.org/licenses/by/2.0
+heroWidth: 1600
+heroHeight: 900
 featured: false
 sources:
-  - label: "Horizon Morocco — Airbnb à Marrakech, réglementation, fiscalité et rentabilité"
-    url: "https://www.horizonmorocco.com/article/airbnb-a-marrakech-reglementation-fiscalite-et-rentabilite-reelle"
-  - label: "My Private Villa Marrakech — Réglementation location courte durée 2025"
-    url: "https://myprivatevillamarrakech.com/blog/post/nouvelle-reglementation-2025-sur-la-location-courte-duree-au-maroc-ce-que-doivent-savoir-les-proprietaires-airbnb"
-  - label: "Médias24 — Tourisme, régularisation secteur informel hébergement"
-    url: "https://medias24.com/2025/07/08/tourisme-la-regularisation-du-secteur-informel-generera-10-de-nuitees-supplementaires-a-partir-de-2027-source-autorisee/"
-  - label: "Eldorado Immobilier — Location saisonnière à Marrakech 2025"
-    url: "https://eldorado-immobilier.com/location-saisonniere-a-marrakech-au-maroc/"
-  - label: "Les Clés du Maroc — Fiscalité Airbnb Maroc, location courte durée 2025"
-    url: "https://www.lesclesdumaroc.com/articles/fiscalite-airbnb-maroc-location-courte-duree-2025"
+  - label: AirDNA — Marrakesh short-term rental market, updated 8 September 2026
+    url: https://www.airdna.co/vacation-rental-data/app/ma/default/marrakesh/overview
+  - label: Maison Labyad — marché Airbnb Marrakech 2026
+    url: https://maisonlabyad.com/fr/blog/marrakech-airbnb-market-report-2026
+  - label: AirROI — Marrakesh STR report, updated 12 September 2026
+    url: https://www.airroi.com/airbnb-data/morocco/marrakech-safi/marrakesh
+  - label: Laforain Immobilier — loyers longue durée Marrakech 2026
+    url: https://laforain-immobilier.com/blog/appartement-a-louer-marrakech-prix-quartiers
 disclaimer: true
 ---
 
-La location courte durée est souvent présentée comme le saint Graal de l'investissement immobilier à Marrakech. Des agences avancent des rendements bruts de 12 à 20 %, des taux d'occupation présentés comme quasi-permanents, et une demande touristique florissante pour justifier le tout. Mais le marché de 2026 est très différent de celui d'il y a cinq ans.
+Mise à jour : **14 septembre 2026**.
 
-Voici une analyse honnête de ce que la location courte durée représente réellement à Marrakech — ses opportunités, ses contraintes et ses risques.
 
-## Le contexte : une demande réelle, une offre qui explose
+<figure>
+  <img src="/images/articles/realestate-2026-09-14/airbnb-location-longue-duree-marrakech-2026.webp" alt="Cour intérieure du musée de Marrakech, illustration d’un environnement de riad prisé en location touristique." width="1600" height="900" loading="lazy" />
+  <figcaption></figcaption>
+</figure>
 
-Il est incontestable que Marrakech attire des millions de visiteurs. Avec plus de **10 millions de passagers** à l'aéroport en 2025 et une progression continue de la fréquentation internationale, la demande de logements touristiques est bien présente.
 
-Mais l'offre a également considérablement augmenté. Le nombre d'appartements, riads et villas listés sur Airbnb et plateformes similaires à Marrakech a été multiplié par plusieurs fois depuis 2018. Cette explosion de l'offre a mécaniquement réduit les taux d'occupation moyens et créé une concurrence plus intense pour chaque réservation.
+## Airbnb ou location longue durée à Marrakech : quelle stratégie rapporte réellement en 2026 ?
 
-Le résultat : **les rendements réels ont baissé par rapport aux projections d'il y a quelques années**, même si ils restent supérieurs à ceux de nombreux marchés européens comparables.
+AirDNA reported more than 13,000 active short-term-rental listings in Marrakesh in August 2026, with average occupancy around 58% and ADR around $115. Other datasets publish different counts and occupancy rates because they measure different platforms and periods. Long-term rental data is less spectacular but more predictable.
 
-## Les rendements réels en 2026
+| Scenario | Gross revenue | Operating costs | Net reading |
+|---|---|---|---|
+| Long-term 2-bed Guéliz | 72,000–96,000 DH/year | Low vacancy, agency fee, repairs | Stable, less operational work. |
+| Average short-term apartment | 120,000–240,000 DH/year possible | Management, cleaning, utilities, platform, furniture, tax | Higher upside, higher execution risk. |
+| Premium riad / villa | Highly variable | Staff, maintenance, licensing, seasonality | Business operation, not passive rent. |
 
-La fourchette réaliste pour la location courte durée à Marrakech, selon les données disponibles :
+## Yield is not enough
 
-**Appartements de type Airbnb (Guéliz, Hivernage)** :
-- Prix nuit moyen brut : 500 à 1 500 MAD selon la saison et le bien
-- Taux d'occupation annuel réaliste : 55 à 65 %
-- Rendement brut estimé : **7 à 10 %**
-- Rendement net (après charges, gestion, taxes) : **4 à 6 %**
+Gross revenue does not equal net yield. A realistic model includes occupancy, nightly price, platform fees, cleaning, management, utilities, linen, furniture replacement, maintenance, taxes, compliance and vacancy. S.A.F.E is relevant here because the [méthode S.A.F.E immobilier](/safe-certification-immobiliere/) looks beyond projected yield: property quality, location, price, documents, execution, market consistency, buyer profile and risks.
 
-**Riads et maisons d'hôtes (Médina)** :
-- Prix nuit moyen brut (2 à 5 chambres) : 800 à 2 500 MAD/nuit pour le bien entier
-- Taux d'occupation annuel réaliste : 50 à 70 % pour un bien bien géré
-- Rendement brut estimé : **8 à 13 %**
-- Rendement net : **5 à 8 %**
+## Data distinction
 
-**Villas premium (Palmeraie, Hivernage)** :
-- Prix nuit en haute saison : 3 000 à 15 000 MAD
-- Taux d'occupation annuel : 35 à 50 % (saisonnalité très marquée)
-- Rendement brut : **6 à 12 %** selon la taille
-- Rendement net : **3 à 7 %**
+Short-term-rental data comes from market-data providers and should be treated as estimates. Long-term rent ranges come from listings and local agency observations.
 
-> « Le rendement brut est la vitrine. Le rendement net est la vérité. Et entre les deux, il y a les charges de gestion, les commissions de plateforme, les impôts, la maintenance, et les périodes vides. »
+## Comment utiliser ces chiffres sans se tromper
 
-## La saisonnalité : un facteur souvent ignoré
+La première erreur consiste à transformer une fourchette en vérité absolue. Une donnée officielle, une annonce immobilière, un témoignage d'agence et une simulation bancaire ne répondent pas à la même question. La donnée officielle décrit un marché enregistré ; l'annonce indique une prétention de vendeur ou de bailleur ; la simulation bancaire montre un ordre de grandeur ; l'expérience de terrain éclaire la négociation. Pour décider, il faut les mettre dans le bon ordre.
 
-La saisonnalité à Marrakech est réelle et doit être intégrée dans tout plan de rentabilité.
+Commencez par qualifier votre usage : résidence principale, pied-à-terre, investissement locatif, achat familial, projet MRE ou achat patrimonial. Le même prix peut être rationnel pour un usage long terme et excessif pour une stratégie locative. Ensuite, isolez le coût total : prix, frais d'acquisition, mobilier, travaux, charges, fiscalité, vacance, financement, assurance, gestion et marge de sécurité.
 
-**Haute saison** (mars–juin, octobre–novembre) : fort taux d'occupation, prix élevés, demande soutenue.
+## Points de vigilance avant de signer
 
-**Saison intermédiaire** (décembre–février, septembre) : demande correcte, prix plus bas, surtout les fêtes de fin d'année.
+- Demander les documents avant de discuter du rendement.
+- Comparer le prix avec des biens réellement comparables.
+- Refuser les promesses orales non reprises dans un document.
+- Vérifier la cohérence entre surface annoncée, surface utile et plans.
+- Anticiper les frais après achat : syndic, entretien, fiscalité, ameublement, vacance.
+- Faire relire les engagements importants par le professionnel compétent.
 
-**Basse saison** (juillet–août) : paradoxalement, les deux mois les plus chauds de l'année sont les moins attractifs pour les touristes europééns. Marrakech peut atteindre 42°C. Les biens qui ne ciblent pas une clientèle spécifique (voyageurs du Golfe, tourisme de randonnée, touristes nationaux) verront leurs taux d'occupation chuter à 25–35 %.
+## Signaux d'alerte
 
-Un plan de rendement annuel doit intégrer deux mois de faible occupation. Ceux qui calculent sur la base des tarifs de mars ne sont pas honnêtes avec eux-mêmes.
+Un prix présenté comme valable seulement aujourd'hui, une rentabilité garantie sans détail, un refus de transmettre des documents, un calendrier flou, un vendeur qui minimise les frais ou un discours qui repose uniquement sur 2030 doivent ralentir la décision. Dans l'immobilier marocain, le risque apparaît souvent dans les détails : un titre incomplet, une autorisation non fournie, une surface mal comprise, une charge ignorée ou un paiement mal documenté.
 
-## La réglementation : ce qui a changé et ce qui va changer
+## FAQ
 
-### Le cadre légal actuel (2025-2026)
+<details><summary>Les chiffres sont-ils officiels ?</summary><p>Les chiffres officiels sont séparés des estimations privées et des simulations. Les fourchettes de marché ne sont pas des prix notariés.</p></details>
 
-Depuis l'entrée en vigueur du décret n° 2.23.441, la location de courte durée est encadrée. Les obligations principales :
-
-**Obtention d'une licence** : tout bien exploité en location touristique courte durée doit être autorisé par la commune. Cette procédure administrative prend entre 2 et 6 semaines selon les villes.
-
-**Registre des voyageurs** : obligation de tenir un registre de toutes les réservations, similaire à celui des hôtels. Chaque voyageur doit être enregistré (nom, nationalité, numéro de passeport, durée de séjour).
-
-**Déclaration fiscale** : les revenus doivent être déclarés à la Direction Générale des Impôts. Un abattement forfaitaire de 40 % s'applique sur les revenus bruts avant imposition.
-
-### La régularisation du secteur informel
-
-Selon une source autorisée citée par Médias24 en juillet 2025, le Maroc estime que la régularisation du secteur informel de l'hébergement (maisons non classées, locations non déclarées) pourrait générer **10 % de nuitées supplémentaires comptabilisées** à partir de 2027 — simplement parce qu'elles seront enfin intégrées dans les statistiques officielles.
-
-Ce mouvement de formalisation est positif pour le marché à long terme, mais il crée une charge administrative supplémentaire pour les propriétaires qui n'avaient pas formalisé leur activité.
-
-### Les contrôles se renforcent
-
-La DGI collabore avec le ministère du Tourisme et le ministère de l'Intérieur pour identifier les exploitants non déclarés. Les transactions en espèces liées aux locations sont surveillées. Les propriétaires qui pensent pouvoir continuer à opérer en zone grise prennent des risques croissants.
-
-## Location courte durée vs location longue durée : le vrai comparatif
-
-La question que beaucoup d'investisseurs se posent : vaut-il mieux louer en courte ou en longue durée ?
-
-La réponse dépend de votre profil.
-
-| Critère | Courte durée | Longue durée |
-|---|---|---|
-| Rendement brut potentiel | 8–13 % | 5–8 % |
-| Rendement net réaliste | 4–8 % | 4–6 % |
-| Gestion | Intensive (quotidienne) | Simple (mensuelle) |
-| Risques | Saisonnalité, réglementation | Locataire défaillant |
-| Wear & tear | Élevé | Modéré |
-| Complexité administrative | Élevée | Faible |
-| Flexibilité (usage personnel) | Oui | Non |
-
-En pratique, **la location longue durée est sous-estimée** à Marrakech. Un appartement bien situé à Guéliz peut se louer à 5 000–8 000 MAD/mois à un expatrié ou un professionnel local. Avec des frais de gestion quasi-nuls et une stabilité locative, le rendement net peut être comparable à celui d'un Airbnb moins bien géré.
-
-## Les facteurs de succès en location courte durée
-
-Pour les investisseurs qui choisissent quand même la courte durée, les facteurs de succès sont clairs :
-
-**La qualité de la mise en scène.** Les photos, le décor, l'équipement (wifi haut débit, cuisine équipée, climatisation) font une différence énorme dans les avis et le taux d'occupation. Un appartement photographié professionnellement se loue 20 à 30 % plus cher qu'un bien similaire avec des photos de téléphone.
-
-**La gestion des avis.** Sur Airbnb, une note de 4,9 contre 4,6 peut représenter 15 à 25 % de différence de taux d'occupation. La gestion des avis — répondre rapidement, résoudre les problèmes, anticiper les attentes — est un travail à plein temps.
-
-**Un réseau de conciergerie fiable.** Clés, ménage, accueil, maintenance — tous ces services doivent fonctionner sans défaillance. Un seul incident mal géré peut ruiner un mois de bons avis.
-
-**La diversification des plateformes.** Airbnb seul ne suffit plus. Booking.com, VRBO, et des partenariats avec des agences spécialisées Marrakech permettent d'optimiser le taux d'occupation sur l'année.
-
-## Ce qu'il faut retenir
-
-La location courte durée à Marrakech reste une opportunité viable — mais elle ne ressemble pas à ce que les brochures décrivent. Les rendements réels, après charges, saisonnalité et mise en conformité réglementaire, se situent entre **4 et 8 % net** pour les biens bien gérés.
-
-C'est supérieur à la plupart des marchés européens. Mais ce n'est pas la machine à cash que certains promoteurs suggèrent.
-
-Avant d'acheter un bien pour l'exploiter en Airbnb, relisez les [risques d'un achat immobilier au Maroc](/risques-achat-immobilier-maroc) et la liste des [documents à vérifier avant achat](/documents-achat-immobilier-maroc), car la rentabilité ne compense pas un dossier fragile.
-
-Les investisseurs qui réussissent en location courte durée à Marrakech sont ceux qui traitent cette activité comme une entreprise : système de gestion structuré, qualité constante, conformité réglementaire, et révision régulière de la stratégie tarifaire. Ceux qui pensent que l'appartement va "se gérer seul" se trompent.
+<details><summary>Faut-il décider uniquement sur le rendement ?</summary><p>Non. Le rendement doit être testé avec charges, fiscalité, vacance, qualité du bien et revente possible.</p></details>

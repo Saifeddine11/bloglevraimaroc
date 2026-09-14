@@ -1,75 +1,100 @@
 ---
-title: "Vastgoedprijzen in Marrakech in 2026: appartement, villa en grond"
-slug: "vastgoedprijzen-marrakech-2026"
-locale: "nl"
-translationKey: "prix-immobilier-marrakech-2026"
-metaTitle: "Vastgoedprijzen Marrakech 2026: prijs per m² per wijk"
-metaDescription: "Vastgoedprijzen Marrakech 2026: indicatieve m²-ranges per wijk, appartement, villa, grond, nieuwbouw, bestaande bouw, kosten en fouten."
-category: "immobilier"
-tags: ["vastgoedprijzen Marrakech 2026", "prijs m2 Marrakech", "appartement prijs Marrakech", "vastgoedmarkt Marrakech"]
-date: 2026-07-17
-updatedDate: 2026-07-17
-readingTime: 12
-excerpt: "Prijzen in Marrakech verschillen sterk per microlocatie, type, staat, lasten en juridische status. Deze gids geeft voorzichtige ranges, bronnen en grenzen."
-heroImage: "/images/articles/immobilier-marrakech-2026.webp"
-imageAlt: "Moderne architectuur in Marrakech als illustratie van de vastgoedmarkt en m²-prijzen in 2026."
+title: "Vastgoedprijzen Marrakech 2026: prijs per m² per wijk — septemberupdate"
+slug: vastgoedprijzen-marrakech-2026
+urlSlug: vastgoedprijzen-marrakech-2026
+locale: nl
+translationKey: prix-immobilier-marrakech-2026
+metaTitle: "Vastgoedprijzen Marrakech 2026: prijs per m²"
+metaDescription: "Vastgoedprijzen Marrakech 2026: m²-vorken per wijk, officiële
+  data versus vraagprijzen en grenzen van gemiddelden."
+category: immobilier
+tags:
+  - vastgoedprijzen Marrakech
+  - prijs per m2
+  - Guéliz
+  - Hivernage
+date: 2026-09-14
+updatedDate: 2026-09-14
+readingTime: 6
+excerpt: Vierkantemeterprijzen in Marrakech zijn marktvorken die per pand moeten
+  worden gecontroleerd.
+heroImage: /images/articles/realestate-2026-09-14/prix-immobilier-marrakech-2026-septembre.webp
+imageAlt: Straat in Guéliz, Marrakech, referentiewijk voor vierkantemeterprijzen.
+articleType: Article
+heroCaption: Prijsvorken moeten gescheiden blijven van officiële transacties.
+heroCredit: mwanasimba from La Réunion / CC BY-SA 2.0
+heroSource: https://commons.wikimedia.org/wiki/File:Gueliz_Marrakech_(2845737562).jpg
+heroLicense: https://creativecommons.org/licenses/by-sa/2.0
+heroWidth: 1600
+heroHeight: 900
 featured: true
 sources:
-  - label: "ANCFCC — prijsindex vastgoedactiva"
-    url: "https://ancfcc.gov.ma/IndicePrixImmobiliers/"
-  - label: "Yakeey — referentie Hivernage Marrakech"
-    url: "https://yakeey.com/fr-ma/referentiel-de-prix-immobilier/marrakech/hivernage"
-  - label: "Valorisimo — vastgoedprijzen Marrakech 2026"
-    url: "https://valorisimo.com/fr/prix-immobilier-marrakech/"
-  - label: "ReaConsult — prijsbarometer Marrakech 2026"
-    url: "https://reaconsult.ma/tendances-et-conseils-en-immobilier/barometre-prix-immobilier-marrakech-2026-par-quartier"
+  - label: ANCFCC — Indice des Prix des Actifs Immobiliers
+    url: https://ancfcc.gov.ma/IndicePrixImmobiliers/
+  - label: ReaConsult — baromètre prix immobilier Marrakech 2026
+    url: https://reaconsult.ma/tendances-et-conseils-en-immobilier/barometre-prix-immobilier-marrakech-2026-par-quartier
+  - label: Valorisimo — prix immobilier Marrakech 2026
+    url: https://valorisimo.com/fr/prix-immobilier-marrakech/
+  - label: Capital Parc — prix affichés à Marrakech
+    url: https://capitalparc.ma/prix-immobilier-marrakech
 disclaimer: true
 ---
 
-<div class="article-summary">
-  <span class="article-kicker">Snel antwoord</span>
-  <p><strong>Vastgoedprijzen in Marrakech in 2026</strong> moeten in ranges gelezen worden. Guéliz, Hivernage en Palmeraie behoren meestal tot de duurste zones; Targa, Route de Casablanca en sommige perifere assen blijven toegankelijker.</p>
-</div>
+Bijgewerkt op **14 september 2026**.
 
-<div class="article-warning">
-  <p><strong>Indicatieve ranges, juli 2026.</strong> De prijs hangt af van staat, exacte ligging, verdieping, oriëntatie, voorzieningen, titel, lasten en marktomstandigheden.</p>
-</div>
-
-## Methode
-
-Marrakech is geen uniforme markt. Een appartement met parkeerplaats en lift in Guéliz is niet vergelijkbaar met een oud appartement zonder parking in een zijstraat. Een villa in Palmeraie wordt bepaald door grond, groen, toegang, zwembad en rust, niet alleen door bebouwde m².
-
-ANCFCC/BAM-publicaties geven een institutioneel beeld van geregistreerde transacties. Private platforms en kantoren geven wijkranges, maar dat zijn geen officiële prijzen. Kruis daarom de prijs met [investeren in Marrakech in 2026](/nl/artikelen/investeren-marrakech-2026) en met de echte documenten.
-
-<div class="article-method">
-  <span class="article-kicker">S.A.F.E-prijscontrole</span>
-  <p>In de <a href="/nl/safe-vastgoedcertificering">S.A.F.E-vastgoedmethode</a> wordt prijs vergeleken met wijkbenchmarks, contractuele oppervlaktes, afwerking, lasten, verborgen kosten en vergelijkbare opgeleverde panden. De methode certificeert nooit dat een prijs zal stijgen.</p>
-</div>
-
-<table>
-  <caption>Indicatieve m²-prijzen in Marrakech in 2026, professioneel te verifiëren.</caption>
-  <thead><tr><th>Wijk</th><th>Appartement</th><th>Villa / huis</th><th>Lezing</th></tr></thead>
-  <tbody>
-    <tr><td>Guéliz</td><td>13 000 tot 24 000 MAD/m²</td><td>Zeldzaam</td><td>Liquide, stedelijk</td></tr>
-    <tr><td>Hivernage</td><td>15 000 tot 30 000+ MAD/m²</td><td>Zeer zeldzaam</td><td>Prestige en hotels</td></tr>
-    <tr><td>Agdal</td><td>12 000 tot 19 000 MAD/m²</td><td>Volgens residentie</td><td>Modern compromis</td></tr>
-    <tr><td>Targa</td><td>8 000 tot 16 000 MAD/m²</td><td>9 000 tot 14 000 MAD/m² bebouwd</td><td>Familiaal residentieel</td></tr>
-    <tr><td>Palmeraie</td><td>14 000 tot 30 000 MAD/m²</td><td>18 000 tot 38 000 MAD/m² bebouwd</td><td>Luxe, tuin, grond</td></tr>
-    <tr><td>Route de Casablanca</td><td>7 000 tot 14 500 MAD/m²</td><td>Variabel</td><td>Toegankelijk en heterogeen</td></tr>
-  </tbody>
-</table>
 
 <figure>
-  <img src="/images/articles/marrakech-investisseurs-immobiliers.webp" alt="Residentie met tuin in Marrakech om prijs en locatiekwaliteit te illustreren." width="1600" height="900" loading="lazy" />
-  <figcaption>Residentie in Marrakech, Unsplash / Calin Stan. Gelicentieerd beeld, niet afkomstig van een concurrent.</figcaption>
+  <img src="/images/articles/realestate-2026-09-14/prix-immobilier-marrakech-2026-septembre.webp" alt="Straat in Guéliz, Marrakech, referentiewijk voor vierkantemeterprijzen." width="1600" height="900" loading="lazy" />
+  <figcaption>Prijsvorken moeten gescheiden blijven van officiële transacties.</figcaption>
 </figure>
 
-## Wat de prijs beïnvloedt
 
-Belangrijk zijn de exacte straat, kwaliteit van het gebouw, parking, lift, uitzicht, oriëntatie, meubelniveau, mede-eigendomskosten, juridische status en doorverkoopbaarheid. Bij nieuwbouw komen ontwikkelaar, contract, betalingsschema, afwerking en oplevering erbij.
+## Belangrijkste punten
+
+- ANCFCC/BAM data is the official transaction-price framework.
+- Neighborhood ranges from ReaConsult, Valorisimo or agencies are asking/market indications.
+- Hivernage, Palmeraie, golf areas and some Medina riads sit at the top end.
+- Targa, Route de Casablanca, Route de Fès and some peripheral zones remain more accessible.
+
+| Area | Typical asking range | Property type | Data source | Data date |
+|---|---|---|---|---|
+| Guéliz | 13,000–20,000 MAD/m² | Apartment | ReaConsult / Valorisimo | mid-2026 |
+| Hivernage | 16,000–32,000 MAD/m² | Apartment premium | ReaConsult / Valorisimo | 2026 |
+| Agdal | 11,000–17,000 MAD/m² | Apartment | Valorisimo / market listings | 2026 |
+| Targa | 8,500–13,500 MAD/m² | Apartment / family housing | ReaConsult / Valorisimo | 2026 |
+| Palmeraie | 14,000–28,000 MAD/m² apartments; villas case-by-case | Apartment / villa | ReaConsult / Valorisimo | 2026 |
+| Route de Casablanca / Route de Fès | 6,000–13,000 MAD/m² | Peripheral residential | ReaConsult | 2026 |
+| Route de l’Ourika | 8,500–16,000 MAD/m² | Villa / apartment depending on project | ReaConsult / Valorisimo | 2026 |
+
+## What price per m² does not tell you
+
+A square-metre price hides floor, view, orientation, parking, lift, amenities, building age, developer, legal title, delivery status, charges and the real surface used in the calculation. Two apartments with the same area in Guéliz can have very different values if one has parking, clear title, quiet exposure and low charges while the other needs renovation. Use the [S.A.F.E-matrix](/nl/safe-vastgoedcertificering/) to connect price, documents and execution risk.
+
+## Bronnen en methode
+
+Official data is used for transaction-market direction. Private data is used for local asking ranges and must be negotiated against real comparables.
+
+## Hoe u deze cijfers goed gebruikt
+
+De eerste fout is een vork behandelen als absolute waarheid. Officiële data, vastgoedadvertenties, makelaarsobservaties en banksimulaties beantwoorden niet dezelfde vraag. Officiële data beschrijft geregistreerde marktactiviteit; een advertentie toont de vraagpositie van verkoper of verhuurder; een banksimulatie geeft een orde van grootte; terreinervaring helpt bij onderhandelen. Een goede beslissing zet elke bron op de juiste plaats.
+
+Begin met het gebruik: hoofdwoning, tweede verblijf, huurinvestering, gezinsaankoop, MRE-project of vermogensobject. Dezelfde prijs kan voor het ene gebruik logisch zijn en voor het andere te hoog. Bereken daarna de totale kost: prijs, aankoopkosten, meubels, werken, mede-eigendom, belasting, leegstand, financiering, verzekering, beheer en veiligheidsmarge.
+
+## Controle vóór ondertekening
+
+- Vraag documenten vóór u over rendement praat.
+- Vergelijk de prijs met echt vergelijkbare panden.
+- Weiger mondelinge beloften die niet schriftelijk staan.
+- Controleer geadverteerde oppervlakte, bruikbare oppervlakte en plannen.
+- Voorzie kosten na aankoop: mede-eigendom, onderhoud, belasting, meubels en leegstand.
+- Laat belangrijke verbintenissen nalezen door de juiste professional.
+
+## Waarschuwingssignalen
+
+Een prijs die “alleen vandaag” geldt, gegarandeerd rendement zonder details, weigering om documenten te geven, een vaag opleveringsschema, een verkoper die kosten minimaliseert of een verhaal dat alleen op 2030 steunt, moet de beslissing vertragen. In Marokkaans vastgoed zit risico vaak in details: onvolledige titel, ontbrekende vergunning, verkeerd begrepen oppervlakte, vergeten kosten of slecht gedocumenteerde betaling.
 
 ## FAQ
 
-<details><summary>Wat is de gemiddelde m²-prijs in Marrakech?</summary><p>Er is geen betrouwbare enkele prijs. In juli 2026 variëren de ranges sterk per wijk en product.</p></details>
-<details><summary>Is Hivernage altijd duurder dan Guéliz?</summary><p>Vaak wel voor vergelijkbare producten, maar een uitstekend appartement in Guéliz kan duurder zijn dan een zwak product in Hivernage.</p></details>
-<details><summary>Zijn private prijsbronnen officieel?</summary><p>Nee. Het zijn marktreferenties die je moet kruisen met institutionele data, vergelijkbare advertenties en professioneel advies.</p></details>
+<details><summary>Zijn de cijfers officieel?</summary><p>Officiële indicatoren worden gescheiden van private marktinschattingen en simulaties. Vraagprijzen zijn geen notariële transactieprijzen.</p></details>
+
+<details><summary>Is rendement genoeg?</summary><p>Nee. Rendement moet worden getest met kosten, belasting, leegstand, vastgoedkwaliteit en verkoopbaarheid.</p></details>

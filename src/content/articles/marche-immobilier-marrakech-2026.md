@@ -1,118 +1,106 @@
 ---
-title: "Marché immobilier à Marrakech en 2026 : pourquoi les prix et les ventes évoluent différemment"
-slug: "marche-immobilier-marrakech-2026"
-locale: "fr"
-translationKey: "marche-immobilier-marrakech-2026"
-metaTitle: "Marché immobilier à Marrakech en 2026 : prix, ventes et tendances"
-metaDescription: "Marché immobilier Marrakech 2026 : prix, ventes, données ANCFCC, limites locales, appartements, villas, riads, terrain et tendances 2027."
-category: "analyses"
-tags: ["Marché immobilier à Marrakech en 2026 : prix, ventes et tendances", "Marrakech 2026", "S.A.F.E.", "immobilier"]
-date: 2026-07-17
-updatedDate: 2026-07-17
-readingTime: 12
-excerpt: "Le marché immobilier à Marrakech en 2026 ne se résume pas à une hausse ou une baisse. Prix affichés, prix signés, volumes de transaction et segments locaux peuvent évoluer différemment."
-heroImage: "/images/safe-og-official.webp"
-imageAlt: "Logo officiel S.A.F.E — Security, Analysis, Fidelity & Expert Guidance."
+title: "Marché immobilier Marrakech 2026 : prix, transactions et reprise — mise
+  à jour septembre"
+slug: marche-immobilier-marrakech-2026
+urlSlug: marche-immobilier-marrakech-2026
+locale: fr
+translationKey: marche-immobilier-marrakech-2026
+metaTitle: "Marché immobilier Marrakech 2026 : mise à jour septembre"
+metaDescription: "Marché immobilier Marrakech 2026 : données ANCFCC/BAM,
+  transactions, prix affichés, segments actifs, risques de surchauffe et méthode
+  d’analyse."
+category: analyses
+tags:
+  - marché immobilier Marrakech 2026
+  - transactions immobilières
+  - ANCFCC
+  - IPAI
+date: 2026-09-14
+updatedDate: 2026-09-14
+readingTime: 6
+excerpt: "Marrakech reste un marché fragmenté : les transactions officielles,
+  les prix affichés et les récits 2030 ne disent pas la même chose."
+heroImage: /images/articles/realestate-2026-09-14/marche-immobilier-marrakech-2026-septembre.webp
+imageAlt: Quartier de l’Hivernage à Marrakech, segment haut de gamme du marché
+  immobilier.
+articleType: Article
+heroCaption: Hivernage illustre le haut du marché ; il ne résume pas Marrakech.
+heroCredit: karel291 / CC BY 3.0
+heroSource: https://commons.wikimedia.org/wiki/File:Hivernage,_Marrakesh,_Morocco_-_panoramio.jpg
+heroLicense: https://creativecommons.org/licenses/by/3.0
+heroWidth: 1600
+heroHeight: 900
 featured: false
 sources:
-  - label: "ANCFCC — Indice des Prix des Actifs Immobiliers"
-    url: "https://ancfcc.gov.ma/IndicePrixImmobiliers/"
-  - label: "HCP Marrakech-Safi — Indicateurs 2026"
-    url: "https://www.hcp.ma/region-marrakech/Indicateurs_r5.html?start=3"
+  - label: ANCFCC — Indice des Prix des Actifs Immobiliers, T1 et T2 2026
+    url: https://ancfcc.gov.ma/IndicePrixImmobiliers/
+  - label: Bank Al-Maghrib — données et communiqués
+    url: https://www.bkam.ma/
+  - label: Médias24 — taux directeur maintenu à 2,25 %
+    url: https://medias24.com/2026/06/23/bank-al-maghrib-maintient-le-taux-directeur-inchange-a-225-1706361/
 disclaimer: true
 ---
-<div class="article-summary"><span class="article-kicker">Réponse immédiate</span><p>Le marché immobilier à Marrakech en 2026 ne se résume pas à une hausse ou une baisse. Prix affichés, prix signés, volumes de transaction et segments locaux peuvent évoluer différemment.</p></div>
-<div class="article-warning"><p><strong>Point de vigilance:</strong> Les données ANCFCC/BAM sont la base officielle des transactions enregistrées, mais elles ne disent pas tout sur les micro-emplacements. Les annonces privées, les observations d’agences et les promesses commerciales doivent être séparées des transactions réellement enregistrées.</p></div>
 
-## Prix, ventes, volumes et limites des données
-
-
-
-<table><caption>Prix, ventes, volumes et limites des données</caption><thead><tr><th>Acheteur</th><th>Contrôle</th><th>Risque</th><th>Action</th></tr></thead><tbody><tr><td>Paiement</td><td>Références bancaires ou notariales</td><td>Supplément informel</td><td>Conserver preuve et reçu</td></tr><tr><td>Quartier</td><td>Prix, accès, demande réelle</td><td>Prix de brochure</td><td>Comparer avec transactions et biens livrés</td></tr><tr><td>Projet</td><td>Permis, plans, avancement</td><td>Promesse orale</td><td>Faire relire le dossier</td></tr><tr><td>Rendement</td><td>Net après charges</td><td>Garantie non documentée</td><td>Tester un scénario prudent</td></tr></tbody></table>
-
+Mise à jour : **14 septembre 2026**.
 
 
 <figure>
-  <img src="/images/articles/gueliz-hivernage-palmeraie-investissement.webp" alt="Marché immobilier à Marrakech en 2026 : pourquoi les prix et les ventes évoluent différemment" width="1600" height="900" loading="lazy" />
-  <figcaption>Crédit image déjà enregistré dans IMAGES.md.</figcaption>
+  <img src="/images/articles/realestate-2026-09-14/marche-immobilier-marrakech-2026-septembre.webp" alt="Quartier de l’Hivernage à Marrakech, segment haut de gamme du marché immobilier." width="1600" height="900" loading="lazy" />
+  <figcaption>Hivernage illustre le haut du marché ; il ne résume pas Marrakech.</figcaption>
 </figure>
 
-## Méthode
 
-<div class="article-method"><span class="article-kicker">Le Vrai Maroc</span><p>Les données ANCFCC/BAM sont la base officielle des transactions enregistrées, mais elles ne disent pas tout sur les micro-emplacements. Les annonces privées, les observations d’agences et les promesses commerciales doivent être séparées des transactions réellement enregistrées.</p><p><a href="/articles/prix-immobilier-marrakech-2026">Prix</a>, <a href="/articles/meilleurs-quartiers-marrakech">quartiers</a>, <a href="/articles/documents-promoteur-immobilier-maroc">documents promoteur</a>, <a href="/articles/procedure-achat-immobilier-maroc-etape-par-etape">procédure d’achat</a> et <a href="/safe-certification-immobiliere">S.A.F.E.</a> doivent être lus ensemble, dans la même version linguistique.</p></div>
+## L’essentiel à retenir
 
-## Lecture S.A.F.E.
+- Official ANCFCC/BAM IPAI data measures registered transactions, not portal asking prices.
+- Marrakech has stronger micro-market dispersion than a single city average suggests.
+- A rise in citywide indicators does not make every project attractive.
+- Financing conditions remained relatively stable after Bank Al-Maghrib kept the key rate at 2.25% in June 2026.
 
-<div class="article-method"><span class="article-kicker">S.A.F.E.</span><p>Dans la méthode S.A.F.E., le dossier est analysé selon les documents disponibles : prix, paiements, bénéficiaire, contrat, autorisations, livraison, charges et cohérence des affirmations commerciales. Cette analyse correspond à un statut méthodologique interne et ne constitue ni certification publique, ni garantie juridique, ni promesse de rendement.</p></div>
+| Segment | Official / market reading | Buyer implication |
+|---|---|---|
+| Registered transactions | Read through ANCFCC/BAM indicators | Useful for trend, limited for micro-neighborhood pricing. |
+| Asking prices | Read through portals and local agencies | Useful for negotiation range, not a signed price. |
+| New-build / off-plan | Often premium-priced | Requires developer, permit, schedule and delivery checks. |
+| Resale | Visible asset and charges | Requires title, building condition and negotiation analysis. |
 
-<div class="visual-scale" aria-label="S.A.F.E. review flow"><div class="scale-row"><strong>1</strong><div class="scale-track"><span class="scale-fill" style="width:25%"></span></div><span>source</span></div><div class="scale-row"><strong>2</strong><div class="scale-track"><span class="scale-fill" style="width:50%"></span></div><span>document</span></div><div class="scale-row"><strong>3</strong><div class="scale-track"><span class="scale-fill" style="width:75%"></span></div><span>prix</span></div><div class="scale-row"><strong>4</strong><div class="scale-track"><span class="scale-fill" style="width:100%"></span></div><span>risque</span></div></div>
+## Is the market really recovering?
 
-<figure>
-  <img src="/images/articles/marrakech-investisseurs-immobiliers.webp" alt="Prix, ventes, volumes et limites des données" width="1600" height="900" loading="lazy" />
-  <figcaption>Crédit image déjà enregistré dans IMAGES.md.</figcaption>
-</figure>
+The answer is nuanced. Transaction indicators and asking-price ranges can move in different directions. A recovery in volumes may coexist with buyer selectivity. Premium addresses such as Hivernage, Guéliz, Palmeraie or golf areas can remain liquid while standard peripheral stock faces negotiation pressure. Buyers should therefore compare the project with its own segment rather than extrapolate from the headline market.
 
-## Checklist
+## Which segments are moving?
 
-<div class="article-checklist"><ul><li>Identifier la source officielle ou contractuelle.</li><li>Vérifier les dates, montants, références et bénéficiaires.</li><li>Comparer le bien avec son quartier et son usage réel.</li><li>Conserver les preuves dans un dossier unique.</li><li>Demander un avis professionnel pour tout point juridique, fiscal ou technique.</li></ul></div>
+Apartments in central, walkable locations remain easier to benchmark. Villas and riads require more case-by-case analysis because land, renovation quality, legal status, tourist use and operating costs change the equation. Land and commercial property should not be mixed with residential trends.
 
-<figure>
-  <img src="/images/articles/zones-amizmiz-agdal-targa.webp" alt="Prix, ventes, volumes et limites des données" width="1600" height="900" loading="lazy" />
-  <figcaption>Crédit image déjà enregistré dans IMAGES.md.</figcaption>
-</figure>
+## Is Marrakech overheating?
 
-<!-- depth-expansion -->
-## Analyse détaillée
+Some micro-markets show speculative pricing, especially where 2030 narratives are used as a sales argument. That does not mean the whole city is in a bubble. It means buyers must separate confirmed infrastructure, actual rental demand, signed transactions and sales brochures. A citywide rise is not enough: the [méthode d’analyse immobilière S.A.F.E](/safe-certification-immobiliere/) helps test whether a specific project deserves attention.
 
-Cette page doit être lue comme une grille de décision, pas comme une promesse de marché. Le premier tri consiste à séparer ce qui est confirmé par un document, ce qui est estimé par observation de marché et ce qui relève d’une présentation commerciale. Cette séparation est essentielle à Marrakech, où deux biens proches peuvent avoir des niveaux de liquidité très différents.
+## Sources et méthode
 
-Le deuxième tri porte sur le coût complet. Un prix affiché ne suffit jamais : droits, notaire, agence, travaux, mobilier, charges, gestion, fiscalité, vacance et délai de revente peuvent modifier la décision. Un bien apparemment moins cher peut devenir coûteux si les documents sont faibles ou si l’exploitation demande une gestion lourde.
+Official references are ANCFCC/BAM IPAI publications. Private references are used only for neighborhood-level indications and are labelled as market observations, not notarized transaction data.
 
-Le troisième tri porte sur l’usage. Résidence principale, pied-à-terre, investissement locatif, riad, villa familiale ou actif commercial ne se vérifient pas avec la même grille. La bonne question n’est pas seulement “où acheter ?”, mais “quel dossier tient pour cet objectif précis ?”.
+## Comment utiliser ces chiffres sans se tromper
 
-Enfin, l’acheteur doit garder une marge de prudence. Une tendance positive, une infrastructure annoncée, une croissance touristique ou une adresse connue ne garantissent ni rendement, ni revente rapide, ni absence de travaux. Les affirmations chiffrées doivent rester datées, sourcées et reliées au bien étudié.
+La première erreur consiste à transformer une fourchette en vérité absolue. Une donnée officielle, une annonce immobilière, un témoignage d'agence et une simulation bancaire ne répondent pas à la même question. La donnée officielle décrit un marché enregistré ; l'annonce indique une prétention de vendeur ou de bailleur ; la simulation bancaire montre un ordre de grandeur ; l'expérience de terrain éclaire la négociation. Pour décider, il faut les mettre dans le bon ordre.
 
-<!-- practical-audit-grid -->
-## Grille d’audit pratique
+Commencez par qualifier votre usage : résidence principale, pied-à-terre, investissement locatif, achat familial, projet MRE ou achat patrimonial. Le même prix peut être rationnel pour un usage long terme et excessif pour une stratégie locative. Ensuite, isolez le coût total : prix, frais d'acquisition, mobilier, travaux, charges, fiscalité, vacance, financement, assurance, gestion et marge de sécurité.
 
-Cette grille transforme l’analyse en questions concrètes à poser avant de signer, réserver, investir ou publier une hypothèse de rendement.
+## Points de vigilance avant de signer
 
-- **official data** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **registered transactions** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **asking prices** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **signed prices** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **sales volume** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **apartments** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **villas** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **riads** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **land** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **new-build** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **resale** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **Gueliz** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **Hivernage** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **Agdal** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **Palmeraie** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **Medina** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **local buyers** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **Moroccans living abroad** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **foreign demand** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **credit conditions** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **construction costs** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **tourism demand** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **airport connectivity** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **listing bias** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **agency observations** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **private estimates** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **2026 outlook** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **2027 outlook** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **downside risks** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
-- **S.A.F.E. market reading** : vérifiez ce point avec une pièce datée, un montant clair et une personne responsable. Pour ce sujet, l’erreur consiste à accepter une affirmation isolée sans savoir si elle vient d’un document officiel, d’un contrat, d’une observation de marché ou d’un argument commercial. Notez la source, la date de consultation et la réserve éventuelle dans le dossier d’achat.
+- Demander les documents avant de discuter du rendement.
+- Comparer le prix avec des biens réellement comparables.
+- Refuser les promesses orales non reprises dans un document.
+- Vérifier la cohérence entre surface annoncée, surface utile et plans.
+- Anticiper les frais après achat : syndic, entretien, fiscalité, ameublement, vacance.
+- Faire relire les engagements importants par le professionnel compétent.
+
+## Signaux d'alerte
+
+Un prix présenté comme valable seulement aujourd'hui, une rentabilité garantie sans détail, un refus de transmettre des documents, un calendrier flou, un vendeur qui minimise les frais ou un discours qui repose uniquement sur 2030 doivent ralentir la décision. Dans l'immobilier marocain, le risque apparaît souvent dans les détails : un titre incomplet, une autorisation non fournie, une surface mal comprise, une charge ignorée ou un paiement mal documenté.
 
 ## FAQ
-<details><summary>Quelle est la réponse courte ?</summary><p>Le marché immobilier à Marrakech en 2026 ne se résume pas à une hausse ou une baisse. Prix affichés, prix signés, volumes de transaction et segments locaux peuvent évoluer différemment.</p></details>
-<details><summary>Que faut-il vérifier en priorité ?</summary><p>Le prix total, les documents, les références de paiement, l’identité du bénéficiaire et la cohérence entre promesse commerciale et contrat.</p></details>
-<details><summary>S.A.F.E. garantit-il le résultat ?</summary><p>Non. S.A.F.E. structure les contrôles et les réserves à partir des documents disponibles, sans garantie publique, légale ou financière.</p></details>
 
-<div class="article-warning"><p><strong>Point de vigilance:</strong> Cet article est une analyse éditoriale. Il ne remplace pas un notaire, un avocat, un fiscaliste, un architecte ou une banque.</p></div>
+<details><summary>Les chiffres sont-ils officiels ?</summary><p>Les chiffres officiels sont séparés des estimations privées et des simulations. Les fourchettes de marché ne sont pas des prix notariés.</p></details>
 
-<div class="article-cta"><p><strong>À lire ensuite:</strong> <a href="/safe-certification-immobiliere">S.A.F.E.</a>, <a href="/articles/dahir-maroc-definition">Dahir</a>, <a href="/articles/investir-marrakech-2026">investissement</a>, <a href="/articles/tourisme-marrakech-2026-immobilier">tourisme</a>, <a href="/vefa-maroc-garanties-risques">VEFA</a>.</p></div>
+<details><summary>Faut-il décider uniquement sur le rendement ?</summary><p>Non. Le rendement doit être testé avec charges, fiscalité, vacance, qualité du bien et revente possible.</p></details>

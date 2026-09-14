@@ -1,48 +1,93 @@
 ---
-title: "Kortetermijnverhuur in Marrakech: kans of markt onder druk?"
-slug: "kortetermijnverhuur-marrakech-kans-of-druk"
-locale: "nl"
-translationKey: "location-courte-duree-marrakech"
-metaTitle: "Airbnb en kortetermijnverhuur in Marrakech: rendement, regels en realiteit"
-metaDescription: "Analyse van kortetermijnverhuur in Marrakech: reëel rendement, regelgeving, seizoenen, concurrentie en vergelijking met lange termijn."
-category: "investissement"
-tags: ["kortetermijnverhuur Marrakech","Airbnb Marrakech","huurrendement Marrakech","vakantieverhuur Marrakech"]
-date: 2026-04-01
-readingTime: 9
-excerpt: "Kortetermijnverhuur lokt investeerders met dubbelecijferrendementen. De realiteit vraagt aandacht voor regels, seizoen en concurrentie."
-heroImage: "/images/articles/location-courte-duree-marrakech.webp"
-imageAlt: "Gemeubeld appartement of terras in Marrakech als beeld voor kortetermijnverhuur."
+title: "Airbnb of langetermijnhuur in Marrakech: welke strategie rendeert echt
+  in 2026?"
+slug: kortetermijnverhuur-marrakech-kans-of-druk
+urlSlug: kortetermijnverhuur-marrakech-kans-of-druk
+locale: nl
+translationKey: location-courte-duree-marrakech
+metaTitle: Airbnb vs langetermijnhuur Marrakech 2026
+metaDescription: "Airbnb of langetermijnhuur in Marrakech 2026: omzet, kosten,
+  bezetting, beheer, netto rendement en risico’s."
+category: investissement
+tags:
+  - Airbnb Marrakech
+  - langetermijnhuur Marrakech
+  - huurrendement Marrakech
+date: 2026-09-14
+updatedDate: 2026-09-14
+readingTime: 6
+excerpt: Kortetermijnverhuur kan bruto meer opleveren, maar netto hangt af van
+  beheer, kosten en vraag.
+heroImage: /images/articles/realestate-2026-09-14/airbnb-location-longue-duree-marrakech-2026.webp
+imageAlt: Binnenplaats in Marrakech, context voor riadverhuur.
+articleType: Article
+heroCaption: Bruto rendement is niet genoeg.
+heroCredit: Mike Prince from Bangalore, India / CC BY 2.0
+heroSource: https://commons.wikimedia.org/wiki/File:Courtyard_with_Chandelier_and_Fountain_(5038922480).jpg
+heroLicense: https://creativecommons.org/licenses/by/2.0
+heroWidth: 1600
+heroHeight: 900
 featured: false
 sources:
-  - label: "Horizon Morocco — Airbnb à Marrakech, réglementation, fiscalité et rentabilité"
-    url: "https://www.horizonmorocco.com/article/airbnb-a-marrakech-reglementation-fiscalite-et-rentabilite-reelle"
-  - label: "My Private Villa Marrakech — Réglementation location courte durée 2025"
-    url: "https://myprivatevillamarrakech.com/blog/post/nouvelle-reglementation-2025-sur-la-location-courte-duree-au-maroc-ce-que-doivent-savoir-les-proprietaires-airbnb"
-  - label: "Médias24 — Tourisme, régularisation secteur informel hébergement"
-    url: "https://medias24.com/2025/07/08/tourisme-la-regularisation-du-secteur-informel-generera-10-de-nuitees-supplementaires-a-partir-de-2027-source-autorisee/"
-  - label: "Eldorado Immobilier — Location saisonnière à Marrakech 2025"
-    url: "https://eldorado-immobilier.com/location-saisonniere-a-marrakech-au-maroc/"
-  - label: "Les Clés du Maroc — Fiscalité Airbnb Maroc, location courte durée 2025"
-    url: "https://www.lesclesdumaroc.com/articles/fiscalite-airbnb-maroc-location-courte-duree-2025"
+  - label: AirDNA — Marrakesh short-term rental market, updated 8 September 2026
+    url: https://www.airdna.co/vacation-rental-data/app/ma/default/marrakesh/overview
+  - label: Maison Labyad — marché Airbnb Marrakech 2026
+    url: https://maisonlabyad.com/fr/blog/marrakech-airbnb-market-report-2026
+  - label: AirROI — Marrakesh STR report, updated 12 September 2026
+    url: https://www.airroi.com/airbnb-data/morocco/marrakech-safi/marrakesh
+  - label: Laforain Immobilier — loyers longue durée Marrakech 2026
+    url: https://laforain-immobilier.com/blog/appartement-a-louer-marrakech-prix-quartiers
 disclaimer: true
 ---
 
-Deze vertaalde editie behoudt dezelfde redactionele voorzichtigheid als het Franse origineel: het is analyse voor kopers en investeerders, geen rendementsbelofte of juridisch advies.
+Bijgewerkt op **14 september 2026**.
 
-## Vraag is echt, maar concurrentie ook
 
-Marrakech ontvangt veel bezoekers, wat kortetermijnverhuur ondersteunt. Maar het aanbod is ook gegroeid, waardoor bezetting, reviews, prijs en beheer doorslaggevender zijn.
+<figure>
+  <img src="/images/articles/realestate-2026-09-14/airbnb-location-longue-duree-marrakech-2026.webp" alt="Binnenplaats in Marrakech, context voor riadverhuur." width="1600" height="900" loading="lazy" />
+  <figcaption></figcaption>
+</figure>
 
-## Bruto rendement is geen netto rendement
 
-Schoonmaak, platformkosten, beheer, onderhoud, belastingen, leegstand en meubelvernieuwing verlagen de cijfers uit verkooppresentaties. Reken conservatieve scenario’s.
+## Airbnb of langetermijnhuur in Marrakech: welke strategie rendeert echt in 2026?
 
-## Regels en operationele discipline
+AirDNA reported more than 13,000 active short-term-rental listings in Marrakesh in August 2026, with average occupancy around 58% and ADR around $115. Other datasets publish different counts and occupancy rates because they measure different platforms and periods. Long-term rental data is less spectacular but more predictable.
 
-Kortetermijnverhuur is een operationele activiteit, geen passief inkomen. Eigenaars moeten regels, vergunningen, gastservice en buurtbeperkingen begrijpen.
+| Scenario | Gross revenue | Operating costs | Net reading |
+|---|---|---|---|
+| Long-term 2-bed Guéliz | 72,000–96,000 DH/year | Low vacancy, agency fee, repairs | Stable, less operational work. |
+| Average short-term apartment | 120,000–240,000 DH/year possible | Management, cleaning, utilities, platform, furniture, tax | Higher upside, higher execution risk. |
+| Premium riad / villa | Highly variable | Staff, maintenance, licensing, seasonality | Business operation, not passive rent. |
 
-## Belangrijkste punt
+## Yield is not enough
 
-Het kan werken in Marrakech, maar alleen met professioneel beheer en een aankoopprijs die ruimte laat voor seizoen en regelgeving.
+Gross revenue does not equal net yield. A realistic model includes occupancy, nightly price, platform fees, cleaning, management, utilities, linen, furniture replacement, maintenance, taxes, compliance and vacancy. S.A.F.E is relevant here because the [S.A.F.E-vastgoedmethode](/nl/safe-vastgoedcertificering/) looks beyond projected yield: property quality, location, price, documents, execution, market consistency, buyer profile and risks.
 
-> Vóór elke aankoop is het verstandig waar nodig gekwalificeerde juridische, notariële, fiscale, financiële of technische professionals te raadplegen.
+## Data distinction
+
+Short-term-rental data comes from market-data providers and should be treated as estimates. Long-term rent ranges come from listings and local agency observations.
+
+## Hoe u deze cijfers goed gebruikt
+
+De eerste fout is een vork behandelen als absolute waarheid. Officiële data, vastgoedadvertenties, makelaarsobservaties en banksimulaties beantwoorden niet dezelfde vraag. Officiële data beschrijft geregistreerde marktactiviteit; een advertentie toont de vraagpositie van verkoper of verhuurder; een banksimulatie geeft een orde van grootte; terreinervaring helpt bij onderhandelen. Een goede beslissing zet elke bron op de juiste plaats.
+
+Begin met het gebruik: hoofdwoning, tweede verblijf, huurinvestering, gezinsaankoop, MRE-project of vermogensobject. Dezelfde prijs kan voor het ene gebruik logisch zijn en voor het andere te hoog. Bereken daarna de totale kost: prijs, aankoopkosten, meubels, werken, mede-eigendom, belasting, leegstand, financiering, verzekering, beheer en veiligheidsmarge.
+
+## Controle vóór ondertekening
+
+- Vraag documenten vóór u over rendement praat.
+- Vergelijk de prijs met echt vergelijkbare panden.
+- Weiger mondelinge beloften die niet schriftelijk staan.
+- Controleer geadverteerde oppervlakte, bruikbare oppervlakte en plannen.
+- Voorzie kosten na aankoop: mede-eigendom, onderhoud, belasting, meubels en leegstand.
+- Laat belangrijke verbintenissen nalezen door de juiste professional.
+
+## Waarschuwingssignalen
+
+Een prijs die “alleen vandaag” geldt, gegarandeerd rendement zonder details, weigering om documenten te geven, een vaag opleveringsschema, een verkoper die kosten minimaliseert of een verhaal dat alleen op 2030 steunt, moet de beslissing vertragen. In Marokkaans vastgoed zit risico vaak in details: onvolledige titel, ontbrekende vergunning, verkeerd begrepen oppervlakte, vergeten kosten of slecht gedocumenteerde betaling.
+
+## FAQ
+
+<details><summary>Zijn de cijfers officieel?</summary><p>Officiële indicatoren worden gescheiden van private marktinschattingen en simulaties. Vraagprijzen zijn geen notariële transactieprijzen.</p></details>
+
+<details><summary>Is rendement genoeg?</summary><p>Nee. Rendement moet worden getest met kosten, belasting, leegstand, vastgoedkwaliteit en verkoopbaarheid.</p></details>

@@ -1,118 +1,104 @@
 ---
-title: "Vastgoedmarkt Marrakech in 2026: waarom prijzen en verkopen anders bewegen"
-slug: "vastgoedmarkt-marrakech-2026"
-locale: "nl"
-translationKey: "marche-immobilier-marrakech-2026"
-metaTitle: "Vastgoedmarkt Marrakech in 2026: prijzen, verkopen en trends"
-metaDescription: "Vastgoedmarkt Marrakech 2026: prijzen, verkopen, ANCFCC-data, lokale beperkingen, appartementen, villa’s, riads, grond en trends 2027."
-category: "analyses"
-tags: ["Vastgoedmarkt Marrakech in 2026: prijzen, verkopen en trends", "Marrakech 2026", "S.A.F.E.", "immobilier"]
-date: 2026-07-17
-updatedDate: 2026-07-17
-readingTime: 12
-excerpt: "De vastgoedmarkt van Marrakech in 2026 is geen eenvoudig stijg-of-daalt verhaal. Vraagprijzen, getekende prijzen, transactievolumes en lokale segmenten kunnen verschillend bewegen."
-heroImage: "/images/safe-og-official.webp"
-imageAlt: "Officieel S.A.F.E-logo — Security, Analysis, Fidelity & Expert Guidance."
+title: "Vastgoedmarkt Marrakech 2026: prijzen, transacties en herstel — update
+  september"
+slug: vastgoedmarkt-marrakech-2026
+urlSlug: vastgoedmarkt-marrakech-2026
+locale: nl
+translationKey: marche-immobilier-marrakech-2026
+metaTitle: "Vastgoedmarkt Marrakech 2026: septemberupdate"
+metaDescription: "Vastgoedmarkt Marrakech 2026: ANCFCC/BAM-data, transacties,
+  vraagprijzen, actieve segmenten en risico’s."
+category: analyses
+tags:
+  - vastgoedmarkt Marrakech 2026
+  - transacties
+  - ANCFCC
+  - prijzen
+date: 2026-09-14
+updatedDate: 2026-09-14
+readingTime: 6
+excerpt: "Marrakech blijft gefragmenteerd: officiële transacties, vraagprijzen
+  en het 2030-verhaal zeggen niet hetzelfde."
+heroImage: /images/articles/realestate-2026-09-14/marche-immobilier-marrakech-2026-septembre.webp
+imageAlt: Hivernage in Marrakech, een hoogwaardig vastgoedsegment.
+articleType: Article
+heroCaption: Hivernage toont de bovenkant van de markt, maar niet heel Marrakech.
+heroCredit: karel291 / CC BY 3.0
+heroSource: https://commons.wikimedia.org/wiki/File:Hivernage,_Marrakesh,_Morocco_-_panoramio.jpg
+heroLicense: https://creativecommons.org/licenses/by/3.0
+heroWidth: 1600
+heroHeight: 900
 featured: false
 sources:
-  - label: "ANCFCC — vastgoedprijsindex"
-    url: "https://ancfcc.gov.ma/IndicePrixImmobiliers/"
-  - label: "HCP Marrakech-Safi — indicatoren 2026"
-    url: "https://www.hcp.ma/region-marrakech/Indicateurs_r5.html?start=3"
+  - label: ANCFCC — Indice des Prix des Actifs Immobiliers, T1 et T2 2026
+    url: https://ancfcc.gov.ma/IndicePrixImmobiliers/
+  - label: Bank Al-Maghrib — données et communiqués
+    url: https://www.bkam.ma/
+  - label: Médias24 — taux directeur maintenu à 2,25 %
+    url: https://medias24.com/2026/06/23/bank-al-maghrib-maintient-le-taux-directeur-inchange-a-225-1706361/
 disclaimer: true
 ---
-<div class="article-summary"><span class="article-kicker">Direct antwoord</span><p>De vastgoedmarkt van Marrakech in 2026 is geen eenvoudig stijg-of-daalt verhaal. Vraagprijzen, getekende prijzen, transactievolumes en lokale segmenten kunnen verschillend bewegen.</p></div>
-<div class="article-warning"><p><strong>Aandachtspunt:</strong> ANCFCC/BAM-data vormt de officiële basis van geregistreerde transacties, maar verklaart niet elke micro-locatie. Private advertenties, makelaarsobservaties en commerciële beloften moeten worden gescheiden van werkelijk geregistreerde transacties.</p></div>
 
-## Prijzen, verkopen, volumes en databeperkingen
-
-
-
-<table><caption>Prijzen, verkopen, volumes en databeperkingen</caption><thead><tr><th>Koper</th><th>Controle</th><th>Risico</th><th>Actie</th></tr></thead><tbody><tr><td>Betaling</td><td>Bank- of notarisreferenties</td><td>Informeel supplement</td><td>Bewijs en ontvangstbewijs bewaren</td></tr><tr><td>Zone</td><td>Prijs, toegang, echte vraag</td><td>Brochureprijs</td><td>Vergelijk met transacties en opgeleverde panden</td></tr><tr><td>Project</td><td>Vergunning, plannen, voortgang</td><td>Mondelinge belofte</td><td>Dossier professioneel laten lezen</td></tr><tr><td>Rendement</td><td>Netto na kosten</td><td>Ongedocumenteerde garantie</td><td>Voorzichtig scenario testen</td></tr></tbody></table>
-
+Bijgewerkt op **14 september 2026**.
 
 
 <figure>
-  <img src="/images/articles/gueliz-hivernage-palmeraie-investissement.webp" alt="Vastgoedmarkt Marrakech in 2026: waarom prijzen en verkopen anders bewegen" width="1600" height="900" loading="lazy" />
-  <figcaption>Beeldcredit reeds geregistreerd in IMAGES.md.</figcaption>
+  <img src="/images/articles/realestate-2026-09-14/marche-immobilier-marrakech-2026-septembre.webp" alt="Hivernage in Marrakech, een hoogwaardig vastgoedsegment." width="1600" height="900" loading="lazy" />
+  <figcaption>Hivernage toont de bovenkant van de markt, maar niet heel Marrakech.</figcaption>
 </figure>
 
-## Methode
 
-<div class="article-method"><span class="article-kicker">Le Vrai Maroc</span><p>ANCFCC/BAM-data vormt de officiële basis van geregistreerde transacties, maar verklaart niet elke micro-locatie. Private advertenties, makelaarsobservaties en commerciële beloften moeten worden gescheiden van werkelijk geregistreerde transacties.</p><p><a href="/nl/artikelen/vastgoedprijzen-marrakech-2026">Prijzen</a>, <a href="/nl/artikelen/beste-wijken-marrakech">wijken</a>, <a href="/nl/artikelen/documenten-vastgoedontwikkelaar-marokko">ontwikkelaarsdocumenten</a>, <a href="/nl/artikelen/aankoopprocedure-vastgoed-marokko-stap-voor-stap">aankoopprocedure</a> en <a href="/nl/safe-vastgoedcertificering">S.A.F.E.</a> moeten samen worden gelezen, binnen dezelfde taalversie.</p></div>
+## Belangrijkste punten
 
-## S.A.F.E.-lezing
+- Official ANCFCC/BAM IPAI data measures registered transactions, not portal asking prices.
+- Marrakech has stronger micro-market dispersion than a single city average suggests.
+- A rise in citywide indicators does not make every project attractive.
+- Financing conditions remained relatively stable after Bank Al-Maghrib kept the key rate at 2.25% in June 2026.
 
-<div class="article-method"><span class="article-kicker">S.A.F.E.</span><p>Binnen de S.A.F.E.-methodologie wordt het dossier getoetst aan beschikbare documenten: prijs, betalingen, begunstigde, contract, vergunningen, oplevering, lasten en consistentie van commerciële claims. Dit is een interne methodologische status, geen publieke certificering, wettelijke garantie of rendementsbelofte.</p></div>
+| Segment | Official / market reading | Buyer implication |
+|---|---|---|
+| Registered transactions | Read through ANCFCC/BAM indicators | Useful for trend, limited for micro-neighborhood pricing. |
+| Asking prices | Read through portals and local agencies | Useful for negotiation range, not a signed price. |
+| New-build / off-plan | Often premium-priced | Requires developer, permit, schedule and delivery checks. |
+| Resale | Visible asset and charges | Requires title, building condition and negotiation analysis. |
 
-<div class="visual-scale" aria-label="S.A.F.E. review flow"><div class="scale-row"><strong>1</strong><div class="scale-track"><span class="scale-fill" style="width:25%"></span></div><span>bron</span></div><div class="scale-row"><strong>2</strong><div class="scale-track"><span class="scale-fill" style="width:50%"></span></div><span>document</span></div><div class="scale-row"><strong>3</strong><div class="scale-track"><span class="scale-fill" style="width:75%"></span></div><span>prijs</span></div><div class="scale-row"><strong>4</strong><div class="scale-track"><span class="scale-fill" style="width:100%"></span></div><span>risico</span></div></div>
+## Is the market really recovering?
 
-<figure>
-  <img src="/images/articles/marrakech-investisseurs-immobiliers.webp" alt="Prijzen, verkopen, volumes en databeperkingen" width="1600" height="900" loading="lazy" />
-  <figcaption>Beeldcredit reeds geregistreerd in IMAGES.md.</figcaption>
-</figure>
+The answer is nuanced. Transaction indicators and asking-price ranges can move in different directions. A recovery in volumes may coexist with buyer selectivity. Premium addresses such as Hivernage, Guéliz, Palmeraie or golf areas can remain liquid while standard peripheral stock faces negotiation pressure. Buyers should therefore compare the project with its own segment rather than extrapolate from the headline market.
 
-## Checklist
+## Which segments are moving?
 
-<div class="article-checklist"><ul><li>Identificeer de officiële of contractuele bron.</li><li>Controleer datums, bedragen, referenties en begunstigden.</li><li>Vergelijk het pand met de wijk en het echte gebruik.</li><li>Bewaar bewijs in één dossier.</li><li>Vraag professioneel advies voor juridische, fiscale of technische punten.</li></ul></div>
+Apartments in central, walkable locations remain easier to benchmark. Villas and riads require more case-by-case analysis because land, renovation quality, legal status, tourist use and operating costs change the equation. Land and commercial property should not be mixed with residential trends.
 
-<figure>
-  <img src="/images/articles/zones-amizmiz-agdal-targa.webp" alt="Prijzen, verkopen, volumes en databeperkingen" width="1600" height="900" loading="lazy" />
-  <figcaption>Beeldcredit reeds geregistreerd in IMAGES.md.</figcaption>
-</figure>
+## Is Marrakech overheating?
 
-<!-- depth-expansion -->
-## Gedetailleerde analyse
+Some micro-markets show speculative pricing, especially where 2030 narratives are used as a sales argument. That does not mean the whole city is in a bubble. It means buyers must separate confirmed infrastructure, actual rental demand, signed transactions and sales brochures. A citywide rise is not enough: the [S.A.F.E-methode voor vastgoedanalyse](/nl/safe-vastgoedcertificering/) helps test whether a specific project deserves attention.
 
-Deze pagina is een beslissingsrooster, geen marktbelofte. De eerste filter is het scheiden van wat door documenten is bevestigd, wat uit marktobservatie wordt geschat en wat enkel commerciële presentatie is. Dat onderscheid telt in Marrakech, waar twee nabije panden heel verschillende liquiditeit kunnen hebben.
+## Bronnen en methode
 
-De tweede filter is de totale kost. Een vraagprijs volstaat nooit: registratierechten, notaris, makelaar, werken, meubels, lasten, beheer, belasting, leegstand en timing van herverkoop kunnen de beslissing veranderen. Een goedkoper lijkend pand kan duur worden als documenten zwak zijn of exploitatie zwaar is.
+Official references are ANCFCC/BAM IPAI publications. Private references are used only for neighborhood-level indications and are labelled as market observations, not notarized transaction data.
 
-De derde filter is gebruik. Hoofdverblijf, pied-à-terre, verhuurinvestering, riad, familievilla of commercieel actief worden niet met dezelfde matrix gecontroleerd. De vraag is niet alleen “waar kopen?”, maar “welk dossier houdt stand voor dit precieze doel?”.
+## Hoe u deze cijfers goed gebruikt
 
-Tot slot moet de koper voorzichtigheidsmarge houden. Een positieve trend, aangekondigde infrastructuur, toeristische groei of bekende straat garanderen geen rendement, snelle herverkoop of afwezigheid van werken. Cijferclaims moeten gedateerd, onderbouwd en verbonden zijn met het onderzochte pand.
+De eerste fout is een vork behandelen als absolute waarheid. Officiële data, vastgoedadvertenties, makelaarsobservaties en banksimulaties beantwoorden niet dezelfde vraag. Officiële data beschrijft geregistreerde marktactiviteit; een advertentie toont de vraagpositie van verkoper of verhuurder; een banksimulatie geeft een orde van grootte; terreinervaring helpt bij onderhandelen. Een goede beslissing zet elke bron op de juiste plaats.
 
-<!-- practical-audit-grid -->
-## Praktisch auditrooster
+Begin met het gebruik: hoofdwoning, tweede verblijf, huurinvestering, gezinsaankoop, MRE-project of vermogensobject. Dezelfde prijs kan voor het ene gebruik logisch zijn en voor het andere te hoog. Bereken daarna de totale kost: prijs, aankoopkosten, meubels, werken, mede-eigendom, belasting, leegstand, financiering, verzekering, beheer en veiligheidsmarge.
 
-Dit rooster vertaalt de analyse naar concrete vragen vóór ondertekening, reservering, investering of publicatie van een rendementsaanname.
+## Controle vóór ondertekening
 
-- **official data**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **registered transactions**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **asking prices**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **signed prices**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **sales volume**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **apartments**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **villas**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **riads**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **land**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **new-build**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **resale**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **Gueliz**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **Hivernage**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **Agdal**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **Palmeraie**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **Medina**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **local buyers**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **Moroccans living abroad**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **foreign demand**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **credit conditions**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **construction costs**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **tourism demand**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **airport connectivity**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **listing bias**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **agency observations**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **private estimates**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **2026 outlook**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **2027 outlook**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **downside risks**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
-- **S.A.F.E. market reading**: controleer dit punt met een gedateerd document, een duidelijk bedrag en een verantwoordelijke persoon. Bij dit onderwerp is de fout een losse bewering te aanvaarden zonder te weten of die uit een officieel document, contract, marktobservatie of verkoopargument komt. Noteer bron, raadpleegdatum en voorbehoud in het aankoopdossier.
+- Vraag documenten vóór u over rendement praat.
+- Vergelijk de prijs met echt vergelijkbare panden.
+- Weiger mondelinge beloften die niet schriftelijk staan.
+- Controleer geadverteerde oppervlakte, bruikbare oppervlakte en plannen.
+- Voorzie kosten na aankoop: mede-eigendom, onderhoud, belasting, meubels en leegstand.
+- Laat belangrijke verbintenissen nalezen door de juiste professional.
+
+## Waarschuwingssignalen
+
+Een prijs die “alleen vandaag” geldt, gegarandeerd rendement zonder details, weigering om documenten te geven, een vaag opleveringsschema, een verkoper die kosten minimaliseert of een verhaal dat alleen op 2030 steunt, moet de beslissing vertragen. In Marokkaans vastgoed zit risico vaak in details: onvolledige titel, ontbrekende vergunning, verkeerd begrepen oppervlakte, vergeten kosten of slecht gedocumenteerde betaling.
 
 ## FAQ
-<details><summary>Wat is het korte antwoord?</summary><p>De vastgoedmarkt van Marrakech in 2026 is geen eenvoudig stijg-of-daalt verhaal. Vraagprijzen, getekende prijzen, transactievolumes en lokale segmenten kunnen verschillend bewegen.</p></details>
-<details><summary>Wat moet eerst worden gecontroleerd?</summary><p>Totale prijs, documenten, betaalreferenties, identiteit van begunstigde en consistentie tussen commerciële belofte en contract.</p></details>
-<details><summary>Garandeert S.A.F.E. het resultaat?</summary><p>Nee. S.A.F.E. ordent controles en voorbehouden op basis van beschikbare documenten, zonder publieke, wettelijke of financiële garantie.</p></details>
 
-<div class="article-warning"><p><strong>Aandachtspunt:</strong> Dit artikel is redactionele analyse. Het vervangt geen notaris, advocaat, fiscalist, architect of bank.</p></div>
+<details><summary>Zijn de cijfers officieel?</summary><p>Officiële indicatoren worden gescheiden van private marktinschattingen en simulaties. Vraagprijzen zijn geen notariële transactieprijzen.</p></details>
 
-<div class="article-cta"><p><strong>Verder lezen:</strong> <a href="/nl/safe-vastgoedcertificering">S.A.F.E.</a>, <a href="/nl/artikelen/dahir-marokko-definitie">Dahir</a>, <a href="/nl/artikelen/investeren-marrakech-2026">investeren</a>, <a href="/nl/artikelen/toerisme-marrakech-2026-vastgoed">toerisme</a>, <a href="/nl/vefa-marokko-garanties-risicos">VEFA</a>.</p></div>
+<details><summary>Is rendement genoeg?</summary><p>Nee. Rendement moet worden getest met kosten, belasting, leegstand, vastgoedkwaliteit en verkoopbaarheid.</p></details>

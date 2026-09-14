@@ -1,48 +1,96 @@
 ---
-title: "Marrakech before 2030: tourism, infrastructure and new opportunities"
-slug: "marrakech-before-2030-tourism-infrastructure-opportunities"
-locale: "en"
-translationKey: "marrakech-avant-2030"
-metaTitle: "Marrakech 2030: World Cup, Infrastructure and Property Impact"
-metaDescription: "Analysis of Marrakech infrastructure projects before 2030: stadium, airport, hospitality and impact on property and tourism."
-category: "tourisme"
-tags: ["Marrakech 2030","World Cup 2030 Morocco","Marrakech infrastructure","tourism Marrakech 2030"]
-date: 2026-02-18
-readingTime: 9
-excerpt: "The 2030 World Cup is approaching. Marrakech is preparing, but investors need to separate confirmed change from marketing noise."
-heroImage: "/images/articles/marrakech-2030-infrastructures-tourisme.webp"
-imageAlt: "Marrakech infrastructure illustrating tourism opportunities toward 2030."
+title: "Buying in Marrakech before 2030: real opportunity or already overpriced?"
+slug: marrakech-before-2030-tourism-infrastructure-opportunities
+urlSlug: marrakech-before-2030-tourism-infrastructure-opportunities
+locale: en
+translationKey: marrakech-avant-2030
+metaTitle: "Buying Marrakech before 2030: opportunity or overpricing?"
+metaDescription: "Buying in Marrakech before 2030: infrastructure, tourism,
+  World Cup, rental demand, speculation and overpayment risk."
+category: investissement
+tags:
+  - Marrakech 2030
+  - Marrakech investment
+  - property before 2030
+date: 2026-09-14
+updatedDate: 2026-09-14
+readingTime: 6
+excerpt: 2030 can support some assets, but it does not automatically make every
+  Marrakech purchase a good deal.
+heroImage: /images/articles/realestate-2026-09-14/marrakech-avant-2030-immobilier.webp
+imageAlt: Marrakech-Menara Airport, a key infrastructure asset before 2030.
+articleType: Article
+heroCaption: Infrastructure supports demand but does not guarantee returns.
+heroCredit: Jason7825 / Public domain
+heroSource: https://commons.wikimedia.org/wiki/File:Marrakech_Menara_Airport_2.jpg
+heroLicense: https://commons.wikimedia.org/wiki/File:Marrakech_Menara_Airport_2.jpg
+heroWidth: 1600
+heroHeight: 900
 featured: false
 sources:
-  - label: "Bird & Bird — Maroc, préparatifs Coupe du Monde 2030"
-    url: "https://www.twobirds.com/fr/insights/2025/global/maroc-preparatifs-de-la-coupe-du-monde-2030"
-  - label: "Telquel — Coupe du Monde 2030, bonne ou mauvaise nouvelle pour l'immobilier ?"
-    url: "https://telquel.ma/sponsors/la-coupe-du-monde-2030-une-bonne-ou-mauvaise-nouvelle-pour-le-secteur-immobilier_1906886"
-  - label: "ONDA — Aéroport Marrakech-Ménara, 10 millions de passagers 2025"
-    url: "https://www.infomediaire.net/aeroport-marrakech-menara-10-millions-passagers-2025/"
-  - label: "Label Immobilier — Grands projets immobiliers à Marrakech en 2030"
-    url: "https://www.labelimmobilier.com/post/marrakech-en-2030-comment-les-grands-projets-immobiliers-redessinent-la-ville"
-  - label: "Batibouw — Coupe du Monde 2030, Marrakech nouvel eldorado"
-    url: "https://batibouw.com/fr/articles/539/coupe-du-monde-2030-marrakech-nouvel-eldorado-de-limmobilier"
+  - label: ONDA — données aéroportuaires et capacité Marrakech-Menara
+    url: https://www.onda.ma/
+  - label: FIFA — Coupe du Monde 2030
+    url: https://www.fifa.com/
+  - label: Médias24 — infrastructures et économie marocaine
+    url: https://medias24.com/
+  - label: ANCFCC — Indice des Prix des Actifs Immobiliers
+    url: https://ancfcc.gov.ma/IndicePrixImmobiliers/
 disclaimer: true
 ---
 
-This translated edition keeps the same editorial caution as the French original: it is an analysis for buyers and investors, not a promise of return or legal advice.
+Updated on **14 September 2026**.
 
-## 2030 as catalyst, not guarantee
 
-The 2030 World Cup narrative supports infrastructure expectations, tourism investment and market attention. But a narrative is not the same as delivered infrastructure.
+<figure>
+  <img src="/images/articles/realestate-2026-09-14/marrakech-avant-2030-immobilier.webp" alt="Marrakech-Menara Airport, a key infrastructure asset before 2030." width="1600" height="900" loading="lazy" />
+  <figcaption>Infrastructure supports demand but does not guarantee returns.</figcaption>
+</figure>
 
-## What buyers should monitor
 
-Transport, airport capacity, stadium-related works, hospitality supply and public-space improvements can influence neighborhoods differently. The timing, location and certainty of each project matter.
+## Key points
 
-## Avoid buying only the story
+- 2030 is a powerful narrative, not a valuation method.
+- Confirmed projects should be separated from announced projects and pure speculation.
+- Airport capacity, tourism growth and sports infrastructure can support demand.
+- Overpaying today can erase the benefit of future growth.
 
-Some prices already include optimistic expectations. Buyers should distinguish confirmed projects from rumors and compare today’s value with the realistic future scenario.
+| Factor | Status to distinguish | Real-estate implication |
+|---|---|---|
+| Airport and tourism flows | Confirmed data and capacity plans | Supports short-stay demand but varies by area. |
+| Stadium / World Cup projects | Confirmed host-country preparation; final venue claims require caution | Can influence sentiment but not every property. |
+| Transport and urban projects | Project-by-project confirmation needed | Access gains matter only when delivered. |
+| Speculative pricing | Sales argument, not data | Requires negotiation and downside scenario. |
 
-## Key takeaway
+## 2030 is not enough to make a project profitable
 
-2030 can support Marrakech, but disciplined investors buy coherent files, not headlines.
+Macro-growth and project quality are different questions. A well-located, fairly priced, legally clear property may benefit from Marrakech’s long-term positioning. A weak project, bought too high or based only on a World Cup story, can disappoint even if the city grows. The [S.A.F.E property method](/en/safe-real-estate-certification/) is useful precisely because it asks whether the individual project still makes sense after the 2030 narrative is removed.
 
-> Before any purchase, buyers should consult qualified legal, notarial, tax, financial or technical professionals where relevant.
+## Sources and method
+
+This article separates confirmed infrastructure and official data from announcements, commercial claims and speculation.
+
+## How to use these figures without misreading them
+
+The first mistake is to treat a range as an absolute truth. Official data, property listings, agency observations and bank simulations do not answer the same question. Official data describes registered market activity; a listing shows a seller’s or landlord’s asking position; a banking simulation gives an order of magnitude; field observations help with negotiation. A sound decision puts each source in its proper place.
+
+Start with the use case: main home, second home, rental investment, family purchase, MRE purchase or long-term wealth asset. The same price can be reasonable for one use and excessive for another. Then isolate the total cost: price, acquisition fees, furniture, works, service charges, taxes, vacancy, financing, insurance, management and safety margin.
+
+## Checks before signing
+
+- Request documents before discussing yield.
+- Compare the price with genuinely comparable assets.
+- Reject oral promises that are not written down.
+- Check the consistency of advertised area, usable area and plans.
+- Anticipate post-purchase costs: co-ownership, maintenance, tax, furniture and vacancy.
+- Have major commitments reviewed by the relevant professional.
+
+## Warning signs
+
+A price “valid only today”, a guaranteed return without details, refusal to provide documents, a vague delivery calendar, a seller who downplays costs or a pitch based only on 2030 should slow the decision. In Moroccan property, risk often sits in details: incomplete title, missing authorisation, misunderstood surface area, ignored charges or poorly documented payment.
+
+## FAQ
+
+<details><summary>Are the figures official?</summary><p>Official indicators are separated from private market estimates and simulations. Listing ranges are not notarized transaction prices.</p></details>
+
+<details><summary>Should a buyer decide only on yield?</summary><p>No. Yield must be tested with costs, tax, vacancy, property quality and resale potential.</p></details>

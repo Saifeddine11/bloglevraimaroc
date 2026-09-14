@@ -1,107 +1,101 @@
 ---
-title: "Marrakech property prices in 2026: apartment, villa and land"
-slug: "marrakech-property-prices-2026"
-locale: "en"
-translationKey: "prix-immobilier-marrakech-2026"
-metaTitle: "Marrakech Property Prices 2026: Price per m² by Neighborhood"
-metaDescription: "Marrakech property prices 2026: indicative price ranges per m² by neighborhood, apartment, villa, land, new-build, resale, acquisition costs and buyer mistakes."
-category: "immobilier"
-tags: ["Marrakech property prices 2026", "Marrakech price per sqm", "Marrakech apartment price", "Marrakech villa price", "Marrakech real estate market"]
-date: 2026-07-17
-updatedDate: 2026-07-17
-readingTime: 17
-excerpt: "Marrakech prices vary strongly by micro-location, property type, condition, charges and legal status. This guide gives a cautious reading of 2026 ranges, with method, sources and limits."
-heroImage: "/images/articles/immobilier-marrakech-2026.webp"
-imageAlt: "Modern architecture in Marrakech illustrating the property market and price per square meter in 2026."
+title: "Marrakech property prices 2026: price per m² by district — September update"
+slug: marrakech-property-prices-2026
+urlSlug: marrakech-property-prices-2026
+locale: en
+translationKey: prix-immobilier-marrakech-2026
+metaTitle: "Marrakech property prices 2026: price per sqm"
+metaDescription: "Marrakech property prices 2026: price-per-sqm ranges by
+  district, official data vs asking prices and limits of averages."
+category: immobilier
+tags:
+  - Marrakech property prices 2026
+  - price per sqm
+  - Gueliz
+  - Hivernage
+date: 2026-09-14
+updatedDate: 2026-09-14
+readingTime: 6
+excerpt: Marrakech price-per-square-metre figures should be read as market
+  ranges, then checked property by property.
+heroImage: /images/articles/realestate-2026-09-14/prix-immobilier-marrakech-2026-septembre.webp
+imageAlt: A street in Guéliz, Marrakech, used as a reference district for
+  price-per-square-metre comparisons.
+articleType: Article
+heroCaption: Price ranges must remain separate from official transactions.
+heroCredit: mwanasimba from La Réunion / CC BY-SA 2.0
+heroSource: https://commons.wikimedia.org/wiki/File:Gueliz_Marrakech_(2845737562).jpg
+heroLicense: https://creativecommons.org/licenses/by-sa/2.0
+heroWidth: 1600
+heroHeight: 900
 featured: true
 sources:
-  - label: "ANCFCC — Real Estate Asset Price Index"
-    url: "https://ancfcc.gov.ma/IndicePrixImmobiliers/"
-  - label: "Yakeey — Marrakech Hivernage reference"
-    url: "https://yakeey.com/fr-ma/referentiel-de-prix-immobilier/marrakech/hivernage"
-  - label: "Valorisimo — Marrakech property prices 2026"
-    url: "https://valorisimo.com/fr/prix-immobilier-marrakech/"
-  - label: "ReaConsult — Marrakech price barometer 2026"
-    url: "https://reaconsult.ma/tendances-et-conseils-en-immobilier/barometre-prix-immobilier-marrakech-2026-par-quartier"
-  - label: "Marrakech Immobilier — price ranges by neighborhood"
-    url: "https://www.marrakech-immobilier.com/article/guides/prix-de-limmobilier-a-marrakech-par-quartier-les-vraies-fourchettes-a-connaitre/"
+  - label: ANCFCC — Indice des Prix des Actifs Immobiliers
+    url: https://ancfcc.gov.ma/IndicePrixImmobiliers/
+  - label: ReaConsult — baromètre prix immobilier Marrakech 2026
+    url: https://reaconsult.ma/tendances-et-conseils-en-immobilier/barometre-prix-immobilier-marrakech-2026-par-quartier
+  - label: Valorisimo — prix immobilier Marrakech 2026
+    url: https://valorisimo.com/fr/prix-immobilier-marrakech/
+  - label: Capital Parc — prix affichés à Marrakech
+    url: https://capitalparc.ma/prix-immobilier-marrakech
 disclaimer: true
 ---
 
-<div class="article-summary">
-  <span class="article-kicker">Quick Answer</span>
-  <p><strong>Marrakech property prices in 2026</strong> must be read as ranges, never fixed values. Private market sources generally place Guéliz, Hivernage and the Palmeraie among the more expensive areas, while Targa, Route de Casablanca and some peripheral axes remain more accessible.</p>
-</div>
+Updated on **14 September 2026**.
 
-<div class="article-warning">
-  <p><strong>Indicative ranges, depending on property condition, exact location, floor, orientation, amenities, legal status, and market conditions.</strong></p>
-</div>
-
-## Market overview and price method
-
-Marrakech is not a uniform market. An apartment with parking and lift in a well-run Guéliz building cannot be compared with an older flat on a secondary street. A Palmeraie villa is not valued only through built square meters: land, garden, access, pool and privacy matter as much as living area.
-
-This guide combines institutional data, private references and specialist market commentary. ANCFCC/BAM publications provide an official transaction-price framework; private platforms and agencies provide neighborhood-level ranges. The figures below are market indications, not official prices.
-
-<div class="article-method">
-  <span class="article-kicker">Price Control in the S.A.F.E Method</span>
-  <p>In the <a href="/en/safe-real-estate-certification">S.A.F.E property method</a>, price is never assessed alone. It is compared with neighborhood benchmarks, contractual surfaces, finishing level, expected charges, hidden costs and comparable delivered properties. The grid separates official data, market estimates and seller claims. It helps assess price coherence but never certifies that a price will rise.</p>
-  <p>To move from price to decision, combine this guide with <a href="/en/articles/investing-marrakech-2026">investing in Marrakech in 2026</a> and the <a href="/en/articles/real-estate-developer-documents-morocco">developer document checklist</a>.</p>
-</div>
-
-## Comparative price table
-
-<table>
-  <caption>Indicative price ranges per square meter in Marrakech in 2026, to be checked according to condition, exact address and legal status.</caption>
-  <thead><tr><th>Neighborhood</th><th>Apartment indication</th><th>Villa / house indication</th><th>Market reading</th></tr></thead>
-  <tbody>
-    <tr><td>Guéliz</td><td>13,000 to 24,000 MAD/m²</td><td>Rare</td><td>Liquid, urban, strong furnished-rental demand</td></tr>
-    <tr><td>Hivernage</td><td>15,000 to 30,000+ MAD/m²</td><td>Very rare, premium</td><td>Prestige, hotels, Mohammed VI Avenue</td></tr>
-    <tr><td>Agdal</td><td>12,000 to 19,000 MAD/m²</td><td>Depending on residence</td><td>Good new-build compromise, MRE, families</td></tr>
-    <tr><td>Targa</td><td>8,000 to 16,000 MAD/m²</td><td>9,000 to 14,000 MAD/m² built</td><td>Family residential, contained budgets</td></tr>
-    <tr><td>Palmeraie</td><td>14,000 to 30,000 MAD/m² for rare apartments</td><td>18,000 to 38,000 MAD/m² built depending on zone</td><td>Villas, gardens, luxury and land</td></tr>
-    <tr><td>Route de Casablanca</td><td>7,000 to 14,500 MAD/m²</td><td>Variable</td><td>Residential, access and services to verify</td></tr>
-    <tr><td>Route de l’Ourika</td><td>8,000 to 17,000 MAD/m²</td><td>8,500 to 14,000 MAD/m² built</td><td>Leisure villas, nature, tourism operation</td></tr>
-  </tbody>
-</table>
-
-## Neighborhood readings
-
-Guéliz remains the benchmark for urban apartments. Hivernage sells more as an address than a simple square meter. Agdal is a compromise between new-build, family use and furnished rental. Targa is more residential and usually less tourist-oriented. The Palmeraie is a villa and land market where maintenance costs and access matter. Route de Casablanca is broad and heterogeneous. Route de l’Ourika attracts leisure villas and nature-oriented projects, but infrastructure and operations must be reviewed.
 
 <figure>
-  <img src="/images/articles/gueliz-hivernage-palmeraie-investissement.webp" alt="Mohammed VI Avenue and modern Marrakech districts, reference points for Hivernage and Agdal prices." width="1600" height="900" loading="lazy" />
-  <figcaption>Mohammed VI Avenue, Wikimedia Commons CC BY-SA 3.0 / Hilverd Reker. Premium prices depend strongly on the exact address.</figcaption>
+  <img src="/images/articles/realestate-2026-09-14/prix-immobilier-marrakech-2026-septembre.webp" alt="A street in Guéliz, Marrakech, used as a reference district for price-per-square-metre comparisons." width="1600" height="900" loading="lazy" />
+  <figcaption>Price ranges must remain separate from official transactions.</figcaption>
 </figure>
 
-## New-build versus resale
 
-New-build often carries a premium: lift, parking, gated residence, pool, recent materials. But off-plan purchase requires checking the developer, land, permits, approved plans, contract, payment schedule and delivery terms. Resale lets buyers inspect the real asset and existing charges, but may require works or legal checks.
+## Key points
 
-For new-build, read the [documents to request from a Moroccan developer](/en/articles/real-estate-developer-documents-morocco).
+- ANCFCC/BAM data is the official transaction-price framework.
+- Neighborhood ranges from ReaConsult, Valorisimo or agencies are asking/market indications.
+- Hivernage, Palmeraie, golf areas and some Medina riads sit at the top end.
+- Targa, Route de Casablanca, Route de Fès and some peripheral zones remain more accessible.
 
-## Apartments, villas and riads
+| Area | Typical asking range | Property type | Data source | Data date |
+|---|---|---|---|---|
+| Guéliz | 13,000–20,000 MAD/m² | Apartment | ReaConsult / Valorisimo | mid-2026 |
+| Hivernage | 16,000–32,000 MAD/m² | Apartment premium | ReaConsult / Valorisimo | 2026 |
+| Agdal | 11,000–17,000 MAD/m² | Apartment | Valorisimo / market listings | 2026 |
+| Targa | 8,500–13,500 MAD/m² | Apartment / family housing | ReaConsult / Valorisimo | 2026 |
+| Palmeraie | 14,000–28,000 MAD/m² apartments; villas case-by-case | Apartment / villa | ReaConsult / Valorisimo | 2026 |
+| Route de Casablanca / Route de Fès | 6,000–13,000 MAD/m² | Peripheral residential | ReaConsult | 2026 |
+| Route de l’Ourika | 8,500–16,000 MAD/m² | Villa / apartment depending on project | ReaConsult / Valorisimo | 2026 |
 
-Apartments are usually compared by square meter. Villas are compared through land, built area, service level, privacy and maintenance. Riads depend on Medina location, access, structural condition, patio, terrace, authorization and renovation budget.
+## What price per m² does not tell you
 
-## Acquisition costs and buyer mistakes
+A square-metre price hides floor, view, orientation, parking, lift, amenities, building age, developer, legal title, delivery status, charges and the real surface used in the calculation. Two apartments with the same area in Guéliz can have very different values if one has parking, clear title, quiet exposure and low charges while the other needs renovation. Use the [S.A.F.E grid](/en/safe-real-estate-certification/) to connect price, documents and execution risk.
 
-The displayed price is not the total cost. Add registration, land-conservation fees, notary, agency fee where applicable, furniture, works, diagnostics, co-ownership charges and vacancy. Common mistakes include confusing asking price and signed price, ignoring charges, neglecting title review and overestimating short-term rental.
+## Sources and method
+
+Official data is used for transaction-market direction. Private data is used for local asking ranges and must be negotiated against real comparables.
+
+## How to use these figures without misreading them
+
+The first mistake is to treat a range as an absolute truth. Official data, property listings, agency observations and bank simulations do not answer the same question. Official data describes registered market activity; a listing shows a seller’s or landlord’s asking position; a banking simulation gives an order of magnitude; field observations help with negotiation. A sound decision puts each source in its proper place.
+
+Start with the use case: main home, second home, rental investment, family purchase, MRE purchase or long-term wealth asset. The same price can be reasonable for one use and excessive for another. Then isolate the total cost: price, acquisition fees, furniture, works, service charges, taxes, vacancy, financing, insurance, management and safety margin.
+
+## Checks before signing
+
+- Request documents before discussing yield.
+- Compare the price with genuinely comparable assets.
+- Reject oral promises that are not written down.
+- Check the consistency of advertised area, usable area and plans.
+- Anticipate post-purchase costs: co-ownership, maintenance, tax, furniture and vacancy.
+- Have major commitments reviewed by the relevant professional.
+
+## Warning signs
+
+A price “valid only today”, a guaranteed return without details, refusal to provide documents, a vague delivery calendar, a seller who downplays costs or a pitch based only on 2030 should slow the decision. In Moroccan property, risk often sits in details: incomplete title, missing authorisation, misunderstood surface area, ignored charges or poorly documented payment.
 
 ## FAQ
 
-<details><summary>What is the most expensive neighborhood in Marrakech?</summary><p>Hivernage, the Palmeraie, some golf areas and premium Medina micro-locations are among the most expensive. The answer depends on property type: apartment, villa or riad.</p></details>
-<details><summary>Are online asking prices reliable?</summary><p>They show a trend but do not replace transaction comparison, viewing, title review and negotiation. Asking prices may include a large margin.</p></details>
-<details><summary>Should you buy in Marrakech in 2026?</summary><p>Yes if the price is coherent, the legal file is clear and the strategy is realistic. No if the purchase relies only on a promise of price growth or yield.</p></details>
+<details><summary>Are the figures official?</summary><p>Official indicators are separated from private market estimates and simulations. Listing ranges are not notarized transaction prices.</p></details>
 
-## Sources and references
-
-- **ANCFCC — Real Estate Asset Price Index**: official publications, including Q1 2026 listed on the public page.
-- **Yakeey — Hivernage Marrakech**: private estimate and interval for apartments and villas.
-- **Valorisimo — Marrakech property prices 2026**: private ranges by area and type.
-- **ReaConsult — Marrakech 2026 barometer**: private apartment-price reference.
-- **Marrakech Immobilier — ranges by neighborhood**: specialist market commentary.
-
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the most expensive neighborhood in Marrakech?","acceptedAnswer":{"@type":"Answer","text":"Hivernage, the Palmeraie, some golf areas and premium Medina micro-locations are among the most expensive. The answer depends on property type: apartment, villa or riad."}},{"@type":"Question","name":"Are online asking prices reliable?","acceptedAnswer":{"@type":"Answer","text":"They show a trend but do not replace transaction comparison, viewing, title review and negotiation. Asking prices may include a large margin."}},{"@type":"Question","name":"Should you buy in Marrakech in 2026?","acceptedAnswer":{"@type":"Answer","text":"Yes if the price is coherent, the legal file is clear and the strategy is realistic. No if the purchase relies only on a promise of price growth or yield."}}]}
-</script>
+<details><summary>Should a buyer decide only on yield?</summary><p>No. Yield must be tested with costs, tax, vacancy, property quality and resale potential.</p></details>

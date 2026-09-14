@@ -1,118 +1,104 @@
 ---
-title: "Mercado inmobiliario de Marrakech en 2026: por qué precios y ventas evolucionan distinto"
-slug: "mercado-inmobiliario-marrakech-2026"
-locale: "es"
-translationKey: "marche-immobilier-marrakech-2026"
-metaTitle: "Mercado inmobiliario de Marrakech en 2026: precios, ventas y tendencias"
-metaDescription: "Mercado inmobiliario Marrakech 2026: precios, ventas, datos ANCFCC, límites locales, apartamentos, villas, riads, terrenos y tendencias 2027."
-category: "analyses"
-tags: ["Mercado inmobiliario de Marrakech en 2026: precios, ventas y tendencias", "Marrakech 2026", "S.A.F.E.", "immobilier"]
-date: 2026-07-17
-updatedDate: 2026-07-17
-readingTime: 12
-excerpt: "El mercado inmobiliario de Marrakech en 2026 no es una simple subida o bajada. Precios anunciados, precios firmados, volúmenes y segmentos locales pueden moverse de forma distinta."
-heroImage: "/images/safe-og-official.webp"
-imageAlt: "Logo oficial S.A.F.E — Security, Analysis, Fidelity & Expert Guidance."
+title: "Mercado inmobiliario de Marrakech 2026: precios, transacciones y
+  recuperación — actualización septiembre"
+slug: mercado-inmobiliario-marrakech-2026
+urlSlug: mercado-inmobiliario-marrakech-2026
+locale: es
+translationKey: marche-immobilier-marrakech-2026
+metaTitle: "Mercado inmobiliario Marrakech 2026: septiembre"
+metaDescription: "Mercado inmobiliario Marrakech 2026: datos ANCFCC/BAM,
+  transacciones, precios anunciados, segmentos activos y riesgos."
+category: analyses
+tags:
+  - mercado inmobiliario Marrakech 2026
+  - transacciones
+  - ANCFCC
+  - precios
+date: 2026-09-14
+updatedDate: 2026-09-14
+readingTime: 6
+excerpt: "Marrakech sigue fragmentado: transacciones oficiales, precios
+  anunciados y relato 2030 no dicen lo mismo."
+heroImage: /images/articles/realestate-2026-09-14/marche-immobilier-marrakech-2026-septembre.webp
+imageAlt: Barrio de Hivernage en Marrakech, segmento inmobiliario de gama alta.
+articleType: Article
+heroCaption: Hivernage ilustra la gama alta, pero no resume todo Marrakech.
+heroCredit: karel291 / CC BY 3.0
+heroSource: https://commons.wikimedia.org/wiki/File:Hivernage,_Marrakesh,_Morocco_-_panoramio.jpg
+heroLicense: https://creativecommons.org/licenses/by/3.0
+heroWidth: 1600
+heroHeight: 900
 featured: false
 sources:
-  - label: "ANCFCC — Índice de Precios de Activos Inmobiliarios"
-    url: "https://ancfcc.gov.ma/IndicePrixImmobiliers/"
-  - label: "HCP Marrakech-Safi — indicadores 2026"
-    url: "https://www.hcp.ma/region-marrakech/Indicateurs_r5.html?start=3"
+  - label: ANCFCC — Indice des Prix des Actifs Immobiliers, T1 et T2 2026
+    url: https://ancfcc.gov.ma/IndicePrixImmobiliers/
+  - label: Bank Al-Maghrib — données et communiqués
+    url: https://www.bkam.ma/
+  - label: Médias24 — taux directeur maintenu à 2,25 %
+    url: https://medias24.com/2026/06/23/bank-al-maghrib-maintient-le-taux-directeur-inchange-a-225-1706361/
 disclaimer: true
 ---
-<div class="article-summary"><span class="article-kicker">Respuesta inmediata</span><p>El mercado inmobiliario de Marrakech en 2026 no es una simple subida o bajada. Precios anunciados, precios firmados, volúmenes y segmentos locales pueden moverse de forma distinta.</p></div>
-<div class="article-warning"><p><strong>Punto de atención:</strong> Los datos ANCFCC/BAM son la base oficial de transacciones registradas, pero no explican cada microubicación. Anuncios privados, observaciones de agencias y promesas comerciales deben separarse de las transacciones realmente registradas.</p></div>
 
-## Precios, ventas, volúmenes y límites de datos
-
-
-
-<table><caption>Precios, ventas, volúmenes y límites de datos</caption><thead><tr><th>Comprador</th><th>Control</th><th>Riesgo</th><th>Acción</th></tr></thead><tbody><tr><td>Pago</td><td>Referencias bancarias o notariales</td><td>Suplemento informal</td><td>Conservar prueba y recibo</td></tr><tr><td>Zona</td><td>Precio, acceso, demanda real</td><td>Precio de folleto</td><td>Comparar con transacciones y bienes entregados</td></tr><tr><td>Proyecto</td><td>Permiso, planos, avance</td><td>Promesa oral</td><td>Revisión profesional del expediente</td></tr><tr><td>Rendimiento</td><td>Neto tras gastos</td><td>Garantía no documentada</td><td>Probar escenario prudente</td></tr></tbody></table>
-
+Actualizado el **14 de septiembre de 2026**.
 
 
 <figure>
-  <img src="/images/articles/gueliz-hivernage-palmeraie-investissement.webp" alt="Mercado inmobiliario de Marrakech en 2026: por qué precios y ventas evolucionan distinto" width="1600" height="900" loading="lazy" />
-  <figcaption>Crédito de imagen ya registrado en IMAGES.md.</figcaption>
+  <img src="/images/articles/realestate-2026-09-14/marche-immobilier-marrakech-2026-septembre.webp" alt="Barrio de Hivernage en Marrakech, segmento inmobiliario de gama alta." width="1600" height="900" loading="lazy" />
+  <figcaption>Hivernage ilustra la gama alta, pero no resume todo Marrakech.</figcaption>
 </figure>
 
-## Método
 
-<div class="article-method"><span class="article-kicker">Le Vrai Maroc</span><p>Los datos ANCFCC/BAM son la base oficial de transacciones registradas, pero no explican cada microubicación. Anuncios privados, observaciones de agencias y promesas comerciales deben separarse de las transacciones realmente registradas.</p><p><a href="/es/articulos/precios-inmobiliarios-marrakech-2026">Precios</a>, <a href="/es/articulos/mejores-barrios-marrakech">barrios</a>, <a href="/es/articulos/documentos-promotor-inmobiliario-marruecos">documentos del promotor</a>, <a href="/es/articulos/proceso-compra-inmobiliaria-marruecos-paso-a-paso">proceso de compra</a> y <a href="/es/certificacion-inmobiliaria-safe">S.A.F.E.</a> deben leerse juntos, dentro de la misma versión lingüística.</p></div>
+## Lo esencial
 
-## Lectura S.A.F.E.
+- Official ANCFCC/BAM IPAI data measures registered transactions, not portal asking prices.
+- Marrakech has stronger micro-market dispersion than a single city average suggests.
+- A rise in citywide indicators does not make every project attractive.
+- Financing conditions remained relatively stable after Bank Al-Maghrib kept the key rate at 2.25% in June 2026.
 
-<div class="article-method"><span class="article-kicker">S.A.F.E.</span><p>En la metodología S.A.F.E., el expediente se analiza con los documentos disponibles: precio, pagos, beneficiario, contrato, autorizaciones, entrega, cargas y coherencia de las afirmaciones comerciales. Es un estado metodológico interno, no certificación pública, garantía legal ni promesa de rendimiento.</p></div>
+| Segment | Official / market reading | Buyer implication |
+|---|---|---|
+| Registered transactions | Read through ANCFCC/BAM indicators | Useful for trend, limited for micro-neighborhood pricing. |
+| Asking prices | Read through portals and local agencies | Useful for negotiation range, not a signed price. |
+| New-build / off-plan | Often premium-priced | Requires developer, permit, schedule and delivery checks. |
+| Resale | Visible asset and charges | Requires title, building condition and negotiation analysis. |
 
-<div class="visual-scale" aria-label="S.A.F.E. review flow"><div class="scale-row"><strong>1</strong><div class="scale-track"><span class="scale-fill" style="width:25%"></span></div><span>fuente</span></div><div class="scale-row"><strong>2</strong><div class="scale-track"><span class="scale-fill" style="width:50%"></span></div><span>documento</span></div><div class="scale-row"><strong>3</strong><div class="scale-track"><span class="scale-fill" style="width:75%"></span></div><span>precio</span></div><div class="scale-row"><strong>4</strong><div class="scale-track"><span class="scale-fill" style="width:100%"></span></div><span>riesgo</span></div></div>
+## Is the market really recovering?
 
-<figure>
-  <img src="/images/articles/marrakech-investisseurs-immobiliers.webp" alt="Precios, ventas, volúmenes y límites de datos" width="1600" height="900" loading="lazy" />
-  <figcaption>Crédito de imagen ya registrado en IMAGES.md.</figcaption>
-</figure>
+The answer is nuanced. Transaction indicators and asking-price ranges can move in different directions. A recovery in volumes may coexist with buyer selectivity. Premium addresses such as Hivernage, Guéliz, Palmeraie or golf areas can remain liquid while standard peripheral stock faces negotiation pressure. Buyers should therefore compare the project with its own segment rather than extrapolate from the headline market.
 
-## Checklist
+## Which segments are moving?
 
-<div class="article-checklist"><ul><li>Identificar la fuente oficial o contractual.</li><li>Verificar fechas, importes, referencias y beneficiarios.</li><li>Comparar el bien con su barrio y uso real.</li><li>Conservar pruebas en un expediente único.</li><li>Consultar a un profesional ante cualquier punto legal, fiscal o técnico.</li></ul></div>
+Apartments in central, walkable locations remain easier to benchmark. Villas and riads require more case-by-case analysis because land, renovation quality, legal status, tourist use and operating costs change the equation. Land and commercial property should not be mixed with residential trends.
 
-<figure>
-  <img src="/images/articles/zones-amizmiz-agdal-targa.webp" alt="Precios, ventas, volúmenes y límites de datos" width="1600" height="900" loading="lazy" />
-  <figcaption>Crédito de imagen ya registrado en IMAGES.md.</figcaption>
-</figure>
+## Is Marrakech overheating?
 
-<!-- depth-expansion -->
-## Análisis detallado
+Some micro-markets show speculative pricing, especially where 2030 narratives are used as a sales argument. That does not mean the whole city is in a bubble. It means buyers must separate confirmed infrastructure, actual rental demand, signed transactions and sales brochures. A citywide rise is not enough: the [método S.A.F.E de análisis inmobiliario](/es/certificacion-inmobiliaria-safe/) helps test whether a specific project deserves attention.
 
-Esta página debe leerse como una matriz de decisión, no como una promesa de mercado. El primer filtro consiste en separar lo confirmado por documentos, lo estimado por observación de mercado y lo que pertenece a una presentación comercial. Esta distinción importa en Marrakech, donde dos bienes cercanos pueden tener liquidez muy distinta.
+## Fuentes y método
 
-El segundo filtro es el coste completo. Un precio anunciado nunca basta: derechos, notario, agencia, obras, mobiliario, cargas, gestión, fiscalidad, vacancia y plazo de reventa pueden cambiar la decisión. Un bien aparentemente barato puede volverse caro si los documentos son débiles o si la explotación es pesada.
+Official references are ANCFCC/BAM IPAI publications. Private references are used only for neighborhood-level indications and are labelled as market observations, not notarized transaction data.
 
-El tercer filtro es el uso. Residencia principal, pied-à-terre, inversión de alquiler, riad, villa familiar o activo comercial no se verifican con la misma matriz. La pregunta no es solo “¿dónde comprar?”, sino “¿qué expediente resiste para este objetivo concreto?”.
+## Cómo usar estas cifras sin interpretarlas mal
 
-Por último, el comprador debe mantener margen de prudencia. Una tendencia positiva, infraestructura anunciada, crecimiento turístico o dirección conocida no garantizan rendimiento, reventa rápida ni ausencia de obras. Las afirmaciones numéricas deben estar fechadas, documentadas y vinculadas al bien estudiado.
+El primer error consiste en convertir una horquilla en una verdad absoluta. Un dato oficial, un anuncio inmobiliario, la observación de una agencia y una simulación bancaria no responden a la misma pregunta. El dato oficial describe actividad registrada; el anuncio muestra una pretensión de vendedor o arrendador; la simulación da un orden de magnitud; la experiencia de campo ayuda a negociar. Una decisión seria coloca cada fuente en su sitio.
 
-<!-- practical-audit-grid -->
-## Matriz práctica de auditoría
+Empiece por definir el uso: vivienda principal, segunda residencia, inversión de alquiler, compra familiar, proyecto MRE o activo patrimonial. El mismo precio puede ser razonable para un uso y excesivo para otro. Después calcule el coste total: precio, gastos de adquisición, mobiliario, obras, comunidad, impuestos, vacancia, financiación, seguro, gestión y margen de seguridad.
 
-Esta matriz convierte el análisis en preguntas concretas antes de firmar, reservar, invertir o publicar una hipótesis de rendimiento.
+## Controles antes de firmar
 
-- **official data**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **registered transactions**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **asking prices**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **signed prices**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **sales volume**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **apartments**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **villas**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **riads**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **land**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **new-build**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **resale**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **Gueliz**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **Hivernage**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **Agdal**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **Palmeraie**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **Medina**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **local buyers**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **Moroccans living abroad**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **foreign demand**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **credit conditions**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **construction costs**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **tourism demand**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **airport connectivity**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **listing bias**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **agency observations**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **private estimates**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **2026 outlook**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **2027 outlook**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **downside risks**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
-- **S.A.F.E. market reading**: verifique este punto con un documento fechado, un importe claro y una persona responsable. En este tema, el error es aceptar una afirmación aislada sin saber si procede de un documento oficial, de un contrato, de una observación de mercado o de un argumento comercial. Anote fuente, fecha de consulta y reserva en el expediente.
+- Pedir documentos antes de hablar de rentabilidad.
+- Comparar el precio con inmuebles realmente comparables.
+- Rechazar promesas verbales no escritas.
+- Comprobar superficie anunciada, superficie útil y planos.
+- Anticipar costes posteriores: comunidad, mantenimiento, fiscalidad, mobiliario y vacancia.
+- Hacer revisar los compromisos importantes por el profesional competente.
+
+## Señales de alerta
+
+Un precio “solo válido hoy”, una rentabilidad garantizada sin detalle, la negativa a entregar documentos, un calendario impreciso, un vendedor que minimiza los gastos o un discurso basado solo en 2030 deben frenar la decisión. En el inmobiliario marroquí, el riesgo suele estar en los detalles: título incompleto, autorización ausente, superficie mal entendida, gastos ignorados o pago mal documentado.
 
 ## FAQ
-<details><summary>¿Cuál es la respuesta corta?</summary><p>El mercado inmobiliario de Marrakech en 2026 no es una simple subida o bajada. Precios anunciados, precios firmados, volúmenes y segmentos locales pueden moverse de forma distinta.</p></details>
-<details><summary>¿Qué revisar primero?</summary><p>Precio total, documentos, referencias de pago, identidad del beneficiario y coherencia entre promesa comercial y contrato.</p></details>
-<details><summary>¿S.A.F.E. garantiza el resultado?</summary><p>No. S.A.F.E. estructura controles y reservas con los documentos disponibles, sin garantía pública, legal o financiera.</p></details>
 
-<div class="article-warning"><p><strong>Punto de atención:</strong> Este artículo es análisis editorial. No sustituye a un notario, abogado, fiscalista, arquitecto o banco.</p></div>
+<details><summary>¿Las cifras son oficiales?</summary><p>Los indicadores oficiales se separan de estimaciones privadas y simulaciones. Los precios anunciados no son precios notariales.</p></details>
 
-<div class="article-cta"><p><strong>Leer también:</strong> <a href="/es/certificacion-inmobiliaria-safe">S.A.F.E.</a>, <a href="/es/articulos/dahir-marruecos-definicion">Dahir</a>, <a href="/es/articulos/invertir-marrakech-2026">inversión</a>, <a href="/es/articulos/turismo-marrakech-2026-inmobiliario">turismo</a>, <a href="/es/vefa-marruecos-garantias-riesgos">VEFA</a>.</p></div>
+<details><summary>¿Basta con mirar la rentabilidad?</summary><p>No. Hay que probar la rentabilidad con gastos, fiscalidad, vacancia, calidad del inmueble y reventa.</p></details>
