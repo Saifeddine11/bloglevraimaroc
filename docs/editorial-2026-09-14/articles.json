@@ -1,0 +1,338 @@
+[
+  {
+    "topic": "lboulevard-2026-casablanca",
+    "locale": "fr",
+    "file": "src/content/articles/lboulevard-2026-casablanca.md",
+    "route": "/articles/lboulevard-2026-casablanca",
+    "action": "created"
+  },
+  {
+    "topic": "lboulevard-2026-casablanca",
+    "locale": "en",
+    "file": "src/content/articles/en/lboulevard-2026-casablanca.md",
+    "route": "/en/articles/lboulevard-2026-casablanca",
+    "action": "created"
+  },
+  {
+    "topic": "lboulevard-2026-casablanca",
+    "locale": "es",
+    "file": "src/content/articles/es/lboulevard-2026-casablanca.md",
+    "route": "/es/articulos/lboulevard-2026-casablanca",
+    "action": "created"
+  },
+  {
+    "topic": "lboulevard-2026-casablanca",
+    "locale": "nl",
+    "file": "src/content/articles/nl/lboulevard-2026-casablanca.md",
+    "route": "/nl/artikelen/lboulevard-2026-casablanca",
+    "action": "created"
+  },
+  {
+    "topic": "elections-maroc-2026-comment-voter",
+    "locale": "fr",
+    "file": "src/content/articles/elections-maroc-2026-comment-voter.md",
+    "route": "/articles/elections-maroc-2026-comment-voter",
+    "action": "created"
+  },
+  {
+    "topic": "elections-maroc-2026-comment-voter",
+    "locale": "en",
+    "file": "src/content/articles/en/morocco-elections-2026-how-to-vote.md",
+    "route": "/en/articles/morocco-elections-2026-how-to-vote",
+    "action": "created"
+  },
+  {
+    "topic": "elections-maroc-2026-comment-voter",
+    "locale": "es",
+    "file": "src/content/articles/es/elecciones-marruecos-2026-como-votar.md",
+    "route": "/es/articulos/elecciones-marruecos-2026-como-votar",
+    "action": "created"
+  },
+  {
+    "topic": "elections-maroc-2026-comment-voter",
+    "locale": "nl",
+    "file": "src/content/articles/nl/verkiezingen-marokko-2026-stemmen.md",
+    "route": "/nl/artikelen/verkiezingen-marokko-2026-stemmen",
+    "action": "created"
+  },
+  {
+    "topic": "resultats-elections-maroc-2026",
+    "locale": "fr",
+    "file": "src/content/articles/resultats-elections-maroc-2026.md",
+    "route": "/articles/resultats-elections-maroc-2026",
+    "action": "created"
+  },
+  {
+    "topic": "resultats-elections-maroc-2026",
+    "locale": "en",
+    "file": "src/content/articles/en/morocco-election-results-2026.md",
+    "route": "/en/articles/morocco-election-results-2026",
+    "action": "created"
+  },
+  {
+    "topic": "resultats-elections-maroc-2026",
+    "locale": "es",
+    "file": "src/content/articles/es/resultados-elecciones-marruecos-2026.md",
+    "route": "/es/articulos/resultados-elecciones-marruecos-2026",
+    "action": "created"
+  },
+  {
+    "topic": "resultats-elections-maroc-2026",
+    "locale": "nl",
+    "file": "src/content/articles/nl/verkiezingsuitslagen-marokko-2026.md",
+    "route": "/nl/artikelen/verkiezingsuitslagen-marokko-2026",
+    "action": "created"
+  },
+  {
+    "topic": "finale-coupe-du-monde-2030-maroc-espagne",
+    "locale": "fr",
+    "file": "src/content/articles/finale-coupe-du-monde-2030-maroc-espagne.md",
+    "route": "/articles/finale-coupe-du-monde-2030-maroc-espagne",
+    "action": "created"
+  },
+  {
+    "topic": "finale-coupe-du-monde-2030-maroc-espagne",
+    "locale": "en",
+    "file": "src/content/articles/en/world-cup-2030-final-morocco-spain.md",
+    "route": "/en/articles/world-cup-2030-final-morocco-spain",
+    "action": "created"
+  },
+  {
+    "topic": "finale-coupe-du-monde-2030-maroc-espagne",
+    "locale": "es",
+    "file": "src/content/articles/es/final-mundial-2030-marruecos-espana.md",
+    "route": "/es/articulos/final-mundial-2030-marruecos-espana",
+    "action": "created"
+  },
+  {
+    "topic": "finale-coupe-du-monde-2030-maroc-espagne",
+    "locale": "nl",
+    "file": "src/content/articles/nl/wk-2030-finale-marokko-spanje.md",
+    "route": "/nl/artikelen/wk-2030-finale-marokko-spanje",
+    "action": "created"
+  },
+  {
+    "topic": "maroc-ia-2030",
+    "locale": "fr",
+    "file": "src/content/articles/maroc-ia-2030.md",
+    "route": "/articles/maroc-ia-2030",
+    "action": "created"
+  },
+  {
+    "topic": "maroc-ia-2030",
+    "locale": "en",
+    "file": "src/content/articles/en/morocco-ai-2030.md",
+    "route": "/en/articles/morocco-ai-2030",
+    "action": "created"
+  },
+  {
+    "topic": "maroc-ia-2030",
+    "locale": "es",
+    "file": "src/content/articles/es/marruecos-ia-2030.md",
+    "route": "/es/articulos/marruecos-ia-2030",
+    "action": "created"
+  },
+  {
+    "topic": "maroc-ia-2030",
+    "locale": "nl",
+    "file": "src/content/articles/nl/marokko-ai-2030.md",
+    "route": "/nl/artikelen/marokko-ai-2030",
+    "action": "created"
+  },
+  {
+    "topic": "moga-essaouira-2026",
+    "locale": "fr",
+    "file": "src/content/articles/moga-essaouira-2026.md",
+    "route": "/articles/moga-essaouira-2026",
+    "action": "created"
+  },
+  {
+    "topic": "moga-essaouira-2026",
+    "locale": "en",
+    "file": "src/content/articles/en/moga-essaouira-2026.md",
+    "route": "/en/articles/moga-essaouira-2026",
+    "action": "created"
+  },
+  {
+    "topic": "moga-essaouira-2026",
+    "locale": "es",
+    "file": "src/content/articles/es/moga-essaouira-2026.md",
+    "route": "/es/articulos/moga-essaouira-2026",
+    "action": "created"
+  },
+  {
+    "topic": "moga-essaouira-2026",
+    "locale": "nl",
+    "file": "src/content/articles/nl/moga-essaouira-2026.md",
+    "route": "/nl/artikelen/moga-essaouira-2026",
+    "action": "created"
+  },
+  {
+    "topic": "maroc-gabon-2026-date-heure-chaine-stade",
+    "locale": "fr",
+    "file": "src/content/articles/maroc-gabon-2026-date-heure-chaine-stade.md",
+    "route": "/articles/maroc-gabon-2026-date-heure-chaine-stade",
+    "action": "created"
+  },
+  {
+    "topic": "maroc-gabon-2026-date-heure-chaine-stade",
+    "locale": "en",
+    "file": "src/content/articles/en/morocco-gabon-2026-date-time-tv-stadium.md",
+    "route": "/en/articles/morocco-gabon-2026-date-time-tv-stadium",
+    "action": "created"
+  },
+  {
+    "topic": "maroc-gabon-2026-date-heure-chaine-stade",
+    "locale": "es",
+    "file": "src/content/articles/es/marruecos-gabon-2026-fecha-hora-tv-estadio.md",
+    "route": "/es/articulos/marruecos-gabon-2026-fecha-hora-tv-estadio",
+    "action": "created"
+  },
+  {
+    "topic": "maroc-gabon-2026-date-heure-chaine-stade",
+    "locale": "nl",
+    "file": "src/content/articles/nl/marokko-gabon-2026-datum-tijd-tv-stadion.md",
+    "route": "/nl/artikelen/marokko-gabon-2026-datum-tijd-tv-stadion",
+    "action": "created"
+  },
+  {
+    "topic": "tanjazz-2026",
+    "locale": "fr",
+    "file": "src/content/articles/tanjazz-2026.md",
+    "route": "/articles/tanjazz-2026",
+    "action": "updated"
+  },
+  {
+    "topic": "tanjazz-2026",
+    "locale": "en",
+    "file": "src/content/articles/en/tanjazz-2026-tangier.md",
+    "route": "/en/articles/tanjazz-2026-tangier",
+    "action": "updated"
+  },
+  {
+    "topic": "tanjazz-2026",
+    "locale": "es",
+    "file": "src/content/articles/es/tanjazz-2026-tanger-es.md",
+    "route": "/es/articulos/tanjazz-2026-tanger",
+    "action": "updated"
+  },
+  {
+    "topic": "tanjazz-2026",
+    "locale": "nl",
+    "file": "src/content/articles/nl/tanjazz-2026-tanger-nl.md",
+    "route": "/nl/artikelen/tanjazz-2026-tanger",
+    "action": "updated"
+  },
+  {
+    "topic": "elections-maroc-2026",
+    "locale": "fr",
+    "file": "src/content/articles/elections-maroc-2026.md",
+    "route": "/articles/elections-maroc-2026",
+    "action": "updated"
+  },
+  {
+    "topic": "elections-maroc-2026",
+    "locale": "en",
+    "file": "src/content/articles/en/morocco-elections-2026.md",
+    "route": "/en/articles/morocco-elections-2026",
+    "action": "updated"
+  },
+  {
+    "topic": "elections-maroc-2026",
+    "locale": "es",
+    "file": "src/content/articles/es/elecciones-marruecos-2026.md",
+    "route": "/es/articulos/elecciones-marruecos-2026",
+    "action": "updated"
+  },
+  {
+    "topic": "elections-maroc-2026",
+    "locale": "nl",
+    "file": "src/content/articles/nl/verkiezingen-marokko-2026.md",
+    "route": "/nl/artikelen/verkiezingen-marokko-2026",
+    "action": "updated"
+  },
+  {
+    "topic": "rentree-scolaire-maroc-2026-2027",
+    "locale": "fr",
+    "file": "src/content/articles/rentree-scolaire-maroc-2026-2027.md",
+    "route": "/articles/rentree-scolaire-maroc-2026-2027",
+    "action": "updated"
+  },
+  {
+    "topic": "rentree-scolaire-maroc-2026-2027",
+    "locale": "en",
+    "file": "src/content/articles/en/morocco-school-calendar-2026-2027.md",
+    "route": "/en/articles/morocco-school-calendar-2026-2027",
+    "action": "updated"
+  },
+  {
+    "topic": "rentree-scolaire-maroc-2026-2027",
+    "locale": "es",
+    "file": "src/content/articles/es/vuelta-colegio-marruecos-2026-2027.md",
+    "route": "/es/articulos/vuelta-colegio-marruecos-2026-2027",
+    "action": "updated"
+  },
+  {
+    "topic": "rentree-scolaire-maroc-2026-2027",
+    "locale": "nl",
+    "file": "src/content/articles/nl/schooljaar-marokko-2026-2027.md",
+    "route": "/nl/artikelen/schooljaar-marokko-2026-2027",
+    "action": "updated"
+  },
+  {
+    "topic": "smig-5000-dh-maroc-2026",
+    "locale": "fr",
+    "file": "src/content/articles/smig-5000-dh-maroc-2026.md",
+    "route": "/articles/smig-5000-dh-maroc-2026",
+    "action": "updated"
+  },
+  {
+    "topic": "smig-5000-dh-maroc-2026",
+    "locale": "en",
+    "file": "src/content/articles/en/morocco-minimum-wage-5000-dirhams-2026.md",
+    "route": "/en/articles/morocco-minimum-wage-5000-dirhams-2026",
+    "action": "updated"
+  },
+  {
+    "topic": "smig-5000-dh-maroc-2026",
+    "locale": "es",
+    "file": "src/content/articles/es/salario-minimo-marruecos-5000-dirhams-2026.md",
+    "route": "/es/articulos/salario-minimo-marruecos-5000-dirhams-2026",
+    "action": "updated"
+  },
+  {
+    "topic": "smig-5000-dh-maroc-2026",
+    "locale": "nl",
+    "file": "src/content/articles/nl/minimumloon-marokko-5000-dirham-2026.md",
+    "route": "/nl/artikelen/minimumloon-marokko-5000-dirham-2026",
+    "action": "updated"
+  },
+  {
+    "topic": "aeroports-maroc-trafic-ete-2026",
+    "locale": "fr",
+    "file": "src/content/articles/aeroports-maroc-trafic-marrakech-casablanca-ete-2026.md",
+    "route": "/articles/aeroports-maroc-trafic-marrakech-casablanca-ete-2026",
+    "action": "updated"
+  },
+  {
+    "topic": "aeroports-maroc-trafic-ete-2026",
+    "locale": "en",
+    "file": "src/content/articles/en/morocco-airports-traffic-marrakech-casablanca-summer-2026.md",
+    "route": "/en/articles/morocco-airports-traffic-marrakech-casablanca-summer-2026",
+    "action": "updated"
+  },
+  {
+    "topic": "aeroports-maroc-trafic-ete-2026",
+    "locale": "es",
+    "file": "src/content/articles/es/aeropuertos-marruecos-trafico-marrakech-casablanca-verano-2026.md",
+    "route": "/es/articulos/aeropuertos-marruecos-trafico-marrakech-casablanca-verano-2026",
+    "action": "updated"
+  },
+  {
+    "topic": "aeroports-maroc-trafic-ete-2026",
+    "locale": "nl",
+    "file": "src/content/articles/nl/luchthavens-marokko-verkeer-marrakech-casablanca-zomer-2026.md",
+    "route": "/nl/artikelen/luchthavens-marokko-verkeer-marrakech-casablanca-zomer-2026",
+    "action": "updated"
+  }
+]

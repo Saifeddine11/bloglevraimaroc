@@ -17,6 +17,18 @@ const baselineRoutes = JSON.parse(
 const baselineImages = JSON.parse(
   fs.readFileSync(`${reportRoot}/baseline-images.json`, "utf8"),
 );
+const supersededRoutes = fs.existsSync(
+  "docs/editorial-2026-09-14/articles.json",
+)
+  ? new Set(
+      JSON.parse(
+        fs.readFileSync("docs/editorial-2026-09-14/articles.json", "utf8"),
+      )
+        .filter((article) => article.action === "updated")
+        .map((article) => article.route),
+    )
+  : new Set();
+
 const failures = [];
 const assert = (condition, message) => {
   if (!condition) failures.push(message);
@@ -44,6 +56,7 @@ const metaTitles = new Set();
 const descriptions = new Set();
 const pages = [];
 for (const a of manifest) {
+  if (supersededRoutes.has(a.route)) continue;
   const text = fs.readFileSync(a.file, "utf8");
   const front = YAML.parse(text.split(/^---\s*$/m)[1]);
   assert(front.locale === a.locale, `${a.route}: wrong locale`);

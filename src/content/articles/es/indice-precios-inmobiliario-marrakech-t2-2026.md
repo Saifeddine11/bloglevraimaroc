@@ -80,8 +80,8 @@ Una subida trimestral del 0,5 % en Marrakech no es ni una señal de alarma ni un
 
 - El mercado avanza a un ritmo comparable al de Casablanca, no al ritmo más rápido de Tánger o Rabat, un argumento útil frente a discursos comerciales que anuncian una subida generalizada de precios en Marrakech.
 - El aumento de las transacciones (+11 % a nivel nacional) sugiere un mercado más activo de lo que los precios por sí solos sugieren, sobre todo en suelo y en uso profesional.
-- El coste del crédito se mantiene estable: Bank Al-Maghrib mantuvo su tipo de referencia en el 2,25 % en su reunión del 23 de junio de 2026, quinta vez consecutiva sin cambios. Un comprador que presupueste una financiación bancaria no tiene, por ahora, ningún choque de tipos que anticipar. Las condiciones de crédito según el perfil del comprador (residente, extranjero no residente, marroquí residente en el extranjero) se detallan en nuestra [guía de financiación hipotecaria en Marrakech](/articles/credito-inmobiliario-marrakech-extranjeros-mre-2026).
-- Este índice sigue siendo un indicador macro. Para decidir entre barrios, conviene cruzarlo con una lectura local, como la de nuestra [guía de precios por barrio en Marrakech](/articles/precios-inmobiliarios-marrakech-2026) y nuestra [comparativa de los mejores barrios de Marrakech](/articles/mejores-barrios-marrakech).
+- El coste del crédito se mantiene estable: Bank Al-Maghrib mantuvo su tipo de referencia en el 2,25 % en su reunión del 23 de junio de 2026, quinta vez consecutiva sin cambios. Un comprador que presupueste una financiación bancaria no tiene, por ahora, ningún choque de tipos que anticipar. Las condiciones de crédito según el perfil del comprador (residente, extranjero no residente, marroquí residente en el extranjero) se detallan en nuestra [guía de financiación hipotecaria en Marrakech](/es/articulos/credito-inmobiliario-marrakech-extranjeros-mre-2026).
+- Este índice sigue siendo un indicador macro. Para decidir entre barrios, conviene cruzarlo con una lectura local, como la de nuestra [guía de precios por barrio en Marrakech](/es/articulos/precios-inmobiliarios-marrakech-2026) y nuestra [comparativa de los mejores barrios de Marrakech](/es/articulos/mejores-barrios-marrakech).
 
 ![Billetes de 50 dirhams marroquíes, que ilustran el coste de financiar una compra inmobiliaria en Marrakech.](/images/articles/fiscalite-immobiliere-marrakech-2026-2.webp)
 
@@ -89,7 +89,7 @@ Una subida trimestral del 0,5 % en Marrakech no es ni una señal de alarma ni un
 
 El IPAI es la fuente más institucional disponible sobre precios inmobiliarios en Marruecos, pero tiene límites que un comprador serio debe conocer antes de usarlo para negociar:
 
-- **Se publica a escala de ciudad, no de barrio.** Un +0,5 % en Marrakech puede ocultar una fuerte subida en Guéliz y un estancamiento en otras zonas. Para una lectura por sector, véase nuestro [análisis del mercado inmobiliario de Marrakech](/articles/mercado-inmobiliario-marrakech-2026).
+- **Se publica a escala de ciudad, no de barrio.** Un +0,5 % en Marrakech puede ocultar una fuerte subida en Guéliz y un estancamiento en otras zonas. Para una lectura por sector, véase nuestro [análisis del mercado inmobiliario de Marrakech](/es/articulos/mercado-inmobiliario-marrakech-2026).
 - **El método de ventas repetidas excluye los inmuebles vendidos una sola vez**, lo que incluye buena parte de los programas nuevos vendidos sobre plano, un segmento importante de la oferta en Marrakech.
 - **Se publica con un desfase de unos dos meses**: las cifras del segundo trimestre (abril-junio de 2026) no se hicieron públicas hasta finales de agosto de 2026.
 - **Marrakech mezcla submercados muy distintos** —Hivernage, Guéliz, Targa, la carretera de Ourika— que una media única por ciudad no puede distinguir.

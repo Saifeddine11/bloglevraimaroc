@@ -80,8 +80,8 @@ A 0.5% quarterly rise in Marrakech is neither a red alert nor proof the market i
 
 - The market is moving at a pace comparable to Casablanca's, not the faster pace seen in Tangier or Rabat — a useful counterpoint to sales pitches claiming a general price surge across Marrakech.
 - The rise in transaction volume (+11% nationally) suggests a more active market than prices alone would suggest, particularly for land and commercial property.
-- Borrowing costs remain stable: Bank Al-Maghrib kept its policy rate unchanged at 2.25% at its 23 June 2026 meeting, the fifth consecutive hold. A buyer budgeting for bank financing therefore faces no rate shock for now. Financing conditions by buyer profile (resident, non-resident foreigner, Moroccan living abroad) are detailed in our [guide to mortgage financing in Marrakech](/articles/mortgage-marrakech-foreigners-mre-2026).
-- This index remains a macro indicator. To choose between neighborhoods, it should be read alongside local data, such as our [guide to Marrakech property prices by neighborhood](/articles/marrakech-property-prices-2026) and our [comparison of Marrakech's best neighborhoods](/articles/best-neighborhoods-marrakech).
+- Borrowing costs remain stable: Bank Al-Maghrib kept its policy rate unchanged at 2.25% at its 23 June 2026 meeting, the fifth consecutive hold. A buyer budgeting for bank financing therefore faces no rate shock for now. Financing conditions by buyer profile (resident, non-resident foreigner, Moroccan living abroad) are detailed in our [guide to mortgage financing in Marrakech](/en/articles/mortgage-marrakech-foreigners-mre-2026).
+- This index remains a macro indicator. To choose between neighborhoods, it should be read alongside local data, such as our [guide to Marrakech property prices by neighborhood](/en/articles/marrakech-property-prices-2026) and our [comparison of Marrakech's best neighborhoods](/en/articles/best-neighborhoods-marrakech).
 
 ![Moroccan 50-dirham banknotes, illustrating the cost of financing a property purchase in Marrakech.](/images/articles/fiscalite-immobiliere-marrakech-2026-2.webp)
 
@@ -89,7 +89,7 @@ A 0.5% quarterly rise in Marrakech is neither a red alert nor proof the market i
 
 The IPAI is the most institutional source available on Moroccan real estate prices, but it has limits that a serious buyer should know before using it to negotiate:
 
-- **It is published at city level, not neighborhood level.** A 0.5% rise in Marrakech can hide a sharp increase in Guéliz and stagnation elsewhere. For a district-level reading, see our [analysis of the Marrakech real estate market](/articles/marrakech-real-estate-market-2026).
+- **It is published at city level, not neighborhood level.** A 0.5% rise in Marrakech can hide a sharp increase in Guéliz and stagnation elsewhere. For a district-level reading, see our [analysis of the Marrakech real estate market](/en/articles/marrakech-real-estate-market-2026).
 - **The repeat-sales method excludes properties sold only once**, which includes much of the off-plan new-build supply — a major share of what is actually on offer in Marrakech.
 - **It is published with roughly a two-month lag**: Q2 figures (April-June 2026) were only released publicly in late August 2026.
 - **Marrakech blends very different sub-markets** — Hivernage, Guéliz, Targa, the Ourika road — that a single citywide average cannot distinguish.

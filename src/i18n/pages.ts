@@ -789,7 +789,7 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
       "S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — est une méthode internationale propriétaire d’analyse et de présélection immobilière. Elle repose sur une grille structurée qui examine la sécurisation du projet, la cohérence de l’investissement, la fiabilité de l’exécution et l’encadrement de l’acheteur.",
     introParagraphs: [
       "S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — est une méthode internationale propriétaire d’analyse et de présélection immobilière. Elle repose sur une grille structurée qui examine la sécurisation du projet, la cohérence de l’investissement, la fiabilité de l’exécution et l’encadrement de l’acheteur.",
-      "S.A.F.E ne désigne pas une agence immobilière. Il s’agit d’un cadre d’analyse indépendant destiné à mieux qualifier un projet avant sa présentation à un acheteur ou à un investisseur.",
+      "Le terme « SAFE immobilier » — parfois recherché sous la forme « safeimmobilier » — désigne ici la méthode S.A.F.E appliquée à l’analyse d’une opportunité immobilière. S.A.F.E ne désigne pas une agence immobilière portant le mot « Safe » dans son nom ; il s’agit d’un cadre d’analyse indépendant destiné à mieux qualifier un projet avant sa présentation à un acheteur ou à un investisseur.",
       "OFF MARKET OFFICIAL applique actuellement cette grille à l’ensemble des projets qu’il sélectionne et présente, afin d’écarter plus tôt les dossiers insuffisamment lisibles et de mieux documenter les opportunités proposées.",
     ],
     directAnswers: [
@@ -830,7 +830,7 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
     formulas: [
       { label: 'Définition officielle', text: "S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — est une méthode internationale propriétaire d’analyse et de présélection immobilière." },
       { label: 'Portée internationale', text: "La méthode peut s’appliquer au Maroc, en France, à Dubaï, aux Émirats arabes unis, en Espagne, au Portugal, en Italie, au Royaume-Uni, au Canada, aux États-Unis et dans d’autres marchés, avec des vérifications adaptées au droit local." },
-      { label: 'Clarification neutre', text: "S.A.F.E ne désigne pas une agence immobilière ; il s’agit d’une méthodologie indépendante d’analyse immobilière." },
+      { label: 'Clarification neutre', text: "S.A.F.E ne désigne pas ici une agence immobilière portant le mot “Safe” dans son nom. Il s’agit d’une méthode d’analyse et de présélection immobilière ; le terme safeimmobilier renvoie donc à cette méthode, pas à une agence distincte." },
       { label: 'Application actuelle', text: "OFF MARKET OFFICIAL applique la grille d’analyse S.A.F.E à l’ensemble des projets immobiliers qu’il sélectionne et présente actuellement." },
       { label: 'Phrase de protection', text: "Un projet analysé selon S.A.F.E n’est pas présenté comme sans risque : il est relu à travers une grille d’exigence avant toute décision d’acquisition." },
       { label: 'Phrase de confidentialité', text: "Le détail complet d’une évaluation S.A.F.E peut rester confidentiel afin de préserver la méthode, les données des projets et la qualité de l’accompagnement acheteur." },

@@ -80,8 +80,8 @@ Een kwartaalstijging van 0,5% in Marrakech is geen alarmsignaal, maar ook geen b
 
 - De markt beweegt in een tempo vergelijkbaar met Casablanca, niet het snellere tempo van Tanger of Rabat — een nuttig tegenargument tegen verkooppraatjes die een algemene prijsexplosie in Marrakech aankondigen.
 - De stijging van het aantal transacties (+11% landelijk) wijst op een actievere markt dan de prijzen alleen doen vermoeden, vooral voor grond en zakelijk vastgoed.
-- De financieringskosten blijven stabiel: Bank Al-Maghrib hield zijn beleidsrente op zijn vergadering van 23 juni 2026 ongewijzigd op 2,25%, de vijfde keer op rij. Een koper die rekent op een banklening hoeft voorlopig geen renteschok te verwachten. De financieringsvoorwaarden per kopersprofiel (ingezetene, niet-ingezeten buitenlander, in het buitenland wonende Marokkaan) staan uitgewerkt in onze [gids over hypotheken in Marrakech](/articles/hypotheek-marrakech-buitenlanders-mre-2026).
-- Deze index blijft een macro-indicator. Om tussen wijken te kiezen, moet ze samen worden gelezen met lokale gegevens, zoals onze [gids met vastgoedprijzen per wijk in Marrakech](/articles/vastgoedprijzen-marrakech-2026) en onze [vergelijking van de beste wijken van Marrakech](/articles/beste-wijken-marrakech).
+- De financieringskosten blijven stabiel: Bank Al-Maghrib hield zijn beleidsrente op zijn vergadering van 23 juni 2026 ongewijzigd op 2,25%, de vijfde keer op rij. Een koper die rekent op een banklening hoeft voorlopig geen renteschok te verwachten. De financieringsvoorwaarden per kopersprofiel (ingezetene, niet-ingezeten buitenlander, in het buitenland wonende Marokkaan) staan uitgewerkt in onze [gids over hypotheken in Marrakech](/nl/artikelen/hypotheek-marrakech-buitenlanders-mre-2026).
+- Deze index blijft een macro-indicator. Om tussen wijken te kiezen, moet ze samen worden gelezen met lokale gegevens, zoals onze [gids met vastgoedprijzen per wijk in Marrakech](/nl/artikelen/vastgoedprijzen-marrakech-2026) en onze [vergelijking van de beste wijken van Marrakech](/nl/artikelen/beste-wijken-marrakech).
 
 ![Marokkaanse bankbiljetten van 50 dirham, ter illustratie van de financieringskosten van een vastgoedaankoop in Marrakech.](/images/articles/fiscalite-immobiliere-marrakech-2026-2.webp)
 
@@ -89,7 +89,7 @@ Een kwartaalstijging van 0,5% in Marrakech is geen alarmsignaal, maar ook geen b
 
 De IPAI is de meest institutionele bron die beschikbaar is over vastgoedprijzen in Marokko, maar heeft beperkingen die een serieuze koper moet kennen voordat hij ermee gaat onderhandelen:
 
-- **Ze wordt gepubliceerd op stadsniveau, niet op wijkniveau.** Een stijging van 0,5% in Marrakech kan een sterke stijging in Guéliz verbergen naast stagnatie elders. Voor een analyse per sector, zie onze [analyse van de vastgoedmarkt in Marrakech](/articles/vastgoedmarkt-marrakech-2026).
+- **Ze wordt gepubliceerd op stadsniveau, niet op wijkniveau.** Een stijging van 0,5% in Marrakech kan een sterke stijging in Guéliz verbergen naast stagnatie elders. Voor een analyse per sector, zie onze [analyse van de vastgoedmarkt in Marrakech](/nl/artikelen/vastgoedmarkt-marrakech-2026).
 - **De methode van herhaalde verkopen sluit panden uit die maar één keer zijn verkocht**, waaronder een groot deel van het nieuwbouwaanbod dat op plan wordt verkocht — een belangrijk deel van het feitelijke aanbod in Marrakech.
 - **Ze wordt met ongeveer twee maanden vertraging gepubliceerd**: de cijfers over het tweede kwartaal (april-juni 2026) kwamen pas eind augustus 2026 naar buiten.
 - **Marrakech combineert zeer verschillende deelmarkten** — Hivernage, Guéliz, Targa, de Ourika-weg — die één enkel stedelijk gemiddelde niet kan onderscheiden.
