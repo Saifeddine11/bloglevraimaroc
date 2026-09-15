@@ -14,8 +14,8 @@ tags:
   - invertir Marrakech
   - inmobiliario 2030
 date: 2026-09-14
-updatedDate: 2026-09-14
-readingTime: 6
+updatedDate: 2026-09-15
+readingTime: 5
 excerpt: 2030 puede apoyar algunos activos, pero no convierte toda compra en
   Marrakech en buena inversión.
 heroImage: /images/articles/realestate-2026-09-14/marrakech-avant-2030-immobilier.webp
@@ -89,6 +89,22 @@ Empiece por definir el uso: vivienda principal, segunda residencia, inversión d
 ## Señales de alerta
 
 Un precio “solo válido hoy”, una rentabilidad garantizada sin detalle, la negativa a entregar documentos, un calendario impreciso, un vendedor que minimiza los gastos o un discurso basado solo en 2030 deben frenar la decisión. En el inmobiliario marroquí, el riesgo suele estar en los detalles: título incompleto, autorización ausente, superficie mal entendida, gastos ignorados o pago mal documentado.
+
+<!-- depth-finalized-2026-09-15 -->
+
+## Confirmado, anunciado o especulativo
+
+El horizonte 2030 no garantiza plusvalía. Los proyectos confirmados están documentados, financiados o en marcha por fuentes públicas. Los anunciados pueden cambiar de presupuesto o calendario. La especulación es el discurso comercial que convierte 2030 en subida automática. El comprador debe probar tres escenarios: prudente, central y optimista. Una buena compra debe seguir teniendo sentido si las obras se retrasan o los alquileres crecen poco.
+
+El efecto 2030 parece más plausible cerca de turismo, aeropuerto, accesos, servicios y zonas ya líquidas. Pero si el vendedor ya incluye toda la expectativa futura en el precio actual, el comprador paga la historia antes de que ocurra. Cruce siempre el argumento 2030 con los [precios inmobiliarios de Marrakech](/es/articulos/precios-inmobiliarios-marrakech-2026/) y la [tendencia del mercado local](/es/articulos/mercado-inmobiliario-marrakech-2026/).
+
+<!-- depth-finalized-2026-09-15-pass2 -->
+
+## Lo que 2030 no debe ocultar
+
+Un evento internacional atrae atención, pero no cambia los fundamentos de una compra: título, precio, estado, cargas, acceso, barrio y uso real. El Mundial puede reforzar la visibilidad de Marrakech; no garantiza ingresos de un piso, reventa de una villa ni éxito turístico de un riad.
+
+El activo debe funcionar antes, durante y después del evento. Una estrategia prudente exige precio coherente hoy, uso creíble fuera del evento y documentos claros. Quite 2030 del razonamiento: si el inmueble sigue teniendo sentido, merece atención; si solo funciona por la historia, el margen de seguridad es débil.
 
 ## FAQ
 

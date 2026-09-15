@@ -15,8 +15,8 @@ tags:
   - ANCFCC
   - prijzen
 date: 2026-09-14
-updatedDate: 2026-09-14
-readingTime: 6
+updatedDate: 2026-09-15
+readingTime: 5
 excerpt: "Marrakech blijft gefragmenteerd: officiële transacties, vraagprijzen
   en het 2030-verhaal zeggen niet hetzelfde."
 heroImage: /images/articles/realestate-2026-09-14/marche-immobilier-marrakech-2026-septembre.webp
@@ -96,6 +96,28 @@ Begin met het gebruik: hoofdwoning, tweede verblijf, huurinvestering, gezinsaank
 ## Waarschuwingssignalen
 
 Een prijs die “alleen vandaag” geldt, gegarandeerd rendement zonder details, weigering om documenten te geven, een vaag opleveringsschema, een verkoper die kosten minimaliseert of een verhaal dat alleen op 2030 steunt, moet de beslissing vertragen. In Marokkaans vastgoed zit risico vaak in details: onvolledige titel, ontbrekende vergunning, verkeerd begrepen oppervlakte, vergeten kosten of slecht gedocumenteerde betaling.
+
+<!-- depth-finalized-2026-09-15 -->
+
+## ANCFCC/BAM-data juist lezen
+
+De ANCFCC/BAM-index is een officiële trendindicator op basis van geregistreerde transacties. Hij toont marktrichting, maar geeft niet de prijs van één appartement in Guéliz of één villa op Route de l’Ourika. Wonen, grond en commercieel vastgoed moeten apart worden gelezen: grond kan stijgen door ontwikkelingsverwachtingen zonder dat oude appartementen duurder worden.
+
+In 2026 moeten kopers transacties, financiering, kwaliteit van nieuwbouw en verkoopbaarheid volgen. Wanneer vraagprijzen stijgen maar getekende verkopen niet volgen, is de markt kwetsbaarder. Een gezonde herneming blijkt uit coherente vergelijkingen en redelijke verkooptijden. Oververhitting ontstaat wanneer prijzen vooral op toekomstverhalen steunen. Combineer de marktcontext met [vastgoedprijzen in Marrakech](/nl/artikelen/vastgoedprijzen-marrakech-2026/) en realistische huurinkomsten.
+
+<!-- depth-finalized-2026-09-15-pass2 -->
+
+## Beslissingstabel voor 2026
+
+| Vraag | Waarom belangrijk | Goed antwoord |
+|---|---|---|
+| Komt de prijs uit transacties, advertenties of brochure? | Bronnen meten niet hetzelfde. | De bron is genoemd en gekwalificeerd. |
+| Is de wijk liquide? | Doorverkoop hangt af van kopersdiepte. | Recente vergelijkingen bestaan. |
+| Blijft financiering comfortabel? | Verzekering en lasten veranderen betaalbaarheid. | Maandlast en totale kost zijn getest. |
+| Is huur netto of bruto? | Bruto overschat rendement. | Leegstand, belasting, lasten en beheer zijn afgetrokken. |
+| Is het 2030-verhaal gedocumenteerd? | Niet elke aankondiging wordt waarde. | Projecten zijn bevestigd of duidelijk gelabeld. |
+
+Op het juiste moment kopen betekent niet alleen een marktdieptepunt vinden. Het betekent dat prijs, financiering, documenten en gebruik coherent zijn. Marrakech kan tegelijk kansen in één segment en te hoge prijzen in een ander tonen.
 
 ## FAQ
 

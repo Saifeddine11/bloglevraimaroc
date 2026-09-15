@@ -15,8 +15,8 @@ tags:
   - Guéliz
   - Hivernage
 date: 2026-09-14
-updatedDate: 2026-09-14
-readingTime: 6
+updatedDate: 2026-09-15
+readingTime: 5
 excerpt: Los precios por metro cuadrado en Marrakech son horquillas de mercado
   que deben verificarse inmueble por inmueble.
 heroImage: /images/articles/realestate-2026-09-14/prix-immobilier-marrakech-2026-septembre.webp
@@ -94,6 +94,24 @@ Empiece por definir el uso: vivienda principal, segunda residencia, inversión d
 ## Señales de alerta
 
 Un precio “solo válido hoy”, una rentabilidad garantizada sin detalle, la negativa a entregar documentos, un calendario impreciso, un vendedor que minimiza los gastos o un discurso basado solo en 2030 deben frenar la decisión. En el inmobiliario marroquí, el riesgo suele estar en los detalles: título incompleto, autorización ausente, superficie mal entendida, gastos ignorados o pago mal documentado.
+
+<!-- depth-finalized-2026-09-15 -->
+
+## Leer los precios por distrito
+
+Una media de ciudad oculta mercados muy distintos. Guéliz suele servir de referencia urbana porque los pisos son más comparables. Hivernage es un segmento premium donde dirección, servicios, seguridad y comunidad pueden justificar grandes diferencias. Agdal mezcla residencia, turismo y proyectos recientes. Targa es más familiar. Palmeraie y Medina exigen lectura caso por caso porque terreno, reforma, acceso, uso turístico y situación jurídica cambian el valor.
+
+Los indicadores ANCFCC/BAM describen transacciones registradas. Los barómetros privados y portales describen sobre todo precios solicitados u observaciones de mercado. El precio firmado puede ser inferior si el bien necesita obra, lleva tiempo anunciado o tiene documentos lentos; puede acercarse al precio pedido si el activo es raro y claro. Use la guía del [mercado inmobiliario de Marrakech](/es/articulos/mercado-inmobiliario-marrakech-2026/) como contexto y después compare edificio, planta, aparcamiento, cargas, orientación y título.
+
+Para invertir, el precio solo tiene sentido con ingreso neto probable. Compárelo con los [alquileres de Marrakech](/es/articulos/alquiler-marrakech-precios-2026/), mantenimiento y liquidez de reventa.
+
+<!-- depth-finalized-2026-09-15-pass2 -->
+
+## No mezclar pisos, villas y riads
+
+Un piso, una villa y un riad de medina no siguen la misma lógica de valoración. El piso se compara por edificio, planta, superficie, aparcamiento, cargas y estado. La villa depende de terreno, acceso, piscina, mantenimiento, seguridad y jardín. El riad depende de estructura, permisos, acceso peatonal, obras, potencial turístico y restricciones patrimoniales.
+
+Antes de ofertar, construya una tabla de comparables con bienes realmente similares. Separe precio pedido, precio justificado por comparables y precio máximo aceptable. Incluya gastos, obras, muebles y financiación. Un precio puede estar “en mercado” y ser demasiado alto para su estrategia si el alquiler neto o la liquidez son débiles.
 
 ## FAQ
 

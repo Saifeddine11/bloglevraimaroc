@@ -14,8 +14,8 @@ tags:
   - housing aid
   - social housing
 date: 2026-09-14
-updatedDate: 2026-09-14
-readingTime: 6
+updatedDate: 2026-09-15
+readingTime: 5
 excerpt: Housing proposals should be read as documented political commitments,
   not enacted measures.
 heroImage: /images/articles/realestate-2026-09-14/logement-elections-maroc-2026.webp
@@ -92,6 +92,29 @@ Start with the use case: main home, second home, rental investment, family purch
 ## Warning signs
 
 A price “valid only today”, a guaranteed return without details, refusal to provide documents, a vague delivery calendar, a seller who downplays costs or a pitch based only on 2030 should slow the decision. In Moroccan property, risk often sits in details: incomplete title, missing authorisation, misunderstood surface area, ignored charges or poorly documented payment.
+
+<!-- depth-finalized-2026-09-15 -->
+
+## How to read a housing promise
+
+An election proposal is not an applicable measure. Ask who is targeted, what budget is identified, what legal or tax tool is needed and what calendar is realistic. Purchase aid, land policy, social housing, mortgage support and rental reform do not affect the market in the same way.
+
+Programmes can influence expectations, but they do not instantly change a property’s value. Buyers should separate what already exists, such as housing aid, from campaign proposals. For practical decisions, connect the proposals with operational guides: [housing aid](/en/articles/morocco-housing-aid-2026/), [mortgage rates](/en/articles/morocco-mortgage-rates-september-2026/) and [Marrakech property prices](/en/articles/marrakech-property-prices-2026/). This comparison is neutral: parties propose or announce; only published laws, budgets and procedures make measures applicable.
+
+<!-- depth-finalized-2026-09-15-pass2 -->
+
+## Neutral comparison grid
+
+| Topic | What to look for | Why it matters |
+|---|---|---|
+| Direct aid | Amount, target public, budget, duration | Visible but costly measure. |
+| Social housing | Units, land, developers, calendar | Depends on local execution. |
+| Rental | Incentives and tenant/owner balance | Can improve access without purchase. |
+| Mortgage | Guarantees, young buyers, MRE cases | Also depends on banks. |
+| Tax | Duties, local taxes, incentives | Changes total ownership cost. |
+| Urban planning | Land, density, transport, facilities | Determines real medium-term supply. |
+
+After the vote, follow published laws, budgets, tenders, developer agreements, tax measures and beneficiary statistics. Promises not translated into instruments remain intentions.
 
 ## FAQ
 

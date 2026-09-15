@@ -15,8 +15,8 @@ tags:
   - woonsteun
   - sociale woningbouw
 date: 2026-09-14
-updatedDate: 2026-09-14
-readingTime: 6
+updatedDate: 2026-09-15
+readingTime: 5
 excerpt: Huisvestingsvoorstellen zijn gedocumenteerde politieke beloften, geen
   aangenomen maatregelen.
 heroImage: /images/articles/realestate-2026-09-14/logement-elections-maroc-2026.webp
@@ -94,6 +94,29 @@ Begin met het gebruik: hoofdwoning, tweede verblijf, huurinvestering, gezinsaank
 ## Waarschuwingssignalen
 
 Een prijs die “alleen vandaag” geldt, gegarandeerd rendement zonder details, weigering om documenten te geven, een vaag opleveringsschema, een verkoper die kosten minimaliseert of een verhaal dat alleen op 2030 steunt, moet de beslissing vertragen. In Marokkaans vastgoed zit risico vaak in details: onvolledige titel, ontbrekende vergunning, verkeerd begrepen oppervlakte, vergeten kosten of slecht gedocumenteerde betaling.
+
+<!-- depth-finalized-2026-09-15 -->
+
+## Een woonbelofte lezen
+
+Een verkiezingsvoorstel is geen toepasbare maatregel. Vraag wie wordt bedoeld, welk budget is geïdentificeerd, welk juridisch of fiscaal instrument nodig is en welk tijdschema realistisch is. Aankoopsteun, grondbeleid, sociale woningen, hypotheeksteun en huurhervorming hebben niet hetzelfde effect.
+
+Programma’s beïnvloeden verwachtingen, maar veranderen niet meteen de waarde van een pand. Kopers moeten bestaande maatregelen, zoals huisvestingssteun, scheiden van voorstellen. Verbind aankondigingen met praktische gidsen: [huisvestingssteun](/nl/artikelen/huisvestingssteun-marokko-2026/), [hypotheekrente](/nl/artikelen/hypotheekrente-marokko-september-2026/) en [prijzen in Marrakech](/nl/artikelen/vastgoedprijzen-marrakech-2026/). Deze vergelijking is neutraal: partijen stellen voor; alleen gepubliceerde wetten, budgetten en procedures maken maatregelen toepasbaar.
+
+<!-- depth-finalized-2026-09-15-pass2 -->
+
+## Neutraal vergelijkingsrooster
+
+| Thema | Waarop letten | Waarom belangrijk |
+|---|---|---|
+| Directe steun | Bedrag, doelgroep, budget, duur | Zichtbaar maar duur. |
+| Sociale woningen | Aantallen, grond, ontwikkelaars, kalender | Hangt af van lokale uitvoering. |
+| Huur | Stimulansen en balans huurder/eigenaar | Kan toegang verbeteren zonder aankoop. |
+| Krediet | Garanties, jongeren, MRE | Hangt ook af van banken. |
+| Fiscaliteit | Rechten, lokale taksen, stimulansen | Wijzigt totale eigendomskost. |
+| Stedenbouw | Grond, dichtheid, vervoer, voorzieningen | Bepaalt echt middellang aanbod. |
+
+Na de stemming volgt u gepubliceerde wetten, budgetten, aanbestedingen, overeenkomsten met ontwikkelaars, fiscale maatregelen en begunstigdenstatistieken. Beloften zonder instrument blijven intenties.
 
 ## FAQ
 

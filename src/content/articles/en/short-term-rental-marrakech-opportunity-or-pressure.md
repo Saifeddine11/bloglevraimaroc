@@ -13,8 +13,8 @@ tags:
   - long-term rental Marrakech
   - rental yield Marrakech
 date: 2026-09-14
-updatedDate: 2026-09-14
-readingTime: 6
+updatedDate: 2026-09-15
+readingTime: 5
 excerpt: Short-term rental can produce higher gross revenue, but net yield
   depends on management, costs and demand consistency.
 heroImage: /images/articles/realestate-2026-09-14/airbnb-location-longue-duree-marrakech-2026.webp
@@ -85,6 +85,28 @@ Start with the use case: main home, second home, rental investment, family purch
 ## Warning signs
 
 A price “valid only today”, a guaranteed return without details, refusal to provide documents, a vague delivery calendar, a seller who downplays costs or a pitch based only on 2030 should slow the decision. In Moroccan property, risk often sits in details: incomplete title, missing authorisation, misunderstood surface area, ignored charges or poorly documented payment.
+
+<!-- depth-finalized-2026-09-15 -->
+
+## Three realistic yield scenarios
+
+Useful analysis starts with net income, not headline revenue. A 1,200,000 DH apartment rented long term at 8,000 DH per month generates 96,000 DH gross per year. After vacancy, service charges, tax, repairs and management, net income may fall to 65,000–75,000 DH before financing. Short term rental can do better, but platform fees, cleaning, utilities, furniture replacement, management and seasonality must be deducted.
+
+| Model | Plausible gross revenue | Main costs | Investor reading |
+|---|---:|---|---|
+| Long term | 72,000–120,000 DH/year | Vacancy, charges, maintenance, tax | More predictable, less operational work. |
+| Standard short term | 120,000–220,000 DH/year | Platforms, cleaning, utilities, furniture, management | Higher upside, execution dependent. |
+| Riad / tourist villa | Highly variable | Staff, licence, maintenance, marketing | Operating business, not passive rent. |
+
+The break-even point matters. If loan payment and fixed costs reach 11,000 DH per month, the operation needs at least 132,000 DH net per year before creating surplus. Compare this with [Marrakech rent levels](/en/articles/marrakech-rent-prices-2026/) and your real management capacity.
+
+<!-- depth-finalized-2026-09-15-pass2 -->
+
+## Often forgotten costs
+
+Optimistic simulations often forget linen replacement, damage, heavy air-conditioning use, subscriptions, professional photos, concierge commission, building works, guest response time, rating drops after incidents, furniture renewal and seasonal refresh. These costs do not necessarily destroy profitability, but they turn passive rent into active management.
+
+Long-term rental also has risks: unpaid rent, wear, vacancy, exit disputes and lower rent if the property ages badly. The choice depends on owner profile: available time, distance, risk tolerance, ability to delegate and maintenance budget. Always run optimistic, central and cautious yield scenarios before buying.
 
 ## FAQ
 

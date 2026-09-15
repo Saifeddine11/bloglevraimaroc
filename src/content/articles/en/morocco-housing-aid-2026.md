@@ -15,8 +15,8 @@ tags:
   - Morocco property purchase
   - MAD 100000 housing aid
 date: 2026-09-14
-updatedDate: 2026-09-14
-readingTime: 6
+updatedDate: 2026-09-15
+readingTime: 7
 excerpt: Daam Sakane can reduce the cash needed for a first main-home purchase
   in Morocco, but the property and the buyer must both qualify.
 heroImage: /images/articles/realestate-2026-09-14/aide-logement-maroc-2026.webp
@@ -107,6 +107,27 @@ Start with the use case: main home, second home, rental investment, family purch
 ## Warning signs
 
 A price “valid only today”, a guaranteed return without details, refusal to provide documents, a vague delivery calendar, a seller who downplays costs or a pitch based only on 2030 should slow the decision. In Moroccan property, risk often sits in details: incomplete title, missing authorisation, misunderstood surface area, ignored charges or poorly documented payment.
+
+<!-- depth-finalized-2026-09-15 -->
+
+## Practical calculation examples
+
+The price threshold must be checked before the financing plan is built. A new home sold for **290,000 DH including tax** can theoretically fall into the **100,000 DH** aid band. A similar home sold for **315,000 DH** moves into the **70,000 DH** band. The commercial price difference is 25,000 DH, but the aid difference is 30,000 DH. A home at **705,000 DH** is outside the scheme altogether.
+
+| Example | Price incl. tax | Theoretical aid | What to check |
+|---|---:|---:|---|
+| Small eligible unit | 290,000 DH | 100,000 DH | First sale, main residence, compliant documents. |
+| Mid-range apartment | 450,000 DH | 70,000 DH | Real price in the notarized deed. |
+| Near the ceiling | 690,000 DH | 70,000 DH | Acquisition fees and post-purchase charges. |
+| Above the ceiling | 720,000 DH | 0 DH | Do not build financing on unavailable aid. |
+
+These are editorial examples, not administrative decisions. Buyers should first check their personal eligibility, then the property’s eligibility, then coordinate the aid with the [Morocco mortgage guide](/en/articles/morocco-mortgage-rates-september-2026/). The aid can reduce the amount to finance, but it does not remove the bank’s review of income, debt ratio, insurance, down payment and fees.
+
+## Documents, delays and common rejection reasons
+
+Before reserving a unit, request the exact property identification, total price including tax, stated area, signature calendar, seller identity, documents sent to the notary and refund conditions if the aid is not approved. Frequent problems include a price above the ceiling, confusion between new eligible housing and resale property, incomplete files, late finalization, identity inconsistencies or a seller unable to provide the expected paperwork.
+
+The September 2026 operational update matters because sale finalization and release of the State mortgage must be managed properly. The aid should therefore be treated as one part of the purchase plan, not as a simple discount. A buyer should still compare location, construction quality, service charges, resale prospects and the local price level, especially in markets such as Marrakech where asking prices vary widely by district.
 
 ## FAQ
 

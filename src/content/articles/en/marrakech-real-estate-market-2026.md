@@ -16,8 +16,8 @@ tags:
   - ANCFCC
   - property prices
 date: 2026-09-14
-updatedDate: 2026-09-14
-readingTime: 6
+updatedDate: 2026-09-15
+readingTime: 5
 excerpt: "Marrakech remains fragmented: official transactions, asking prices and
   2030 narratives do not say the same thing."
 heroImage: /images/articles/realestate-2026-09-14/marche-immobilier-marrakech-2026-septembre.webp
@@ -97,6 +97,28 @@ Start with the use case: main home, second home, rental investment, family purch
 ## Warning signs
 
 A price “valid only today”, a guaranteed return without details, refusal to provide documents, a vague delivery calendar, a seller who downplays costs or a pitch based only on 2030 should slow the decision. In Moroccan property, risk often sits in details: incomplete title, missing authorisation, misunderstood surface area, ignored charges or poorly documented payment.
+
+<!-- depth-finalized-2026-09-15 -->
+
+## How to read ANCFCC/BAM data
+
+The ANCFCC/BAM index is an official trend indicator based on registered transactions. It is useful for market direction, but it does not price a specific apartment in Guéliz or a villa on Route de l’Ourika. Residential, land and commercial data must be separated: land can rise because of development expectations without meaning old apartments are more expensive.
+
+In 2026 buyers should watch transaction volume, financing conditions, new-build quality and resale liquidity. If asking prices rise while signed transactions lag, the market is more fragile than it looks. A healthy recovery shows coherent comparable sales and reasonable selling times. Overheating appears when prices rely mainly on future promises. Connect market direction with [Marrakech property prices](/en/articles/marrakech-property-prices-2026/) and realistic rental income before deciding.
+
+<!-- depth-finalized-2026-09-15-pass2 -->
+
+## Decision table for 2026
+
+| Question | Why it matters | Good answer |
+|---|---|---|
+| Is the price based on transactions, listings or a brochure? | Sources measure different things. | The source is named and qualified. |
+| Is the district liquid? | Resale depends on buyer depth. | Recent comparables exist. |
+| Is financing still comfortable? | Insurance and charges change affordability. | Monthly payment and total cost are tested. |
+| Is rental income net or gross? | Gross revenue overstates yield. | Vacancy, tax, charges and management are deducted. |
+| Is the 2030 story documented? | Not every announcement becomes value. | Projects are confirmed or clearly labelled. |
+
+Buying at the right time is not only about catching a low point. It is when price, financing, documents and intended use become coherent. Marrakech can offer opportunities in one segment and excessive prices in another at the same time.
 
 ## FAQ
 

@@ -14,8 +14,8 @@ tags:
   - Guéliz
   - Hivernage
 date: 2026-09-14
-updatedDate: 2026-09-14
-readingTime: 6
+updatedDate: 2026-09-15
+readingTime: 7
 excerpt: Les loyers affichés à Marrakech varient fortement selon quartier,
   mobilier, standing, saison et négociation réelle.
 heroImage: /images/articles/realestate-2026-09-14/loyer-marrakech-2026.webp
@@ -67,7 +67,7 @@ Rents in Marrakech are listing-driven and negotiation-sensitive. Signed leases m
 
 A furnished apartment can command a premium, but it brings replacement, maintenance and inventory risk. Long-term rent is usually more predictable than short-term rent, yet the net result depends on vacancy, agency fees, deposit, charges, repairs and tax treatment. High advertised rent alone does not guarantee high yield; use an [analyse S.A.F.E d’un investissement immobilier](/safe-certification-immobiliere/) to connect rent, price, charges and risk.
 
-## Data distinction
+## Distinction des données
 
 These are listing and agency observations, not official lease registrations. They should be used as negotiation ranges and checked with current comparable offers.
 
@@ -89,6 +89,46 @@ Commencez par qualifier votre usage : résidence principale, pied-à-terre, inve
 ## Signaux d'alerte
 
 Un prix présenté comme valable seulement aujourd'hui, une rentabilité garantie sans détail, un refus de transmettre des documents, un calendrier flou, un vendeur qui minimise les frais ou un discours qui repose uniquement sur 2030 doivent ralentir la décision. Dans l'immobilier marocain, le risque apparaît souvent dans les détails : un titre incomplet, une autorisation non fournie, une surface mal comprise, une charge ignorée ou un paiement mal documenté.
+
+<!-- depth-finalized-2026-09-15 -->
+
+## Loyers par typologie et quartier
+
+Les loyers à Marrakech dépendent autant de la typologie que du quartier. Un studio meublé à Guéliz peut intéresser un étudiant, un jeune actif ou un séjour moyen terme ; un deux-pièces meublé à Hivernage vise une clientèle plus solvable ; une villa à Targa ou Route de l’Ourika répond à une logique familiale ou expatriée. Comparer seulement le nom du quartier produit donc des conclusions fragiles.
+
+| Secteur | Studio / 1 chambre | 2 chambres | 3 chambres et plus | Lecture |
+|---|---:|---:|---:|---|
+| Guéliz | 4 000–7 000 DH | 6 500–10 000 DH | 9 000–14 000 DH | Forte demande urbaine, grande dispersion selon immeuble. |
+| Hivernage | 6 000–10 000 DH | 9 000–16 000 DH | 14 000 DH+ | Premium, meublé et services pèsent beaucoup. |
+| Agdal | 4 500–8 000 DH | 7 000–12 000 DH | 10 000–16 000 DH | Mix résidence, tourisme et projets récents. |
+| Targa | 3 500–6 500 DH | 5 500–9 000 DH | 8 000–14 000 DH | Familial, surface et stationnement importants. |
+| Palmeraie / villas | Variable | Variable | 18 000 DH+ | Dépend du terrain, piscine, entretien et gestion. |
+
+Ces fourchettes sont des repères d’annonces et d’observations de marché, pas des baux signés. Le loyer réel dépend de l’état, du mobilier, de la durée, de la solvabilité du locataire, des charges incluses, de la saison et du niveau de négociation.
+
+## Meublé, non meublé et frais d’entrée
+
+Le meublé se loue souvent plus cher, mais il coûte aussi plus cher à maintenir. Literie, électroménager, climatisation, vaisselle, rideaux, internet et petites réparations réduisent l’écart net. Le non meublé attire parfois des locataires plus stables, mais peut demander plus de temps au départ. Les frais d’agence, dépôt de garantie, état des lieux, charges de copropriété et conditions de sortie doivent être clarifiés dès le début.
+
+Pour un propriétaire, le bon loyer n’est pas le loyer maximal affiché : c’est le loyer qui se signe avec un locataire solvable, dans un délai raisonnable, avec peu de vacance et un risque limité. Pour un locataire, le bon loyer ne se juge pas seulement à la surface ; il faut inclure transport, bruit, parking, climatisation, eau chaude, internet et charges.
+
+## Utiliser les loyers pour tester un investissement
+
+Un investisseur doit partir du net. Si un appartement vaut 1 100 000 DH et peut se louer 7 500 DH par mois, le brut annuel atteint 90 000 DH. Après vacance, charges, entretien, fiscalité et gestion, le net peut être beaucoup plus faible. Ce net doit ensuite être comparé au prix d’achat, aux frais, au crédit et à la revente possible. Pour arbitrer avec la courte durée, consultez aussi le guide [Airbnb ou location longue durée à Marrakech](/articles/location-courte-duree-marrakech/).
+
+<!-- depth-finalized-2026-09-15-pass2 -->
+
+## Comment négocier un loyer
+
+La négociation dépend du rapport entre demande réelle et qualité du bien. Un appartement propre, bien meublé, avec parking et climatisation fonctionnelle se négocie moins qu’un bien sombre, bruyant ou mal entretenu. Le locataire peut demander une baisse si les charges sont élevées, si le mobilier est ancien, si des travaux sont nécessaires ou si le bail impose une durée longue.
+
+Le propriétaire doit arbitrer entre loyer maximal et vacance. Un bien affiché 10 000 DH mais vacant trois mois rapporte moins qu’un bien signé rapidement à 9 000 DH avec un locataire fiable. Pour calculer le revenu annuel, raisonnez toujours sur douze mois nets, pas sur le loyer mensuel annoncé.
+
+## Bail, dépôt et état des lieux
+
+Le bail doit préciser durée, loyer, charges, dépôt, usage du bien, entretien, inventaire du mobilier, modalités de sortie et révision éventuelle. L’état des lieux protège les deux parties. En meublé, l’inventaire est essentiel : électroménager, literie, climatisation, vaisselle et équipements doivent être listés. Sans document clair, une petite réparation peut devenir un litige.
+
+Pour un investisseur, un bail bien rédigé vaut presque autant qu’un bon prix. Il stabilise le revenu, limite les malentendus et rend l’actif plus lisible si le bien est revendu avec locataire.
 
 ## FAQ
 

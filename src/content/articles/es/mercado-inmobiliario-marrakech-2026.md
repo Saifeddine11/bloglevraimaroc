@@ -15,7 +15,7 @@ tags:
   - ANCFCC
   - precios
 date: 2026-09-14
-updatedDate: 2026-09-14
+updatedDate: 2026-09-15
 readingTime: 6
 excerpt: "Marrakech sigue fragmentado: transacciones oficiales, precios
   anunciados y relato 2030 no dicen lo mismo."
@@ -96,6 +96,28 @@ Empiece por definir el uso: vivienda principal, segunda residencia, inversión d
 ## Señales de alerta
 
 Un precio “solo válido hoy”, una rentabilidad garantizada sin detalle, la negativa a entregar documentos, un calendario impreciso, un vendedor que minimiza los gastos o un discurso basado solo en 2030 deben frenar la decisión. En el inmobiliario marroquí, el riesgo suele estar en los detalles: título incompleto, autorización ausente, superficie mal entendida, gastos ignorados o pago mal documentado.
+
+<!-- depth-finalized-2026-09-15 -->
+
+## Cómo leer los datos ANCFCC/BAM
+
+El índice ANCFCC/BAM es un indicador oficial basado en transacciones registradas. Sirve para ver la dirección del mercado, pero no da el precio de un piso concreto en Guéliz ni de una villa en la Route de l’Ourika. Hay que separar residencial, suelo y comercial: el suelo puede subir por expectativas de desarrollo sin que los pisos antiguos valgan más.
+
+En 2026 el comprador debe vigilar volumen de operaciones, financiación, calidad de obra nueva y liquidez de reventa. Si los precios pedidos suben pero las ventas firmadas no acompañan, el mercado es más frágil de lo que parece. Una recuperación sana se ve en comparables coherentes y plazos razonables. La sobrecalentamiento aparece cuando el precio descansa casi solo en promesas futuras. Cruce el contexto con los [precios inmobiliarios de Marrakech](/es/articulos/precios-inmobiliarios-marrakech-2026/) y con ingresos de alquiler realistas.
+
+<!-- depth-finalized-2026-09-15-pass2 -->
+
+## Tabla de decisión para 2026
+
+| Pregunta | Por qué importa | Buena respuesta |
+|---|---|---|
+| ¿El precio viene de transacciones, anuncios o folleto? | Las fuentes no miden lo mismo. | La fuente está identificada y calificada. |
+| ¿El barrio es líquido? | La reventa depende de compradores posibles. | Existen comparables recientes. |
+| ¿La financiación sigue siendo cómoda? | Seguro y cargas cambian la accesibilidad. | Cuota y coste total están probados. |
+| ¿El alquiler es neto o bruto? | El bruto exagera el rendimiento. | Se deducen vacancia, impuestos, cargas y gestión. |
+| ¿La historia 2030 está documentada? | No todo anuncio crea valor. | Los proyectos están confirmados o calificados. |
+
+Comprar en el buen momento no es solo acertar un mínimo de mercado. Es cuando precio, financiación, documentos y uso previsto son coherentes. Marrakech puede ofrecer oportunidades en un segmento y precios excesivos en otro al mismo tiempo.
 
 ## FAQ
 

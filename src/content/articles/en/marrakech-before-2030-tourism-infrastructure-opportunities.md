@@ -13,8 +13,8 @@ tags:
   - Marrakech investment
   - property before 2030
 date: 2026-09-14
-updatedDate: 2026-09-14
-readingTime: 6
+updatedDate: 2026-09-15
+readingTime: 5
 excerpt: 2030 can support some assets, but it does not automatically make every
   Marrakech purchase a good deal.
 heroImage: /images/articles/realestate-2026-09-14/marrakech-avant-2030-immobilier.webp
@@ -88,6 +88,22 @@ Start with the use case: main home, second home, rental investment, family purch
 ## Warning signs
 
 A price “valid only today”, a guaranteed return without details, refusal to provide documents, a vague delivery calendar, a seller who downplays costs or a pitch based only on 2030 should slow the decision. In Moroccan property, risk often sits in details: incomplete title, missing authorisation, misunderstood surface area, ignored charges or poorly documented payment.
+
+<!-- depth-finalized-2026-09-15 -->
+
+## Confirmed, announced or speculative
+
+The 2030 horizon is not a capital-gain guarantee. Confirmed projects are documented, financed or under way through public sources. Announced projects may still change in budget or timing. Speculation is the sales narrative that turns 2030 into automatic appreciation. Buyers should test three scenarios: cautious, central and optimistic. A good purchase must still make sense if works are delayed or rents grow slowly.
+
+The 2030 effect is most plausible around tourism, the airport, access routes, services and already liquid districts. But if the seller has already priced all future upside into today’s price, the buyer may be paying for the story before it materializes. Always connect the 2030 argument with [Marrakech property prices](/en/articles/marrakech-property-prices-2026/) and the [local market trend](/en/articles/marrakech-real-estate-market-2026/).
+
+<!-- depth-finalized-2026-09-15-pass2 -->
+
+## What 2030 should not hide
+
+An international event can attract attention, but it does not change the fundamentals of a purchase: title, price, condition, charges, access, neighbourhood and real use. The World Cup can strengthen Marrakech’s visibility; it does not guarantee apartment income, villa resale or a riad’s tourist success.
+
+The asset must work before, during and after the event. A cautious strategy requires today’s price to be coherent, use to be credible outside the event and documents to be clear. Remove 2030 from the reasoning: if the property still makes sense, the file deserves attention; if it only works because of the story, the safety margin is weak.
 
 ## FAQ
 

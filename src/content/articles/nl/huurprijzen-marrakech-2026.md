@@ -14,8 +14,8 @@ tags:
   - Guéliz
   - Hivernage
 date: 2026-09-14
-updatedDate: 2026-09-14
-readingTime: 6
+updatedDate: 2026-09-15
+readingTime: 5
 excerpt: Geadverteerde huren in Marrakech verschillen sterk per wijk, meubilair,
   kwaliteit, seizoen en onderhandeling.
 heroImage: /images/articles/realestate-2026-09-14/loyer-marrakech-2026.webp
@@ -88,6 +88,28 @@ Begin met het gebruik: hoofdwoning, tweede verblijf, huurinvestering, gezinsaank
 ## Waarschuwingssignalen
 
 Een prijs die “alleen vandaag” geldt, gegarandeerd rendement zonder details, weigering om documenten te geven, een vaag opleveringsschema, een verkoper die kosten minimaliseert of een verhaal dat alleen op 2030 steunt, moet de beslissing vertragen. In Marokkaans vastgoed zit risico vaak in details: onvolledige titel, ontbrekende vergunning, verkeerd begrepen oppervlakte, vergeten kosten of slecht gedocumenteerde betaling.
+
+<!-- depth-finalized-2026-09-15 -->
+
+## Huurprijzen per woningtype
+
+Huur hangt af van wijk én type. Een gemeubelde studio in Guéliz concurreert niet met een gezinsvilla in Targa of een premiumappartement in Hivernage. Vraagprijzen zijn geen getekende contracten: staat, meubels, duur, huurderprofiel, inbegrepen lasten en onderhandeling veranderen het resultaat.
+
+| Zone | Studio / 1 slpk. | 2 slpk. | 3 slpk.+ | Lezing |
+|---|---:|---:|---:|---|
+| Guéliz | 4.000–7.000 DH | 6.500–10.000 DH | 9.000–14.000 DH | Sterke stedelijke vraag. |
+| Hivernage | 6.000–10.000 DH | 9.000–16.000 DH | 14.000 DH+ | Premium en meubelkwaliteit. |
+| Targa | 3.500–6.500 DH | 5.500–9.000 DH | 8.000–14.000 DH | Familiaal, oppervlakte en parking. |
+
+Voor investering begint u met nettohuur: leegstand, mede-eigendom, onderhoud, belasting en beheer. Vergelijk daarna met prijs, kosten en financiering. Voor toeristische verhuur, zie [Airbnb of langlopende verhuur in Marrakech](/nl/artikelen/kortetermijnverhuur-marrakech-kans-of-druk/).
+
+<!-- depth-finalized-2026-09-15-pass2 -->
+
+## Huur onderhandelen
+
+Onderhandeling hangt af van echte vraag en vastgoedkwaliteit. Een schoon gemeubeld appartement met parking en werkende airco wordt minder onderhandeld dan een donker, luidruchtig of slecht onderhouden pand. De huurder kan onderhandelen bij hoge lasten, oud meubilair, nodige werken of een lange verplichte looptijd.
+
+De eigenaar vergelijkt maximale huur met leegstand. Een pand aan 10.000 DH dat drie maanden leeg staat, verdient minder dan een pand snel getekend aan 9.000 DH met betrouwbare huurder. Reken altijd jaarlijkse netto-inkomsten, niet alleen maandhuur. Het contract moet duur, huur, lasten, waarborg, gebruik, onderhoud, inventaris en vertrekregels bepalen.
 
 ## FAQ
 

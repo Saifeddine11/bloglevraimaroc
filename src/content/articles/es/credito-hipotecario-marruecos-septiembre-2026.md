@@ -15,7 +15,7 @@ tags:
   - cuota mensual
   - Bank Al-Maghrib
 date: 2026-09-14
-updatedDate: 2026-09-14
+updatedDate: 2026-09-15
 readingTime: 6
 excerpt: Las tasas hipotecarias marroquíes deben leerse con seguro, plazo,
   aporte y coste total, no solo cuota mensual.
@@ -94,6 +94,33 @@ Empiece por definir el uso: vivienda principal, segunda residencia, inversión d
 ## Señales de alerta
 
 Un precio “solo válido hoy”, una rentabilidad garantizada sin detalle, la negativa a entregar documentos, un calendario impreciso, un vendedor que minimiza los gastos o un discurso basado solo en 2030 deben frenar la decisión. En el inmobiliario marroquí, el riesgo suele estar en los detalles: título incompleto, autorización ausente, superficie mal entendida, gastos ignorados o pago mal documentado.
+
+<!-- depth-finalized-2026-09-15 -->
+
+## Coste total del crédito: por qué el plazo cambia la decisión
+
+La cuota mensual es solo una parte de la decisión hipotecaria. Con el mismo tipo, pasar de 15 a 25 años reduce la presión mensual pero aumenta los intereses totales. Con la hipótesis ilustrativa del artículo, **4,8 % sin seguro**, un préstamo de **1.000.000 DH** cuesta aproximadamente **395.000 DH** de intereses a 15 años, **598.000 DH** a 20 años y **833.000 DH** a 25 años. La cifra exacta depende de la oferta bancaria, el seguro y el calendario de desembolso.
+
+| Préstamo | Plazo | Cuota simulada | Intereses aprox. sin seguro |
+|---|---:|---:|---:|
+| 500.000 DH | 15 años | 3.875 DH | 197.500 DH |
+| 500.000 DH | 25 años | 3.055 DH | 416.500 DH |
+| 1.000.000 DH | 15 años | 7.750 DH | 395.000 DH |
+| 1.000.000 DH | 25 años | 6.110 DH | 833.000 DH |
+
+El comprador debe pedir cuadro de amortización, coste total, seguro, reglas de amortización anticipada y comisiones. Un tipo atractivo puede perder interés si el seguro o las penalizaciones son elevados.
+
+## Aportación, gastos y prueba de resistencia
+
+El presupuesto incluye gastos de adquisición, banco, seguro, posible hipoteca, obras, muebles y reserva de caja. En inversión, el crédito debe probarse con alquiler realista, vacancia, impuestos, comunidad y mantenimiento. En Marrakech, conviene comparar el plan financiero con los [alquileres actuales](/es/articulos/alquiler-marrakech-precios-2026/) y no solo con ingresos optimistas de Airbnb.
+
+<!-- depth-finalized-2026-09-15-pass2 -->
+
+## Preguntas que hacer al banco
+
+Pida respuestas por escrito sobre tipo nominal, coste total, seguro, gastos de expediente, reglas de amortización anticipada, garantías y validez de la oferta. Compruebe si el tipo exige domiciliar ingresos, contratar un paquete bancario o usar un seguro concreto. Para MRE o no residentes, el banco puede pedir más pruebas de ingresos, documentos fiscales, extractos, traducciones o trazabilidad de transferencias.
+
+En inversión locativa, la aprobación bancaria no basta. Una cuota de 7.750 DH solo es cómoda si el activo produce ingreso neto suficiente o si el comprador acepta aportar caja cada mes. Pruebe el crédito con alquiler de larga duración, riesgo de corta duración, cargas y liquidez de reventa antes de firmar.
 
 ## FAQ
 

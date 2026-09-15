@@ -14,8 +14,8 @@ tags:
   - Gueliz
   - Hivernage
 date: 2026-09-14
-updatedDate: 2026-09-14
-readingTime: 6
+updatedDate: 2026-09-15
+readingTime: 5
 excerpt: Marrakech price-per-square-metre figures should be read as market
   ranges, then checked property by property.
 heroImage: /images/articles/realestate-2026-09-14/prix-immobilier-marrakech-2026-septembre.webp
@@ -93,6 +93,24 @@ Start with the use case: main home, second home, rental investment, family purch
 ## Warning signs
 
 A price “valid only today”, a guaranteed return without details, refusal to provide documents, a vague delivery calendar, a seller who downplays costs or a pitch based only on 2030 should slow the decision. In Moroccan property, risk often sits in details: incomplete title, missing authorisation, misunderstood surface area, ignored charges or poorly documented payment.
+
+<!-- depth-finalized-2026-09-15 -->
+
+## Reading Marrakech prices by district
+
+A city average hides very different markets. Guéliz is often the urban benchmark because apartments are easier to compare. Hivernage is a premium segment where address, services, security and co-ownership quality can justify large differences. Agdal mixes main homes, tourism and recent developments. Targa is more family-oriented. Palmeraie and Medina assets must be read case by case because land, renovation, access, tourist use and legal status change value.
+
+Official ANCFCC/BAM indicators describe registered transactions. Private barometers and portals mostly describe asking prices or market observations. The signed price may be lower when the asset needs work, has been listed for a long time or has document issues; it may stay close to asking price when the asset is rare and clean. Use the [Marrakech real-estate market guide](/en/articles/marrakech-real-estate-market-2026/) for context, then compare the exact building, floor, parking, service charges, orientation and title.
+
+For investors, price only makes sense with likely net income. Compare the purchase price with [Marrakech rent levels](/en/articles/marrakech-rent-prices-2026/), maintenance and resale liquidity. A low price can be expensive if the asset is hard to rent or resell.
+
+<!-- depth-finalized-2026-09-15-pass2 -->
+
+## Do not mix apartments, villas and riads
+
+An apartment, a villa and a medina riad do not follow the same valuation logic. Apartments are compared by building, floor, area, parking, charges and condition. Villas depend on land, access, pool, maintenance, security and garden cost. Riads depend on structure, permits, pedestrian access, works, tourist potential and heritage constraints.
+
+Before making an offer, build a comparable grid with similar assets only. Separate asking price, comparable-based price and your maximum acceptable price. Include acquisition fees, works, furniture and financing. A price can be “market level” but still too high for your strategy if net rent or resale liquidity is weak.
 
 ## FAQ
 

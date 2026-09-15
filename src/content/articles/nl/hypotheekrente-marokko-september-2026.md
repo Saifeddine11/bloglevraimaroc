@@ -14,8 +14,8 @@ tags:
   - maandlast
   - Bank Al-Maghrib
 date: 2026-09-14
-updatedDate: 2026-09-14
-readingTime: 6
+updatedDate: 2026-09-15
+readingTime: 5
 excerpt: Marokkaanse hypotheekrente moet worden gelezen met verzekering,
   looptijd, eigen inbreng en totale kost.
 heroImage: /images/articles/realestate-2026-09-14/credit-immobilier-maroc-septembre-2026.webp
@@ -92,6 +92,32 @@ Begin met het gebruik: hoofdwoning, tweede verblijf, huurinvestering, gezinsaank
 ## Waarschuwingssignalen
 
 Een prijs die “alleen vandaag” geldt, gegarandeerd rendement zonder details, weigering om documenten te geven, een vaag opleveringsschema, een verkoper die kosten minimaliseert of een verhaal dat alleen op 2030 steunt, moet de beslissing vertragen. In Marokkaans vastgoed zit risico vaak in details: onvolledige titel, ontbrekende vergunning, verkeerd begrepen oppervlakte, vergeten kosten of slecht gedocumenteerde betaling.
+
+<!-- depth-finalized-2026-09-15 -->
+
+## Totale kredietkost: waarom looptijd alles verandert
+
+De maandlast is maar één deel van de hypotheekbeslissing. Bij dezelfde rente verlaagt een looptijd van 25 jaar de maandelijkse druk, maar verhoogt ze de totale rente sterk. Met de illustratieve hypothese van **4,8% zonder verzekering** kost een lening van **1.000.000 DH** ongeveer **395.000 DH** rente op 15 jaar, **598.000 DH** op 20 jaar en **833.000 DH** op 25 jaar. Het exacte bedrag hangt af van bankaanbod, verzekering en vrijgavekalender.
+
+| Lening | Looptijd | Gesimuleerde maandlast | Rente bij benadering zonder verzekering |
+|---|---:|---:|---:|
+| 500.000 DH | 15 jaar | 3.875 DH | 197.500 DH |
+| 500.000 DH | 25 jaar | 3.055 DH | 416.500 DH |
+| 1.000.000 DH | 15 jaar | 7.750 DH | 395.000 DH |
+
+Vraag altijd de aflossingstabel, totale kost, verzekering, regels voor vervroegde terugbetaling en bankkosten. Een lage rente kan minder interessant zijn wanneer verzekering of boetes zwaar wegen.
+
+## Eigen inbreng, kosten en stresstest
+
+Het vastgoedbudget omvat aankoopkosten, bankkosten, verzekering, eventuele hypotheekregistratie, werken, meubels en cashreserve. Voor investering moet de lening worden getest met realistische huur, leegstand, belasting, mede-eigendom en onderhoud. In Marrakech hoort dat samen te gaan met de [actuele huurprijzen](/nl/artikelen/huurprijzen-marrakech-2026/) en niet alleen met optimistische Airbnb-inkomsten.
+
+<!-- depth-finalized-2026-09-15-pass2 -->
+
+## Vragen aan de bank
+
+Vraag schriftelijke antwoorden over nominale rente, totale kost, verzekering, dossierkosten, vervroegde terugbetaling, garanties en geldigheid van het aanbod. Controleer of de rente afhangt van loondomiciliëring, een bankpakket of groepsverzekering. Voor MRE’s of niet-ingezetenen kan de bank extra inkomensbewijzen, fiscale documenten, rekeninguittreksels, vertalingen of transferbewijzen vragen.
+
+Bij verhuurinvestering volstaat bankgoedkeuring niet. Een maandlast van 7.750 DH is alleen comfortabel wanneer het pand genoeg netto-inkomen produceert of wanneer de koper maandelijkse cashinbreng aanvaardt. Test de lening vóór ondertekening met langlopende huur, kortetermijnrisico, lasten en verkoopbaarheid.
 
 ## FAQ
 

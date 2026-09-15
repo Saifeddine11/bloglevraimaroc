@@ -14,8 +14,8 @@ tags:
   - alquiler larga duración Marrakech
   - rentabilidad alquiler
 date: 2026-09-14
-updatedDate: 2026-09-14
-readingTime: 6
+updatedDate: 2026-09-15
+readingTime: 5
 excerpt: El alquiler corto puede facturar más en bruto, pero el neto depende de
   gestión, costes y demanda.
 heroImage: /images/articles/realestate-2026-09-14/airbnb-location-longue-duree-marrakech-2026.webp
@@ -85,6 +85,28 @@ Empiece por definir el uso: vivienda principal, segunda residencia, inversión d
 ## Señales de alerta
 
 Un precio “solo válido hoy”, una rentabilidad garantizada sin detalle, la negativa a entregar documentos, un calendario impreciso, un vendedor que minimiza los gastos o un discurso basado solo en 2030 deben frenar la decisión. En el inmobiliario marroquí, el riesgo suele estar en los detalles: título incompleto, autorización ausente, superficie mal entendida, gastos ignorados o pago mal documentado.
+
+<!-- depth-finalized-2026-09-15 -->
+
+## Tres escenarios realistas de rentabilidad
+
+El análisis útil empieza por el ingreso neto, no por la facturación. Un piso de 1.200.000 DH alquilado a largo plazo por 8.000 DH al mes genera 96.000 DH brutos al año. Tras vacancia, comunidad, impuestos, reparaciones y gestión, el neto puede caer a 65.000–75.000 DH antes de financiación. La corta duración puede superar esa cifra, pero hay que deducir plataformas, limpieza, suministros, mobiliario, gestión y estacionalidad.
+
+| Modelo | Ingreso bruto plausible | Costes principales | Lectura inversor |
+|---|---:|---|---|
+| Larga duración | 72.000–120.000 DH/año | Vacancia, cargas, mantenimiento, impuestos | Más previsible y menos operativo. |
+| Corta duración estándar | 120.000–220.000 DH/año | Plataformas, limpieza, suministros, muebles, gestión | Mayor potencial, depende de ejecución. |
+| Riad / villa turística | Muy variable | Personal, licencia, mantenimiento, marketing | Negocio operativo, no renta pasiva. |
+
+El punto muerto importa. Si crédito y costes fijos suman 11.000 DH al mes, la operación necesita al menos 132.000 DH netos al año para crear excedente. Compárelo con los [alquileres de Marrakech](/es/articulos/alquiler-marrakech-precios-2026/) y con su capacidad real de gestión.
+
+<!-- depth-finalized-2026-09-15-pass2 -->
+
+## Costes que suelen olvidarse
+
+Las simulaciones optimistas olvidan ropa de cama, roturas, climatización intensa, suscripciones, fotos profesionales, comisión de conserjería, obras en el edificio, respuesta a viajeros, bajadas de nota, renovación de muebles y puesta a punto por temporada. No destruyen necesariamente la rentabilidad, pero convierten una renta pasiva en gestión activa.
+
+La larga duración también tiene riesgos: impagos, desgaste, vacancia, conflictos de salida y menor alquiler si el bien envejece mal. La elección depende del perfil del propietario: tiempo, distancia, tolerancia al riesgo, capacidad de delegar y presupuesto de mantenimiento. Calcule siempre escenarios optimista, central y prudente.
 
 ## FAQ
 

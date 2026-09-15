@@ -14,8 +14,8 @@ tags:
   - Guéliz
   - Hivernage
 date: 2026-09-14
-updatedDate: 2026-09-14
-readingTime: 6
+updatedDate: 2026-09-15
+readingTime: 5
 excerpt: Los alquileres anunciados en Marrakech varían según barrio, mobiliario,
   nivel, temporada y negociación.
 heroImage: /images/articles/realestate-2026-09-14/loyer-marrakech-2026.webp
@@ -89,6 +89,28 @@ Empiece por definir el uso: vivienda principal, segunda residencia, inversión d
 ## Señales de alerta
 
 Un precio “solo válido hoy”, una rentabilidad garantizada sin detalle, la negativa a entregar documentos, un calendario impreciso, un vendedor que minimiza los gastos o un discurso basado solo en 2030 deben frenar la decisión. En el inmobiliario marroquí, el riesgo suele estar en los detalles: título incompleto, autorización ausente, superficie mal entendida, gastos ignorados o pago mal documentado.
+
+<!-- depth-finalized-2026-09-15 -->
+
+## Alquileres por tipo de vivienda
+
+Los alquileres dependen tanto del barrio como de la tipología. Un estudio amueblado en Guéliz no compite con una villa familiar en Targa ni con un piso premium en Hivernage. Las horquillas de anuncios no son contratos firmados: estado, muebles, duración, perfil del inquilino, cargas incluidas y negociación cambian el resultado.
+
+| Zona | Estudio / 1 dorm. | 2 dorm. | 3 dorm.+ | Lectura |
+|---|---:|---:|---:|---|
+| Guéliz | 4.000–7.000 DH | 6.500–10.000 DH | 9.000–14.000 DH | Demanda urbana fuerte. |
+| Hivernage | 6.000–10.000 DH | 9.000–16.000 DH | 14.000 DH+ | Premium y calidad del mobiliario. |
+| Targa | 3.500–6.500 DH | 5.500–9.000 DH | 8.000–14.000 DH | Familiar, superficie y aparcamiento. |
+
+Para invertir, empiece por el alquiler neto: vacancia, comunidad, mantenimiento, impuestos y gestión. Compare después con precio, gastos y financiación. Para el arbitraje turístico, vea [Airbnb o larga duración en Marrakech](/es/articulos/alquiler-corta-duracion-marrakech-oportunidad-presion/).
+
+<!-- depth-finalized-2026-09-15-pass2 -->
+
+## Negociar el alquiler
+
+La negociación depende de la demanda real y de la calidad del bien. Un piso limpio, amueblado, con aparcamiento y aire acondicionado funcional se negocia menos que uno oscuro, ruidoso o mal mantenido. El inquilino puede negociar si las cargas son altas, los muebles antiguos, hacen falta obras o el contrato exige una duración larga.
+
+El propietario debe comparar alquiler máximo y vacancia. Un bien anunciado a 10.000 DH pero vacío tres meses gana menos que uno firmado rápido a 9.000 DH con inquilino fiable. Calcule siempre ingreso anual neto, no solo alquiler mensual. El contrato debe definir duración, renta, cargas, depósito, uso, mantenimiento, inventario y salida.
 
 ## FAQ
 

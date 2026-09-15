@@ -15,8 +15,8 @@ tags:
   - comprar vivienda Marruecos
   - 100000 DH
 date: 2026-09-14
-updatedDate: 2026-09-14
-readingTime: 6
+updatedDate: 2026-09-15
+readingTime: 7
 excerpt: Daam Sakane puede reducir la financiación necesaria para comprar una
   vivienda principal, pero no sustituye la verificación del inmueble.
 heroImage: /images/articles/realestate-2026-09-14/aide-logement-maroc-2026.webp
@@ -107,6 +107,27 @@ Empiece por definir el uso: vivienda principal, segunda residencia, inversión d
 ## Señales de alerta
 
 Un precio “solo válido hoy”, una rentabilidad garantizada sin detalle, la negativa a entregar documentos, un calendario impreciso, un vendedor que minimiza los gastos o un discurso basado solo en 2030 deben frenar la decisión. En el inmobiliario marroquí, el riesgo suele estar en los detalles: título incompleto, autorización ausente, superficie mal entendida, gastos ignorados o pago mal documentado.
+
+<!-- depth-finalized-2026-09-15 -->
+
+## Ejemplos prácticos de cálculo
+
+El umbral de precio debe comprobarse antes de cerrar el plan de financiación. Una vivienda nueva vendida por **290.000 DH con impuestos** puede entrar teóricamente en la ayuda de **100.000 DH**. Una vivienda similar a **315.000 DH** pasa a la ayuda de **70.000 DH**. La diferencia comercial es de 25.000 DH, pero la diferencia de ayuda alcanza 30.000 DH. A **705.000 DH**, el inmueble queda fuera del dispositivo.
+
+| Ejemplo | Precio con impuestos | Ayuda teórica | Qué comprobar |
+|---|---:|---:|---|
+| Vivienda pequeña elegible | 290.000 DH | 100.000 DH | Primera venta, residencia principal y documentos conformes. |
+| Piso intermedio | 450.000 DH | 70.000 DH | Precio real en la escritura notarial. |
+| Cerca del límite | 690.000 DH | 70.000 DH | Gastos de compra y cargas posteriores. |
+| Por encima del límite | 720.000 DH | 0 DH | No basar la financiación en una ayuda inexistente. |
+
+Son ejemplos editoriales, no decisiones administrativas. El comprador debe verificar primero su elegibilidad personal, después la del inmueble y finalmente coordinar la ayuda con el [crédito hipotecario en Marruecos](/es/articulos/credito-hipotecario-marruecos-septiembre-2026/). La ayuda reduce la necesidad de financiación, pero no elimina el análisis bancario de ingresos, endeudamiento, seguro, aportación y gastos.
+
+## Documentos, plazos y causas frecuentes de rechazo
+
+Antes de reservar, conviene pedir la identificación exacta del inmueble, el precio total con impuestos, la superficie, el calendario de firma, la identidad del vendedor, los documentos enviados al notario y las condiciones de devolución si la ayuda no se aprueba. Los problemas habituales son precio fuera de límite, confusión entre vivienda nueva elegible y reventa, expediente incompleto, retraso en la finalización, incoherencias de identidad o vendedor incapaz de entregar los documentos esperados.
+
+La actualización operativa de septiembre de 2026 importa porque la finalización de la venta y la cancelación de la hipoteca estatal deben gestionarse correctamente. La ayuda debe tratarse como una parte del plan de compra, no como un simple descuento. El comprador aún debe comparar ubicación, calidad, cargas, reventa y nivel local de precios.
 
 ## FAQ
 

@@ -13,8 +13,8 @@ tags:
   - investeren Marrakech
   - vastgoed 2030
 date: 2026-09-14
-updatedDate: 2026-09-14
-readingTime: 6
+updatedDate: 2026-09-15
+readingTime: 5
 excerpt: 2030 kan sommige activa steunen, maar maakt niet elke aankoop in
   Marrakech goed.
 heroImage: /images/articles/realestate-2026-09-14/marrakech-avant-2030-immobilier.webp
@@ -88,6 +88,22 @@ Begin met het gebruik: hoofdwoning, tweede verblijf, huurinvestering, gezinsaank
 ## Waarschuwingssignalen
 
 Een prijs die “alleen vandaag” geldt, gegarandeerd rendement zonder details, weigering om documenten te geven, een vaag opleveringsschema, een verkoper die kosten minimaliseert of een verhaal dat alleen op 2030 steunt, moet de beslissing vertragen. In Marokkaans vastgoed zit risico vaak in details: onvolledige titel, ontbrekende vergunning, verkeerd begrepen oppervlakte, vergeten kosten of slecht gedocumenteerde betaling.
+
+<!-- depth-finalized-2026-09-15 -->
+
+## Bevestigd, aangekondigd of speculatief
+
+2030 is geen garantie op meerwaarde. Bevestigde projecten zijn publiek gedocumenteerd, gefinancierd of in uitvoering. Aangekondigde projecten kunnen nog wijzigen in budget of timing. Speculatie is het verkoopverhaal dat 2030 omzet in automatische stijging. Test drie scenario’s: voorzichtig, centraal en optimistisch. Een goede aankoop moet nog kloppen als werken vertragen of huur traag stijgt.
+
+Het 2030-effect is het meest aannemelijk rond toerisme, luchthaven, toegangswegen, diensten en al liquide wijken. Maar als de verkoper alle toekomstige hoop al in de prijs rekent, betaalt de koper het verhaal vóór het werkelijkheid wordt. Koppel 2030 altijd aan [vastgoedprijzen in Marrakech](/nl/artikelen/vastgoedprijzen-marrakech-2026/) en de [lokale markttendens](/nl/artikelen/vastgoedmarkt-marrakech-2026/).
+
+<!-- depth-finalized-2026-09-15-pass2 -->
+
+## Wat 2030 niet mag verbergen
+
+Een internationaal evenement trekt aandacht, maar verandert de basis van een aankoop niet: titel, prijs, staat, lasten, toegang, buurt en echt gebruik. Het WK kan Marrakech zichtbaarder maken; het garandeert geen appartementsinkomen, villadoorverkoop of toeristisch succes van een riad.
+
+Het pand moet vóór, tijdens en na het evenement werken. Een voorzichtige strategie vraagt een coherente prijs vandaag, geloofwaardig gebruik buiten het evenement en duidelijke documenten. Haal 2030 uit de redenering: blijft het pand logisch, dan verdient het aandacht; werkt het alleen door het verhaal, dan is de veiligheidsmarge zwak.
 
 ## FAQ
 

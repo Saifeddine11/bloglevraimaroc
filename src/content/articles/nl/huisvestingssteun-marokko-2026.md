@@ -15,7 +15,7 @@ tags:
   - vastgoed kopen Marokko
   - 100000 dirham
 date: 2026-09-14
-updatedDate: 2026-09-14
+updatedDate: 2026-09-15
 readingTime: 6
 excerpt: Daam Sakane kan een eerste hoofdwoning helpen financieren, maar de
   koper moet het pand zelf nog grondig controleren.
@@ -106,6 +106,27 @@ Begin met het gebruik: hoofdwoning, tweede verblijf, huurinvestering, gezinsaank
 ## Waarschuwingssignalen
 
 Een prijs die “alleen vandaag” geldt, gegarandeerd rendement zonder details, weigering om documenten te geven, een vaag opleveringsschema, een verkoper die kosten minimaliseert of een verhaal dat alleen op 2030 steunt, moet de beslissing vertragen. In Marokkaans vastgoed zit risico vaak in details: onvolledige titel, ontbrekende vergunning, verkeerd begrepen oppervlakte, vergeten kosten of slecht gedocumenteerde betaling.
+
+<!-- depth-finalized-2026-09-15 -->
+
+## Praktische rekenvoorbeelden
+
+De prijzdrempel moet worden gecontroleerd vóór het financieringsplan wordt vastgelegd. Een nieuwe woning van **290.000 DH inclusief belasting** kan theoretisch in de steun van **100.000 DH** vallen. Een vergelijkbare woning van **315.000 DH** valt in de steun van **70.000 DH**. Het commerciële prijsverschil is 25.000 DH, maar het steunverschil bedraagt 30.000 DH. Bij **705.000 DH** valt de woning buiten het systeem.
+
+| Voorbeeld | Prijs incl. belasting | Theoretische steun | Controlepunt |
+|---|---:|---:|---|
+| Kleine geschikte woning | 290.000 DH | 100.000 DH | Eerste verkoop, hoofdwoning en conforme documenten. |
+| Middensegment appartement | 450.000 DH | 70.000 DH | Echte prijs in de notariële akte. |
+| Dicht bij de grens | 690.000 DH | 70.000 DH | Aankoopkosten en latere lasten. |
+| Boven de grens | 720.000 DH | 0 DH | Bouw geen financiering op niet-beschikbare steun. |
+
+Dit zijn redactionele voorbeelden, geen administratieve beslissingen. De koper controleert eerst persoonlijke voorwaarden, daarna de woning en vervolgens de samenhang met de [hypotheek in Marokko](/nl/artikelen/hypotheekrente-marokko-september-2026/). De steun verlaagt de financieringsbehoefte, maar de bank beoordeelt nog altijd inkomen, schuldgraad, verzekering, eigen inbreng en kosten.
+
+## Documenten, termijnen en vaak voorkomende weigeringen
+
+Vraag vóór reservering de exacte identificatie van het pand, de totaalprijs inclusief belasting, oppervlakte, ondertekeningsplanning, identiteit van de verkoper, documenten voor de notaris en terugbetalingsvoorwaarden als de steun niet doorgaat. Veel problemen ontstaan door een te hoge prijs, verwarring tussen nieuwe geschikte woning en herverkoop, onvolledig dossier, laattijdige afhandeling, identiteitsfouten of een verkoper die documenten niet kan leveren.
+
+De operationele update van september 2026 is belangrijk omdat verkoopfinalisatie en opheffing van de staatshypotheek correct moeten worden beheerd. De steun is dus één onderdeel van het aankoopplan, geen gewone korting. De koper moet ook locatie, bouwkwaliteit, lasten, verkoopbaarheid en lokaal prijsniveau vergelijken.
 
 ## FAQ
 

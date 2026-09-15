@@ -14,8 +14,8 @@ tags:
   - langetermijnhuur Marrakech
   - huurrendement Marrakech
 date: 2026-09-14
-updatedDate: 2026-09-14
-readingTime: 6
+updatedDate: 2026-09-15
+readingTime: 5
 excerpt: Kortetermijnverhuur kan bruto meer opleveren, maar netto hangt af van
   beheer, kosten en vraag.
 heroImage: /images/articles/realestate-2026-09-14/airbnb-location-longue-duree-marrakech-2026.webp
@@ -85,6 +85,28 @@ Begin met het gebruik: hoofdwoning, tweede verblijf, huurinvestering, gezinsaank
 ## Waarschuwingssignalen
 
 Een prijs die “alleen vandaag” geldt, gegarandeerd rendement zonder details, weigering om documenten te geven, een vaag opleveringsschema, een verkoper die kosten minimaliseert of een verhaal dat alleen op 2030 steunt, moet de beslissing vertragen. In Marokkaans vastgoed zit risico vaak in details: onvolledige titel, ontbrekende vergunning, verkeerd begrepen oppervlakte, vergeten kosten of slecht gedocumenteerde betaling.
+
+<!-- depth-finalized-2026-09-15 -->
+
+## Drie realistische rendementsscenario’s
+
+Een nuttige analyse begint met netto-inkomen, niet met omzet. Een appartement van 1.200.000 DH dat langlopend 8.000 DH per maand verhuurt, levert 96.000 DH bruto per jaar op. Na leegstand, mede-eigendom, belasting, herstellingen en beheer kan netto 65.000–75.000 DH overblijven vóór financiering. Korte verhuur kan hoger liggen, maar platformkosten, schoonmaak, nutsvoorzieningen, meubels, beheer en seizoen moeten eraf.
+
+| Model | Plausibele bruto-inkomst | Belangrijkste kosten | Lezing voor investeerder |
+|---|---:|---|---|
+| Langlopend | 72.000–120.000 DH/jaar | Leegstand, lasten, onderhoud, belasting | Voorspelbaarder, minder operationeel. |
+| Korte verhuur standaard | 120.000–220.000 DH/jaar | Platforms, schoonmaak, nutsvoorzieningen, meubels, beheer | Meer potentieel, afhankelijk van uitvoering. |
+| Riad / toeristische villa | Zeer variabel | Personeel, vergunning, onderhoud, marketing | Operationele activiteit, geen passieve huur. |
+
+Het break-evenpunt telt. Bij 11.000 DH maandelijkse lening en vaste kosten is minstens 132.000 DH netto per jaar nodig om overschot te creëren. Vergelijk dat met [huurprijzen in Marrakech](/nl/artikelen/huurprijzen-marrakech-2026/) en met uw echte beheercapaciteit.
+
+<!-- depth-finalized-2026-09-15-pass2 -->
+
+## Vaak vergeten kosten
+
+Optimistische simulaties vergeten linnengoed, schade, intensieve airco, abonnementen, professionele foto’s, conciërgecommissie, werken in het gebouw, responstijd, lagere scores na incidenten, meubelvernieuwing en seizoensopfrissing. Ze vernietigen rendement niet noodzakelijk, maar maken passieve huur actief beheer.
+
+Langlopende verhuur heeft ook risico’s: wanbetaling, slijtage, leegstand, uitgangsconflicten en lagere huur als het pand slecht veroudert. De keuze hangt af van eigenaarsprofiel: tijd, afstand, risicotolerantie, delegatie en onderhoudsbudget. Reken altijd optimistische, centrale en voorzichtige scenario’s.
 
 ## FAQ
 

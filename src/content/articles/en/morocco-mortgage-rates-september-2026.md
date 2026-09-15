@@ -14,7 +14,7 @@ tags:
   - monthly payment
   - Bank Al-Maghrib
 date: 2026-09-14
-updatedDate: 2026-09-14
+updatedDate: 2026-09-15
 readingTime: 6
 excerpt: Moroccan mortgage rates must be read with insurance, duration, down
   payment and total cost, not only the monthly payment.
@@ -93,6 +93,33 @@ Start with the use case: main home, second home, rental investment, family purch
 ## Warning signs
 
 A price “valid only today”, a guaranteed return without details, refusal to provide documents, a vague delivery calendar, a seller who downplays costs or a pitch based only on 2030 should slow the decision. In Moroccan property, risk often sits in details: incomplete title, missing authorisation, misunderstood surface area, ignored charges or poorly documented payment.
+
+<!-- depth-finalized-2026-09-15 -->
+
+## Total credit cost: why duration changes the decision
+
+The monthly payment is only one part of the mortgage decision. With the same rate, extending a loan from 15 to 25 years reduces the monthly pressure but increases total interest. Using the article’s illustrative **4.8% excluding insurance** assumption, a **1,000,000 DH** loan costs roughly **395,000 DH** in interest over 15 years, **598,000 DH** over 20 years and **833,000 DH** over 25 years. The exact amount changes with the bank offer, insurance and disbursement schedule, but the trade-off is clear.
+
+| Loan | Duration | Simulated payment | Approx. interest excl. insurance |
+|---|---:|---:|---:|
+| 500,000 DH | 15 years | 3,875 DH | 197,500 DH |
+| 500,000 DH | 25 years | 3,055 DH | 416,500 DH |
+| 1,000,000 DH | 15 years | 7,750 DH | 395,000 DH |
+| 1,000,000 DH | 25 years | 6,110 DH | 833,000 DH |
+
+A buyer should request the full amortisation table, total amount due, insurance cost, early-repayment rules and bank fees. A low headline rate may be less attractive if insurance or penalties are high.
+
+## Down payment, fees and investment stress test
+
+The property budget includes acquisition costs, bank fees, insurance, possible mortgage registration, works, furniture and cash reserve. For investment property, the mortgage must be tested against realistic rent, vacancy, tax, service charges and maintenance. If the asset is in Marrakech, compare the financing plan with [current Marrakech rents](/en/articles/marrakech-rent-prices-2026/) and not only with optimistic Airbnb revenue.
+
+<!-- depth-finalized-2026-09-15-pass2 -->
+
+## Questions to ask the bank
+
+Ask for written answers on the nominal rate, full cost, insurance, file fees, early-repayment rules, guarantees and offer validity. Check whether the rate depends on salary domiciliation, a banking package or group insurance. For MRE or non-resident buyers, the bank may request extra income proof, tax documents, bank statements, translations or transfer evidence, so the calendar can be longer.
+
+For rental investment, bank approval is not enough. A monthly payment of 7,750 DH is manageable only if the asset produces enough net income or the buyer accepts a monthly cash contribution. Test the mortgage against long-term rent, short-term-rental execution risk, service charges and resale liquidity before signing.
 
 ## FAQ
 

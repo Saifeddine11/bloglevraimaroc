@@ -14,8 +14,8 @@ tags:
   - ayuda vivienda
   - vivienda social
 date: 2026-09-14
-updatedDate: 2026-09-14
-readingTime: 6
+updatedDate: 2026-09-15
+readingTime: 5
 excerpt: Las propuestas de vivienda deben leerse como compromisos políticos
   documentados, no como medidas adoptadas.
 heroImage: /images/articles/realestate-2026-09-14/logement-elections-maroc-2026.webp
@@ -93,6 +93,29 @@ Empiece por definir el uso: vivienda principal, segunda residencia, inversión d
 ## Señales de alerta
 
 Un precio “solo válido hoy”, una rentabilidad garantizada sin detalle, la negativa a entregar documentos, un calendario impreciso, un vendedor que minimiza los gastos o un discurso basado solo en 2030 deben frenar la decisión. En el inmobiliario marroquí, el riesgo suele estar en los detalles: título incompleto, autorización ausente, superficie mal entendida, gastos ignorados o pago mal documentado.
+
+<!-- depth-finalized-2026-09-15 -->
+
+## Cómo leer una promesa de vivienda
+
+Una propuesta electoral no es una medida aplicable. Pregunte a quién se dirige, qué presupuesto identifica, qué herramienta legal o fiscal necesita y qué calendario es realista. Ayuda a la compra, suelo, vivienda social, apoyo al crédito y reforma del alquiler no tienen el mismo efecto.
+
+Los programas influyen en expectativas, pero no cambian al instante el valor de un inmueble. El comprador debe separar lo existente, como la ayuda a la vivienda, de las propuestas. Para decidir, relacione los anuncios con guías operativas: [ayuda a la vivienda](/es/articulos/ayuda-vivienda-marruecos-2026/), [crédito hipotecario](/es/articulos/credito-hipotecario-marruecos-septiembre-2026/) y [precios de Marrakech](/es/articulos/precios-inmobiliarios-marrakech-2026/). La comparación es neutral: los partidos proponen; solo leyes, presupuestos y procedimientos publicados aplican medidas.
+
+<!-- depth-finalized-2026-09-15-pass2 -->
+
+## Tabla neutral de comparación
+
+| Tema | Qué buscar | Por qué importa |
+|---|---|---|
+| Ayuda directa | Importe, público, presupuesto, duración | Medida visible pero costosa. |
+| Vivienda social | Unidades, suelo, promotores, calendario | Depende de ejecución local. |
+| Alquiler | Incentivos y equilibrio inquilino/propietario | Puede mejorar acceso sin compra. |
+| Crédito | Garantías, jóvenes, MRE | También depende de bancos. |
+| Fiscalidad | Derechos, impuestos locales, incentivos | Cambia el coste total. |
+| Urbanismo | Suelo, densidad, transporte, equipamientos | Determina oferta real a medio plazo. |
+
+Después del voto, siga leyes publicadas, presupuestos, concursos, convenios con promotores, medidas fiscales y estadísticas de beneficiarios. Las promesas no traducidas en instrumentos siguen siendo intenciones.
 
 ## FAQ
 

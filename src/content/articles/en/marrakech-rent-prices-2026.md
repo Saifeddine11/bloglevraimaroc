@@ -14,8 +14,8 @@ tags:
   - Gueliz
   - Hivernage
 date: 2026-09-14
-updatedDate: 2026-09-14
-readingTime: 6
+updatedDate: 2026-09-15
+readingTime: 5
 excerpt: Advertised rents in Marrakech vary strongly by district, furniture,
   quality, season and negotiation.
 heroImage: /images/articles/realestate-2026-09-14/loyer-marrakech-2026.webp
@@ -89,6 +89,28 @@ Start with the use case: main home, second home, rental investment, family purch
 ## Warning signs
 
 A price “valid only today”, a guaranteed return without details, refusal to provide documents, a vague delivery calendar, a seller who downplays costs or a pitch based only on 2030 should slow the decision. In Moroccan property, risk often sits in details: incomplete title, missing authorisation, misunderstood surface area, ignored charges or poorly documented payment.
+
+<!-- depth-finalized-2026-09-15 -->
+
+## Rents by property type
+
+Marrakech rents depend on both district and property type. A furnished studio in Guéliz does not compete with a family villa in Targa or a serviced apartment in Hivernage. Listing ranges are not signed leases: condition, furniture, duration, tenant profile, included charges and negotiation matter.
+
+| Area | Studio / 1-bed | 2-bed | 3-bed+ | Reading |
+|---|---:|---:|---:|---|
+| Guéliz | 4,000–7,000 DH | 6,500–10,000 DH | 9,000–14,000 DH | Strong urban demand. |
+| Hivernage | 6,000–10,000 DH | 9,000–16,000 DH | 14,000 DH+ | Premium and furnished quality matter. |
+| Targa | 3,500–6,500 DH | 5,500–9,000 DH | 8,000–14,000 DH | Family logic, parking and surface. |
+
+For investors, start from net rent. Deduct vacancy, service charges, maintenance, tax and management, then compare the result with purchase price, fees and financing. To compare with tourist rental, use the [Airbnb vs long-term rental guide](/en/articles/short-term-rental-marrakech-opportunity-or-pressure/).
+
+<!-- depth-finalized-2026-09-15-pass2 -->
+
+## Negotiating rent
+
+Negotiation depends on real demand and property quality. A clean furnished apartment with parking and working air-conditioning negotiates less than a dark, noisy or poorly maintained unit. Tenants can negotiate when charges are high, furniture is old, works are needed or the lease requires a long commitment.
+
+Owners should compare maximum rent with vacancy. A property advertised at 10,000 DH but empty for three months earns less than one signed quickly at 9,000 DH with a reliable tenant. Always calculate annual net income, not only monthly rent. The lease should define duration, rent, charges, deposit, use, maintenance, inventory and exit rules.
 
 ## FAQ
 

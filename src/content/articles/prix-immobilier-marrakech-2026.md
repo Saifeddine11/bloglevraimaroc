@@ -16,8 +16,8 @@ tags:
   - Guéliz
   - Hivernage
 date: 2026-09-14
-updatedDate: 2026-09-14
-readingTime: 6
+updatedDate: 2026-09-15
+readingTime: 9
 excerpt: Les prix au m² à Marrakech doivent être lus comme des fourchettes de
   marché, puis vérifiés bien par bien.
 heroImage: /images/articles/realestate-2026-09-14/prix-immobilier-marrakech-2026-septembre.webp
@@ -68,13 +68,13 @@ Mise à jour : **14 septembre 2026**.
 | Route de Casablanca / Route de Fès | 6,000–13,000 MAD/m² | Peripheral residential | ReaConsult | 2026 |
 | Route de l’Ourika | 8,500–16,000 MAD/m² | Villa / apartment depending on project | ReaConsult / Valorisimo | 2026 |
 
-## What price per m² does not tell you
+## Ce que le prix au mètre carré ne dit pas
 
-A square-metre price hides floor, view, orientation, parking, lift, amenities, building age, developer, legal title, delivery status, charges and the real surface used in the calculation. Two apartments with the same area in Guéliz can have very different values if one has parking, clear title, quiet exposure and low charges while the other needs renovation. Use the [grille S.A.F.E](/safe-certification-immobiliere/) to connect price, documents and execution risk.
+Un prix au mètre carré masque l’étage, la vue, l’orientation, le parking, l’ascenseur, les prestations, l’âge de l’immeuble, le promoteur, le titre juridique, l’état de livraison, les charges et la surface réellement utilisée dans le calcul. Deux appartements de même surface à Guéliz peuvent avoir des valeurs très différentes si l’un dispose d’un parking, d’un titre clair, d’une exposition calme et de faibles charges alors que l’autre nécessite des travaux. La [grille S.A.F.E](/safe-certification-immobiliere/) permet de relier prix, documents et risque d’exécution.
 
 ## Sources et méthode
 
-Official data is used for transaction-market direction. Private data is used for local asking ranges and must be negotiated against real comparables.
+Les données officielles servent à lire la tendance des transactions. Les données privées servent à situer les fourchettes de prix affichés et doivent être confrontées à de vrais comparables.
 
 ## Comment utiliser ces chiffres sans se tromper
 
@@ -94,6 +94,46 @@ Commencez par qualifier votre usage : résidence principale, pied-à-terre, inve
 ## Signaux d'alerte
 
 Un prix présenté comme valable seulement aujourd'hui, une rentabilité garantie sans détail, un refus de transmettre des documents, un calendrier flou, un vendeur qui minimise les frais ou un discours qui repose uniquement sur 2030 doivent ralentir la décision. Dans l'immobilier marocain, le risque apparaît souvent dans les détails : un titre incomplet, une autorisation non fournie, une surface mal comprise, une charge ignorée ou un paiement mal documenté.
+
+<!-- depth-finalized-2026-09-15 -->
+
+## Lecture quartier par quartier
+
+À Marrakech, un prix moyen cache des marchés très différents. **Guéliz** sert souvent de référence urbaine parce que l’offre y est abondante et comparable : appartements, commerces, immeubles avec ascenseur, parkings et biens de revente. **Hivernage** fonctionne davantage comme un segment premium où l’adresse, les prestations, la sécurité, la gestion de copropriété et la proximité des hôtels peuvent justifier un écart important. **Agdal** mélange résidence principale, tourisme et projets récents ; la valeur dépend fortement du standing et de la distance réelle aux services.
+
+**Targa** intéresse les familles et les acheteurs qui privilégient surface, accessibilité et environnement résidentiel. **Palmeraie** ne doit pas être réduite à un prix au mètre carré : une villa, un appartement en résidence, un terrain ou un bien orienté tourisme ne se comparent pas mécaniquement. La **Médina** est encore plus spécifique : l’état structurel, l’accès, le statut juridique, l’autorisation d’exploitation et les travaux pèsent parfois davantage que la surface.
+
+Les routes périphériques — Route de Casablanca, Route de Fès, Route de l’Ourika, Route d’Amizmiz — répondent à une autre logique. Le prix peut être plus accessible, mais la liquidité dépend de l’accès, de la qualité du projet, de la livraison effective, des services et du potentiel locatif. Un bien moins cher peut devenir coûteux si la copropriété est faible, si la route allonge les trajets ou si les charges ne sont pas anticipées.
+
+## Prix affiché, prix négocié et prix signé
+
+La donnée officielle ANCFCC/BAM décrit des transactions enregistrées. Les baromètres privés et annonces décrivent plutôt des prix demandés ou des observations de marché. Entre les deux, il existe la négociation : un prix affiché à 18 000 DH/m² peut se signer plus bas si le bien est resté longtemps en vente, si des travaux sont nécessaires ou si les documents ralentissent la transaction. À l’inverse, un bien rare, bien situé, avec parking, terrasse et titre clair peut se vendre proche du prix demandé.
+
+Pour utiliser la table de prix, construisez une comparaison stricte : même quartier, même type de bien, surface comparable, état comparable, étage comparable, présence ou non de parking, charges, orientation, bruit, qualité du syndic, année de construction et statut juridique. Le [marché immobilier de Marrakech](/articles/marche-immobilier-marrakech-2026/) donne le contexte général ; l’estimation d’un bien doit ensuite descendre au niveau de l’immeuble.
+
+## Ce qui modifie vraiment le prix au mètre carré
+
+Le prix au mètre carré baisse souvent quand la surface augmente, mais ce n’est pas automatique. Une petite unité bien placée peut être plus liquide qu’un grand appartement difficile à louer. Un dernier étage avec terrasse peut dépasser la moyenne ; un rez-de-chaussée sombre peut être décoté. Un immeuble récent avec ascenseur, parking et syndic actif n’a pas la même valeur qu’un immeuble ancien sans entretien. Dans le neuf, le promoteur, les finitions, le délai de livraison et les garanties doivent être ajoutés à l’analyse.
+
+Pour un investisseur, le prix n’a de sens qu’avec le revenu net probable. Comparez le prix d’achat avec les [loyers à Marrakech](/articles/loyer-marrakech-2026/) et avec les charges réelles. Un prix élevé peut rester rationnel si la liquidité, la qualité et le revenu net sont solides. Un prix bas peut être trompeur si le bien nécessite des travaux, se revend mal ou supporte des charges élevées.
+
+<!-- depth-finalized-2026-09-15-pass2 -->
+
+## Appartement, villa, riad : ne pas mélanger les catégories
+
+Un appartement de Guéliz, une villa de Targa et un riad de médina ne répondent pas aux mêmes critères. L’appartement se compare par immeuble, étage, surface, parking, charges et état. La villa se compare par terrain, accès, piscine, entretien, sécurité, voisinage et coût de jardin. Le riad se compare par structure, autorisations, accès piéton, travaux, potentiel d’exploitation et contraintes patrimoniales.
+
+C’est pour cette raison qu’un seul prix moyen au mètre carré peut induire en erreur. Un riad très dégradé peut sembler bon marché au mètre carré, puis absorber des centaines de milliers de dirhams de travaux. Une villa éloignée peut afficher une grande surface mais coûter cher en transport, entretien et vacance. Un appartement plus petit peut offrir une meilleure liquidité s’il est situé dans un immeuble sain avec ascenseur et parking.
+
+## Méthode de négociation
+
+Avant de faire une offre, construisez une grille de comparables. Retenez uniquement les biens de même type, dans un rayon cohérent, avec un état proche. Notez le prix affiché, la date de mise en vente, les baisses éventuelles, les charges, les défauts et les avantages. Puis distinguez trois prix : le prix demandé, le prix justifiable par comparables et le prix maximum acceptable pour votre usage.
+
+L’offre doit intégrer les frais d’acquisition, les travaux, l’ameublement et le coût du financement. Pour un investissement, elle doit aussi intégrer le revenu net probable. Un prix peut être « dans le marché » mais trop élevé pour votre stratégie si le loyer net ne suit pas. À l’inverse, un bien légèrement cher peut se défendre s’il combine emplacement rare, faible vacance, documents clairs et bonne revente.
+
+## Signaux que le prix est fragile
+
+Méfiez-vous d’un prix justifié seulement par « 2030 », d’un vendeur qui refuse les comparables, d’une surface calculée de manière floue, de charges non communiquées, de travaux minimisés ou d’un titre/document incomplet. Le prix d’un bien immobilier n’est pas une phrase de brochure : c’est la somme d’un emplacement, d’un actif, de documents, d’un revenu possible et d’une sortie réaliste.
 
 ## FAQ
 
