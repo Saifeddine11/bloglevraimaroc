@@ -15,7 +15,7 @@ tags:
   - Hivernage
 date: 2026-09-14
 updatedDate: 2026-09-15
-readingTime: 5
+readingTime: 6
 excerpt: Marrakech price-per-square-metre figures should be read as market
   ranges, then checked property by property.
 heroImage: /images/articles/realestate-2026-09-14/prix-immobilier-marrakech-2026-septembre.webp
@@ -111,6 +111,18 @@ For investors, price only makes sense with likely net income. Compare the purcha
 An apartment, a villa and a medina riad do not follow the same valuation logic. Apartments are compared by building, floor, area, parking, charges and condition. Villas depend on land, access, pool, maintenance, security and garden cost. Riads depend on structure, permits, pedestrian access, works, tourist potential and heritage constraints.
 
 Before making an offer, build a comparable grid with similar assets only. Separate asking price, comparable-based price and your maximum acceptable price. Include acquisition fees, works, furniture and financing. A price can be “market level” but still too high for your strategy if net rent or resale liquidity is weak.
+
+
+## Build a target price before visiting
+
+Arrive at a viewing with a hypothesis, not only an impression. Set your maximum price after acquisition fees, works, furniture, financing and reserve. Then classify comparables into truly similar assets, superior assets that justify a premium, and weaker assets that set a floor. During the visit, translate each defect into money or risk: old kitchen, weak air-conditioning, tired facade, uncertain lift, no parking or poor building management.
+
+Surface, title, co-ownership rules, unpaid charges, common areas, access, noise, orientation, building quality and tax position can change value as much as the district. Price per square metre is useful, but it is a starting point rather than a conclusion.
+
+
+## Final decision: when the price becomes acceptable
+
+A price becomes acceptable when comparables, costs, intended use and resale explanation align. If you cannot justify it without repeating the seller’s narrative, negotiation is not over. If the price still makes sense after removing fashion, 2030 optimism and rental assumptions, the file is stronger.
 
 ## FAQ
 

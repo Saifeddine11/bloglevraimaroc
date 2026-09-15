@@ -15,7 +15,7 @@ tags:
   - Hivernage
 date: 2026-09-14
 updatedDate: 2026-09-15
-readingTime: 7
+readingTime: 10
 excerpt: Les loyers affichés à Marrakech varient fortement selon quartier,
   mobilier, standing, saison et négociation réelle.
 heroImage: /images/articles/realestate-2026-09-14/loyer-marrakech-2026.webp
@@ -63,7 +63,7 @@ Rents in Marrakech are listing-driven and negotiation-sensitive. Signed leases m
 | Palmeraie | 4,000–7,000 DH | 6,500–10,000 DH | 9,000–18,000 DH | Large variance: apartments vs villas. |
 | Route de l’Ourika | 3,000–5,000 DH | 5,000–8,000 DH | 8,000–15,000 DH | Villas and nature-oriented demand. |
 
-## Furnished, unfurnished and seasonal effects
+## Meublé, non meublé et effets saisonniers
 
 A furnished apartment can command a premium, but it brings replacement, maintenance and inventory risk. Long-term rent is usually more predictable than short-term rent, yet the net result depends on vacancy, agency fees, deposit, charges, repairs and tax treatment. High advertised rent alone does not guarantee high yield; use an [analyse S.A.F.E d’un investissement immobilier](/safe-certification-immobiliere/) to connect rent, price, charges and risk.
 
@@ -129,6 +129,38 @@ Le propriétaire doit arbitrer entre loyer maximal et vacance. Un bien affiché 
 Le bail doit préciser durée, loyer, charges, dépôt, usage du bien, entretien, inventaire du mobilier, modalités de sortie et révision éventuelle. L’état des lieux protège les deux parties. En meublé, l’inventaire est essentiel : électroménager, literie, climatisation, vaisselle et équipements doivent être listés. Sans document clair, une petite réparation peut devenir un litige.
 
 Pour un investisseur, un bail bien rédigé vaut presque autant qu’un bon prix. Il stabilise le revenu, limite les malentendus et rend l’actif plus lisible si le bien est revendu avec locataire.
+
+
+## Calculer le revenu net propriétaire
+
+Pour un propriétaire, le loyer affiché ne suffit pas. Il faut calculer le revenu net après vacance, charges non récupérées, entretien, fiscalité, assurance, petites réparations, remplacement d’équipements et éventuels honoraires de gestion. Un loyer de 8 000 DH peut devenir moins intéressant qu’un loyer de 7 300 DH si le premier suppose trois mois de vacance, des meubles à remplacer et un locataire instable.
+
+Le rendement locatif doit aussi être relié au prix d’achat. Si un appartement vaut 1,2 million de dirhams et produit 84 000 DH bruts par an, le rendement apparent est de 7 %. Mais si le revenu net tombe à 65 000 DH après charges, vacance et entretien, la lecture change. L’investisseur doit ensuite comparer ce revenu net au coût du crédit, aux frais d’acquisition et au risque de revente.
+
+## Lecture par profil de locataire
+
+Les familles recherchent souvent surface, calme, proximité école, parking et stabilité du bail. Les jeunes actifs privilégient Guéliz, Hivernage, centre-ville, accès rapide et appartement prêt à vivre. Les expatriés ou cadres en mission demandent souvent meublé de qualité, internet, climatisation, sécurité et gestion réactive. Un bien peut donc être cher pour un profil et correctement prixé pour un autre.
+
+Cette lecture aide à éviter deux erreurs. La première consiste à fixer un loyer parce qu’un voisin annonce plus haut, sans vérifier si le bien est comparable. La seconde consiste à baisser trop vite le prix alors que le problème vient de la présentation, des photos, de l’ameublement ou d’un bail peu clair. Le bon loyer est celui qui maximise le revenu annuel net avec un risque acceptable.
+
+
+## Quand accepter une baisse de loyer
+
+Une baisse de loyer n’est pas toujours un échec. Elle peut être rationnelle si elle réduit la vacance, sécurise un locataire fiable ou évite des frais de gestion répétés. Le propriétaire doit comparer le manque à gagner mensuel avec le coût d’un logement vide. Par exemple, refuser une baisse de 500 DH pendant un an économise 6 000 DH en apparence ; mais un seul mois de vacance à 8 000 DH annule déjà ce gain. Cette logique est particulièrement importante dans les segments où l’offre meublée est abondante.
+
+Il faut aussi distinguer baisse de loyer et amélioration du bien. Parfois, une petite dépense — peinture, literie, climatisation entretenue, photos professionnelles, meilleure annonce — permet de maintenir le loyer. Parfois, le marché a simplement changé et le prix doit suivre. Le bon arbitrage se fait avec le revenu annuel net, pas avec l’orgueil du prix affiché.
+
+
+## Checklist pour fixer le bon loyer
+
+Pour fixer un loyer, partez de trois références : annonces comparables, demandes réellement reçues et revenu net souhaité. Si les annonces sont hautes mais les visites faibles, le marché vous donne déjà une réponse. Si les visites sont nombreuses mais les dossiers fragiles, le prix n’est peut-être pas le seul sujet : garanties, bail, mobilier ou ciblage doivent être revus.
+
+Le bon loyer doit attirer assez de candidats, couvrir les charges et préserver le bien. Trop haut, il augmente la vacance ; trop bas, il réduit inutilement le rendement et peut attirer un mauvais profil si l’annonce paraît incohérente. La fixation du loyer reste donc un arbitrage entre revenu, stabilité et qualité du locataire.
+
+
+## Seuil de marché à retenir
+
+Si un bien reçoit peu de demandes qualifiées après plusieurs semaines, le marché corrige déjà le loyer demandé. Il faut alors ajuster le prix, améliorer la présentation ou changer de cible. Attendre sans diagnostic transforme souvent un simple écart de prix en perte annuelle.
 
 ## FAQ
 

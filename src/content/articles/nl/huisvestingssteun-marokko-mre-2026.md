@@ -111,6 +111,28 @@ Een voorzichtige kalender begint vóór ondertekening: voorwaarden, notaris, doc
 
 Na aankoop bewaart u documenten en volgt u de verplichtingen van de steun. Als de situatie verandert, kunnen terugbetaling en opheffing van de staatshypotheek praktische onderwerpen worden. Bij familiegebruik of verhuur moet compatibiliteit vóór ondertekening duidelijk zijn.
 
+
+## Bankdossier, transfers en volmacht
+
+Voor MRE-kopers is de coördinatie tussen bank, notaris, ontwikkelaar en transfers gevoelig. Banken kunnen buitenlandse arbeidscontracten, fiscale documenten, rekeningafschriften, verblijfsbewijs, vertalingen en inkomensstabiliteit vragen. Bereid dit vroeg voor, want één ontbrekend stuk vertraagt goedkeuring of ondertekening.
+
+Traceerbaarheid van fondsen telt: herkomst, verzendende bank, begunstigde, doel en overeenstemming met de prijs. Een volmacht helpt, maar moet pand, prijs, toegestane handelingen, bank, betalingen, notaris en grenzen noemen. Schriftelijke instructies beschermen koper en vertegenwoordiger. Reserveer niet vóór voorwaarden, prijsplafond, hoofdverblijf en steunproces helder zijn.
+
+
+## Controle houden vanuit het buitenland
+
+Kopen op afstand vraagt één georganiseerd dossier: persoonlijke stukken, vastgoeddocumenten, banksimulatie, transferbewijzen, notariscommunicatie, steunaanvraag en ontvangstbewijzen. Bewaar data en contactpersonen. Een familielid kan bezoeken en doorgeven, maar prijswijzigingen, clausules en oplevering blijven onder schriftelijke instructie van de koper.
+
+
+## Operationele volgorde voor MRE-kopers
+
+Controleer voorwaarden, kies een compatibel pand, verzamel documenten, regel bank, bereid volmacht voor indien nodig, traceer transfers, teken bij de notaris, volg het steundossier en bewaar bewijs. De volgorde wijzigen veroorzaakt vaak vertraging of vermijdbaar risico.
+
+
+## Laatste reflex vóór ondertekening
+
+Vóór ondertekening moet de MRE-koper pand, prijs, fondsen, bewijs en verplichtingen duidelijk kunnen uitleggen aan bank, notaris of administratie.
+
 ## FAQ
 
 <details><summary>Zijn de cijfers officieel?</summary><p>Officiële indicatoren worden gescheiden van private marktinschattingen en simulaties. Vraagprijzen zijn geen notariële transactieprijzen.</p></details>

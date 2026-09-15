@@ -119,6 +119,23 @@ En 2026 el comprador debe vigilar volumen de operaciones, financiación, calidad
 
 Comprar en el buen momento no es solo acertar un mínimo de mercado. Es cuando precio, financiación, documentos y uso previsto son coherentes. Marrakech puede ofrecer oportunidades en un segmento y precios excesivos en otro al mismo tiempo.
 
+
+## Tres escenarios para los próximos doce meses
+
+El escenario central es un mercado selectivo: bienes bien situados, documentados y correctamente valorados siguen encontrando compradores, mientras los expedientes caros o confusos quedan más tiempo anunciados. Un escenario positivo exige tipos legibles, demanda MRE fuerte y avance de infraestructuras; afectaría primero a activos fáciles de entender: pisos céntricos, villas bien ubicadas, riads con documentos sólidos y bienes con uso real.
+
+También existe un escenario prudente. Si la financiación se endurece, los precios pedidos se alejan del alquiler o los vendedores exageran 2030, el mercado puede ralentizarse. El valor no desaparece, pero baja la liquidez. Adapte la lectura al perfil: residente, MRE, inversor o comprador patrimonial no asumen los mismos riesgos.
+
+
+## Indicadores trimestrales a seguir
+
+Siga plazo de venta de comparables, diferencia entre precio pedido y firmado cuando pueda estimarse, acceso al crédito, alquileres netos y calidad documental. Anuncios largos, bajadas repetidas, expedientes incompletos o rentas netas débiles dicen más que medias generales. Un mercado lento aún puede ofrecer oportunidades si el bien es claro, negociable y financiable.
+
+
+## Checklist final antes de ofertar
+
+Antes de ofertar, revise segmento de demanda, precio comparable, financiación tras cargas, documentos completos y reventa si el mercado se ralentiza. Un mercado dinámico puede contener bienes caros o confusos; uno más tranquilo puede ofrecer buenas entradas si el expediente es sólido.
+
 ## FAQ
 
 <details><summary>¿Las cifras son oficiales?</summary><p>Los indicadores oficiales se separan de estimaciones privadas y simulaciones. Los precios anunciados no son precios notariales.</p></details>

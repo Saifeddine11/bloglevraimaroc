@@ -17,7 +17,7 @@ tags:
   - IPAI
 date: 2026-09-14
 updatedDate: 2026-09-15
-readingTime: 7
+readingTime: 10
 excerpt: "Marrakech reste un marché fragmenté : les transactions officielles,
   les prix affichés et les récits 2030 ne disent pas la même chose."
 heroImage: /images/articles/realestate-2026-09-14/marche-immobilier-marrakech-2026-septembre.webp
@@ -64,15 +64,15 @@ Mise à jour : **14 septembre 2026**.
 | Neuf / achat sur plan | Souvent vendu avec prime | Vérifier promoteur, permis, calendrier et conditions de livraison. |
 | Revente | Bien visible et charges observables | Vérifier titre, état de l’immeuble et marge de négociation. |
 
-## Is the market really recovering?
+## Le marché repart-il vraiment ?
 
 The answer is nuanced. Transaction indicators and asking-price ranges can move in different directions. A recovery in volumes may coexist with buyer selectivity. Premium addresses such as Hivernage, Guéliz, Palmeraie or golf areas can remain liquid while standard peripheral stock faces negotiation pressure. Buyers should therefore compare the project with its own segment rather than extrapolate from the headline market.
 
-## Which segments are moving?
+## Quels segments bougent vraiment ?
 
 Apartments in central, walkable locations remain easier to benchmark. Villas and riads require more case-by-case analysis because land, renovation quality, legal status, tourist use and operating costs change the equation. Land and commercial property should not be mixed with residential trends.
 
-## Is Marrakech overheating?
+## Marrakech est-elle en surchauffe ?
 
 Some micro-markets show speculative pricing, especially where 2030 narratives are used as a sales argument. That does not mean the whole city is in a bubble. It means buyers must separate confirmed infrastructure, actual rental demand, signed transactions and sales brochures. A citywide rise is not enough: the [méthode d’analyse immobilière S.A.F.E](/safe-certification-immobiliere/) helps test whether a specific project deserves attention.
 
@@ -134,6 +134,35 @@ Pour décider, reliez la tendance de marché aux données de [prix immobiliers �
 Le bon moment n’est pas seulement un point bas de marché. C’est le moment où le prix, le financement, les documents et l’usage prévu deviennent cohérents. Acheter trop tôt un projet mal documenté peut coûter plus cher qu’acheter plus tard un bien clair. Acheter trop tard un bien rare peut faire perdre une opportunité. Le marché aide à cadrer la décision, mais il ne remplace pas l’analyse du dossier.
 
 En 2026, la discipline consiste à refuser les moyennes trop larges. Marrakech peut offrir des opportunités dans un segment et des prix excessifs dans un autre. Le même mois, un appartement central bien placé peut être négociable, un riad à rénover peut être risqué et une villa premium peut rester liquide si son prix est cohérent.
+
+
+## Trois scénarios pour les douze prochains mois
+
+Un scénario central suppose un marché sélectif : les biens bien placés, documentés et correctement prixés continuent de trouver des acheteurs, tandis que les biens trop chers ou flous restent plus longtemps en annonce. Dans ce cas, l’acheteur sérieux garde un pouvoir de négociation, mais surtout sur les défauts concrets : travaux, absence de parking, charges mal expliquées, étage peu favorable ou revenu locatif exagéré.
+
+Un scénario plus favorable apparaît si les taux restent lisibles, si la demande MRE revient fortement pendant les périodes de vacances et si les projets d’infrastructure rendent certains secteurs plus pratiques. La hausse ne serait alors pas uniforme. Elle toucherait d’abord les actifs faciles à comprendre : appartements centraux de qualité, villas bien situées, riads avec documents solides et biens proches d’usages réels.
+
+Un scénario plus prudent doit aussi être envisagé. Si le financement se durcit, si les prix affichés continuent de s’éloigner des revenus locatifs ou si les vendeurs surestiment l’effet 2030, le marché peut devenir plus lent. Dans ce cas, la valeur ne disparaît pas, mais la liquidité baisse : vendre vite impose une décote, surtout sur les biens secondaires.
+
+## Adapter la lecture au profil d’acheteur
+
+Un résident marocain cherche souvent la sécurité d’usage, la proximité des services et la capacité à financer sans tension. Un MRE ajoute la contrainte de distance, de calendrier bancaire et de procuration. Un investisseur regarde le revenu net, la vacance, la gestion et la sortie. Un acheteur patrimonial privilégie la rareté et la qualité documentaire. Le même bien peut donc être logique pour un profil et trop risqué pour un autre.
+
+La meilleure décision consiste à formuler le scénario principal avant la négociation. Si vous achetez pour habiter, le revenu locatif secondaire ne doit pas justifier un prix excessif. Si vous achetez pour louer, le coup de cœur ne doit pas remplacer le calcul net. Si vous achetez pour 2030, le bien doit rester défendable en 2027, 2028 et après l’événement.
+
+
+## Indicateurs concrets à suivre chaque trimestre
+
+Pour suivre le marché sans se perdre dans le bruit, gardez une liste courte d’indicateurs. Le premier est le délai de vente des biens comparables : un bien qui reste longtemps en ligne malgré plusieurs baisses dit davantage qu’un prix moyen. Le deuxième est l’écart entre prix affiché et prix signé, lorsqu’il peut être estimé par retour de notaire, d’agence ou de banque. Le troisième est la disponibilité du crédit : taux, apport demandé, durée acceptée et assurance. Le quatrième est le niveau des loyers nets, car il limite la capacité des investisseurs à payer n’importe quel prix.
+
+Ajoutez enfin la qualité documentaire des biens visités. Si beaucoup de vendeurs ont des dossiers incomplets, la prudence doit augmenter même si le quartier semble attractif. À l’inverse, un marché plus lent peut offrir de bonnes opportunités lorsque le bien est clair, négociable et finançable. L’objectif n’est pas de prédire Marrakech au dirham près, mais de décider avec assez d’indices convergents pour éviter l’achat impulsif.
+
+
+## Checklist finale avant offre
+
+Avant de formuler une offre, vérifiez cinq points dans cet ordre : le bien est-il situé dans un segment réellement demandé, le prix est-il justifié par des comparables récents, le financement reste-t-il confortable après charges, les documents sont-ils complets, et la sortie reste-t-elle crédible si le marché ralentit ? Si une seule réponse est floue, la négociation doit intégrer cette incertitude.
+
+Cette checklist évite de confondre marché porteur et bon achat. Un marché peut être dynamique tout en contenant des biens trop chers, mal documentés ou difficiles à revendre. À l’inverse, un marché plus calme peut offrir une bonne entrée lorsque le vendeur devient réaliste et que le dossier est solide.
 
 ## FAQ
 

@@ -14,7 +14,7 @@ tags:
   - property before 2030
 date: 2026-09-14
 updatedDate: 2026-09-15
-readingTime: 5
+readingTime: 6
 excerpt: 2030 can support some assets, but it does not automatically make every
   Marrakech purchase a good deal.
 heroImage: /images/articles/realestate-2026-09-14/marrakech-avant-2030-immobilier.webp
@@ -104,6 +104,33 @@ The 2030 effect is most plausible around tourism, the airport, access routes, se
 An international event can attract attention, but it does not change the fundamentals of a purchase: title, price, condition, charges, access, neighbourhood and real use. The World Cup can strengthen Marrakech’s visibility; it does not guarantee apartment income, villa resale or a riad’s tourist success.
 
 The asset must work before, during and after the event. A cautious strategy requires today’s price to be coherent, use to be credible outside the event and documents to be clear. Remove 2030 from the reasoning: if the property still makes sense, the file deserves attention; if it only works because of the story, the safety margin is weak.
+
+
+## Zones, timing and narrative price
+
+Districts do not react equally to a major event. Established areas may benefit from visibility but often already price in part of the expectation. Transforming areas may offer upside but carry execution risk: infrastructure delays, access quality, construction noise, incomplete services and uncertain final demand. Peripheral areas can look affordable, but liquidity depends on access and real use.
+
+Class each argument as already visible, officially committed or only anticipated by the market. The further away the argument, the stronger the prudence discount should be. Avoid narrative pricing: ask which project, what date, what distance, what effect on this property, and which comparable already proves it. If the answer is vague, return to use, rent, resale, documents, charges and price today.
+
+
+## Buyer profile compatible with 2030
+
+The 2030 horizon suits buyers who can wait and absorb uncertainty. A household buying to live may accept city works if daily use is good. A leveraged investor must be more cautious because infrastructure delay, lower occupancy or underestimated charges can weaken cash flow. The exposed profile combines high price, tight credit, optimistic rent and short resale horizon.
+
+
+## Prudence for already expensive assets
+
+The more a price already includes the 2030 story, the more current proof is needed: location, condition, documents, use, liquidity or income. Pay today’s value fairly and leave the future as upside.
+
+
+## Last prudence filter
+
+Imagine slower infrastructure, normalised tourism, unchanged financing and ordinary resale. If the asset still works, 2030 is upside; if not, the price mostly pays for narrative.
+
+
+## 2030 purchase decision
+
+Buy only if the property already answers a real need, today’s price is defensible, financing can absorb delay and resale remains possible outside the event.
 
 ## FAQ
 

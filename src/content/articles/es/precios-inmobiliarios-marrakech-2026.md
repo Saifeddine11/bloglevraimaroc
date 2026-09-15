@@ -16,7 +16,7 @@ tags:
   - Hivernage
 date: 2026-09-14
 updatedDate: 2026-09-15
-readingTime: 5
+readingTime: 6
 excerpt: Los precios por metro cuadrado en Marrakech son horquillas de mercado
   que deben verificarse inmueble por inmueble.
 heroImage: /images/articles/realestate-2026-09-14/prix-immobilier-marrakech-2026-septembre.webp
@@ -112,6 +112,18 @@ Para invertir, el precio solo tiene sentido con ingreso neto probable. Compárel
 Un piso, una villa y un riad de medina no siguen la misma lógica de valoración. El piso se compara por edificio, planta, superficie, aparcamiento, cargas y estado. La villa depende de terreno, acceso, piscina, mantenimiento, seguridad y jardín. El riad depende de estructura, permisos, acceso peatonal, obras, potencial turístico y restricciones patrimoniales.
 
 Antes de ofertar, construya una tabla de comparables con bienes realmente similares. Separe precio pedido, precio justificado por comparables y precio máximo aceptable. Incluya gastos, obras, muebles y financiación. Un precio puede estar “en mercado” y ser demasiado alto para su estrategia si el alquiler neto o la liquidez son débiles.
+
+
+## Construir un precio objetivo antes de visitar
+
+Llegue a la visita con una hipótesis, no solo con una impresión. Defina su precio máximo incluyendo gastos, obras, muebles, financiación y reserva. Después clasifique comparables: bienes realmente similares, bienes superiores que justifican prima y bienes inferiores que marcan suelo. En la visita, traduzca cada defecto en dinero o riesgo: cocina antigua, aire acondicionado débil, fachada cansada, ascensor incierto, falta de aparcamiento o mala gestión de comunidad.
+
+Superficie, título, reglamento de copropiedad, cargas impagadas, zonas comunes, acceso, ruido, orientación, calidad del edificio y situación fiscal pueden cambiar el valor tanto como el barrio. El precio por metro cuadrado ayuda, pero es un punto de partida.
+
+
+## Decisión final: cuándo el precio es aceptable
+
+Un precio es aceptable cuando comparables, costes, uso previsto y explicación de reventa encajan. Si no puede justificarlo sin repetir el relato del vendedor, la negociación no ha terminado. Si sigue teniendo sentido sin moda, optimismo 2030 ni alquiler supuesto, el expediente es más sólido.
 
 ## FAQ
 

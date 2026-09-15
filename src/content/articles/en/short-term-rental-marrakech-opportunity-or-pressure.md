@@ -14,7 +14,7 @@ tags:
   - rental yield Marrakech
 date: 2026-09-14
 updatedDate: 2026-09-15
-readingTime: 5
+readingTime: 6
 excerpt: Short-term rental can produce higher gross revenue, but net yield
   depends on management, costs and demand consistency.
 heroImage: /images/articles/realestate-2026-09-14/airbnb-location-longue-duree-marrakech-2026.webp
@@ -107,6 +107,28 @@ The break-even point matters. If loan payment and fixed costs reach 11,000 DH pe
 Optimistic simulations often forget linen replacement, damage, heavy air-conditioning use, subscriptions, professional photos, concierge commission, building works, guest response time, rating drops after incidents, furniture renewal and seasonal refresh. These costs do not necessarily destroy profitability, but they turn passive rent into active management.
 
 Long-term rental also has risks: unpaid rent, wear, vacancy, exit disputes and lower rent if the property ages badly. The choice depends on owner profile: available time, distance, risk tolerance, ability to delegate and maintenance budget. Always run optimistic, central and cautious yield scenarios before buying.
+
+
+## Compare net income, not turnover
+
+The Airbnb versus long-term decision must use annual net income. For short-term rental, deduct platforms, concierge, cleaning, linen, energy, internet, repairs, furniture renewal, tax, low season and works reserve. For long-term rental, deduct vacancy, unrecovered charges, maintenance, tax and unpaid-rent risk. Only then is the comparison meaningful.
+
+Short-term rental also requires an operating system: photos, listing, dynamic pricing, check-in, cleaning, linen, maintenance, fast replies, reviews and equipment replacement. Long-term rental has fewer operations but depends heavily on tenant selection, lease clarity and payment follow-up. The best strategy is the one the owner can manage well for years.
+
+
+## Decide according to involvement level
+
+The key question is who will do the work. An owner present in Marrakech does not carry the same risk as a remote owner fully dependent on a manager. Short-term rental suits owners ready to manage irregularity like a small business. Long-term rental suits owners looking for visibility and lower operational load.
+
+
+## Final questions before buying
+
+Test the property with lower occupancy, lower average price and higher costs. Decide who handles air-conditioning failures, neighbour complaints, bad reviews, damage and late arrivals. Demand may be strong, but income quality depends on daily execution.
+
+
+## Decision threshold
+
+The file is stronger when the cautious scenario works, the manager is identified, costs are budgeted and the exit strategy is clear.
 
 ## FAQ
 

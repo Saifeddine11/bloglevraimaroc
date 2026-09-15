@@ -15,7 +15,7 @@ tags:
   - rentabilidad alquiler
 date: 2026-09-14
 updatedDate: 2026-09-15
-readingTime: 5
+readingTime: 6
 excerpt: El alquiler corto puede facturar más en bruto, pero el neto depende de
   gestión, costes y demanda.
 heroImage: /images/articles/realestate-2026-09-14/airbnb-location-longue-duree-marrakech-2026.webp
@@ -107,6 +107,28 @@ El punto muerto importa. Si crédito y costes fijos suman 11.000 DH al mes, la o
 Las simulaciones optimistas olvidan ropa de cama, roturas, climatización intensa, suscripciones, fotos profesionales, comisión de conserjería, obras en el edificio, respuesta a viajeros, bajadas de nota, renovación de muebles y puesta a punto por temporada. No destruyen necesariamente la rentabilidad, pero convierten una renta pasiva en gestión activa.
 
 La larga duración también tiene riesgos: impagos, desgaste, vacancia, conflictos de salida y menor alquiler si el bien envejece mal. La elección depende del perfil del propietario: tiempo, distancia, tolerancia al riesgo, capacidad de delegar y presupuesto de mantenimiento. Calcule siempre escenarios optimista, central y prudente.
+
+
+## Comparar ingreso neto, no facturación
+
+La decisión Airbnb o larga duración debe usar ingreso neto anual. En corta duración, reste plataformas, conserjería, limpieza, ropa de cama, energía, internet, reparaciones, muebles, fiscalidad, temporada baja y reserva de obras. En larga duración, reste vacancia, cargas no recuperadas, mantenimiento, impuestos e impagos. Solo entonces la comparación tiene sentido.
+
+La corta duración exige sistema operativo: fotos, anuncio, precios dinámicos, llegada, limpieza, mantenimiento, respuestas rápidas, reseñas y reposición. La larga duración tiene menos operaciones pero depende de selección del inquilino, contrato claro y seguimiento de pagos. La mejor estrategia es la que el propietario puede gestionar bien durante años.
+
+
+## Decidir según implicación real
+
+La pregunta clave es quién hará el trabajo. Un propietario presente en Marrakech no asume el mismo riesgo que uno a distancia dependiente de un gestor. La corta duración conviene a quien acepta irregularidad y gestión casi comercial. La larga duración conviene a quien busca visibilidad y menor carga operativa.
+
+
+## Preguntas finales antes de comprar
+
+Pruebe el bien con menor ocupación, menor precio medio y mayores costes. Defina quién gestiona averías, quejas vecinales, malas reseñas, daños y llegadas tardías. La demanda puede ser fuerte, pero la calidad del ingreso depende de la ejecución diaria.
+
+
+## Umbral de decisión
+
+El expediente es más sólido si funciona en escenario prudente, hay gestor identificado, costes presupuestados y salida clara.
 
 ## FAQ
 

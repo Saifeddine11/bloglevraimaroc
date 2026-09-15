@@ -16,7 +16,7 @@ tags:
   - prijzen
 date: 2026-09-14
 updatedDate: 2026-09-15
-readingTime: 5
+readingTime: 6
 excerpt: "Marrakech blijft gefragmenteerd: officiële transacties, vraagprijzen
   en het 2030-verhaal zeggen niet hetzelfde."
 heroImage: /images/articles/realestate-2026-09-14/marche-immobilier-marrakech-2026-septembre.webp
@@ -118,6 +118,23 @@ In 2026 moeten kopers transacties, financiering, kwaliteit van nieuwbouw en verk
 | Is het 2030-verhaal gedocumenteerd? | Niet elke aankondiging wordt waarde. | Projecten zijn bevestigd of duidelijk gelabeld. |
 
 Op het juiste moment kopen betekent niet alleen een marktdieptepunt vinden. Het betekent dat prijs, financiering, documenten en gebruik coherent zijn. Marrakech kan tegelijk kansen in één segment en te hoge prijzen in een ander tonen.
+
+
+## Drie scenario’s voor de komende twaalf maanden
+
+Het centrale scenario is een selectieve markt: goed gelegen, gedocumenteerde en correct geprijsde panden vinden kopers, terwijl dure of onduidelijke dossiers langer online blijven. Een positiever scenario vraagt leesbare rente, sterke MRE-vraag en infrastructuurvooruitgang; voordeel raakt eerst gemakkelijk te begrijpen activa: centrale appartementen, goed gelegen villa’s, riads met duidelijke documenten en panden met echt gebruik.
+
+Een voorzichtig scenario blijft nodig. Als financiering strenger wordt, vraagprijzen loskomen van huurinkomen of verkopers 2030 overschatten, kan de markt vertragen. Waarde verdwijnt niet, maar liquiditeit daalt. Stem de analyse af op het profiel: bewoner, MRE, investeerder of patrimoniale koper dragen niet dezelfde risico’s.
+
+
+## Kwartaalindicatoren om te volgen
+
+Volg verkooptijd van vergelijkbare panden, verschil tussen vraag- en getekende prijs wanneer schatbaar, krediettoegang, nettohuren en documentkwaliteit. Lange advertenties, herhaalde kortingen, onvolledige dossiers of zwakke nettohuur zeggen meer dan brede gemiddelden. Een tragere markt kan kansen bieden als het pand duidelijk, onderhandelbaar en financierbaar is.
+
+
+## Laatste checklist vóór een bod
+
+Controleer vóór een bod vraagsegment, vergelijkbare prijs, financiering na lasten, volledige documenten en doorverkoop als de markt vertraagt. Een dynamische markt kan dure of onduidelijke panden bevatten; een rustigere markt kan kansen bieden bij een sterk dossier.
 
 ## FAQ
 

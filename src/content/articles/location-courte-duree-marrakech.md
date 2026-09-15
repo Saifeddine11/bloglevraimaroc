@@ -15,7 +15,7 @@ tags:
   - rendement locatif Marrakech
 date: 2026-09-14
 updatedDate: 2026-09-15
-readingTime: 7
+readingTime: 10
 excerpt: La courte durée peut rapporter plus en brut, mais le net dépend de la
   gestion, des coûts et de la régularité de la demande.
 heroImage: /images/articles/realestate-2026-09-14/airbnb-location-longue-duree-marrakech-2026.webp
@@ -124,6 +124,38 @@ La longue durée a aussi ses risques : impayés, usure, vacance entre deux locat
 ## Règle de prudence
 
 Avant d’acheter, calculez trois rendements : optimiste, central et prudent. Dans le scénario prudent, baissez le prix moyen, réduisez l’occupation, augmentez les frais et ajoutez une réserve travaux. Si le bien reste acceptable dans ce scénario, l’opération est plus solide. Si elle ne fonctionne que dans le scénario optimiste, elle relève davantage du pari que de l’investissement.
+
+
+## Comparer le net, pas le chiffre d’affaires
+
+La comparaison entre Airbnb et longue durée doit partir du revenu net annuel. Pour la courte durée, partez du chiffre d’affaires réaliste, puis retirez plateformes, conciergerie, ménage, linge, énergie, internet, petites réparations, renouvellement du mobilier, fiscalité, périodes creuses et réserve travaux. Pour la longue durée, partez du loyer annuel signé, puis retirez vacance, charges non récupérées, entretien, fiscalité et éventuels impayés. Ce n’est qu’après ces deux calculs que la comparaison a du sens.
+
+Un appartement qui semble produire 18 000 DH par mois en haute saison peut avoir un revenu annuel net proche d’une location longue durée si les frais sont élevés et si l’occupation chute hors saison. À l’inverse, un petit bien très bien placé, facile à gérer et bien noté peut dépasser la longue durée même après frais. Le résultat dépend moins de la plateforme que du couple emplacement-exécution.
+
+## Organisation opérationnelle
+
+La location courte durée impose un système : photos, annonce, prix dynamique, accueil, ménage, linge, maintenance, réponses rapides, gestion des avis, remplacement des équipements et contrôle de conformité. Si le propriétaire vit à l’étranger, il doit choisir entre délégation professionnelle et gestion familiale. La délégation réduit la charge mentale mais consomme une part du revenu. La gestion familiale peut coûter moins cher mais devient fragile si les rôles ne sont pas écrits.
+
+La longue durée demande moins d’opérations mais plus de sélection au départ. Le choix du locataire, la clarté du bail, l’état des lieux et le suivi des paiements déterminent la stabilité. Pour beaucoup de propriétaires, la meilleure stratégie n’est pas celle qui affiche le rendement brut le plus haut ; c’est celle qu’ils peuvent gérer correctement pendant plusieurs années.
+
+
+## Décider selon son propre niveau d’implication
+
+La question décisive n’est pas seulement “combien cela peut rapporter ?”, mais “qui va faire le travail ?”. Un propriétaire présent à Marrakech, capable de contrôler le ménage, d’ajuster les prix et de répondre vite aux problèmes, ne porte pas le même risque qu’un propriétaire à distance dépendant entièrement d’un prestataire. Une conciergerie sérieuse peut professionnaliser l’exploitation, mais elle doit être pilotée par des objectifs clairs : taux d’occupation, prix moyen, entretien, qualité des avis et budget de remplacement.
+
+La longue durée convient mieux à un propriétaire qui cherche visibilité et faible charge opérationnelle. La courte durée convient mieux à un propriétaire qui accepte l’irrégularité et suit l’actif comme une petite activité commerciale. Entre les deux, certains biens peuvent alterner selon saison ou usage personnel, mais cette stratégie exige encore plus d’organisation. Le bon choix n’est donc pas universel : il dépend du bien, du quartier, du temps disponible et de la capacité à absorber une mauvaise saison.
+
+
+## Questions finales avant achat
+
+Avant d’acheter pour louer en courte durée, demandez-vous si le bien peut être rentable avec un taux d’occupation plus faible, un prix moyen plus bas et des frais plus élevés que prévu. Demandez aussi qui intervient en cas de panne de climatisation, plainte de voisinage, mauvaise note, dégât ou arrivée tardive. Ces détails semblent opérationnels, mais ils déterminent la qualité du revenu.
+
+Si les réponses sont précises, la courte durée peut être une vraie stratégie. Si elles reposent sur l’idée que “la demande sera toujours là”, la prudence s’impose. Le marché touristique peut être porteur ; l’exploitation d’un logement reste concrète, quotidienne et exigeante.
+
+
+## Seuil de décision
+
+Le seuil de décision est atteint lorsque le bien reste acceptable dans le scénario prudent, que le gestionnaire est identifié, que les frais sont budgétés et que la stratégie de sortie existe. Sans ces quatre réponses, la courte durée peut fonctionner ponctuellement mais rester fragile comme investissement.
 
 ## FAQ
 

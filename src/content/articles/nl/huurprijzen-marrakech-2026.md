@@ -111,6 +111,28 @@ Onderhandeling hangt af van echte vraag en vastgoedkwaliteit. Een schoon gemeube
 
 De eigenaar vergelijkt maximale huur met leegstand. Een pand aan 10.000 DH dat drie maanden leeg staat, verdient minder dan een pand snel getekend aan 9.000 DH met betrouwbare huurder. Reken altijd jaarlijkse netto-inkomsten, niet alleen maandhuur. Het contract moet duur, huur, lasten, waarborg, gebruik, onderhoud, inventaris en vertrekregels bepalen.
 
+
+## Netto-inkomen voor de eigenaar berekenen
+
+Geadverteerde huur volstaat niet. Eigenaars berekenen netto-inkomen na leegstand, niet-verhaalbare lasten, onderhoud, belasting, verzekering, kleine herstellingen, vervanging en beheerkosten. Een huur van 8.000 DH kan minder aantrekkelijk zijn dan 7.300 DH als ze leegstand, meubels en instabiele huurders meebrengt.
+
+Koppel huur aan aankoopprijs. Een appartement van 1,2 miljoen DH met 84.000 DH bruto lijkt 7%, maar als netto 65.000 DH overblijft, verandert de lezing. Huurdersprofiel telt ook: gezinnen, jonge professionals, expats en bedrijven waarderen andere kenmerken. De juiste huur maximaliseert jaarlijks netto-inkomen met aanvaardbaar risico.
+
+
+## Wanneer een lagere huur zinvol is
+
+Een huurverlaging kan rationeel zijn als ze leegstand beperkt, een betrouwbare huurder verzekert of herhaalde beheerkosten vermijdt. Vergelijk de maandelijkse toegeving met de kost van leegstand. Eén lege maand kan een jaar kleine weigering uitwissen. Soms houdt een kleine verbetering de huur overeind; soms is de markt veranderd.
+
+
+## Checklist voor de juiste huur
+
+Gebruik vergelijkbare advertenties, echte aanvragen en gewenst netto-inkomen. Hoge advertenties met weinig bezoeken zijn een marktsignaal. Veel bezoeken met zwakke dossiers wijzen mogelijk op waarborg, contract, meubels of doelgroep. Goede huur balanceert inkomen, stabiliteit en huurderskwaliteit.
+
+
+## Marktdrempel
+
+Weinig gekwalificeerde aanvragen na weken betekenen dat de markt de huur corrige. Pas prijs, presentatie of doelgroep aan voordat leegstand zwaar weegt.
+
 ## FAQ
 
 <details><summary>Zijn de cijfers officieel?</summary><p>Officiële indicatoren worden gescheiden van private marktinschattingen en simulaties. Vraagprijzen zijn geen notariële transactieprijzen.</p></details>

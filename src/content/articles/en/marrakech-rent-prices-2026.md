@@ -15,7 +15,7 @@ tags:
   - Hivernage
 date: 2026-09-14
 updatedDate: 2026-09-15
-readingTime: 5
+readingTime: 6
 excerpt: Advertised rents in Marrakech vary strongly by district, furniture,
   quality, season and negotiation.
 heroImage: /images/articles/realestate-2026-09-14/loyer-marrakech-2026.webp
@@ -111,6 +111,28 @@ For investors, start from net rent. Deduct vacancy, service charges, maintenance
 Negotiation depends on real demand and property quality. A clean furnished apartment with parking and working air-conditioning negotiates less than a dark, noisy or poorly maintained unit. Tenants can negotiate when charges are high, furniture is old, works are needed or the lease requires a long commitment.
 
 Owners should compare maximum rent with vacancy. A property advertised at 10,000 DH but empty for three months earns less than one signed quickly at 9,000 DH with a reliable tenant. Always calculate annual net income, not only monthly rent. The lease should define duration, rent, charges, deposit, use, maintenance, inventory and exit rules.
+
+
+## Calculate owner net income
+
+Listed rent is not enough. Owners should calculate net income after vacancy, unrecovered charges, maintenance, tax, insurance, small repairs, equipment replacement and management fees. A rent of 8,000 DH can be less attractive than 7,300 DH if it creates vacancy, furniture replacement and unstable tenants.
+
+Relate rent to purchase price. A 1.2 million DH apartment producing 84,000 DH gross looks like 7%, but if net income falls to 65,000 DH after costs, the reading changes. Tenant profile also matters: families, young professionals, expats and corporate tenants do not value the same features. The right rent is the one that maximises annual net income with acceptable risk.
+
+
+## When accepting a lower rent makes sense
+
+A rent cut can be rational if it reduces vacancy, secures a reliable tenant or avoids repeated management costs. Compare the monthly concession with the cost of an empty unit. One vacant month can erase a year of refusing a small reduction. Sometimes small improvements preserve rent; sometimes the market has moved and the price must follow.
+
+
+## Checklist for setting rent
+
+Use comparable listings, real enquiries and desired net income. High listings with weak visits are a market signal. Many visits but weak files may point to guarantee, lease, furniture or targeting issues. Good rent balances income, stability and tenant quality.
+
+
+## Market threshold
+
+Few qualified enquiries after several weeks mean the market is already correcting the rent. Adjust price, presentation or target before vacancy becomes annual loss.
 
 ## FAQ
 

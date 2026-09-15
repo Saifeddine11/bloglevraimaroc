@@ -14,7 +14,7 @@ tags:
   - buy Morocco from abroad
 date: 2026-09-14
 updatedDate: 2026-09-15
-readingTime: 5
+readingTime: 6
 excerpt: An MRE can benefit if the file meets the general conditions; the main
   difficulty is remote verification.
 heroImage: /images/articles/realestate-2026-09-14/aide-logement-mre-maroc-2026.webp
@@ -110,6 +110,28 @@ The practical difficulty is distance. An MRE buyer must coordinate the platform,
 A cautious remote calendar starts before signing: eligibility check, notary identification, document request, power of attorney, bank coordination, transfers and Daam Sakane filing. It can take longer if foreign documents require translation or legalization, if the bank requests extra proof, or if the developer is slow to provide technical documents. Avoid unrealistic signature promises.
 
 After purchase, keep the documents and follow the obligations attached to the aid. If the situation changes, repayment and release of the State mortgage can become practical issues. If family occupation or rental is planned, confirm compatibility with the commitments before signing.
+
+
+## Bank file, transfers and power of attorney
+
+For MRE buyers, the sensitive point is coordination between bank, notary, developer and fund transfers. Banks may request foreign employment contracts, tax notices, bank statements, proof of residence, translations and income-stability evidence. Prepare them early because one missing item can delay approval or signing.
+
+Fund traceability also matters: origin, sending bank, beneficiary, transfer purpose and match with the signed price. A power of attorney can help, but it must identify the property, price, authorised acts, bank, payments, notary and limits. Written instructions protect both buyer and representative. Avoid reserving before checking eligibility, price ceiling, main-residence rules and the aid process.
+
+
+## Keeping control from abroad
+
+Remote buying requires one organised file: personal documents, property papers, bank simulation, transfer proof, notary correspondence, aid filing and receipts. Keep dates and contacts. A relative can visit and transmit information, but price changes, clauses and delivery acceptance should remain under written buyer instructions.
+
+
+## Operational sequence for MRE buyers
+
+Check eligibility, select a compatible property, collect documents, secure the bank, prepare power of attorney if needed, trace transfers, sign with the notary, follow the aid file and keep proof. Changing the order often creates delays or avoidable risk.
+
+
+## Last reflex before signing
+
+Before signing, the MRE buyer should be able to explain the property, price, funds, proof and post-purchase obligations clearly to bank, notary or administration.
 
 ## FAQ
 

@@ -15,7 +15,7 @@ tags:
   - inmobiliario 2030
 date: 2026-09-14
 updatedDate: 2026-09-15
-readingTime: 5
+readingTime: 6
 excerpt: 2030 puede apoyar algunos activos, pero no convierte toda compra en
   Marrakech en buena inversión.
 heroImage: /images/articles/realestate-2026-09-14/marrakech-avant-2030-immobilier.webp
@@ -105,6 +105,33 @@ El efecto 2030 parece más plausible cerca de turismo, aeropuerto, accesos, serv
 Un evento internacional atrae atención, pero no cambia los fundamentos de una compra: título, precio, estado, cargas, acceso, barrio y uso real. El Mundial puede reforzar la visibilidad de Marrakech; no garantiza ingresos de un piso, reventa de una villa ni éxito turístico de un riad.
 
 El activo debe funcionar antes, durante y después del evento. Una estrategia prudente exige precio coherente hoy, uso creíble fuera del evento y documentos claros. Quite 2030 del razonamiento: si el inmueble sigue teniendo sentido, merece atención; si solo funciona por la historia, el margen de seguridad es débil.
+
+
+## Zonas, tiempos y precio narrativo
+
+Los barrios no reaccionan igual a un gran evento. Las zonas consolidadas pueden ganar visibilidad, pero a menudo ya incorporan parte de la expectativa en el precio. Las zonas en transformación ofrecen potencial, pero también riesgo: retrasos, accesos, obras, servicios incompletos y demanda incierta. Las periferias parecen asequibles, pero la liquidez depende de acceso y uso real.
+
+Clasifique cada argumento: ya visible, oficialmente comprometido o solo anticipado por el mercado. Cuanto más lejano sea, mayor debe ser el descuento de prudencia. Evite pagar una narrativa: pregunte qué proyecto, fecha, distancia, efecto sobre este inmueble y qué comparable lo prueba. Si la respuesta es vaga, vuelva a uso, alquiler, reventa, documentos, cargas y precio actual.
+
+
+## Perfil compatible con el horizonte 2030
+
+El horizonte 2030 conviene a compradores capaces de esperar y absorber incertidumbre. Una familia que compra para vivir puede aceptar obras si el uso diario es bueno. Un inversor endeudado debe ser más prudente: retrasos, menor ocupación o cargas subestimadas dañan caja. El perfil expuesto combina precio alto, crédito ajustado, alquiler optimista y reventa corta.
+
+
+## Prudencia para bienes ya caros
+
+Cuanto más incluye el precio la historia 2030, más pruebas actuales hacen falta: ubicación, estado, documentos, uso, liquidez o ingreso. Pague el valor presente de forma justa y deje el futuro como potencial adicional.
+
+
+## Último filtro de prudencia
+
+Imagine infraestructuras más lentas, turismo normalizado, financiación estable y reventa ordinaria. Si el bien aún funciona, 2030 es potencial; si no, el precio paga relato.
+
+
+## Decisión de compra horizonte 2030
+
+Compre solo si el inmueble responde ya a una necesidad real, el precio actual se defiende, la financiación soporta retrasos y la reventa sigue posible fuera del evento.
 
 ## FAQ
 

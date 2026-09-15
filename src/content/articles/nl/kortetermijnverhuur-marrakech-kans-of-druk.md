@@ -108,6 +108,28 @@ Optimistische simulaties vergeten linnengoed, schade, intensieve airco, abonneme
 
 Langlopende verhuur heeft ook risico’s: wanbetaling, slijtage, leegstand, uitgangsconflicten en lagere huur als het pand slecht veroudert. De keuze hangt af van eigenaarsprofiel: tijd, afstand, risicotolerantie, delegatie en onderhoudsbudget. Reken altijd optimistische, centrale en voorzichtige scenario’s.
 
+
+## Vergelijk netto-inkomen, niet omzet
+
+De keuze Airbnb of langlopende huur moet op jaarlijks netto-inkomen steunen. Trek bij korte verhuur platformen, conciërge, schoonmaak, linnengoed, energie, internet, herstellingen, meubels, belasting, laagseizoen en werkenreserve af. Bij lange huur trekt u leegstand, niet-verhaalbare lasten, onderhoud, belasting en wanbetalingsrisico af. Pas dan is vergelijking zinvol.
+
+Korte verhuur vraagt een systeem: foto’s, advertentie, dynamische prijzen, aankomst, schoonmaak, onderhoud, snelle antwoorden, reviews en vervanging. Lange huur heeft minder operaties maar hangt af van huurdersselectie, duidelijk contract en betalingsopvolging. De beste strategie is wat de eigenaar jarenlang goed kan beheren.
+
+
+## Beslissen volgens eigen betrokkenheid
+
+De kernvraag is wie het werk doet. Een eigenaar in Marrakech draagt niet hetzelfde risico als een eigenaar op afstand die volledig van beheer afhangt. Korte verhuur past bij wie onregelmatigheid als kleine activiteit beheert. Lange huur past bij wie zichtbaarheid en minder operatie zoekt.
+
+
+## Laatste vragen vóór aankoop
+
+Test het pand met lagere bezetting, lagere gemiddelde prijs en hogere kosten. Bepaal wie aircopannes, burenklachten, slechte reviews, schade en late aankomsten beheert. De vraag kan sterk zijn, maar inkomen hangt af van dagelijkse uitvoering.
+
+
+## Beslissingsdrempel
+
+Het dossier is sterker wanneer het voorzichtige scenario werkt, beheer bekend is, kosten gebudgetteerd zijn en de exit duidelijk is.
+
 ## FAQ
 
 <details><summary>Zijn de cijfers officieel?</summary><p>Officiële indicatoren worden gescheiden van private marktinschattingen en simulaties. Vraagprijzen zijn geen notariële transactieprijzen.</p></details>

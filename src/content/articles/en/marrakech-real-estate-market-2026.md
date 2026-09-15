@@ -17,7 +17,7 @@ tags:
   - property prices
 date: 2026-09-14
 updatedDate: 2026-09-15
-readingTime: 5
+readingTime: 6
 excerpt: "Marrakech remains fragmented: official transactions, asking prices and
   2030 narratives do not say the same thing."
 heroImage: /images/articles/realestate-2026-09-14/marche-immobilier-marrakech-2026-septembre.webp
@@ -119,6 +119,23 @@ In 2026 buyers should watch transaction volume, financing conditions, new-build 
 | Is the 2030 story documented? | Not every announcement becomes value. | Projects are confirmed or clearly labelled. |
 
 Buying at the right time is not only about catching a low point. It is when price, financing, documents and intended use become coherent. Marrakech can offer opportunities in one segment and excessive prices in another at the same time.
+
+
+## Three scenarios for the next twelve months
+
+The central scenario is a selective market: well-located, documented and correctly priced assets keep finding buyers, while expensive or unclear files stay listed for longer. A more positive scenario requires readable rates, strong MRE demand and infrastructure progress, but any upside would first affect assets that are easy to understand: quality central apartments, well-located villas, riads with solid documents and properties with real use.
+
+A cautious scenario also matters. If financing tightens, asking prices drift away from rental income or sellers overprice the 2030 effect, the market can slow. Value does not vanish, but liquidity falls. Match the reading to the buyer profile: resident, MRE, investor or patrimonial buyer do not carry the same risks.
+
+
+## Quarterly indicators to follow
+
+Track sale time for comparable assets, the gap between asking and signed prices when it can be estimated, credit availability, net rents and document quality. Long listing times, repeated price cuts, incomplete files or weak net rents are stronger signals than broad averages. A slower market can still offer good opportunities when the asset is clear, negotiable and financeable.
+
+
+## Final checklist before making an offer
+
+Before offering, check demand segment, comparable price, financing after charges, document completeness and resale credibility if the market slows. A dynamic market can still contain overpriced or unclear assets; a calmer market can offer good entries when the file is solid.
 
 ## FAQ
 

@@ -111,6 +111,18 @@ Een appartement, villa en medina-riad volgen niet dezelfde waarderingslogica. Ap
 
 Maak vóór een bod een vergelijkingsrooster met echt gelijkaardige panden. Scheid vraagprijs, prijs op basis van vergelijkingen en uw maximale prijs. Tel aankoopkosten, werken, meubels en financiering mee. Een prijs kan “marktconform” zijn en toch te hoog voor uw strategie wanneer nettohuur of verkoopbaarheid zwak zijn.
 
+
+## Bepaal een richtprijs vóór het bezoek
+
+Ga naar een bezichtiging met een hypothese, niet alleen met een indruk. Bepaal uw maximale prijs inclusief kosten, werken, meubels, financiering en reserve. Klasseer daarna vergelijkingen: echt gelijkaardige panden, betere panden met premie en zwakkere panden als ondergrens. Vertaal elk gebrek in geld of risico: oude keuken, zwakke airco, vermoeide gevel, onzekere lift, geen parking of slecht gebouwbeheer.
+
+Oppervlakte, titel, mede-eigendomsregels, onbetaalde lasten, gemeenschappelijke delen, toegang, lawaai, oriëntatie, gebouwkwaliteit en fiscale situatie kunnen de waarde even sterk wijzigen als de wijk. Prijs per vierkante meter blijft een beginpunt.
+
+
+## Eindbeslissing: wanneer de prijs aanvaardbaar wordt
+
+Een prijs is aanvaardbaar wanneer vergelijkingen, kosten, bedoeld gebruik en doorverkoopuitleg samenvallen. Kunt u hem alleen verdedigen met het verhaal van de verkoper, dan is de onderhandeling niet klaar. Blijft de prijs logisch zonder mode, 2030-optimisme en huurveronderstellingen, dan is het dossier sterker.
+
 ## FAQ
 
 <details><summary>Zijn de cijfers officieel?</summary><p>Officiële indicatoren worden gescheiden van private marktinschattingen en simulaties. Vraagprijzen zijn geen notariële transactieprijzen.</p></details>

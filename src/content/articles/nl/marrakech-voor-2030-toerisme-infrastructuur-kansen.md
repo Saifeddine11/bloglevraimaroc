@@ -105,6 +105,33 @@ Een internationaal evenement trekt aandacht, maar verandert de basis van een aan
 
 Het pand moet vóór, tijdens en na het evenement werken. Een voorzichtige strategie vraagt een coherente prijs vandaag, geloofwaardig gebruik buiten het evenement en duidelijke documenten. Haal 2030 uit de redenering: blijft het pand logisch, dan verdient het aandacht; werkt het alleen door het verhaal, dan is de veiligheidsmarge zwak.
 
+
+## Zones, timing en verhaalprijs
+
+Wijken reageren niet gelijk op een groot evenement. Gevestigde zones profiteren van zichtbaarheid, maar prijzen vaak al verwachting in. Zones in transformatie bieden potentieel maar dragen uitvoeringsrisico: vertragingen, toegang, werken, onvolledige diensten en onzekere vraag. Perifere zones lijken betaalbaar, maar liquiditeit hangt af van bereikbaarheid en echt gebruik.
+
+Klasseer elk argument: al zichtbaar, officieel vastgelegd of alleen door de markt verwacht. Hoe verder weg, hoe sterker de voorzichtigheidskorting. Vermijd verhaalprijzen: vraag welk project, welke datum, welke afstand, welk effect op dit pand en welke vergelijking het bewijst. Blijft het vaag, keer terug naar gebruik, huur, doorverkoop, documenten, lasten en prijs vandaag.
+
+
+## Kopersprofiel dat bij 2030 past
+
+De horizon 2030 past bij kopers die kunnen wachten en onzekerheid dragen. Een gezin dat wil wonen kan stadswerken aanvaarden als dagelijks gebruik goed is. Een sterk gefinancierde investeerder moet voorzichtiger zijn: vertraging, lagere bezetting of onderschatte lasten raken cashflow. Het kwetsbare profiel combineert hoge prijs, krap krediet, optimistische huur en korte doorverkoop.
+
+
+## Voorzichtigheid bij al dure panden
+
+Hoe meer de prijs het 2030-verhaal al bevat, hoe meer huidig bewijs nodig is: ligging, staat, documenten, gebruik, liquiditeit of inkomen. Betaal de huidige waarde eerlijk en laat de toekomst als extra potentieel.
+
+
+## Laatste voorzichtigheidsfilter
+
+Stel tragere infrastructuur, genormaliseerd toerisme, onveranderde financiering en gewone doorverkoop voor. Werkt het pand nog, dan is 2030 opwaarts potentieel; anders betaalt de prijs vooral verhaal.
+
+
+## Aankoopbeslissing richting 2030
+
+Koop alleen als het pand nu al een echte behoefte beantwoordt, de huidige prijs verdedigbaar is, financiering vertraging kan dragen en doorverkoop buiten het evenement mogelijk blijft.
+
 ## FAQ
 
 <details><summary>Zijn de cijfers officieel?</summary><p>Officiële indicatoren worden gescheiden van private marktinschattingen en simulaties. Vraagprijzen zijn geen notariële transactieprijzen.</p></details>

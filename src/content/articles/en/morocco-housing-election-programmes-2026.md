@@ -15,7 +15,7 @@ tags:
   - social housing
 date: 2026-09-14
 updatedDate: 2026-09-15
-readingTime: 5
+readingTime: 6
 excerpt: Housing proposals should be read as documented political commitments,
   not enacted measures.
 heroImage: /images/articles/realestate-2026-09-14/logement-elections-maroc-2026.webp
@@ -115,6 +115,23 @@ Programmes can influence expectations, but they do not instantly change a proper
 | Urban planning | Land, density, transport, facilities | Determines real medium-term supply. |
 
 After the vote, follow published laws, budgets, tenders, developer agreements, tax measures and beneficiary statistics. Promises not translated into instruments remain intentions.
+
+
+## Promise, budget measure and applicable rule
+
+An electoral promise does not automatically create a right. It must become a government choice, funding, regulation, administrative procedure, operational counter and calendar. Between announcement and execution, price ceilings, eligible buyers, residence rules, links with Daam Sakane, bank financing and document controls can change.
+
+Follow the finance bill, housing-ministry communications, circulars, filing platforms, price criteria, MRE treatment, payment timing and bank requirements. Until the applicable rule exists, treat a promised aid as a possible bonus, not as a condition of solvency. Market impact will depend on the segment: affordable main residence, eligible new apartment, intermediate product or rental investment.
+
+
+## How buyers should use the comparison
+
+Use the comparison to prepare a decision, not to predict politics. If the purchase works only with a promised measure, postpone or reduce budget because a promise can be delayed, changed or conditioned. If it works without it, future aid improves comfort without making the file dependent on an electoral calendar. Investors should still analyse yield, vacancy, charges, tax and resale after the announcement effect fades.
+
+
+## Practical conclusion for September 2026
+
+Read programmes as political signals, not purchase rules. They show themes that may shape debate, but they do not replace applicable texts. Prepare the file, watch the rules and verify the property before turning any promise into a buying price.
 
 ## FAQ
 

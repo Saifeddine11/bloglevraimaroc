@@ -119,6 +119,13 @@ Vraag schriftelijke antwoorden over nominale rente, totale kost, verzekering, do
 
 Bij verhuurinvestering volstaat bankgoedkeuring niet. Een maandlast van 7.750 DH is alleen comfortabel wanneer het pand genoeg netto-inkomen produceert of wanneer de koper maandelijkse cashinbreng aanvaardt. Test de lening vóór ondertekening met langlopende huur, kortetermijnrisico, lasten en verkoopbaarheid.
 
+
+## Laatste controle vóór aanvaarding van de lening
+
+Lees een hypotheekaanbod als een langetermijnverbintenis. Controleer of de aflossingstabel overeenkomt met het echte leenbedrag, of verzekering in de maandlast zit, of dossierkosten zijn geprijsd, of de looptijd past bij uw leeftijd en of vervroegde terugbetaling schriftelijk staat. Een lage hoofdrente kan verdwijnen door dure verzekering of verplichte pakketten.
+
+Test de lening met veiligheidsmarge: mede-eigendomslasten, lokale belasting, onderhoud, kleine herstellingen, reizen en kasreserve. Voor investering rekent u met lagere huur en leegstand. Werkt het alleen in het beste scenario, dan ligt het risico bij de totale structuur.
+
 ## FAQ
 
 <details><summary>Zijn de cijfers officieel?</summary><p>Officiële indicatoren worden gescheiden van private marktinschattingen en simulaties. Vraagprijzen zijn geen notariële transactieprijzen.</p></details>

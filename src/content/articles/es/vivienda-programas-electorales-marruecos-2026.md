@@ -117,6 +117,23 @@ Los programas influyen en expectativas, pero no cambian al instante el valor de 
 
 Después del voto, siga leyes publicadas, presupuestos, concursos, convenios con promotores, medidas fiscales y estadísticas de beneficiarios. Las promesas no traducidas en instrumentos siguen siendo intenciones.
 
+
+## Promesa, medida presupuestaria y regla aplicable
+
+Una promesa electoral no crea automáticamente un derecho. Debe convertirse en decisión gubernamental, financiación, texto, procedimiento, ventanilla operativa y calendario. Entre anuncio y ejecución pueden cambiar techos de precio, compradores elegibles, residencia, relación con Daam Sakane, financiación bancaria y controles documentales.
+
+Siga ley de finanzas, comunicaciones del ministerio, circulares, plataformas, criterios de precio, tratamiento MRE, plazos de pago y exigencias bancarias. Hasta que exista la regla aplicable, trate la ayuda prometida como bonus posible, no como condición de solvencia. El impacto dependerá del segmento: residencia principal asequible, piso nuevo elegible, producto intermedio o inversión locativa.
+
+
+## Cómo usar la comparación
+
+Use la comparación para preparar una decisión, no para predecir política. Si la compra solo funciona con una medida prometida, posponga o reduzca presupuesto: puede retrasarse, cambiar o condicionarse. Si funciona sin ella, la ayuda mejora comodidad sin depender del calendario electoral. Inversores deben seguir mirando rendimiento, vacancia, cargas, fiscalidad y reventa.
+
+
+## Conclusión práctica para septiembre de 2026
+
+Lea programas como señales políticas, no reglas de compra. Muestran temas del debate, pero no sustituyen textos aplicables. Prepare el expediente, siga las reglas y verifique el inmueble antes de convertir una promesa en precio.
+
 ## FAQ
 
 <details><summary>¿Las cifras son oficiales?</summary><p>Los indicadores oficiales se separan de estimaciones privadas y simulaciones. Los precios anunciados no son precios notariales.</p></details>

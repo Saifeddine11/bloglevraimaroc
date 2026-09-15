@@ -122,6 +122,13 @@ Pida respuestas por escrito sobre tipo nominal, coste total, seguro, gastos de e
 
 En inversión locativa, la aprobación bancaria no basta. Una cuota de 7.750 DH solo es cómoda si el activo produce ingreso neto suficiente o si el comprador acepta aportar caja cada mes. Pruebe el crédito con alquiler de larga duración, riesgo de corta duración, cargas y liquidez de reventa antes de firmar.
 
+
+## Última comprobación antes de aceptar el préstamo
+
+Antes de aceptar una oferta, léala como un compromiso a largo plazo. Compruebe que el cuadro de amortización corresponde al importe real, que el seguro está incluido en el presupuesto mensual, que los gastos de expediente están cuantificados, que el plazo encaja con su edad y que las reglas de amortización anticipada están escritas. Un tipo atractivo puede quedar anulado por un seguro caro o paquetes obligatorios.
+
+Pruebe el crédito con margen de seguridad: comunidad, impuestos locales, mantenimiento, pequeñas reparaciones, viajes y reserva de tesorería. Para inversión, calcule con menor alquiler y vacancia. Si el equilibrio solo funciona en el mejor escenario, el riesgo no es el tipo sino la estructura global.
+
 ## FAQ
 
 <details><summary>¿Las cifras son oficiales?</summary><p>Los indicadores oficiales se separan de estimaciones privadas y simulaciones. Los precios anunciados no son precios notariales.</p></details>

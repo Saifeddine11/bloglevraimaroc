@@ -118,6 +118,23 @@ Programma’s beïnvloeden verwachtingen, maar veranderen niet meteen de waarde 
 
 Na de stemming volgt u gepubliceerde wetten, budgetten, aanbestedingen, overeenkomsten met ontwikkelaars, fiscale maatregelen en begunstigdenstatistieken. Beloften zonder instrument blijven intenties.
 
+
+## Belofte, begrotingsmaatregel en toepasbare regel
+
+Een verkiezingsbelofte creëert niet automatisch een recht. Ze moet regeringkeuze, financiering, tekst, procedure, loket en kalender worden. Tussen aankondiging en uitvoering kunnen prijsplafonds, doelgroepen, verblijfsregels, koppeling met Daam Sakane, bankfinanciering en documentcontrole veranderen.
+
+Volg de begrotingswet, communicatie van het ministerie, circulaires, platformen, prijscriteria, MRE-behandeling, betalingstermijnen en bankeisen. Zolang de toepasbare regel niet bestaat, is beloofde steun een mogelijke bonus, geen solvabiliteitsvoorwaarde. Impact hangt af van segment: betaalbare hoofdwoning, nieuw appartement, tussenproduct of verhuurinvestering.
+
+
+## Hoe kopers de vergelijking gebruiken
+
+Gebruik de vergelijking om een beslissing voor te bereiden, niet om politiek te voorspellen. Werkt de aankoop alleen met beloofde steun, stel uit of verlaag budget: een belofte kan vertragen, wijzigen of voorwaarden krijgen. Werkt ze zonder steun, dan verhoogt hulp comfort zonder verkiezingsafhankelijkheid. Investeerders blijven rendement, leegstand, lasten, fiscaliteit en doorverkoop analyseren.
+
+
+## Praktische conclusie voor september 2026
+
+Lees programma’s als politieke signalen, geen aankoopregels. Ze tonen debatthema’s maar vervangen geen toepasbare teksten. Bereid het dossier voor, volg de regels en controleer het pand voordat een belofte aankoopprijs wordt.
+
 ## FAQ
 
 <details><summary>Zijn de cijfers officieel?</summary><p>Officiële indicatoren worden gescheiden van private marktinschattingen en simulaties. Vraagprijzen zijn geen notariële transactieprijzen.</p></details>

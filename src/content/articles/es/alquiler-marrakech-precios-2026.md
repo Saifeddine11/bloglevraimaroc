@@ -15,7 +15,7 @@ tags:
   - Hivernage
 date: 2026-09-14
 updatedDate: 2026-09-15
-readingTime: 5
+readingTime: 6
 excerpt: Los alquileres anunciados en Marrakech varían según barrio, mobiliario,
   nivel, temporada y negociación.
 heroImage: /images/articles/realestate-2026-09-14/loyer-marrakech-2026.webp
@@ -111,6 +111,28 @@ Para invertir, empiece por el alquiler neto: vacancia, comunidad, mantenimiento,
 La negociación depende de la demanda real y de la calidad del bien. Un piso limpio, amueblado, con aparcamiento y aire acondicionado funcional se negocia menos que uno oscuro, ruidoso o mal mantenido. El inquilino puede negociar si las cargas son altas, los muebles antiguos, hacen falta obras o el contrato exige una duración larga.
 
 El propietario debe comparar alquiler máximo y vacancia. Un bien anunciado a 10.000 DH pero vacío tres meses gana menos que uno firmado rápido a 9.000 DH con inquilino fiable. Calcule siempre ingreso anual neto, no solo alquiler mensual. El contrato debe definir duración, renta, cargas, depósito, uso, mantenimiento, inventario y salida.
+
+
+## Calcular ingreso neto del propietario
+
+El alquiler anunciado no basta. El propietario debe calcular ingreso neto después de vacancia, cargas no recuperadas, mantenimiento, impuestos, seguro, pequeñas reparaciones, reposición de equipos y gestión. Un alquiler de 8.000 DH puede ser peor que 7.300 DH si implica vacancia, muebles nuevos e inquilino inestable.
+
+Relacione renta y precio de compra. Un piso de 1,2 millones DH que produce 84.000 DH brutos parece 7%, pero si el neto baja a 65.000 DH tras costes, la lectura cambia. El perfil del inquilino también importa: familias, jóvenes activos, expatriados y empresas no valoran lo mismo. El buen alquiler maximiza ingreso anual neto con riesgo aceptable.
+
+
+## Cuándo aceptar una bajada de alquiler
+
+Una bajada puede ser racional si reduce vacancia, asegura un inquilino fiable o evita costes repetidos. Compare la concesión mensual con el coste de un piso vacío. Un mes de vacancia puede borrar un año de rechazo a una pequeña rebaja. A veces una mejora mantiene la renta; a veces el mercado cambió y el precio debe seguir.
+
+
+## Checklist para fijar alquiler
+
+Use anuncios comparables, demandas reales e ingreso neto deseado. Anuncios altos con pocas visitas son señal de mercado. Muchas visitas con expedientes débiles pueden indicar problema de garantías, contrato, muebles o público objetivo. El buen alquiler equilibra ingreso, estabilidad y calidad del inquilino.
+
+
+## Umbral de mercado
+
+Pocas demandas calificadas tras varias semanas indican que el mercado ya corrige la renta. Ajuste precio, presentación o público antes de que la vacancia pese.
 
 ## FAQ
 

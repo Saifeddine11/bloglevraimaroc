@@ -17,7 +17,7 @@ tags:
   - Hivernage
 date: 2026-09-14
 updatedDate: 2026-09-15
-readingTime: 9
+readingTime: 10
 excerpt: Les prix au m² à Marrakech doivent être lus comme des fourchettes de
   marché, puis vérifiés bien par bien.
 heroImage: /images/articles/realestate-2026-09-14/prix-immobilier-marrakech-2026-septembre.webp
@@ -134,6 +134,26 @@ L’offre doit intégrer les frais d’acquisition, les travaux, l’ameublement
 ## Signaux que le prix est fragile
 
 Méfiez-vous d’un prix justifié seulement par « 2030 », d’un vendeur qui refuse les comparables, d’une surface calculée de manière floue, de charges non communiquées, de travaux minimisés ou d’un titre/document incomplet. Le prix d’un bien immobilier n’est pas une phrase de brochure : c’est la somme d’un emplacement, d’un actif, de documents, d’un revenu possible et d’une sortie réaliste.
+
+
+## Construire un prix cible avant la visite
+
+La bonne méthode consiste à arriver en visite avec une hypothèse, pas avec une impression. Définissez d’abord le prix maximal que vous pouvez accepter en intégrant frais d’acquisition, travaux, ameublement, financement et réserve. Ensuite, classez les comparables en trois groupes : biens vraiment similaires, biens supérieurs qui justifient une prime, biens inférieurs qui servent de plancher. Cette grille évite de négocier uniquement à partir du prix demandé par le vendeur.
+
+Pendant la visite, chaque défaut doit être traduit en impact financier ou en risque. Une cuisine ancienne, une climatisation à remplacer, une façade fatiguée, un ascenseur incertain, un parking manquant ou une copropriété peu organisée ne se valent pas. Certains défauts se réparent facilement ; d’autres réduisent la liquidité du bien pendant des années. Le prix cible doit donc distinguer les travaux immédiats, les charges futures et la difficulté de revente.
+
+## Vérifications qui changent la valeur
+
+La surface exacte, le titre foncier, le règlement de copropriété, les impayés de charges, l’état des parties communes, l’accès, le bruit, l’orientation, la qualité de l’immeuble et la situation fiscale peuvent modifier la valeur autant que le quartier. Deux appartements à Guéliz peuvent avoir le même prix au mètre carré et des profils totalement différents si l’un dispose d’un parking titré, d’un immeuble bien géré et d’un bon étage, tandis que l’autre cumule bruit, charges floues et travaux.
+
+Pour un riad, la valeur dépend encore davantage de la structure, de l’accès chantier, des autorisations et du budget de rénovation. Pour une villa, elle dépend du terrain, de l’entretien, de la sécurité et de la consommation future. Le prix au mètre carré reste utile, mais il doit rester un point de départ, pas une conclusion.
+
+
+## Décision finale : quand le prix devient acceptable
+
+Un prix devient acceptable quand quatre éléments se rejoignent. D’abord, il reste comparable à des biens réellement proches, pas seulement à des annonces ambitieuses. Ensuite, il laisse une marge pour les frais et les travaux identifiés. Troisièmement, il reste cohérent avec l’usage prévu : résidence principale, pied-à-terre, location longue durée, courte durée ou revente patrimoniale. Enfin, il peut être expliqué simplement à un futur acheteur ou à une banque.
+
+Si vous ne pouvez pas justifier le prix sans répéter l’argument du vendeur, la négociation n’est pas terminée. Si le prix reste défendable même après avoir retiré l’effet mode, l’effet 2030 et l’optimisme locatif, le dossier devient plus solide. Cette discipline n’empêche pas d’acheter un bien rare ; elle évite seulement de payer une rareté qui n’existe pas vraiment.
 
 ## FAQ
 

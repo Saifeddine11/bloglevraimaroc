@@ -121,6 +121,13 @@ Ask for written answers on the nominal rate, full cost, insurance, file fees, ea
 
 For rental investment, bank approval is not enough. A monthly payment of 7,750 DH is manageable only if the asset produces enough net income or the buyer accepts a monthly cash contribution. Test the mortgage against long-term rent, short-term-rental execution risk, service charges and resale liquidity before signing.
 
+
+## Final check before accepting a loan
+
+Before accepting a mortgage offer, read it as a long-term commitment. Check that the amortisation table matches the real borrowed amount, that insurance is included in the monthly budget, that file fees are priced, that the term is realistic for your age and that early-repayment rules are written. A low headline rate can be offset by expensive insurance or mandatory banking packages.
+
+Test the loan with a safety margin: service charges, municipal tax, maintenance, small repairs, travel and cash reserve. For investment, run the numbers with lower rent and vacancy. If the balance works only in the best scenario, the risk is not the rate but the whole structure.
+
 ## FAQ
 
 <details><summary>Are the figures official?</summary><p>Official indicators are separated from private market estimates and simulations. Listing ranges are not notarized transaction prices.</p></details>
