@@ -896,6 +896,19 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
         ],
       },
       {
+        heading: 'S.A.F.E et immobilier de prestige',
+        body: [
+          "Dans les transactions de prestige, un prix record ne suffit pas à qualifier un dossier. S.A.F.E permet d'organiser les questions autour du titre, de la confidentialité, du périmètre exact de surface, des travaux, de l'usage autorisé, de la liquidité et de la cohérence du prix avec de vrais comparables.",
+          "Cette lecture reste méthodologique : elle ne transforme pas une villa, un hôtel particulier, un château ou un actif rare en placement garanti. Elle aide surtout à distinguer ce qui est documenté, ce qui relève d'une source de presse, ce qui doit être confirmé par les professionnels compétents et ce qui peut changer le coût total de détention.",
+        ],
+        bullets: [
+          "Vérifier si le prix cité provient d'un acte, d'une base spécialisée, d'un agent ou d'une source de presse.",
+          "Séparer surface habitable, terrain, annexes, mobilier, droits attachés et travaux futurs.",
+          "Lire le prestige avec la liquidité : un actif rare peut être puissant et difficile à revendre.",
+          "Documenter les risques juridiques, techniques, fiscaux et patrimoniaux avant toute décision.",
+        ],
+      },
+      {
         heading: 'Ce que S.A.F.E promet et ce que S.A.F.E ne promet pas',
         body: [
           "La promesse de S.A.F.E est méthodologique : réduire les zones floues, structurer la comparaison entre projets, rendre visibles les documents manquants et aider l’acheteur à décider avec plus de discipline.",
@@ -1067,6 +1080,19 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
           'OFF MARKET OFFICIAL does not only identify available properties. The projects it presents go through the S.A.F.E grid, structured around four pillars: project security, investment analysis, execution fidelity and buyer guidance.',
           'This analysis covers the developer, file clarity, payment terms, price coherence, announced materials and specifications, progress, delivery conditions, information transparency and suitability for the buyer profile.',
           'Applying S.A.F.E does not guarantee the complete absence of risk and does not replace checks by a notary, lawyer, technical expert or tax adviser. It is an additional pre-screening filter before presentation.',
+        ],
+      },
+      {
+        heading: 'S.A.F.E and Trophy Real Estate',
+        body: [
+          'In trophy transactions, a record price is not enough to qualify a file. S.A.F.E helps organize questions around title, privacy, exact surface perimeter, works, authorized use, liquidity and price coherence against real comparables.',
+          'This reading remains methodological: it does not turn a villa, townhouse, château or rare asset into a guaranteed investment. It mainly separates what is documented, what comes from press reporting, what must be confirmed by qualified professionals and what can change the total cost of ownership.',
+        ],
+        bullets: [
+          'Check whether the quoted price comes from a deed, specialist database, agent or press source.',
+          'Separate living area, land, annexes, furniture, attached rights and future works.',
+          'Read prestige with liquidity: a rare asset can be powerful and hard to resell.',
+          'Document legal, technical, tax and heritage risks before any decision.',
         ],
       },
       {
@@ -1242,6 +1268,19 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
         ],
       },
       {
+        heading: 'S.A.F.E e inmobiliario de prestigio',
+        body: [
+          'En las transacciones de prestigio, un precio récord no basta para calificar un expediente. S.A.F.E ayuda a ordenar preguntas sobre título, confidencialidad, perímetro exacto de superficie, obras, uso autorizado, liquidez y coherencia del precio frente a comparables reales.',
+          'Esta lectura sigue siendo metodológica: no convierte una villa, un hôtel particulier, un château o un activo raro en inversión garantizada. Sirve sobre todo para separar lo documentado, lo procedente de prensa, lo que debe confirmar un profesional cualificado y lo que puede cambiar el coste total de tenencia.',
+        ],
+        bullets: [
+          'Comprobar si el precio citado procede de una escritura, una base especializada, un agente o una fuente de prensa.',
+          'Separar superficie habitable, terreno, anexos, mobiliario, derechos vinculados y obras futuras.',
+          'Leer el prestigio con la liquidez: un activo raro puede ser poderoso y difícil de revender.',
+          'Documentar riesgos jurídicos, técnicos, fiscales y patrimoniales antes de decidir.',
+        ],
+      },
+      {
         heading: 'Qué promete S.A.F.E y qué no promete',
         body: [
           'La promesa de S.A.F.E es metodológica: reducir zonas ciegas, estructurar la comparación entre proyectos, hacer visibles documentos faltantes y ayudar a decidir con más disciplina.',
@@ -1409,6 +1448,19 @@ export const safePageCopies: Record<Locale, SafePageCopy> = {
           'OFF MARKET OFFICIAL beperkt zich niet tot het identificeren van beschikbare panden. De gepresenteerde projecten gaan door de S.A.F.E-matrix, opgebouwd rond vier pijlers: projectzekerheid, investeringsanalyse, uitvoeringsbetrouwbaarheid en kopersbegeleiding.',
           'Deze analyse omvat ontwikkelaar, dossierduidelijkheid, betalingsvoorwaarden, prijscoherentie, aangekondigde materialen en prestaties, voortgang, opleveringsvoorwaarden, informatietransparantie en geschiktheid voor het kopersprofiel.',
           'De toepassing van S.A.F.E garandeert niet dat elk risico afwezig is en vervangt geen controles door notaris, advocaat, technisch expert of fiscaal adviseur. Ze vormt een extra voorselectiefilter vóór presentatie.',
+        ],
+      },
+      {
+        heading: 'S.A.F.E en prestigieus vastgoed',
+        body: [
+          'Bij prestigetransacties volstaat een recordprijs niet om een dossier te kwalificeren. S.A.F.E helpt vragen ordenen rond titel, privacy, exacte oppervlakteafbakening, werken, toegestaan gebruik, liquiditeit en prijscoherentie tegenover echte vergelijkingen.',
+          'Deze lezing blijft methodologisch: zij maakt van een villa, hôtel particulier, kasteel of zeldzaam actief geen gegarandeerde belegging. Ze scheidt vooral wat gedocumenteerd is, wat uit persberichtgeving komt, wat door gekwalificeerde professionals moet worden bevestigd en wat de totale bezitkost kan veranderen.',
+        ],
+        bullets: [
+          'Controleer of de geciteerde prijs uit een akte, gespecialiseerde databank, makelaar of persbron komt.',
+          'Scheid woonoppervlakte, grond, bijgebouwen, meubels, gekoppelde rechten en toekomstige werken.',
+          'Lees prestige samen met liquiditeit: een zeldzaam actief kan sterk en moeilijk verkoopbaar zijn.',
+          'Documenteer juridische, technische, fiscale en erfgoedrisico’s vóór elke beslissing.',
         ],
       },
       {
