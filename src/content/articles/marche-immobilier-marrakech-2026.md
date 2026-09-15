@@ -61,8 +61,8 @@ Mise à jour : **14 septembre 2026**.
 |---|---|---|
 | Registered transactions | Read through ANCFCC/BAM indicators | Useful for trend, limited for micro-neighborhood pricing. |
 | Asking prices | Read through portals and local agencies | Useful for negotiation range, not a signed price. |
-| New-build / off-plan | Often premium-priced | Requires developer, permit, schedule and delivery checks. |
-| Resale | Visible asset and charges | Requires title, building condition and negotiation analysis. |
+| Neuf / achat sur plan | Souvent vendu avec prime | Vérifier promoteur, permis, calendrier et conditions de livraison. |
+| Revente | Bien visible et charges observables | Vérifier titre, état de l’immeuble et marge de négociation. |
 
 ## Is the market really recovering?
 
