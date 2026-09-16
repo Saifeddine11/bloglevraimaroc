@@ -66,10 +66,10 @@ Die lagen blijven bewust gescheiden. Een officiële verlenging bevestigt niet au
 
 ## Wat nog niet bevestigd is
 
-Geen geraadpleegde openbare bron geeft een volledig Marokkaans schema, precieze adressen, scènes of definitieve voertuiglijst. Netflix heeft Accrocar niet publiek als partner bevestigd. We vonden ook het openbare register voor **Moonage Pictures (The Gentlemen) Limited**, terwijl Accrocars eerstehands relaas **“Montage Pictures”** noemt. Zonder verbindend document behandelen we die namen niet als uitwisselbaar.
+Geen geraadpleegde openbare bron geeft een volledig Marokkaans schema, precieze adressen, scènes of definitieve voertuiglijst. Netflix heeft Accrocar niet publiek als partner bevestigd.
 
 De gepubliceerde beelden zijn privacyveilige afgeleiden: metadata zijn verwijderd en uitsneden sluiten kentekens, personen en gevoelige locatiekenmerken uit. Originelen blijven buiten de publieke websiteboom.
-Accrocar zegt te hebben meegewerkt aan de Marokkaanse voertuigoperatie, met Dune Films en een tweede bedrijf dat in het aangeleverde relaas “Montage Pictures” heet. Openbare credits noemen afzonderlijk Moonage Pictures; wij hebben niet vastgesteld dat beide namen naar dezelfde entiteit verwijzen.
+Accrocar zegt te hebben meegewerkt aan de Marokkaanse voertuigoperatie, met Dune Films en MOONAGE PICTURES LIMITED.
 
 
 ## Hoe we deze informatie hebben gecontroleerd

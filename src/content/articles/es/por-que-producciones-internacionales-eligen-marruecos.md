@@ -70,7 +70,7 @@ Mantenemos estos niveles separados. Una renovación oficial no confirma automát
 
 ## Lo que queda por confirmar
 
-Ninguna fuente pública revisada ofrece el calendario marroquí completo, direcciones exactas, escenas o la lista final de vehículos. Netflix no ha confirmado públicamente a Accrocar como socio. También encontramos el registro público de **Moonage Pictures (The Gentlemen) Limited**, mientras que el relato de Accrocar cita **«Montage Pictures»**. Sin documentación que conecte los nombres, no los tratamos como intercambiables.
+Ninguna fuente pública revisada ofrece el calendario marroquí completo, direcciones exactas, escenas o la lista final de vehículos. Netflix no ha confirmado públicamente a Accrocar como socio.
 
 Las imágenes publicadas son derivados respetuosos con la privacidad: se eliminaron metadatos y los recortes excluyen matrículas, personas e identificadores sensibles. Los originales quedan fuera del árbol público del sitio.
 The Gentlemen es un caso actual útil, pero el atractivo marroquí se apoya en infraestructura acumulada, no en una sola serie.

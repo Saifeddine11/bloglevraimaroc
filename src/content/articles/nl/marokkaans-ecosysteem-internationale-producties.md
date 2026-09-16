@@ -58,7 +58,7 @@ Een opname rust op een lokale keten waarin productie, technische afdelingen en m
 
 Een internationaal project begint met scouting en haalbaarheid en gaat vervolgens langs vergunningen, budgetten, werving, sets, apparatuur, verblijf, beveiliging en vervoer. Marokkaanse uitvoerende producenten verbinden het project met het land; afdelingshoofden zetten plannen om in werkdagen; gespecialiseerde leveranciers vangen precieze behoeften op. Het resultaat hangt vaak meer af van goede raakvlakken dan van één opvallende leverancier.
 
-In dit geval noemt Accrocar Dune Films als productiecontact en bedient de voertuigoperator een afgebakend segment. Openbare credits verbinden The Gentlemen ook met Moonage Pictures, Miramax Television en Toff Guy Films. De door Accrocar aangeleverde naam “Montage Pictures” is niet documentair aan Moonage gekoppeld; daarom houden we het onderscheid aan.
+In dit geval zegt Accrocar te hebben samengewerkt met Dune Films en MOONAGE PICTURES LIMITED voor het voertuigsegment. Openbare credits verbinden The Gentlemen ook met MOONAGE PICTURES LIMITED, Miramax Television en Toff Guy Films.
 
 <figure>
   <img src="/images/articles/gentlemen-maroc/accrocar-vehicules-luxe-gentlemen.webp" alt="Rolls-Royce-interieur met oranje bekleding in het Accrocar-materiaal" width="1600" height="900" loading="lazy" />
@@ -73,7 +73,7 @@ Die lagen blijven bewust gescheiden. Een officiële verlenging bevestigt niet au
 
 ## Wat nog niet bevestigd is
 
-Geen geraadpleegde openbare bron geeft een volledig Marokkaans schema, precieze adressen, scènes of definitieve voertuiglijst. Netflix heeft Accrocar niet publiek als partner bevestigd. We vonden ook het openbare register voor **Moonage Pictures (The Gentlemen) Limited**, terwijl Accrocars eerstehands relaas **“Montage Pictures”** noemt. Zonder verbindend document behandelen we die namen niet als uitwisselbaar.
+Geen geraadpleegde openbare bron geeft een volledig Marokkaans schema, precieze adressen, scènes of definitieve voertuiglijst. Netflix heeft Accrocar niet publiek als partner bevestigd.
 
 De gepubliceerde beelden zijn privacyveilige afgeleiden: metadata zijn verwijderd en uitsneden sluiten kentekens, personen en gevoelige locatiekenmerken uit. Originelen blijven buiten de publieke websiteboom.
 ## Redactionele toelichting

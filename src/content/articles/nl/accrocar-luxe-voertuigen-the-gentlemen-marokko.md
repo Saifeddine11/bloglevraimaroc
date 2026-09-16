@@ -60,7 +60,7 @@ Originele beelden en het relaas van de eigenaar documenteren voertuiglevering ro
 
 Het aangeleverde materiaal bevat originele beelden van voertuigen die in de regio Rabat zijn gegroepeerd, voorbereid of opgesteld. Accrocar zegt binnen de toevertrouwde opdracht hoogwaardige voertuigen voor de productie te hebben geleverd. Wij publiceren dit als toegeschreven informatie uit eerste hand, niet als onafhankelijke bevestiging door Netflix.
 
-Accrocar noemt samenwerking met Dune Films en een bedrijf dat “Montage Pictures” wordt genoemd. Openbare seriecredits en het Britse register noemen Moonage Pictures. Zonder document dat beide namen verbindt, behouden we de aangeleverde naam en signaleren we het verschil. We noemen Accrocar geen officiële Netflix-partner en nemen geen direct contract aan.
+Accrocar zegt te hebben samengewerkt met Dune Films en MOONAGE PICTURES LIMITED voor de autobehoeften van de productie van The Gentlemen in Marokko. We noemen Accrocar geen officiële Netflix-partner en nemen geen direct contract aan.
 
 <figure>
   <img src="/images/articles/gentlemen-maroc/rolls-royce-cullinan-rabat-inline.webp" alt="Detail van een Rolls-Royce Cullinan, gefotografeerd in Rabat" width="1600" height="900" loading="lazy" />
@@ -75,7 +75,7 @@ Die lagen blijven bewust gescheiden. Een officiële verlenging bevestigt niet au
 
 ## Wat nog niet bevestigd is
 
-Geen geraadpleegde openbare bron geeft een volledig Marokkaans schema, precieze adressen, scènes of definitieve voertuiglijst. Netflix heeft Accrocar niet publiek als partner bevestigd. We vonden ook het openbare register voor **Moonage Pictures (The Gentlemen) Limited**, terwijl Accrocars eerstehands relaas **“Montage Pictures”** noemt. Zonder verbindend document behandelen we die namen niet als uitwisselbaar.
+Geen geraadpleegde openbare bron geeft een volledig Marokkaans schema, precieze adressen, scènes of definitieve voertuiglijst. Netflix heeft Accrocar niet publiek als partner bevestigd.
 
 De gepubliceerde beelden zijn privacyveilige afgeleiden: metadata zijn verwijderd en uitsneden sluiten kentekens, personen en gevoelige locatiekenmerken uit. Originelen blijven buiten de publieke websiteboom.
 ## Redactionele toelichting

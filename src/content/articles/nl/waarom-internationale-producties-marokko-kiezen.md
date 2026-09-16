@@ -70,7 +70,7 @@ Die lagen blijven bewust gescheiden. Een officiële verlenging bevestigt niet au
 
 ## Wat nog niet bevestigd is
 
-Geen geraadpleegde openbare bron geeft een volledig Marokkaans schema, precieze adressen, scènes of definitieve voertuiglijst. Netflix heeft Accrocar niet publiek als partner bevestigd. We vonden ook het openbare register voor **Moonage Pictures (The Gentlemen) Limited**, terwijl Accrocars eerstehands relaas **“Montage Pictures”** noemt. Zonder verbindend document behandelen we die namen niet als uitwisselbaar.
+Geen geraadpleegde openbare bron geeft een volledig Marokkaans schema, precieze adressen, scènes of definitieve voertuiglijst. Netflix heeft Accrocar niet publiek als partner bevestigd.
 
 De gepubliceerde beelden zijn privacyveilige afgeleiden: metadata zijn verwijderd en uitsneden sluiten kentekens, personen en gevoelige locatiekenmerken uit. Originelen blijven buiten de publieke websiteboom.
 The Gentlemen is een actueel voorbeeld, maar Marokko's aantrekkingskracht berust op opgebouwde infrastructuur en niet op één serie.

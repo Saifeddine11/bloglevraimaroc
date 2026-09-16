@@ -60,7 +60,7 @@ Imágenes originales y el relato del propietario documentan el suministro vincul
 
 El conjunto recibido contiene imágenes originales de vehículos agrupados, preparados o posicionados en la zona de Rabat. Accrocar afirma que suministró vehículos de alta gama dentro del ámbito que le fue confiado para la producción. Publicamos esa afirmación como información atribuida de primera mano, no como validación independiente de Netflix.
 
-Accrocar indica que coordinó con Dune Films y una empresa denominada «Montage Pictures». Los créditos públicos y el registro británico identifican Moonage Pictures. Sin un documento que conecte ambos nombres, conservamos la denominación recibida y señalamos la diferencia. No calificamos a Accrocar como socio oficial de Netflix ni suponemos un contrato directo.
+Accrocar indica haber colaborado con Dune Films y MOONAGE PICTURES LIMITED en el marco de las necesidades automovilísticas vinculadas a la producción de The Gentlemen en Marruecos. No calificamos a Accrocar como socio oficial de Netflix ni suponemos un contrato directo.
 
 <figure>
   <img src="/images/articles/gentlemen-maroc/rolls-royce-cullinan-rabat-inline.webp" alt="Detalle de un Rolls-Royce Cullinan fotografiado en Rabat" width="1600" height="900" loading="lazy" />
@@ -75,7 +75,7 @@ Mantenemos estos niveles separados. Una renovación oficial no confirma automát
 
 ## Lo que queda por confirmar
 
-Ninguna fuente pública revisada ofrece el calendario marroquí completo, direcciones exactas, escenas o la lista final de vehículos. Netflix no ha confirmado públicamente a Accrocar como socio. También encontramos el registro público de **Moonage Pictures (The Gentlemen) Limited**, mientras que el relato de Accrocar cita **«Montage Pictures»**. Sin documentación que conecte los nombres, no los tratamos como intercambiables.
+Ninguna fuente pública revisada ofrece el calendario marroquí completo, direcciones exactas, escenas o la lista final de vehículos. Netflix no ha confirmado públicamente a Accrocar como socio.
 
 Las imágenes publicadas son derivados respetuosos con la privacidad: se eliminaron metadatos y los recortes excluyen matrículas, personas e identificadores sensibles. Los originales quedan fuera del árbol público del sitio.
 ## Nota editorial

@@ -60,7 +60,7 @@ The Gentlemen material illustrates a B2B position where availability, confidenti
 
 Accrocar publicly presents itself as a Moroccan luxury-vehicle rental and VIP-services company. An audiovisual production changes the request: the customer is an organisation with approvals, schedules, confidentiality and several contacts. The product becomes guaranteed availability within a complex chain.
 
-The Gentlemen file is an example declared by the company, not a certificate issued by Netflix. It nonetheless suggests a credible growth path for Moroccan operators: turning a fleet and concierge service into documented B2B capacity through procedures, insurance, drivers, maintenance and geographic coverage.
+The Gentlemen file, for which Accrocar says it collaborated with Dune Films and MOONAGE PICTURES LIMITED, is an example declared by the company, not a certificate issued by Netflix. It nonetheless suggests a credible growth path for Moroccan operators: turning a fleet and concierge service into documented B2B capacity through procedures, insurance, drivers, maintenance and geographic coverage.
 
 <figure>
   <img src="/images/articles/gentlemen-maroc/logistique-automobile-production-maroc.webp" alt="Three black SUVs lined up before use" width="1600" height="900" loading="lazy" />
@@ -75,7 +75,7 @@ These layers are deliberately kept separate. An official renewal does not automa
 
 ## What remains unconfirmed
 
-No public source reviewed gives a complete Moroccan schedule, precise shooting addresses, scene descriptions or a final vehicle list. Netflix has not publicly confirmed Accrocar as a partner. We also found the public record for **Moonage Pictures (The Gentlemen) Limited**, while Accrocar's first-party account names **“Montage Pictures”**. Without documentation connecting those names, they are not treated as interchangeable.
+No public source reviewed gives a complete Moroccan schedule, precise shooting addresses, scene descriptions or a final vehicle list. Netflix has not publicly confirmed Accrocar as a partner.
 
 Published images are privacy-safe derivatives: metadata was stripped and crops exclude visible plates, people and sensitive site identifiers. Originals remain outside the public website tree.
 ## Editorial note

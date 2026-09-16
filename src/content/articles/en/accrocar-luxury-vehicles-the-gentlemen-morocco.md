@@ -60,7 +60,7 @@ Original images and the owner's account document production-related vehicle supp
 
 The supplied corpus contains original images of vehicles grouped, prepared or positioned in the Rabat area. Accrocar says it supplied high-end vehicles within the scope entrusted to it for the Season 3 production. We publish that as attributed first-party information, not as independent validation by Netflix.
 
-Accrocar says it coordinated with Dune Films and a company identified as “Montage Pictures”. Public series credits and the UK register identify Moonage Pictures. Without a document connecting those names, we preserve the supplied wording while flagging the discrepancy. We do not describe Accrocar as an official Netflix partner or assume a direct contract.
+Accrocar says it collaborated with Dune Films and MOONAGE PICTURES LIMITED in connection with the automotive needs of The Gentlemen production in Morocco. We do not describe Accrocar as an official Netflix partner or assume a direct contract.
 
 <figure>
   <img src="/images/articles/gentlemen-maroc/rolls-royce-cullinan-rabat-inline.webp" alt="Rolls-Royce Cullinan detail photographed in Rabat" width="1600" height="900" loading="lazy" />
@@ -75,7 +75,7 @@ These layers are deliberately kept separate. An official renewal does not automa
 
 ## What remains unconfirmed
 
-No public source reviewed gives a complete Moroccan schedule, precise shooting addresses, scene descriptions or a final vehicle list. Netflix has not publicly confirmed Accrocar as a partner. We also found the public record for **Moonage Pictures (The Gentlemen) Limited**, while Accrocar's first-party account names **“Montage Pictures”**. Without documentation connecting those names, they are not treated as interchangeable.
+No public source reviewed gives a complete Moroccan schedule, precise shooting addresses, scene descriptions or a final vehicle list. Netflix has not publicly confirmed Accrocar as a partner.
 
 Published images are privacy-safe derivatives: metadata was stripped and crops exclude visible plates, people and sensitive site identifiers. Originals remain outside the public website tree.
 ## Editorial note

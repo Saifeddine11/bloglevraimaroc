@@ -66,10 +66,10 @@ These layers are deliberately kept separate. An official renewal does not automa
 
 ## What remains unconfirmed
 
-No public source reviewed gives a complete Moroccan schedule, precise shooting addresses, scene descriptions or a final vehicle list. Netflix has not publicly confirmed Accrocar as a partner. We also found the public record for **Moonage Pictures (The Gentlemen) Limited**, while Accrocar's first-party account names **“Montage Pictures”**. Without documentation connecting those names, they are not treated as interchangeable.
+No public source reviewed gives a complete Moroccan schedule, precise shooting addresses, scene descriptions or a final vehicle list. Netflix has not publicly confirmed Accrocar as a partner.
 
 Published images are privacy-safe derivatives: metadata was stripped and crops exclude visible plates, people and sensitive site identifiers. Originals remain outside the public website tree.
-Accrocar says it participated in the Moroccan vehicle operation, working with Dune Films and a second company named as “Montage Pictures” in the account supplied to us. Public credits separately identify Moonage Pictures; we have not established that the two names refer to the same entity.
+Accrocar says it participated in the Moroccan vehicle operation, working with Dune Films and MOONAGE PICTURES LIMITED.
 
 
 ## How we verified this information

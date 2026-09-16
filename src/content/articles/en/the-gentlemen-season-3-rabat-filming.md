@@ -66,7 +66,7 @@ These layers are deliberately kept separate. An official renewal does not automa
 
 ## What remains unconfirmed
 
-No public source reviewed gives a complete Moroccan schedule, precise shooting addresses, scene descriptions or a final vehicle list. Netflix has not publicly confirmed Accrocar as a partner. We also found the public record for **Moonage Pictures (The Gentlemen) Limited**, while Accrocar's first-party account names **“Montage Pictures”**. Without documentation connecting those names, they are not treated as interchangeable.
+No public source reviewed gives a complete Moroccan schedule, precise shooting addresses, scene descriptions or a final vehicle list. Netflix has not publicly confirmed Accrocar as a partner.
 
 Published images are privacy-safe derivatives: metadata was stripped and crops exclude visible plates, people and sensitive site identifiers. Originals remain outside the public website tree.
 The Rabat stop primarily illustrates how a capital can provide several visual textures and concentrated production services within a short distance.

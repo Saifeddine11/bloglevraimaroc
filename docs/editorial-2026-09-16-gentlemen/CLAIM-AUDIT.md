@@ -8,9 +8,9 @@
 | Rabat | PUBLICLY REPORTED + FIRST-PARTY CONFIRMED | Le360 reports start on 13 September; Rabat-labelled first-party material | Exact addresses withheld / not inferred |
 | Erfoud | PUBLICLY REPORTED | Le360 | No exact site, date or scene claimed |
 | Guy Ritchie involvement | OFFICIAL | Netflix says he returns to direct | Stated as official |
-| Public production-company names | OFFICIAL/PUBLIC RECORD | Companies House records Moonage Pictures (The Gentlemen) Limited; public credits name Moonage Pictures, Miramax Television and Toff Guy Films | Names kept distinct from first-party wording |
+| Public production-company names | OFFICIAL/PUBLIC RECORD | Companies House records Moonage Pictures (The Gentlemen) Limited; public credits name Moonage Pictures, Miramax Television and Toff Guy Films | Editorial copy standardizes the production-company reference as MOONAGE PICTURES LIMITED; Companies House source labels keep the registered name of that filing |
 | Dune Films relationship | FIRST-PARTY CONFIRMED | Accrocar/site-owner account; Dune's public credits establish its broader Morocco work but not this title | Explicitly attributed to Accrocar |
-| “Montage Pictures” versus Moonage Pictures | UNRESOLVED | Owner says “Montage Pictures”; public record supports Moonage Pictures; no document connects them | Discrepancy explained; names not silently substituted |
+| Production-company name in Accrocar account | FIRST-PARTY CONFIRMED (standardized) | Accrocar describes collaboration with Dune Films and MOONAGE PICTURES LIMITED; public credits also name the Moonage Pictures production side | Published copy uses MOONAGE PICTURES LIMITED; Accrocar is not called an official Netflix partner |
 | Accrocar relationship | FIRST-PARTY CONFIRMED | Owner statement and supplied original assets | Described as production-side vehicle operation, not Netflix partnership |
 | Luxury vehicles supplied | FIRST-PARTY CONFIRMED | Accrocar statement and images | “Supplied for the production”; scope attributed |
 | Rolls-Royce Cullinan | FIRST-PARTY / VISUALLY DOCUMENTED | Clear source images | Named as visible in supplied material |

@@ -58,7 +58,7 @@ Un rodaje depende de una cadena local donde producción ejecutiva, departamentos
 
 Un proyecto internacional empieza con localizaciones y viabilidad, y pasa por permisos, presupuestos, contratación, decorados, equipos, alojamiento, seguridad y transporte. Los productores ejecutivos marroquíes conectan el proyecto con el territorio; los jefes de departamento convierten el plan en jornadas; los proveedores especializados absorben necesidades precisas. El resultado depende a menudo más de las interfaces que de un único actor.
 
-En este caso, Accrocar cita Dune Films como interlocutor de producción y el operador de vehículos cubre un segmento definido. Los créditos públicos asocian también The Gentlemen a Moonage Pictures, Miramax Television y Toff Guy Films. El nombre «Montage Pictures» transmitido por Accrocar no ha sido vinculado documentalmente a Moonage, por lo que mantenemos la distinción.
+En este caso, Accrocar indica haber colaborado con Dune Films y MOONAGE PICTURES LIMITED en el segmento de vehículos. Los créditos públicos asocian también The Gentlemen a MOONAGE PICTURES LIMITED, Miramax Television y Toff Guy Films.
 
 <figure>
   <img src="/images/articles/gentlemen-maroc/accrocar-vehicules-luxe-gentlemen.webp" alt="Habitáculo Rolls-Royce con tapicería naranja en el material de Accrocar" width="1600" height="900" loading="lazy" />
@@ -73,7 +73,7 @@ Mantenemos estos niveles separados. Una renovación oficial no confirma automát
 
 ## Lo que queda por confirmar
 
-Ninguna fuente pública revisada ofrece el calendario marroquí completo, direcciones exactas, escenas o la lista final de vehículos. Netflix no ha confirmado públicamente a Accrocar como socio. También encontramos el registro público de **Moonage Pictures (The Gentlemen) Limited**, mientras que el relato de Accrocar cita **«Montage Pictures»**. Sin documentación que conecte los nombres, no los tratamos como intercambiables.
+Ninguna fuente pública revisada ofrece el calendario marroquí completo, direcciones exactas, escenas o la lista final de vehículos. Netflix no ha confirmado públicamente a Accrocar como socio.
 
 Las imágenes publicadas son derivados respetuosos con la privacidad: se eliminaron metadatos y los recortes excluyen matrículas, personas e identificadores sensibles. Los originales quedan fuera del árbol público del sitio.
 ## Nota editorial

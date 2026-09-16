@@ -60,7 +60,7 @@ Des images originales et le récit du propriétaire documentent une fourniture d
 
 Le corpus transmis comprend des images originales de véhicules regroupés, préparés ou positionnés dans la région de Rabat. Accrocar affirme avoir fourni des véhicules haut de gamme dans le périmètre qui lui a été confié pour la production de la saison 3. Cette affirmation est publiée comme information de première main attribuée à l'entreprise, pas comme validation indépendante de Netflix.
 
-Accrocar indique avoir travaillé en coordination avec Dune Films et une société désignée comme « Montage Pictures ». Les crédits publics de la série et le registre britannique identifient Moonage Pictures. Faute de document reliant les deux noms, nous conservons la graphie fournie tout en signalant l'écart. Nous ne qualifions pas Accrocar de partenaire officiel de Netflix et ne présumons aucun contrat direct.
+Accrocar indique avoir collaboré avec Dune Films et MOONAGE PICTURES LIMITED dans le cadre des besoins automobiles liés à la production de The Gentlemen au Maroc. Nous ne qualifions pas Accrocar de partenaire officiel de Netflix et ne présumons aucun contrat direct.
 
 <figure>
   <img src="/images/articles/gentlemen-maroc/rolls-royce-cullinan-rabat-inline.webp" alt="Détail d'un Rolls-Royce Cullinan photographié à Rabat" width="1600" height="900" loading="lazy" />
@@ -75,7 +75,7 @@ Ces niveaux restent volontairement séparés. Un renouvellement officiel ne conf
 
 ## Ce qui reste à confirmer
 
-Aucune source publique consultée ne donne le calendrier marocain complet, les adresses précises, les scènes ou la liste finale des véhicules. Netflix n'a pas publiquement confirmé Accrocar comme partenaire. Nous avons par ailleurs trouvé le registre public de **Moonage Pictures (The Gentlemen) Limited**, tandis que le récit de première main d'Accrocar cite **« Montage Pictures »**. Sans document reliant ces noms, nous ne les traitons pas comme interchangeables.
+Aucune source publique consultée ne donne le calendrier marocain complet, les adresses précises, les scènes ou la liste finale des véhicules. Netflix n'a pas publiquement confirmé Accrocar comme partenaire.
 
 Les images publiées sont des dérivés respectueux de la vie privée: métadonnées supprimées, plaques, personnes et indices sensibles exclus par le cadrage. Les originaux restent hors de l'arborescence publique du site.
 ## Note éditoriale

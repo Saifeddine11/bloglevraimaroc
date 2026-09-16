@@ -76,12 +76,12 @@ These layers are deliberately kept separate. An official renewal does not automa
 
 ## What remains unconfirmed
 
-No public source reviewed gives a complete Moroccan schedule, precise shooting addresses, scene descriptions or a final vehicle list. Netflix has not publicly confirmed Accrocar as a partner. We also found the public record for **Moonage Pictures (The Gentlemen) Limited**, while Accrocar's first-party account names **“Montage Pictures”**. Without documentation connecting those names, they are not treated as interchangeable.
+No public source reviewed gives a complete Moroccan schedule, precise shooting addresses, scene descriptions or a final vehicle list. Netflix has not publicly confirmed Accrocar as a partner.
 
 Published images are privacy-safe derivatives: metadata was stripped and crops exclude visible plates, people and sensitive site identifiers. Originals remain outside the public website tree.
 ## Editorial note
 
-Accrocar is the primary source of the automotive corpus here; the analysis remains independent and limited to what the pixels support.
+Accrocar is the primary source of the automotive corpus here, in a collaboration it describes with Dune Films and MOONAGE PICTURES LIMITED; the analysis remains independent and limited to what the pixels support.
 
 Accrocar supplied the first-party vehicle material discussed here. Le Vrai Maroc independently selected the framing, wording and evidence labels. The article does not infer an official Netflix partnership or a direct Netflix contract.
 

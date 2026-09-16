@@ -58,7 +58,7 @@ A shoot relies on a local chain in which production services, technical departme
 
 An international project begins with scouting and feasibility, then moves through permits, budgets, recruitment, sets, equipment, accommodation, security and transport. Moroccan line producers connect the project to the territory; department heads turn plans into working days; specialised suppliers absorb precise requests. Results often depend less on one star supplier than on the quality of the interfaces.
 
-In this case, Accrocar names Dune Films as a production contact and the vehicle operator serves a defined segment. Public credits also associate The Gentlemen with Moonage Pictures, Miramax Television and Toff Guy Films. The name “Montage Pictures” supplied by Accrocar has not been documentarily connected to Moonage, so we keep the distinction.
+In this case, Accrocar says it collaborated with Dune Films and MOONAGE PICTURES LIMITED on the vehicle segment. Public credits also associate The Gentlemen with MOONAGE PICTURES LIMITED, Miramax Television and Toff Guy Films.
 
 <figure>
   <img src="/images/articles/gentlemen-maroc/accrocar-vehicules-luxe-gentlemen.webp" alt="Rolls-Royce cabin with orange upholstery in the Accrocar material" width="1600" height="900" loading="lazy" />
@@ -73,7 +73,7 @@ These layers are deliberately kept separate. An official renewal does not automa
 
 ## What remains unconfirmed
 
-No public source reviewed gives a complete Moroccan schedule, precise shooting addresses, scene descriptions or a final vehicle list. Netflix has not publicly confirmed Accrocar as a partner. We also found the public record for **Moonage Pictures (The Gentlemen) Limited**, while Accrocar's first-party account names **“Montage Pictures”**. Without documentation connecting those names, they are not treated as interchangeable.
+No public source reviewed gives a complete Moroccan schedule, precise shooting addresses, scene descriptions or a final vehicle list. Netflix has not publicly confirmed Accrocar as a partner.
 
 Published images are privacy-safe derivatives: metadata was stripped and crops exclude visible plates, people and sensitive site identifiers. Originals remain outside the public website tree.
 ## Editorial note

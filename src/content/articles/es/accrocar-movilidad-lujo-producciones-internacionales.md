@@ -60,7 +60,7 @@ El material de The Gentlemen muestra un posicionamiento B2B donde disponibilidad
 
 Accrocar se presenta públicamente como empresa marroquí de alquiler de vehículos de lujo y servicios VIP. Una producción audiovisual cambia la demanda: el cliente es una organización con validaciones, calendario, confidencialidad y varios interlocutores. El producto pasa a ser disponibilidad garantizada dentro de una cadena compleja.
 
-El expediente de The Gentlemen es un ejemplo declarado por la empresa, no un certificado de Netflix. Aun así, sugiere una vía creíble para operadores marroquíes: convertir una flota y un servicio de conserjería en capacidad B2B documentada mediante procesos, seguros, conductores, mantenimiento y cobertura geográfica.
+El expediente de The Gentlemen, para el que Accrocar indica una colaboración con Dune Films y MOONAGE PICTURES LIMITED, es un ejemplo declarado por la empresa, no un certificado de Netflix. Aun así, sugiere una vía creíble para operadores marroquíes: convertir una flota y un servicio de conserjería en capacidad B2B documentada mediante procesos, seguros, conductores, mantenimiento y cobertura geográfica.
 
 <figure>
   <img src="/images/articles/gentlemen-maroc/logistique-automobile-production-maroc.webp" alt="Tres SUV negros alineados antes de su uso" width="1600" height="900" loading="lazy" />
@@ -75,7 +75,7 @@ Mantenemos estos niveles separados. Una renovación oficial no confirma automát
 
 ## Lo que queda por confirmar
 
-Ninguna fuente pública revisada ofrece el calendario marroquí completo, direcciones exactas, escenas o la lista final de vehículos. Netflix no ha confirmado públicamente a Accrocar como socio. También encontramos el registro público de **Moonage Pictures (The Gentlemen) Limited**, mientras que el relato de Accrocar cita **«Montage Pictures»**. Sin documentación que conecte los nombres, no los tratamos como intercambiables.
+Ninguna fuente pública revisada ofrece el calendario marroquí completo, direcciones exactas, escenas o la lista final de vehículos. Netflix no ha confirmado públicamente a Accrocar como socio.
 
 Las imágenes publicadas son derivados respetuosos con la privacidad: se eliminaron metadatos y los recortes excluyen matrículas, personas e identificadores sensibles. Los originales quedan fuera del árbol público del sitio.
 ## Nota editorial

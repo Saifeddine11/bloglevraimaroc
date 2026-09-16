@@ -71,12 +71,12 @@ Ces niveaux restent volontairement séparés. Un renouvellement officiel ne conf
 
 ## Ce qui reste à confirmer
 
-Aucune source publique consultée ne donne le calendrier marocain complet, les adresses précises, les scènes ou la liste finale des véhicules. Netflix n'a pas publiquement confirmé Accrocar comme partenaire. Nous avons par ailleurs trouvé le registre public de **Moonage Pictures (The Gentlemen) Limited**, tandis que le récit de première main d'Accrocar cite **« Montage Pictures »**. Sans document reliant ces noms, nous ne les traitons pas comme interchangeables.
+Aucune source publique consultée ne donne le calendrier marocain complet, les adresses précises, les scènes ou la liste finale des véhicules. Netflix n'a pas publiquement confirmé Accrocar comme partenaire.
 
 Les images publiées sont des dérivés respectueux de la vie privée: métadonnées supprimées, plaques, personnes et indices sensibles exclus par le cadrage. Les originaux restent hors de l'arborescence publique du site.
 ## Note éditoriale
 
-Ici, Accrocar est étudiée comme prestataire logistique: l'intérêt éditorial porte sur la méthode d'exécution, pas sur une promesse commerciale.
+Ici, Accrocar est étudiée comme prestataire logistique ayant indiqué une collaboration avec Dune Films et MOONAGE PICTURES LIMITED pour le volet véhicules: l'intérêt éditorial porte sur la méthode d'exécution, pas sur une promesse commerciale.
 
 Accrocar a fourni le matériel automobile de première main étudié ici. Le Vrai Maroc a choisi indépendamment le cadrage, la formulation et le niveau de preuve. L'article ne déduit ni partenariat officiel avec Netflix ni contrat direct avec Netflix.
 

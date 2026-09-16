@@ -58,7 +58,7 @@ Le tournage ne repose pas sur un seul prestataire mais sur une chaîne locale o�
 
 Un projet international commence par les repérages et la faisabilité, puis passe par les autorisations, budgets, recrutements, décors, équipements, hébergement, sécurité et transport. Les producteurs exécutifs marocains font le lien avec le territoire; les chefs de poste transforment le plan en journées de travail; les prestataires spécialisés absorbent les besoins précis. Le résultat dépend souvent moins d'un acteur vedette que de la qualité des interfaces.
 
-Dans le cas étudié, Dune Films est citée par Accrocar comme interlocuteur de production et l'opérateur automobile intervient sur un segment circonscrit. Les crédits publics associent par ailleurs The Gentlemen à Moonage Pictures, Miramax Television et Toff Guy Films. La mention « Montage Pictures » transmise par Accrocar n'est pas raccordée documentairement à Moonage; nous maintenons cette distinction.
+Dans le cas étudié, Accrocar indique avoir collaboré avec Dune Films et MOONAGE PICTURES LIMITED pour le volet automobile, sur un segment circonscrit. Les crédits publics associent par ailleurs The Gentlemen à MOONAGE PICTURES LIMITED, Miramax Television et Toff Guy Films.
 
 <figure>
   <img src="/images/articles/gentlemen-maroc/accrocar-vehicules-luxe-gentlemen.webp" alt="Habitacle Rolls-Royce à sellerie orange dans le corpus Accrocar" width="1600" height="900" loading="lazy" />
@@ -73,7 +73,7 @@ Ces niveaux restent volontairement séparés. Un renouvellement officiel ne conf
 
 ## Ce qui reste à confirmer
 
-Aucune source publique consultée ne donne le calendrier marocain complet, les adresses précises, les scènes ou la liste finale des véhicules. Netflix n'a pas publiquement confirmé Accrocar comme partenaire. Nous avons par ailleurs trouvé le registre public de **Moonage Pictures (The Gentlemen) Limited**, tandis que le récit de première main d'Accrocar cite **« Montage Pictures »**. Sans document reliant ces noms, nous ne les traitons pas comme interchangeables.
+Aucune source publique consultée ne donne le calendrier marocain complet, les adresses précises, les scènes ou la liste finale des véhicules. Netflix n'a pas publiquement confirmé Accrocar comme partenaire.
 
 Les images publiées sont des dérivés respectueux de la vie privée: métadonnées supprimées, plaques, personnes et indices sensibles exclus par le cadrage. Les originaux restent hors de l'arborescence publique du site.
 ## Note éditoriale

@@ -54,7 +54,7 @@ Official: Season 3 exists and Guy Ritchie returns to direct. Publicly reported: 
 
 ## 10. Production-company naming conclusion
 
-The owner-supplied account says **“Montage Pictures.”** Public company records and series credits support **Moonage Pictures**, including the legal entity \`Moonage Pictures (The Gentlemen) Limited\`. No inspected file connects the two names. Published copy preserves and attributes the supplied wording, separately states the public name, and says the entities are not treated as interchangeable. Accrocar is never called an official Netflix partner and no direct Netflix contract is inferred.
+Published editorial copy standardizes the production-company reference as **MOONAGE PICTURES LIMITED**. Accrocar is described as having collaborated with Dune Films and MOONAGE PICTURES LIMITED in connection with vehicle needs for The Gentlemen in Morocco. Accrocar is never called an official Netflix partner and no direct Netflix contract is inferred. Companies House source citations keep the registered name of filing \`14115797\` (\`Moonage Pictures (The Gentlemen) Limited\`) because that is the exact title of that public record.
 
 ## 11–13. First-party asset inventory, used assets and exclusions
 
@@ -112,7 +112,7 @@ All 40 routes occur in \`dist/sitemap-0.xml\`. All 10 French entries occur in \`
 
 ## 24. Unresolved factual uncertainty
 
-- “Montage Pictures” versus publicly documented Moonage Pictures remains unresolved.
+- The production-company name in published copy is standardized to MOONAGE PICTURES LIMITED; original first-party evidence files were not altered.
 - Netflix has not published a Morocco location list in the official sources reviewed.
 - Erfoud has been reported, but no exact site or local shoot date is public.
 - No vehicle's appearance in the finished series is established.

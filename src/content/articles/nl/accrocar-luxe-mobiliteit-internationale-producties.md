@@ -60,7 +60,7 @@ Het Gentlemen-materiaal toont een B2B-positie waarin beschikbaarheid, vertrouwel
 
 Accrocar presenteert zich publiek als Marokkaans bedrijf voor luxe-autoverhuur en VIP-diensten. Een audiovisuele productie verandert de vraag: de klant is een organisatie met goedkeuringen, planningen, vertrouwelijkheid en meerdere contactpersonen. Het product wordt gegarandeerde beschikbaarheid in een complexe keten.
 
-Het dossier rond The Gentlemen is een door het bedrijf genoemd voorbeeld, geen certificaat van Netflix. Het wijst wel op een geloofwaardig groeipad: een vloot en conciërgeservice omzetten in gedocumenteerde B2B-capaciteit met procedures, verzekeringen, chauffeurs, onderhoud en geografische dekking.
+Het dossier rond The Gentlemen, waarvoor Accrocar zegt te hebben samengewerkt met Dune Films en MOONAGE PICTURES LIMITED, is een door het bedrijf genoemd voorbeeld, geen certificaat van Netflix. Het wijst wel op een geloofwaardig groeipad: een vloot en conciërgeservice omzetten in gedocumenteerde B2B-capaciteit met procedures, verzekeringen, chauffeurs, onderhoud en geografische dekking.
 
 <figure>
   <img src="/images/articles/gentlemen-maroc/logistique-automobile-production-maroc.webp" alt="Drie zwarte SUV's opgesteld voor gebruik" width="1600" height="900" loading="lazy" />
@@ -75,7 +75,7 @@ Die lagen blijven bewust gescheiden. Een officiële verlenging bevestigt niet au
 
 ## Wat nog niet bevestigd is
 
-Geen geraadpleegde openbare bron geeft een volledig Marokkaans schema, precieze adressen, scènes of definitieve voertuiglijst. Netflix heeft Accrocar niet publiek als partner bevestigd. We vonden ook het openbare register voor **Moonage Pictures (The Gentlemen) Limited**, terwijl Accrocars eerstehands relaas **“Montage Pictures”** noemt. Zonder verbindend document behandelen we die namen niet als uitwisselbaar.
+Geen geraadpleegde openbare bron geeft een volledig Marokkaans schema, precieze adressen, scènes of definitieve voertuiglijst. Netflix heeft Accrocar niet publiek als partner bevestigd.
 
 De gepubliceerde beelden zijn privacyveilige afgeleiden: metadata zijn verwijderd en uitsneden sluiten kentekens, personen en gevoelige locatiekenmerken uit. Originelen blijven buiten de publieke websiteboom.
 ## Redactionele toelichting
