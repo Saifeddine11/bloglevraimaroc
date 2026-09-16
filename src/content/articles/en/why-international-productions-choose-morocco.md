@@ -32,6 +32,8 @@ sources:
     url: "https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news?inapp=true"
   - label: "Le360 — filming in Morocco (14 September 2026)"
     url: "https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/"
+  - label: "Dune Films"
+    url: "https://dunefilms.com/"
   - label: "Moroccan Cinema Centre — foreign-production support guide"
     url: "https://ccm.ma/foreign_production/pe/doc/guide_en.pdf"
   - label: "Moroccan Cinema Centre — production statistics"
@@ -58,7 +60,7 @@ Morocco's first argument is landscape density: coast, medinas, modern cities, mo
 
 The Moroccan Cinema Centre describes support of up to 30% of certain eligible local expenditure, subject to conditions. That number is an administered incentive, not an automatic refund. The real competitive edge comes from the combination of cost, experience, variety and service continuity.
 
-Dune Films' official credits provide a concrete measure of experience available in Morocco: the company lists Napoleon, Game of Thrones, Aladdin, John Wick: Chapter 3 and Heart of Stone among productions it has supported. Those credits prove nothing about The Gentlemen locations; they document the depth of the production network a new series can draw on.
+Official credits from [Dune Films](https://dunefilms.com/) provide a concrete measure of experience available in Morocco: the Marrakech-based company, with a base in Ouarzazate and active since 1998, lists Napoleon, Game of Thrones, Aladdin, John Wick: Chapter 3 and Heart of Stone among productions it has supported. Those credits prove nothing about The Gentlemen locations; they document the depth of the production network a new series can draw on.
 
 
 
@@ -107,6 +109,8 @@ Rabat and Erfoud test that capacity in different ways. The capital concentrates 
 - [Netflix Tudum — Season 3](https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news?inapp=true)
 
 - [Le360 — filming in Morocco (14 September 2026)](https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/)
+
+- [Dune Films](https://dunefilms.com/)
 
 - [Moroccan Cinema Centre — foreign-production support guide](https://ccm.ma/foreign_production/pe/doc/guide_en.pdf)
 

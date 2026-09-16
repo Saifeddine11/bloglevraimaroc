@@ -32,6 +32,8 @@ sources:
     url: "https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news?inapp=true"
   - label: "Le360 — opnames in Marokko (14 september 2026)"
     url: "https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/"
+  - label: "Dune Films"
+    url: "https://dunefilms.com/"
   - label: "Marokkaans Filmcentrum — gids voor steun aan buitenlandse producties"
     url: "https://ccm.ma/foreign_production/pe/doc/guide_en.pdf"
   - label: "Marokkaans Filmcentrum — productiestatistieken"
@@ -58,7 +60,7 @@ Marokko's eerste troef is de dichtheid van landschappen: kust, medina's, moderne
 
 Het Marokkaans Filmcentrum beschrijft steun tot 30% van bepaalde in aanmerking komende lokale uitgaven, onder voorwaarden. Dat is een gereguleerde stimulans, geen automatische terugbetaling. Het echte voordeel komt uit de combinatie van kosten, ervaring, variatie en continuïteit.
 
-De officiële credits van Dune Films maken de beschikbare ervaring concreet: het bedrijf noemt onder meer Napoleon, Game of Thrones, Aladdin, John Wick: Chapter 3 en Heart of Stone als ondersteunde producties. Die titels bewijzen niets over locaties van The Gentlemen; ze documenteren wel de diepte van het netwerk waarop een nieuwe serie kan steunen.
+De officiële credits van [Dune Films](https://dunefilms.com/) maken de beschikbare ervaring concreet: het bedrijf, gevestigd in Marrakech met een basis in Ouarzazate en actief sinds 1998, noemt onder meer Napoleon, Game of Thrones, Aladdin, John Wick: Chapter 3 en Heart of Stone als ondersteunde producties. Die titels bewijzen niets over locaties van The Gentlemen; ze documenteren wel de diepte van het netwerk waarop een nieuwe serie kan steunen.
 
 
 
@@ -107,6 +109,8 @@ Rabat en Erfoud testen dat vermogen anders. De hoofdstad bundelt instellingen en
 - [Netflix Tudum — seizoen 3](https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news?inapp=true)
 
 - [Le360 — opnames in Marokko (14 september 2026)](https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/)
+
+- [Dune Films](https://dunefilms.com/)
 
 - [Marokkaans Filmcentrum — gids voor steun aan buitenlandse producties](https://ccm.ma/foreign_production/pe/doc/guide_en.pdf)
 

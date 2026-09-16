@@ -32,6 +32,8 @@ sources:
     url: "https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/"
   - label: "Companies House — Moonage Pictures (The Gentlemen) Limited"
     url: "https://find-and-update.company-information.service.gov.uk/company/14115797"
+  - label: "Dune Films"
+    url: "https://dunefilms.com/"
   - label: "Dune Films — production credits"
     url: "https://dunefilms.com/credits/"
 disclaimer: false
@@ -69,7 +71,7 @@ These layers are deliberately kept separate. An official renewal does not automa
 No public source reviewed gives a complete Moroccan schedule, precise shooting addresses, scene descriptions or a final vehicle list. Netflix has not publicly confirmed Accrocar as a partner.
 
 Published images are privacy-safe derivatives: metadata was stripped and crops exclude visible plates, people and sensitive site identifiers. Originals remain outside the public website tree.
-Accrocar says it participated in the Moroccan vehicle operation, working with Dune Films and MOONAGE PICTURES LIMITED.
+According to first-party information provided to Le Vrai Maroc, Accrocar is collaborating directly with [Dune Films](https://dunefilms.com/) on the vehicle side of the Moroccan operation. MOONAGE PICTURES LIMITED is the production-company entity named in public sources for The Gentlemen; we do not treat that as the same Accrocar contract.
 
 
 ## How we verified this information
@@ -111,5 +113,7 @@ Rabat and Erfoud test that capacity in different ways. The capital concentrates 
 - [Le360 — filming in Morocco (14 September 2026)](https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/)
 
 - [Companies House — Moonage Pictures (The Gentlemen) Limited](https://find-and-update.company-information.service.gov.uk/company/14115797)
+
+- [Dune Films](https://dunefilms.com/)
 
 - [Dune Films — production credits](https://dunefilms.com/credits/)

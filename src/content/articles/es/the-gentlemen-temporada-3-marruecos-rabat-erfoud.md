@@ -32,6 +32,8 @@ sources:
     url: "https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/"
   - label: "Companies House — Moonage Pictures (The Gentlemen) Limited"
     url: "https://find-and-update.company-information.service.gov.uk/company/14115797"
+  - label: "Dune Films"
+    url: "https://dunefilms.com/"
   - label: "Dune Films — créditos de producción"
     url: "https://dunefilms.com/credits/"
 disclaimer: false
@@ -69,7 +71,7 @@ Mantenemos estos niveles separados. Una renovación oficial no confirma automát
 Ninguna fuente pública revisada ofrece el calendario marroquí completo, direcciones exactas, escenas o la lista final de vehículos. Netflix no ha confirmado públicamente a Accrocar como socio.
 
 Las imágenes publicadas son derivados respetuosos con la privacidad: se eliminaron metadatos y los recortes excluyen matrículas, personas e identificadores sensibles. Los originales quedan fuera del árbol público del sitio.
-Accrocar afirma haber participado en la operación de vehículos en Marruecos, junto con Dune Films y MOONAGE PICTURES LIMITED.
+Según información de primera mano comunicada a Le Vrai Maroc, Accrocar colabora directamente con [Dune Films](https://dunefilms.com/) en el ámbito de vehículos de la operación en Marruecos. MOONAGE PICTURES LIMITED es la entidad de producción citada en las fuentes públicas de The Gentlemen; no la tratamos como el mismo contrato de Accrocar.
 
 
 ## Cómo verificamos esta información
@@ -111,5 +113,7 @@ Rabat y Erfoud miden esa capacidad de formas distintas. La capital concentra ins
 - [Le360 — rodaje en Marruecos (14 de septiembre de 2026)](https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/)
 
 - [Companies House — Moonage Pictures (The Gentlemen) Limited](https://find-and-update.company-information.service.gov.uk/company/14115797)
+
+- [Dune Films](https://dunefilms.com/)
 
 - [Dune Films — créditos de producción](https://dunefilms.com/credits/)

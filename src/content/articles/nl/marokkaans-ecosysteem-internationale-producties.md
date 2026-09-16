@@ -36,6 +36,8 @@ sources:
     url: "https://www.ccm.ma/en/statistiques-production"
   - label: "Companies House — Moonage Pictures (The Gentlemen) Limited"
     url: "https://find-and-update.company-information.service.gov.uk/company/14115797"
+  - label: "Dune Films"
+    url: "https://dunefilms.com/"
   - label: "Dune Films — productiecredits"
     url: "https://dunefilms.com/credits/"
 disclaimer: false
@@ -58,7 +60,7 @@ Een opname rust op een lokale keten waarin productie, technische afdelingen en m
 
 Een internationaal project begint met scouting en haalbaarheid en gaat vervolgens langs vergunningen, budgetten, werving, sets, apparatuur, verblijf, beveiliging en vervoer. Marokkaanse uitvoerende producenten verbinden het project met het land; afdelingshoofden zetten plannen om in werkdagen; gespecialiseerde leveranciers vangen precieze behoeften op. Het resultaat hangt vaak meer af van goede raakvlakken dan van één opvallende leverancier.
 
-In dit geval zegt Accrocar te hebben samengewerkt met Dune Films en MOONAGE PICTURES LIMITED voor het voertuigsegment. Openbare credits verbinden The Gentlemen ook met MOONAGE PICTURES LIMITED, Miramax Television en Toff Guy Films.
+[Dune Films](https://dunefilms.com/) presenteert zich als een productiebedrijf in Marrakech, met een basis in Ouarzazate, actief in Marokko sinds 1998 en gespecialiseerd in productiediensten voor internationale opnames. Accrocar treedt hier op als luxe-mobiliteitsleverancier. Volgens eerstehands informatie aan Le Vrai Maroc werken beide bedrijven rechtstreeks samen op het voertuigluik van The Gentlemen in Marokko. Openbare credits verbinden de serie ook met MOONAGE PICTURES LIMITED, Miramax Television en Toff Guy Films; die vermelding beschrijft niet dezelfde operationele band als de samenwerking Accrocar–Dune Films.
 
 <figure>
   <img src="/images/articles/gentlemen-maroc/accrocar-vehicules-luxe-gentlemen.webp" alt="Rolls-Royce-interieur met oranje bekleding in het Accrocar-materiaal" width="1600" height="900" loading="lazy" />
@@ -126,5 +128,7 @@ Rabat en Erfoud testen dat vermogen anders. De hoofdstad bundelt instellingen en
 - [Marokkaans Filmcentrum — productiestatistieken](https://www.ccm.ma/en/statistiques-production)
 
 - [Companies House — Moonage Pictures (The Gentlemen) Limited](https://find-and-update.company-information.service.gov.uk/company/14115797)
+
+- [Dune Films](https://dunefilms.com/)
 
 - [Dune Films — productiecredits](https://dunefilms.com/credits/)

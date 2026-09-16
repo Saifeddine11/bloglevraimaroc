@@ -36,6 +36,8 @@ sources:
     url: "https://www.ccm.ma/en/statistiques-production"
   - label: "Companies House — Moonage Pictures (The Gentlemen) Limited"
     url: "https://find-and-update.company-information.service.gov.uk/company/14115797"
+  - label: "Dune Films"
+    url: "https://dunefilms.com/"
   - label: "Dune Films — références de production"
     url: "https://dunefilms.com/credits/"
 disclaimer: false
@@ -58,7 +60,7 @@ Le tournage ne repose pas sur un seul prestataire mais sur une chaîne locale o�
 
 Un projet international commence par les repérages et la faisabilité, puis passe par les autorisations, budgets, recrutements, décors, équipements, hébergement, sécurité et transport. Les producteurs exécutifs marocains font le lien avec le territoire; les chefs de poste transforment le plan en journées de travail; les prestataires spécialisés absorbent les besoins précis. Le résultat dépend souvent moins d'un acteur vedette que de la qualité des interfaces.
 
-Dans le cas étudié, Accrocar indique avoir collaboré avec Dune Films et MOONAGE PICTURES LIMITED pour le volet automobile, sur un segment circonscrit. Les crédits publics associent par ailleurs The Gentlemen à MOONAGE PICTURES LIMITED, Miramax Television et Toff Guy Films.
+[Dune Films](https://dunefilms.com/) se présente comme une société de production basée à Marrakech, avec une base à Ouarzazate, active au Maroc depuis 1998 et spécialisée dans les services de production pour les tournages internationaux. Accrocar intervient ici comme prestataire de mobilité de luxe. Selon les informations de première main communiquées à Le Vrai Maroc, les deux entreprises collaborent directement sur le volet automobile de The Gentlemen au Maroc. Les crédits publics associent par ailleurs la série à MOONAGE PICTURES LIMITED, Miramax Television et Toff Guy Films; cette mention ne décrit pas le même lien opérationnel que la collaboration Accrocar–Dune Films.
 
 <figure>
   <img src="/images/articles/gentlemen-maroc/accrocar-vehicules-luxe-gentlemen.webp" alt="Habitacle Rolls-Royce à sellerie orange dans le corpus Accrocar" width="1600" height="900" loading="lazy" />
@@ -126,5 +128,7 @@ Rabat et Erfoud donnent deux mesures de cette capacité. La première concentre 
 - [Centre cinématographique marocain — statistiques de production](https://www.ccm.ma/en/statistiques-production)
 
 - [Companies House — Moonage Pictures (The Gentlemen) Limited](https://find-and-update.company-information.service.gov.uk/company/14115797)
+
+- [Dune Films](https://dunefilms.com/)
 
 - [Dune Films — références de production](https://dunefilms.com/credits/)

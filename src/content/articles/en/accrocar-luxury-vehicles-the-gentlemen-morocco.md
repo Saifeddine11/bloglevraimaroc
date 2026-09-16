@@ -32,6 +32,8 @@ sources:
     url: "https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/"
   - label: "Companies House — Moonage Pictures (The Gentlemen) Limited"
     url: "https://find-and-update.company-information.service.gov.uk/company/14115797"
+  - label: "Dune Films"
+    url: "https://dunefilms.com/"
   - label: "Dune Films — production credits"
     url: "https://dunefilms.com/credits/"
   - label: "Accrocar — company profile"
@@ -60,7 +62,7 @@ Original images and the owner's account document production-related vehicle supp
 
 The supplied corpus contains original images of vehicles grouped, prepared or positioned in the Rabat area. Accrocar says it supplied high-end vehicles within the scope entrusted to it for the Season 3 production. We publish that as attributed first-party information, not as independent validation by Netflix.
 
-Accrocar says it collaborated with Dune Films and MOONAGE PICTURES LIMITED in connection with the automotive needs of The Gentlemen production in Morocco. We do not describe Accrocar as an official Netflix partner or assume a direct contract.
+According to first-party information provided to Le Vrai Maroc, Accrocar is collaborating directly with [Dune Films](https://dunefilms.com/) on the high-end vehicle needs entrusted to it for The Gentlemen production in Morocco. Public sources also associate the series with MOONAGE PICTURES LIMITED; we do not treat that as the same contractual relationship Accrocar has with Dune Films, nor as an official Netflix partnership.
 
 <figure>
   <img src="/images/articles/gentlemen-maroc/rolls-royce-cullinan-rabat-inline.webp" alt="Rolls-Royce Cullinan detail photographed in Rabat" width="1600" height="900" loading="lazy" />
@@ -124,6 +126,8 @@ Rabat and Erfoud test that capacity in different ways. The capital concentrates 
 - [Le360 — filming in Morocco (14 September 2026)](https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/)
 
 - [Companies House — Moonage Pictures (The Gentlemen) Limited](https://find-and-update.company-information.service.gov.uk/company/14115797)
+
+- [Dune Films](https://dunefilms.com/)
 
 - [Dune Films — production credits](https://dunefilms.com/credits/)
 

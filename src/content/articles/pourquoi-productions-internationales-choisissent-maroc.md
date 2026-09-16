@@ -32,6 +32,8 @@ sources:
     url: "https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news?inapp=true"
   - label: "Le360 — tournage au Maroc (14 septembre 2026)"
     url: "https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/"
+  - label: "Dune Films"
+    url: "https://dunefilms.com/"
   - label: "Centre cinématographique marocain — guide du soutien aux productions étrangères"
     url: "https://ccm.ma/foreign_production/pe/doc/guide_en.pdf"
   - label: "Centre cinématographique marocain — statistiques de production"
@@ -58,7 +60,7 @@ Le premier argument du Maroc est sa densité de paysages: littoral, médinas, vi
 
 Le Centre cinématographique marocain présente un mécanisme de soutien pouvant atteindre 30 % de certaines dépenses locales éligibles, sous conditions. Ce chiffre doit être lu comme une incitation encadrée, pas comme un remboursement automatique. La compétitivité réelle naît de l'addition: coût, expérience, diversité et continuité de service.
 
-Les crédits officiels de Dune Films donnent une mesure concrète de l'expérience disponible au Maroc: l'entreprise cite notamment Napoleon, Game of Thrones, Aladdin, John Wick: Chapter 3 et Heart of Stone parmi les productions accompagnées. Ces références ne prouvent rien sur les lieux de The Gentlemen; elles documentent la profondeur du tissu de production auquel une nouvelle série peut faire appel.
+Les crédits officiels de [Dune Films](https://dunefilms.com/) donnent une mesure concrète de l'expérience disponible au Maroc: la société, basée à Marrakech avec une base à Ouarzazate et active depuis 1998, cite notamment Napoleon, Game of Thrones, Aladdin, John Wick: Chapter 3 et Heart of Stone parmi les productions accompagnées. Ces références ne prouvent rien sur les lieux de The Gentlemen; elles documentent la profondeur du tissu de production auquel une nouvelle série peut faire appel.
 
 
 
@@ -107,6 +109,8 @@ Rabat et Erfoud donnent deux mesures de cette capacité. La première concentre 
 - [Netflix Tudum — saison 3](https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news?inapp=true)
 
 - [Le360 — tournage au Maroc (14 septembre 2026)](https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/)
+
+- [Dune Films](https://dunefilms.com/)
 
 - [Centre cinématographique marocain — guide du soutien aux productions étrangères](https://ccm.ma/foreign_production/pe/doc/guide_en.pdf)
 

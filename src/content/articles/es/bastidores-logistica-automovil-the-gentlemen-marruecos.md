@@ -30,6 +30,8 @@ sources:
     url: "https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news?inapp=true"
   - label: "Le360 — rodaje en Marruecos (14 de septiembre de 2026)"
     url: "https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/"
+  - label: "Dune Films"
+    url: "https://dunefilms.com/"
   - label: "Accrocar — presentación de la empresa"
     url: "https://accrocar.com/about"
   - label: "Accrocar — servicios VIP"
@@ -58,6 +60,8 @@ En un rodaje, un coche no es solo un objeto de prestigio. Debe llegar limpio y d
 
 El material de Accrocar muestra sobre todo esa dimensión de flota: varios vehículos alineados y un habitáculo preparado. No revela la escena, el usuario final ni la duración de uso. Esa es la diferencia entre documentar la logística e inventar una historia alrededor del rodaje.
 
+La operación no es un alquiler aislado. Según información de primera mano comunicada a Le Vrai Maroc, Accrocar colabora directamente con [Dune Films](https://dunefilms.com/) para coordinar movimientos y disponibilidad de los vehículos. MOONAGE PICTURES LIMITED sigue siendo la entidad de producción citada en el expediente público de la serie; eso no establece por sí solo un contrato automovilístico idéntico.
+
 <figure>
   <img src="/images/articles/gentlemen-maroc/rolls-royce-interieur-inline.webp" alt="Habitáculo Rolls-Royce con tapicería naranja en el material de Accrocar" width="1600" height="900" loading="lazy" />
   <figcaption>Vista interior facilitada por Accrocar. Documenta la preparación, no una aparición en una escena.</figcaption>
@@ -76,7 +80,7 @@ Ninguna fuente pública revisada ofrece el calendario marroquí completo, direcc
 Las imágenes publicadas son derivados respetuosos con la privacidad: se eliminaron metadatos y los recortes excluyen matrículas, personas e identificadores sensibles. Los originales quedan fuera del árbol público del sitio.
 ## Nota editorial
 
-Aquí Accrocar se analiza como proveedor logístico que indica haber colaborado con Dune Films y MOONAGE PICTURES LIMITED en el ámbito de los vehículos: el interés editorial está en la ejecución, no en una promesa comercial.
+Aquí Accrocar se analiza como proveedor logístico que, según información de primera mano, colabora directamente con [Dune Films](https://dunefilms.com/) en el ámbito de los vehículos: el interés editorial está en la ejecución, no en una promesa comercial.
 
 Accrocar facilitó el material de vehículos de primera mano analizado aquí. Le Vrai Maroc eligió de forma independiente el enfoque, la redacción y las etiquetas de evidencia. El artículo no deduce una asociación oficial ni un contrato directo con Netflix.
 
@@ -116,6 +120,8 @@ Rabat y Erfoud miden esa capacidad de formas distintas. La capital concentra ins
 - [Netflix Tudum — temporada 3](https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news?inapp=true)
 
 - [Le360 — rodaje en Marruecos (14 de septiembre de 2026)](https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/)
+
+- [Dune Films](https://dunefilms.com/)
 
 - [Accrocar — presentación de la empresa](https://accrocar.com/about)
 

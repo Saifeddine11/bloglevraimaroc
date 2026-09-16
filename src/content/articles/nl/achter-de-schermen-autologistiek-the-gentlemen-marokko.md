@@ -30,6 +30,8 @@ sources:
     url: "https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news?inapp=true"
   - label: "Le360 — opnames in Marokko (14 september 2026)"
     url: "https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/"
+  - label: "Dune Films"
+    url: "https://dunefilms.com/"
   - label: "Accrocar — bedrijfsprofiel"
     url: "https://accrocar.com/about"
   - label: "Accrocar — VIP-diensten"
@@ -58,6 +60,8 @@ Op een set is een auto meer dan een luxeobject. Hij moet schoon en beschikbaar a
 
 Het Accrocar-materiaal toont vooral die vlootdimensie: meerdere voertuigen naast elkaar en een voorbereid interieur. Het vertelt niets over de scène, eindgebruiker of gebruiksduur. Dat is het verschil tussen logistiek documenteren en een verhaal rond de opnames verzinnen.
 
+De operatie is geen losse verhuur. Volgens eerstehands informatie aan Le Vrai Maroc werkt Accrocar rechtstreeks samen met [Dune Films](https://dunefilms.com/) om voertuigbewegingen en beschikbaarheid te coördineren. MOONAGE PICTURES LIMITED blijft de productie-entiteit in het openbare dossier van de serie; dat alleen bewijst geen identiek autoverdrag.
+
 <figure>
   <img src="/images/articles/gentlemen-maroc/rolls-royce-interieur-inline.webp" alt="Rolls-Royce-interieur met oranje bekleding in het Accrocar-materiaal" width="1600" height="900" loading="lazy" />
   <figcaption>Interieurbeeld van Accrocar. Het documenteert voorbereiding, niet een verschijning in een scène.</figcaption>
@@ -76,7 +80,7 @@ Geen geraadpleegde openbare bron geeft een volledig Marokkaans schema, precieze 
 De gepubliceerde beelden zijn privacyveilige afgeleiden: metadata zijn verwijderd en uitsneden sluiten kentekens, personen en gevoelige locatiekenmerken uit. Originelen blijven buiten de publieke websiteboom.
 ## Redactionele toelichting
 
-Accrocar wordt hier als logistieke leverancier bekeken die zegt te hebben samengewerkt met Dune Films en MOONAGE PICTURES LIMITED voor het voertuigluik: de redactionele waarde zit in de uitvoering, niet in een commerciële belofte.
+Accrocar wordt hier als logistieke leverancier bekeken die, volgens informatie uit eerste hand, rechtstreeks samenwerkt met [Dune Films](https://dunefilms.com/) voor het voertuigluik: de redactionele waarde zit in de uitvoering, niet in een commerciële belofte.
 
 Accrocar leverde het eerstehands voertuigmaterial dat hier wordt besproken. Le Vrai Maroc bepaalde onafhankelijk het kader, de formulering en de bewijslabels. Het artikel leidt geen officieel Netflix-partnerschap of direct Netflix-contract af.
 
@@ -116,6 +120,8 @@ Rabat en Erfoud testen dat vermogen anders. De hoofdstad bundelt instellingen en
 - [Netflix Tudum — seizoen 3](https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news?inapp=true)
 
 - [Le360 — opnames in Marokko (14 september 2026)](https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/)
+
+- [Dune Films](https://dunefilms.com/)
 
 - [Accrocar — bedrijfsprofiel](https://accrocar.com/about)
 

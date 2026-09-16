@@ -30,6 +30,8 @@ sources:
     url: "https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news?inapp=true"
   - label: "Le360 — tournage au Maroc (14 septembre 2026)"
     url: "https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/"
+  - label: "Dune Films"
+    url: "https://dunefilms.com/"
   - label: "Accrocar — présentation de l'entreprise"
     url: "https://accrocar.com/about"
   - label: "Accrocar — services VIP"
@@ -60,7 +62,7 @@ Le dossier The Gentlemen éclaire un positionnement B2B où disponibilité, conf
 
 Accrocar se présente publiquement comme une société marocaine de location de véhicules de luxe et de services VIP. Une production audiovisuelle change la nature de la demande: le client n'est plus seulement un conducteur, mais une organisation avec validation, planning, confidentialité et plusieurs interlocuteurs. Le produit devient une disponibilité garantie dans une chaîne complexe.
 
-Le dossier de The Gentlemen, pour lequel Accrocar indique une collaboration avec Dune Films et MOONAGE PICTURES LIMITED, constitue un exemple déclaré par l'entreprise, pas un certificat émis par Netflix. Il suggère néanmoins un axe de développement crédible pour des opérateurs marocains: transformer une flotte et un service de conciergerie en capacité B2B documentée, avec procédures, assurances, chauffeurs, maintenance et couverture géographique.
+Le dossier de The Gentlemen, pour lequel Accrocar collabore directement avec [Dune Films](https://dunefilms.com/) selon les informations de première main communiquées à Le Vrai Maroc, constitue un exemple déclaré par l'entreprise, pas un certificat émis par Netflix. MOONAGE PICTURES LIMITED figure dans le paysage de production de la série, sans transformer Accrocar en partenaire officiel de la plateforme. Il suggère néanmoins un axe de développement crédible pour des opérateurs marocains: transformer une flotte et un service de conciergerie en capacité B2B documentée, avec procédures, assurances, chauffeurs, maintenance et couverture géographique.
 
 <figure>
   <img src="/images/articles/gentlemen-maroc/logistique-automobile-production-maroc.webp" alt="Trois SUV noirs alignés avant exploitation" width="1600" height="900" loading="lazy" />
@@ -118,6 +120,8 @@ Rabat et Erfoud donnent deux mesures de cette capacité. La première concentre 
 - [Netflix Tudum — saison 3](https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news?inapp=true)
 
 - [Le360 — tournage au Maroc (14 septembre 2026)](https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/)
+
+- [Dune Films](https://dunefilms.com/)
 
 - [Accrocar — présentation de l'entreprise](https://accrocar.com/about)
 

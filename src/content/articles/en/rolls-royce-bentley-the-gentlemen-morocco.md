@@ -30,6 +30,8 @@ sources:
     url: "https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news?inapp=true"
   - label: "Le360 — filming in Morocco (14 September 2026)"
     url: "https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/"
+  - label: "Dune Films"
+    url: "https://dunefilms.com/"
   - label: "Accrocar — company profile"
     url: "https://accrocar.com/about"
   - label: "Accrocar — VIP services"
@@ -56,7 +58,7 @@ The material shows a Rolls-Royce Cullinan and Bentley Bentayga, without proving 
 
 The upright grille, Spirit of Ecstasy, proportions and wheel details support identification of a Rolls-Royce Cullinan. The second SUV carries the grille and winged badge of a Bentley Bentayga. Another image shows an orange-trimmed Rolls-Royce cabin. These observations describe objects present in the supplied material.
 
-They do not show whether the vehicles belong to a character, supported off-camera transport or were ultimately used. The precise wording is therefore “vehicles visible in material supplied by Accrocar”, not “cars seen in Season 3”. The models are documented; their narrative role is not.
+They do not show whether the vehicles belong to a character, supported off-camera transport or were ultimately used. The precise wording is therefore “vehicles visible in material supplied by Accrocar”, not “cars seen in Season 3”. The models are documented; their narrative role is not. The photographs belong to the supply entrusted to Accrocar, which, according to first-party information provided to Le Vrai Maroc, is collaborating directly with [Dune Films](https://dunefilms.com/).
 
 <figure>
   <img src="/images/articles/gentlemen-maroc/rolls-royce-cullinan-rabat-inline.webp" alt="Rolls-Royce Cullinan detail photographed in Rabat" width="1600" height="900" loading="lazy" />
@@ -81,7 +83,7 @@ No public source reviewed gives a complete Moroccan schedule, precise shooting a
 Published images are privacy-safe derivatives: metadata was stripped and crops exclude visible plates, people and sensitive site identifiers. Originals remain outside the public website tree.
 ## Editorial note
 
-Accrocar is the primary source of the automotive corpus here, in a collaboration it describes with Dune Films and MOONAGE PICTURES LIMITED; the analysis remains independent and limited to what the pixels support.
+Accrocar is the primary source of the automotive corpus here. First-party information is that Accrocar is collaborating directly with [Dune Films](https://dunefilms.com/) on the vehicles entrusted to it; the analysis remains independent and limited to what the pixels support. MOONAGE PICTURES LIMITED belongs to the public production context of The Gentlemen and does not, by itself, describe the same contract.
 
 Accrocar supplied the first-party vehicle material discussed here. Le Vrai Maroc independently selected the framing, wording and evidence labels. The article does not infer an official Netflix partnership or a direct Netflix contract.
 
@@ -121,6 +123,8 @@ Rabat and Erfoud test that capacity in different ways. The capital concentrates 
 - [Netflix Tudum — Season 3](https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news?inapp=true)
 
 - [Le360 — filming in Morocco (14 September 2026)](https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/)
+
+- [Dune Films](https://dunefilms.com/)
 
 - [Accrocar — company profile](https://accrocar.com/about)
 

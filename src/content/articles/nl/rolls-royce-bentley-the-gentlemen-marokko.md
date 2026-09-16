@@ -30,6 +30,8 @@ sources:
     url: "https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news?inapp=true"
   - label: "Le360 — opnames in Marokko (14 september 2026)"
     url: "https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/"
+  - label: "Dune Films"
+    url: "https://dunefilms.com/"
   - label: "Accrocar — bedrijfsprofiel"
     url: "https://accrocar.com/about"
   - label: "Accrocar — VIP-diensten"
@@ -56,7 +58,7 @@ Het materiaal toont een Rolls-Royce Cullinan en Bentley Bentayga, zonder hun aan
 
 De verticale grille, Spirit of Ecstasy, verhoudingen en wieldetails ondersteunen de identificatie van een Rolls-Royce Cullinan. De tweede SUV draagt de grille en het gevleugelde embleem van een Bentley Bentayga. Een ander beeld toont een Rolls-Royce-interieur met oranje leer. Die observaties beschrijven objecten in het geleverde materiaal.
 
-Ze vertellen niet of de voertuigen bij een personage horen, voor vervoer buiten beeld dienden of uiteindelijk zijn gebruikt. De precieze formulering is daarom “voertuigen zichtbaar in materiaal van Accrocar”, niet “auto's te zien in seizoen 3”. De modellen zijn gedocumenteerd; hun verhalende rol niet.
+Ze vertellen niet of de voertuigen bij een personage horen, voor vervoer buiten beeld dienden of uiteindelijk zijn gebruikt. De precieze formulering is daarom “voertuigen zichtbaar in materiaal van Accrocar”, niet “auto's te zien in seizoen 3”. De modellen zijn gedocumenteerd; hun verhalende rol niet. De foto’s horen bij de levering die Accrocar toevertrouwd kreeg en waarbij Accrocar, volgens eerstehands informatie aan Le Vrai Maroc, rechtstreeks samenwerkt met [Dune Films](https://dunefilms.com/).
 
 <figure>
   <img src="/images/articles/gentlemen-maroc/rolls-royce-cullinan-rabat-inline.webp" alt="Detail van een Rolls-Royce Cullinan, gefotografeerd in Rabat" width="1600" height="900" loading="lazy" />
@@ -81,7 +83,7 @@ Geen geraadpleegde openbare bron geeft een volledig Marokkaans schema, precieze 
 De gepubliceerde beelden zijn privacyveilige afgeleiden: metadata zijn verwijderd en uitsneden sluiten kentekens, personen en gevoelige locatiekenmerken uit. Originelen blijven buiten de publieke websiteboom.
 ## Redactionele toelichting
 
-Accrocar is hier de primaire bron van het automateriaal, in een samenwerking die het beschrijft met Dune Films en MOONAGE PICTURES LIMITED; de analyse blijft onafhankelijk en beperkt tot wat zichtbaar is.
+Accrocar is hier de primaire bron van het automateriaal. Uit eerste hand is bevestigd dat Accrocar rechtstreeks samenwerkt met [Dune Films](https://dunefilms.com/) voor de toevertrouwde voertuigen; de analyse blijft onafhankelijk en beperkt tot wat zichtbaar is. MOONAGE PICTURES LIMITED hoort bij de openbare productiecontext van The Gentlemen en beschrijft op zichzelf niet hetzelfde contract.
 
 Accrocar leverde het eerstehands voertuigmaterial dat hier wordt besproken. Le Vrai Maroc bepaalde onafhankelijk het kader, de formulering en de bewijslabels. Het artikel leidt geen officieel Netflix-partnerschap of direct Netflix-contract af.
 
@@ -121,6 +123,8 @@ Rabat en Erfoud testen dat vermogen anders. De hoofdstad bundelt instellingen en
 - [Netflix Tudum — seizoen 3](https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news?inapp=true)
 
 - [Le360 — opnames in Marokko (14 september 2026)](https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/)
+
+- [Dune Films](https://dunefilms.com/)
 
 - [Accrocar — bedrijfsprofiel](https://accrocar.com/about)
 

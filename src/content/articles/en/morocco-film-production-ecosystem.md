@@ -36,6 +36,8 @@ sources:
     url: "https://www.ccm.ma/en/statistiques-production"
   - label: "Companies House — Moonage Pictures (The Gentlemen) Limited"
     url: "https://find-and-update.company-information.service.gov.uk/company/14115797"
+  - label: "Dune Films"
+    url: "https://dunefilms.com/"
   - label: "Dune Films — production credits"
     url: "https://dunefilms.com/credits/"
 disclaimer: false
@@ -58,7 +60,7 @@ A shoot relies on a local chain in which production services, technical departme
 
 An international project begins with scouting and feasibility, then moves through permits, budgets, recruitment, sets, equipment, accommodation, security and transport. Moroccan line producers connect the project to the territory; department heads turn plans into working days; specialised suppliers absorb precise requests. Results often depend less on one star supplier than on the quality of the interfaces.
 
-In this case, Accrocar says it collaborated with Dune Films and MOONAGE PICTURES LIMITED on the vehicle segment. Public credits also associate The Gentlemen with MOONAGE PICTURES LIMITED, Miramax Television and Toff Guy Films.
+[Dune Films](https://dunefilms.com/) presents itself as a Marrakech-based production company, with a base in Ouarzazate, active in Morocco since 1998 and specialised in production services for international shoots. Accrocar appears here as a luxury-mobility supplier. First-party information provided to Le Vrai Maroc is that the two companies are collaborating directly on the vehicle side of The Gentlemen in Morocco. Public credits also associate the series with MOONAGE PICTURES LIMITED, Miramax Television and Toff Guy Films; that mention does not describe the same operational link as the Accrocar–Dune Films collaboration.
 
 <figure>
   <img src="/images/articles/gentlemen-maroc/accrocar-vehicules-luxe-gentlemen.webp" alt="Rolls-Royce cabin with orange upholstery in the Accrocar material" width="1600" height="900" loading="lazy" />
@@ -126,5 +128,7 @@ Rabat and Erfoud test that capacity in different ways. The capital concentrates 
 - [Moroccan Cinema Centre — production statistics](https://www.ccm.ma/en/statistiques-production)
 
 - [Companies House — Moonage Pictures (The Gentlemen) Limited](https://find-and-update.company-information.service.gov.uk/company/14115797)
+
+- [Dune Films](https://dunefilms.com/)
 
 - [Dune Films — production credits](https://dunefilms.com/credits/)

@@ -32,6 +32,8 @@ sources:
     url: "https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/"
   - label: "Companies House — Moonage Pictures (The Gentlemen) Limited"
     url: "https://find-and-update.company-information.service.gov.uk/company/14115797"
+  - label: "Dune Films"
+    url: "https://dunefilms.com/"
   - label: "Dune Films — créditos de producción"
     url: "https://dunefilms.com/credits/"
   - label: "Accrocar — presentación de la empresa"
@@ -60,7 +62,7 @@ Imágenes originales y el relato del propietario documentan el suministro vincul
 
 El conjunto recibido contiene imágenes originales de vehículos agrupados, preparados o posicionados en la zona de Rabat. Accrocar afirma que suministró vehículos de alta gama dentro del ámbito que le fue confiado para la producción. Publicamos esa afirmación como información atribuida de primera mano, no como validación independiente de Netflix.
 
-Accrocar indica haber colaborado con Dune Films y MOONAGE PICTURES LIMITED en el marco de las necesidades automovilísticas vinculadas a la producción de The Gentlemen en Marruecos. No calificamos a Accrocar como socio oficial de Netflix ni suponemos un contrato directo.
+Según información de primera mano comunicada a Le Vrai Maroc, Accrocar colabora directamente con [Dune Films](https://dunefilms.com/) en las necesidades de vehículos de alta gama que le fueron confiadas para la producción de The Gentlemen en Marruecos. Las fuentes públicas asocian también la serie a MOONAGE PICTURES LIMITED; no equiparamos esa mención al mismo vínculo contractual que Accrocar mantiene con Dune Films, ni a una asociación oficial con Netflix.
 
 <figure>
   <img src="/images/articles/gentlemen-maroc/rolls-royce-cullinan-rabat-inline.webp" alt="Detalle de un Rolls-Royce Cullinan fotografiado en Rabat" width="1600" height="900" loading="lazy" />
@@ -124,6 +126,8 @@ Rabat y Erfoud miden esa capacidad de formas distintas. La capital concentra ins
 - [Le360 — rodaje en Marruecos (14 de septiembre de 2026)](https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/)
 
 - [Companies House — Moonage Pictures (The Gentlemen) Limited](https://find-and-update.company-information.service.gov.uk/company/14115797)
+
+- [Dune Films](https://dunefilms.com/)
 
 - [Dune Films — créditos de producción](https://dunefilms.com/credits/)
 

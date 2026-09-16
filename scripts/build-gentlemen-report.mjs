@@ -54,7 +54,7 @@ Official: Season 3 exists and Guy Ritchie returns to direct. Publicly reported: 
 
 ## 10. Production-company naming conclusion
 
-Published editorial copy standardizes the production-company reference as **MOONAGE PICTURES LIMITED**. Accrocar is described as having collaborated with Dune Films and MOONAGE PICTURES LIMITED in connection with vehicle needs for The Gentlemen in Morocco. Accrocar is never called an official Netflix partner and no direct Netflix contract is inferred. Companies House source citations keep the registered name of filing \`14115797\` (\`Moonage Pictures (The Gentlemen) Limited\`) because that is the exact title of that public record.
+Published editorial copy standardizes the production-company reference as **MOONAGE PICTURES LIMITED**. Accrocar's **direct collaboration with Dune Films** on the high-end vehicle operation is first-party confirmed. MOONAGE PICTURES LIMITED is named as the production-company entity in public sources; that is not treated as the same Accrocar contract as the Dune Films relationship. Accrocar is never called an official Netflix partner and no direct Netflix contract is inferred. Companies House source citations keep the registered name of filing \`14115797\` (\`Moonage Pictures (The Gentlemen) Limited\`) because that is the exact title of that public record. Dune Films is cited from its official site, [https://dunefilms.com/](https://dunefilms.com/).
 
 ## 11–13. First-party asset inventory, used assets and exclusions
 

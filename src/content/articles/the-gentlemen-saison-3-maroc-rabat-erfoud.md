@@ -32,6 +32,8 @@ sources:
     url: "https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/"
   - label: "Companies House — Moonage Pictures (The Gentlemen) Limited"
     url: "https://find-and-update.company-information.service.gov.uk/company/14115797"
+  - label: "Dune Films"
+    url: "https://dunefilms.com/"
   - label: "Dune Films — références de production"
     url: "https://dunefilms.com/credits/"
 disclaimer: false
@@ -69,7 +71,7 @@ Ces niveaux restent volontairement séparés. Un renouvellement officiel ne conf
 Aucune source publique consultée ne donne le calendrier marocain complet, les adresses précises, les scènes ou la liste finale des véhicules. Netflix n'a pas publiquement confirmé Accrocar comme partenaire.
 
 Les images publiées sont des dérivés respectueux de la vie privée: métadonnées supprimées, plaques, personnes et indices sensibles exclus par le cadrage. Les originaux restent hors de l'arborescence publique du site.
-Accrocar indique avoir pris part au volet automobile de l'opération au Maroc, en lien avec Dune Films et MOONAGE PICTURES LIMITED.
+Selon les informations de première main communiquées à Le Vrai Maroc, Accrocar collabore directement avec [Dune Films](https://dunefilms.com/) pour le volet automobile de l'opération au Maroc. MOONAGE PICTURES LIMITED est l'entité de production citée dans les sources publiques de The Gentlemen; nous n'en faisons pas un contrat Accrocar identique.
 
 
 ## Comment nous avons vérifié cette information
@@ -111,5 +113,7 @@ Rabat et Erfoud donnent deux mesures de cette capacité. La première concentre 
 - [Le360 — tournage au Maroc (14 septembre 2026)](https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/)
 
 - [Companies House — Moonage Pictures (The Gentlemen) Limited](https://find-and-update.company-information.service.gov.uk/company/14115797)
+
+- [Dune Films](https://dunefilms.com/)
 
 - [Dune Films — références de production](https://dunefilms.com/credits/)

@@ -30,6 +30,8 @@ sources:
     url: "https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news?inapp=true"
   - label: "Le360 — filming in Morocco (14 September 2026)"
     url: "https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/"
+  - label: "Dune Films"
+    url: "https://dunefilms.com/"
   - label: "Accrocar — company profile"
     url: "https://accrocar.com/about"
   - label: "Accrocar — VIP services"
@@ -60,7 +62,7 @@ The Gentlemen material illustrates a B2B position where availability, confidenti
 
 Accrocar publicly presents itself as a Moroccan luxury-vehicle rental and VIP-services company. An audiovisual production changes the request: the customer is an organisation with approvals, schedules, confidentiality and several contacts. The product becomes guaranteed availability within a complex chain.
 
-The Gentlemen file, for which Accrocar says it collaborated with Dune Films and MOONAGE PICTURES LIMITED, is an example declared by the company, not a certificate issued by Netflix. It nonetheless suggests a credible growth path for Moroccan operators: turning a fleet and concierge service into documented B2B capacity through procedures, insurance, drivers, maintenance and geographic coverage.
+The Gentlemen file, for which Accrocar is collaborating directly with [Dune Films](https://dunefilms.com/) according to first-party information provided to Le Vrai Maroc, is an example declared by the company, not a certificate issued by Netflix. MOONAGE PICTURES LIMITED belongs to the series' production landscape and does not turn Accrocar into an official Netflix partner. It nonetheless suggests a credible growth path for Moroccan operators: turning a fleet and concierge service into documented B2B capacity through procedures, insurance, drivers, maintenance and geographic coverage.
 
 <figure>
   <img src="/images/articles/gentlemen-maroc/logistique-automobile-production-maroc.webp" alt="Three black SUVs lined up before use" width="1600" height="900" loading="lazy" />
@@ -118,6 +120,8 @@ Rabat and Erfoud test that capacity in different ways. The capital concentrates 
 - [Netflix Tudum — Season 3](https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news?inapp=true)
 
 - [Le360 — filming in Morocco (14 September 2026)](https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/)
+
+- [Dune Films](https://dunefilms.com/)
 
 - [Accrocar — company profile](https://accrocar.com/about)
 

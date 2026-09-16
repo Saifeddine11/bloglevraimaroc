@@ -32,6 +32,8 @@ sources:
     url: "https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/"
   - label: "Companies House — Moonage Pictures (The Gentlemen) Limited"
     url: "https://find-and-update.company-information.service.gov.uk/company/14115797"
+  - label: "Dune Films"
+    url: "https://dunefilms.com/"
   - label: "Dune Films — productiecredits"
     url: "https://dunefilms.com/credits/"
   - label: "Accrocar — bedrijfsprofiel"
@@ -60,7 +62,7 @@ Originele beelden en het relaas van de eigenaar documenteren voertuiglevering ro
 
 Het aangeleverde materiaal bevat originele beelden van voertuigen die in de regio Rabat zijn gegroepeerd, voorbereid of opgesteld. Accrocar zegt binnen de toevertrouwde opdracht hoogwaardige voertuigen voor de productie te hebben geleverd. Wij publiceren dit als toegeschreven informatie uit eerste hand, niet als onafhankelijke bevestiging door Netflix.
 
-Accrocar zegt te hebben samengewerkt met Dune Films en MOONAGE PICTURES LIMITED voor de autobehoeften van de productie van The Gentlemen in Marokko. We noemen Accrocar geen officiële Netflix-partner en nemen geen direct contract aan.
+Volgens eerstehands informatie aan Le Vrai Maroc werkt Accrocar rechtstreeks samen met [Dune Films](https://dunefilms.com/) voor de high-end voertuigbehoeften die het voor de productie van The Gentlemen in Marokko toevertrouwd kreeg. Openbare bronnen verbinden de serie ook met MOONAGE PICTURES LIMITED; wij stellen dat niet gelijk aan hetzelfde contractuele verband als met Dune Films, noch aan een officieel Netflix-partnerschap.
 
 <figure>
   <img src="/images/articles/gentlemen-maroc/rolls-royce-cullinan-rabat-inline.webp" alt="Detail van een Rolls-Royce Cullinan, gefotografeerd in Rabat" width="1600" height="900" loading="lazy" />
@@ -124,6 +126,8 @@ Rabat en Erfoud testen dat vermogen anders. De hoofdstad bundelt instellingen en
 - [Le360 — opnames in Marokko (14 september 2026)](https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/)
 
 - [Companies House — Moonage Pictures (The Gentlemen) Limited](https://find-and-update.company-information.service.gov.uk/company/14115797)
+
+- [Dune Films](https://dunefilms.com/)
 
 - [Dune Films — productiecredits](https://dunefilms.com/credits/)
 
