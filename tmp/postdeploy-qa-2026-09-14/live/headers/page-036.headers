@@ -1,0 +1,39 @@
+HTTP/2 301 
+date: Mon, 14 Sep 2026 13:16:23 GMT
+content-type: text/html
+content-length: 795
+location: https://levraimaroc.com/nl/artikelen/verkiezingen-marokko-2026/
+platform: hostinger
+panel: hpanel
+content-security-policy: upgrade-insecure-requests
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+referrer-policy: strict-origin-when-cross-origin
+permissions-policy: camera=(), microphone=(), geolocation=()
+server: hcdn
+alt-svc: h3=":443"; ma=86400
+x-hcdn-request-id: 89864ae85baaf06d4b253d063c60bfef-srv-edge5
+x-hcdn-cache-status: MISS
+x-hcdn-upstream-rt: 0.017
+
+HTTP/2 200 
+date: Mon, 14 Sep 2026 13:16:23 GMT
+content-type: text/html
+vary: Accept-Encoding
+cache-control: public, max-age=3600
+expires: Mon, 14 Sep 2026 14:16:23 GMT
+last-modified: Mon, 14 Sep 2026 11:24:41 GMT
+etag: W/"aa6c-6aa7d979-2594b5209c1267be;gz"
+platform: hostinger
+panel: hpanel
+content-security-policy: upgrade-insecure-requests
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+referrer-policy: strict-origin-when-cross-origin
+permissions-policy: camera=(), microphone=(), geolocation=()
+server: hcdn
+alt-svc: h3=":443"; ma=86400
+x-hcdn-request-id: 4ec64b79ba60d89d04467c0a2895d675-srv-edge5
+x-hcdn-cache-status: DYNAMIC
+x-hcdn-upstream-rt: 0.019
+

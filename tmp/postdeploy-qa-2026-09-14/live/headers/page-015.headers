@@ -1,0 +1,39 @@
+HTTP/2 301 
+date: Mon, 14 Sep 2026 13:16:11 GMT
+content-type: text/html
+content-length: 795
+location: https://levraimaroc.com/es/articulos/final-mundial-2030-marruecos-espana/
+platform: hostinger
+panel: hpanel
+content-security-policy: upgrade-insecure-requests
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+referrer-policy: strict-origin-when-cross-origin
+permissions-policy: camera=(), microphone=(), geolocation=()
+server: hcdn
+alt-svc: h3=":443"; ma=86400
+x-hcdn-request-id: 6347309a0324caf0b6999aa3888404d2-srv-edge5
+x-hcdn-cache-status: MISS
+x-hcdn-upstream-rt: 0.018
+
+HTTP/2 200 
+date: Mon, 14 Sep 2026 13:16:11 GMT
+content-type: text/html
+vary: Accept-Encoding
+cache-control: public, max-age=3600
+expires: Mon, 14 Sep 2026 14:16:11 GMT
+last-modified: Mon, 14 Sep 2026 11:24:39 GMT
+etag: W/"b35e-6aa7d977-37e97e82720c7ed6;gz"
+platform: hostinger
+panel: hpanel
+content-security-policy: upgrade-insecure-requests
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+referrer-policy: strict-origin-when-cross-origin
+permissions-policy: camera=(), microphone=(), geolocation=()
+server: hcdn
+alt-svc: h3=":443"; ma=86400
+x-hcdn-request-id: 5d277862dbb1f4136146a33c2ef6d9b4-srv-edge5
+x-hcdn-cache-status: DYNAMIC
+x-hcdn-upstream-rt: 0.019
+

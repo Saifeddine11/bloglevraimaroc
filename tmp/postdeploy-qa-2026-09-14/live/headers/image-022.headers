@@ -1,0 +1,22 @@
+HTTP/2 200 
+date: Mon, 14 Sep 2026 13:16:50 GMT
+content-type: image/webp
+content-length: 124554
+cache-control: public, max-age=31536000
+expires: Tue, 14 Sep 2027 13:16:49 GMT
+last-modified: Mon, 14 Sep 2026 11:24:37 GMT
+etag: "1e68a-6aa7d975-130b5ecd5eb68cc5;;;"
+platform: hostinger
+panel: hpanel
+content-security-policy: upgrade-insecure-requests
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+referrer-policy: strict-origin-when-cross-origin
+permissions-policy: camera=(), microphone=(), geolocation=()
+server: hcdn
+alt-svc: h3=":443"; ma=86400
+x-hcdn-request-id: bdd75d433c68411ddd25b02284f84d91-srv-edge5
+x-hcdn-cache-status: MISS
+x-hcdn-upstream-rt: 0.021
+accept-ranges: bytes
+

@@ -1,0 +1,39 @@
+HTTP/2 301 
+date: Mon, 14 Sep 2026 13:16:16 GMT
+content-type: text/html
+content-length: 795
+location: https://levraimaroc.com/articles/moga-essaouira-2026/
+platform: hostinger
+panel: hpanel
+content-security-policy: upgrade-insecure-requests
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+referrer-policy: strict-origin-when-cross-origin
+permissions-policy: camera=(), microphone=(), geolocation=()
+server: hcdn
+alt-svc: h3=":443"; ma=86400
+x-hcdn-request-id: 0b7fa35fb83a9a70066bd909ef0ef3d7-srv-edge6
+x-hcdn-cache-status: MISS
+x-hcdn-upstream-rt: 0.017
+
+HTTP/2 200 
+date: Mon, 14 Sep 2026 13:16:16 GMT
+content-type: text/html
+vary: Accept-Encoding
+cache-control: public, max-age=3600
+expires: Mon, 14 Sep 2026 14:16:16 GMT
+last-modified: Mon, 14 Sep 2026 11:24:38 GMT
+etag: W/"b5ca-6aa7d976-1c9af9b38a205e2d;gz"
+platform: hostinger
+panel: hpanel
+content-security-policy: upgrade-insecure-requests
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+referrer-policy: strict-origin-when-cross-origin
+permissions-policy: camera=(), microphone=(), geolocation=()
+server: hcdn
+alt-svc: h3=":443"; ma=86400
+x-hcdn-request-id: 1bd8a05ca52eaf9ec2934b04ba1e1cc8-srv-edge6
+x-hcdn-cache-status: DYNAMIC
+x-hcdn-upstream-rt: 0.017
+

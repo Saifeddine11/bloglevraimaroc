@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+const site='https://levraimaroc.com';
+const articles=JSON.parse(fs.readFileSync('docs/editorial-2026-09-14/articles.json','utf8'));
+const images=JSON.parse(fs.readFileSync('docs/editorial-2026-09-14/images.json','utf8'));
+const urls=new Set();
+for (const a of articles) urls.add(site+a.route);
+for (const p of ['/safe-certification-immobiliere/','/robots.txt','/sitemap-index.xml','/rss.xml']) urls.add(site+p);
+fs.mkdirSync('tmp/postdeploy-qa-2026-09-14', {recursive:true});
+fs.writeFileSync('tmp/postdeploy-qa-2026-09-14/page-urls.txt',[...urls].join('\n')+'\n');
+fs.writeFileSync('tmp/postdeploy-qa-2026-09-14/image-urls.txt',images.map(i=>site+i.path).join('\n')+'\n');

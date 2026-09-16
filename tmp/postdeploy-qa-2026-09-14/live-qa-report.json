@@ -1,0 +1,1472 @@
+{
+  "summary": {
+    "productionDeployed": true,
+    "article200": "48/48",
+    "created200": "28/28",
+    "updated200": "20/20",
+    "images200": "28/28",
+    "canonicalErrors": 0,
+    "hreflangErrors": 0,
+    "sitemapErrors": 0,
+    "structuredDataErrors": 0,
+    "socialErrors": 0,
+    "internalLinkErrors": 0,
+    "mixedLanguagePages": 24,
+    "safeOccurrences": 43,
+    "robotsErrors": 0
+  },
+  "articleIssues": [],
+  "articles": [
+    {
+      "url": "https://levraimaroc.com/articles/lboulevard-2026-casablanca",
+      "locale": "fr",
+      "topic": "lboulevard-2026-casablanca",
+      "action": "created",
+      "status": "200",
+      "h1": "L’Boulevard 2026 à Casablanca : programme, artistes, horaires et accès",
+      "title": "L’Boulevard 2026 Casablanca : programme et accès | Le Vrai Maroc",
+      "desc": "L’Boulevard 2026 se tient du 17 au 20 septembre au stade du R.U.C à Casablanca. Programme, artistes, Tremplin, Souk, horaires et accès gratuit.",
+      "canonical": "https://levraimaroc.com/articles/lboulevard-2026-casablanca",
+      "hero": "/images/articles/editorial-2026-09-14/lboulevard-2026-casablanca-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/en/articles/lboulevard-2026-casablanca",
+      "locale": "en",
+      "topic": "lboulevard-2026-casablanca",
+      "action": "created",
+      "status": "200",
+      "h1": "L’Boulevard 2026 in Casablanca: programme, artists, times and access",
+      "title": "L’Boulevard 2026 Casablanca: programme and access | Le Vrai Maroc",
+      "desc": "L’Boulevard 2026 runs from 17 to 20 September at the R.U.C stadium in Casablanca. Programme, artists, Tremplin, Souk, times and free access.",
+      "canonical": "https://levraimaroc.com/en/articles/lboulevard-2026-casablanca",
+      "hero": "/images/articles/editorial-2026-09-14/lboulevard-2026-casablanca-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/es/articulos/lboulevard-2026-casablanca",
+      "locale": "es",
+      "topic": "lboulevard-2026-casablanca",
+      "action": "created",
+      "status": "200",
+      "h1": "L’Boulevard 2026 en Casablanca: programa, artistas, horarios y acceso",
+      "title": "L’Boulevard 2026 Casablanca: programa y acceso | Le Vrai Maroc",
+      "desc": "L’Boulevard 2026 se celebra del 17 al 20 de septiembre en el estadio R.U.C de Casablanca. Programa, artistas, Tremplin, Souk y acceso gratuito.",
+      "canonical": "https://levraimaroc.com/es/articulos/lboulevard-2026-casablanca",
+      "hero": "/images/articles/editorial-2026-09-14/lboulevard-2026-casablanca-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/nl/artikelen/lboulevard-2026-casablanca",
+      "locale": "nl",
+      "topic": "lboulevard-2026-casablanca",
+      "action": "created",
+      "status": "200",
+      "h1": "L’Boulevard 2026 in Casablanca: programma, artiesten, tijden en toegang",
+      "title": "L’Boulevard 2026 Casablanca: programma en toegang | Le Vrai Maroc",
+      "desc": "L’Boulevard 2026 loopt van 17 tot 20 september in het R.U.C-stadion in Casablanca. Programma, artiesten, Tremplin, Souk en gratis toegang.",
+      "canonical": "https://levraimaroc.com/nl/artikelen/lboulevard-2026-casablanca",
+      "hero": "/images/articles/editorial-2026-09-14/lboulevard-2026-casablanca-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/articles/elections-maroc-2026-comment-voter",
+      "locale": "fr",
+      "topic": "elections-maroc-2026-comment-voter",
+      "action": "created",
+      "status": "200",
+      "h1": "Élections Maroc 2026 : comment voter, documents, horaires et bureau de vote",
+      "title": "Élections Maroc 2026 : comment voter | Le Vrai Maroc",
+      "desc": "Comment voter aux élections marocaines 2026 : CNIE, avis de vote, bureau, horaires, procuration MRE, liste électorale et règles pratiques du 23 septembre.",
+      "canonical": "https://levraimaroc.com/articles/elections-maroc-2026-comment-voter",
+      "hero": "/images/articles/editorial-2026-09-14/elections-maroc-2026-comment-voter-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/en/articles/morocco-elections-2026-how-to-vote",
+      "locale": "en",
+      "topic": "elections-maroc-2026-comment-voter",
+      "action": "created",
+      "status": "200",
+      "h1": "Morocco elections 2026: how to vote, documents, hours and polling station",
+      "title": "Morocco elections 2026: how to vote | Le Vrai Maroc",
+      "desc": "How to vote in Morocco’s 2026 legislative elections: CNIE ID, polling notice, polling station, hours, MRE proxy and voter-list checks.",
+      "canonical": "https://levraimaroc.com/en/articles/morocco-elections-2026-how-to-vote",
+      "hero": "/images/articles/editorial-2026-09-14/elections-maroc-2026-comment-voter-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/es/articulos/elecciones-marruecos-2026-como-votar",
+      "locale": "es",
+      "topic": "elections-maroc-2026-comment-voter",
+      "action": "created",
+      "status": "200",
+      "h1": "Elecciones Marruecos 2026: cómo votar, documentos, horarios y mesa electoral",
+      "title": "Elecciones Marruecos 2026: cómo votar | Le Vrai Maroc",
+      "desc": "Cómo votar en las legislativas marroquíes de 2026: CNIE, aviso de voto, mesa electoral, horarios, procuración MRE y lista electoral.",
+      "canonical": "https://levraimaroc.com/es/articulos/elecciones-marruecos-2026-como-votar",
+      "hero": "/images/articles/editorial-2026-09-14/elections-maroc-2026-comment-voter-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/nl/artikelen/verkiezingen-marokko-2026-stemmen",
+      "locale": "nl",
+      "topic": "elections-maroc-2026-comment-voter",
+      "action": "created",
+      "status": "200",
+      "h1": "Verkiezingen Marokko 2026: stemmen, documenten, tijden en stembureau",
+      "title": "Verkiezingen Marokko 2026: stemmen | Le Vrai Maroc",
+      "desc": "Stemmen bij de Marokkaanse parlementsverkiezingen 2026: CNIE, oproepingsbericht, stembureau, tijden, MRE-volmacht en kiezerslijst.",
+      "canonical": "https://levraimaroc.com/nl/artikelen/verkiezingen-marokko-2026-stemmen",
+      "hero": "/images/articles/editorial-2026-09-14/elections-maroc-2026-comment-voter-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/articles/resultats-elections-maroc-2026",
+      "locale": "fr",
+      "topic": "resultats-elections-maroc-2026",
+      "action": "created",
+      "status": "200",
+      "h1": "Résultats élections Maroc 2026 : sièges, participation et parti arrivé en tête",
+      "title": "Résultats élections Maroc 2026 | Le Vrai Maroc",
+      "desc": "Résultats des élections marocaines 2026 : suivi des sièges, participation, partis en tête, coalition possible et calendrier officiel de publication.",
+      "canonical": "https://levraimaroc.com/articles/resultats-elections-maroc-2026",
+      "hero": "/images/articles/editorial-2026-09-14/resultats-elections-maroc-2026-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/en/articles/morocco-election-results-2026",
+      "locale": "en",
+      "topic": "resultats-elections-maroc-2026",
+      "action": "created",
+      "status": "200",
+      "h1": "Morocco election results 2026: seats, turnout and leading party",
+      "title": "Morocco election results 2026 | Le Vrai Maroc",
+      "desc": "Morocco 2026 election results tracker: seats, turnout, leading parties, possible coalition and official publication calendar after the vote.",
+      "canonical": "https://levraimaroc.com/en/articles/morocco-election-results-2026",
+      "hero": "/images/articles/editorial-2026-09-14/resultats-elections-maroc-2026-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/es/articulos/resultados-elecciones-marruecos-2026",
+      "locale": "es",
+      "topic": "resultats-elections-maroc-2026",
+      "action": "created",
+      "status": "200",
+      "h1": "Resultados elecciones Marruecos 2026: escaños, participación y partido ganador",
+      "title": "Resultados elecciones Marruecos 2026 | Le Vrai Maroc",
+      "desc": "Resultados de las elecciones marroquíes de 2026: seguimiento de escaños, participación, partidos líderes, coalición posible y calendario oficial.",
+      "canonical": "https://levraimaroc.com/es/articulos/resultados-elecciones-marruecos-2026",
+      "hero": "/images/articles/editorial-2026-09-14/resultats-elections-maroc-2026-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/nl/artikelen/verkiezingsuitslagen-marokko-2026",
+      "locale": "nl",
+      "topic": "resultats-elections-maroc-2026",
+      "action": "created",
+      "status": "200",
+      "h1": "Verkiezingsuitslagen Marokko 2026: zetels, opkomst en grootste partij",
+      "title": "Verkiezingsuitslagen Marokko 2026 | Le Vrai Maroc",
+      "desc": "Uitslagen van de Marokkaanse verkiezingen 2026: zetels, opkomst, grootste partijen, mogelijke coalitie en officiële publicatiekalender.",
+      "canonical": "https://levraimaroc.com/nl/artikelen/verkiezingsuitslagen-marokko-2026",
+      "hero": "/images/articles/editorial-2026-09-14/resultats-elections-maroc-2026-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/articles/finale-coupe-du-monde-2030-maroc-espagne",
+      "locale": "fr",
+      "topic": "finale-coupe-du-monde-2030-maroc-espagne",
+      "action": "created",
+      "status": "200",
+      "h1": "Finale Coupe du monde 2030 : Maroc ou Espagne ? Ce qui est réellement décidé",
+      "title": "Finale Mondial 2030 : Maroc ou Espagne ? | Le Vrai Maroc",
+      "desc": "La finale de la Coupe du monde 2030 n’a pas encore de ville officiellement désignée par la FIFA. Maroc, Espagne, stade Hassan II : ce qui est décidé.",
+      "canonical": "https://levraimaroc.com/articles/finale-coupe-du-monde-2030-maroc-espagne",
+      "hero": "/images/articles/editorial-2026-09-14/finale-coupe-du-monde-2030-maroc-espagne-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/en/articles/world-cup-2030-final-morocco-spain",
+      "locale": "en",
+      "topic": "finale-coupe-du-monde-2030-maroc-espagne",
+      "action": "created",
+      "status": "200",
+      "h1": "World Cup 2030 final: Morocco or Spain? What is actually decided",
+      "title": "World Cup 2030 final: Morocco or Spain? | Le Vrai Maroc",
+      "desc": "The 2030 World Cup final has no FIFA-confirmed host city yet. Morocco, Spain, Hassan II Stadium and the official decision explained clearly.",
+      "canonical": "https://levraimaroc.com/en/articles/world-cup-2030-final-morocco-spain",
+      "hero": "/images/articles/editorial-2026-09-14/finale-coupe-du-monde-2030-maroc-espagne-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/es/articulos/final-mundial-2030-marruecos-espana",
+      "locale": "es",
+      "topic": "finale-coupe-du-monde-2030-maroc-espagne",
+      "action": "created",
+      "status": "200",
+      "h1": "Final Mundial 2030: ¿Marruecos o España? Lo que está realmente decidido",
+      "title": "Final Mundial 2030: Marruecos o España | Le Vrai Maroc",
+      "desc": "La final del Mundial 2030 aún no tiene sede oficialmente designada por la FIFA. Marruecos, España, estadio Hassan II y decisión oficial.",
+      "canonical": "https://levraimaroc.com/es/articulos/final-mundial-2030-marruecos-espana",
+      "hero": "/images/articles/editorial-2026-09-14/finale-coupe-du-monde-2030-maroc-espagne-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/nl/artikelen/wk-2030-finale-marokko-spanje",
+      "locale": "nl",
+      "topic": "finale-coupe-du-monde-2030-maroc-espagne",
+      "action": "created",
+      "status": "200",
+      "h1": "WK 2030-finale: Marokko of Spanje? Wat echt beslist is",
+      "title": "WK 2030-finale: Marokko of Spanje? | Le Vrai Maroc",
+      "desc": "De WK 2030-finale heeft nog geen door FIFA bevestigde gaststad. Marokko, Spanje, Hassan II-stadion en de officiële beslissing uitgelegd.",
+      "canonical": "https://levraimaroc.com/nl/artikelen/wk-2030-finale-marokko-spanje",
+      "hero": "/images/articles/editorial-2026-09-14/finale-coupe-du-monde-2030-maroc-espagne-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/articles/maroc-ia-2030",
+      "locale": "fr",
+      "topic": "maroc-ia-2030",
+      "action": "created",
+      "status": "200",
+      "h1": "Maroc IA 2030 : investissements, emplois, talents et stratégie nationale expliqués",
+      "title": "Maroc IA 2030 : objectifs et stratégie | Le Vrai Maroc",
+      "desc": "Maroc IA 2030 vise 100 milliards de dirhams de valeur ajoutée, 50 000 emplois et 200 000 talents formés. Objectifs, piliers et limites.",
+      "canonical": "https://levraimaroc.com/articles/maroc-ia-2030",
+      "hero": "/images/articles/editorial-2026-09-14/maroc-ia-2030-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/en/articles/morocco-ai-2030",
+      "locale": "en",
+      "topic": "maroc-ia-2030",
+      "action": "created",
+      "status": "200",
+      "h1": "Morocco AI 2030: investment, jobs, talent and national strategy explained",
+      "title": "Morocco AI 2030: goals and strategy | Le Vrai Maroc",
+      "desc": "Morocco AI 2030 targets 100 billion dirhams in added value, 50,000 jobs and 200,000 trained talents. Goals, pillars and limits.",
+      "canonical": "https://levraimaroc.com/en/articles/morocco-ai-2030",
+      "hero": "/images/articles/editorial-2026-09-14/maroc-ia-2030-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/es/articulos/marruecos-ia-2030",
+      "locale": "es",
+      "topic": "maroc-ia-2030",
+      "action": "created",
+      "status": "200",
+      "h1": "Marruecos IA 2030: inversión, empleo, talento y estrategia nacional explicados",
+      "title": "Marruecos IA 2030: objetivos y estrategia | Le Vrai Maroc",
+      "desc": "Marruecos IA 2030 apunta a 100.000 millones de dirhams de valor añadido, 50.000 empleos y 200.000 talentos formados.",
+      "canonical": "https://levraimaroc.com/es/articulos/marruecos-ia-2030",
+      "hero": "/images/articles/editorial-2026-09-14/maroc-ia-2030-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/nl/artikelen/marokko-ai-2030",
+      "locale": "nl",
+      "topic": "maroc-ia-2030",
+      "action": "created",
+      "status": "200",
+      "h1": "Marokko AI 2030: investeringen, banen, talent en nationale strategie uitgelegd",
+      "title": "Marokko AI 2030: doelen en strategie | Le Vrai Maroc",
+      "desc": "Marokko AI 2030 mikt op 100 miljard dirham toegevoegde waarde, 50.000 banen en 200.000 opgeleide talenten. Doelen en grenzen.",
+      "canonical": "https://levraimaroc.com/nl/artikelen/marokko-ai-2030",
+      "hero": "/images/articles/editorial-2026-09-14/maroc-ia-2030-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/articles/moga-essaouira-2026",
+      "locale": "fr",
+      "topic": "moga-essaouira-2026",
+      "action": "created",
+      "status": "200",
+      "h1": "MOGA Essaouira 2026 : programme, artistes, billets, prix et horaires",
+      "title": "MOGA Essaouira 2026 : programme et billets | Le Vrai Maroc",
+      "desc": "MOGA Essaouira 2026 se tient du 30 septembre au 4 octobre. Dates OFF et IN, artistes, billets, prix indicatifs, lieu et conseils pratiques.",
+      "canonical": "https://levraimaroc.com/articles/moga-essaouira-2026",
+      "hero": "/images/articles/editorial-2026-09-14/moga-essaouira-2026-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/en/articles/moga-essaouira-2026",
+      "locale": "en",
+      "topic": "moga-essaouira-2026",
+      "action": "created",
+      "status": "200",
+      "h1": "MOGA Essaouira 2026: programme, artists, tickets, prices and times",
+      "title": "MOGA Essaouira 2026: programme and tickets | Le Vrai Maroc",
+      "desc": "MOGA Essaouira 2026 runs from 30 September to 4 October. OFF and IN dates, artists, tickets, indicative prices, venue and practical tips.",
+      "canonical": "https://levraimaroc.com/en/articles/moga-essaouira-2026",
+      "hero": "/images/articles/editorial-2026-09-14/moga-essaouira-2026-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/es/articulos/moga-essaouira-2026",
+      "locale": "es",
+      "topic": "moga-essaouira-2026",
+      "action": "created",
+      "status": "200",
+      "h1": "MOGA Essaouira 2026: programa, artistas, entradas, precios y horarios",
+      "title": "MOGA Essaouira 2026: programa y entradas | Le Vrai Maroc",
+      "desc": "MOGA Essaouira 2026 se celebra del 30 de septiembre al 4 de octubre. Fechas OFF e IN, artistas, entradas, precios indicativos y consejos.",
+      "canonical": "https://levraimaroc.com/es/articulos/moga-essaouira-2026",
+      "hero": "/images/articles/editorial-2026-09-14/moga-essaouira-2026-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/nl/artikelen/moga-essaouira-2026",
+      "locale": "nl",
+      "topic": "moga-essaouira-2026",
+      "action": "created",
+      "status": "200",
+      "h1": "MOGA Essaouira 2026: programma, artiesten, tickets, prijzen en tijden",
+      "title": "MOGA Essaouira 2026: programma en tickets | Le Vrai Maroc",
+      "desc": "MOGA Essaouira 2026 loopt van 30 september tot 4 oktober. OFF- en IN-data, artiesten, tickets, richtprijzen, locatie en praktische tips.",
+      "canonical": "https://levraimaroc.com/nl/artikelen/moga-essaouira-2026",
+      "hero": "/images/articles/editorial-2026-09-14/moga-essaouira-2026-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/articles/maroc-gabon-2026-date-heure-chaine-stade",
+      "locale": "fr",
+      "topic": "maroc-gabon-2026-date-heure-chaine-stade",
+      "action": "created",
+      "status": "200",
+      "h1": "Maroc–Gabon : date, heure, chaîne TV, stade et informations du match",
+      "title": "Maroc Gabon 2026 : date, heure, stade | Le Vrai Maroc",
+      "desc": "Maroc–Gabon se joue le 25 septembre 2026 à 20 h à Rabat selon les informations disponibles. Stade, contexte, groupe et diffusion à confirmer.",
+      "canonical": "https://levraimaroc.com/articles/maroc-gabon-2026-date-heure-chaine-stade",
+      "hero": "/images/articles/editorial-2026-09-14/maroc-gabon-2026-date-heure-chaine-stade-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/en/articles/morocco-gabon-2026-date-time-tv-stadium",
+      "locale": "en",
+      "topic": "maroc-gabon-2026-date-heure-chaine-stade",
+      "action": "created",
+      "status": "200",
+      "h1": "Morocco–Gabon: date, time, TV channel, stadium and match information",
+      "title": "Morocco Gabon 2026: date, time, stadium | Le Vrai Maroc",
+      "desc": "Morocco host Gabon on 25 September 2026 at 8 pm in Rabat according to available information. Stadium, group context and TV to confirm.",
+      "canonical": "https://levraimaroc.com/en/articles/morocco-gabon-2026-date-time-tv-stadium",
+      "hero": "/images/articles/editorial-2026-09-14/maroc-gabon-2026-date-heure-chaine-stade-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/es/articulos/marruecos-gabon-2026-fecha-hora-tv-estadio",
+      "locale": "es",
+      "topic": "maroc-gabon-2026-date-heure-chaine-stade",
+      "action": "created",
+      "status": "200",
+      "h1": "Marruecos–Gabón: fecha, hora, TV, estadio e información del partido",
+      "title": "Marruecos Gabón 2026: fecha y estadio | Le Vrai Maroc",
+      "desc": "Marruecos recibe a Gabón el 25 de septiembre de 2026 a las 20:00 en Rabat según la información disponible. Estadio, grupo y TV por confirmar.",
+      "canonical": "https://levraimaroc.com/es/articulos/marruecos-gabon-2026-fecha-hora-tv-estadio",
+      "hero": "/images/articles/editorial-2026-09-14/maroc-gabon-2026-date-heure-chaine-stade-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/nl/artikelen/marokko-gabon-2026-datum-tijd-tv-stadion",
+      "locale": "nl",
+      "topic": "maroc-gabon-2026-date-heure-chaine-stade",
+      "action": "created",
+      "status": "200",
+      "h1": "Marokko–Gabon: datum, tijd, tv-zender, stadion en wedstrijdinformatie",
+      "title": "Marokko Gabon 2026: datum en stadion | Le Vrai Maroc",
+      "desc": "Marokko ontvangt Gabon op 25 september 2026 om 20.00 uur in Rabat volgens beschikbare informatie. Stadion, groep en tv nog te bevestigen.",
+      "canonical": "https://levraimaroc.com/nl/artikelen/marokko-gabon-2026-datum-tijd-tv-stadion",
+      "hero": "/images/articles/editorial-2026-09-14/maroc-gabon-2026-date-heure-chaine-stade-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/articles/tanjazz-2026",
+      "locale": "fr",
+      "topic": "tanjazz-2026",
+      "action": "updated",
+      "status": "200",
+      "h1": "Tanjazz 2026 : programme, artistes, billets, prix, horaires et lieux à Tanger",
+      "title": "Tanjazz 2026 : programme et billets à Tanger | Le Vrai Maroc",
+      "desc": "Tanjazz 2026 est annoncé du 18 au 20 septembre à Tanger. Programme, artistes confirmés, billetterie officielle, prix affichés et conseils pratiques.",
+      "canonical": "https://levraimaroc.com/articles/tanjazz-2026",
+      "hero": "/images/articles/editorial-2026-09-05/tanjazz-2026-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/en/articles/tanjazz-2026-tangier",
+      "locale": "en",
+      "topic": "tanjazz-2026",
+      "action": "updated",
+      "status": "200",
+      "h1": "Tanjazz 2026 Tangier: programme, artists, tickets, prices, times and venues",
+      "title": "Tanjazz 2026 Tangier: programme and tickets | Le Vrai Maroc",
+      "desc": "Tanjazz 2026 is announced from 18 to 20 September in Tangier. Confirmed artists, official ticketing, displayed prices and practical advice.",
+      "canonical": "https://levraimaroc.com/en/articles/tanjazz-2026-tangier",
+      "hero": "/images/articles/editorial-2026-09-05/tanjazz-2026-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/es/articulos/tanjazz-2026-tanger",
+      "locale": "es",
+      "topic": "tanjazz-2026",
+      "action": "updated",
+      "status": "200",
+      "h1": "Tanjazz 2026 Tánger: programa, artistas, entradas, precios, horarios y sedes",
+      "title": "Tanjazz 2026 Tánger: programa y entradas | Le Vrai Maroc",
+      "desc": "Tanjazz 2026 se anuncia del 18 al 20 de septiembre en Tánger. Artistas confirmados, billettería oficial, precios y consejos prácticos.",
+      "canonical": "https://levraimaroc.com/es/articulos/tanjazz-2026-tanger",
+      "hero": "/images/articles/editorial-2026-09-05/tanjazz-2026-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/nl/artikelen/tanjazz-2026-tanger",
+      "locale": "nl",
+      "topic": "tanjazz-2026",
+      "action": "updated",
+      "status": "200",
+      "h1": "Tanjazz 2026 Tanger: programma, artiesten, tickets, prijzen, tijden en locaties",
+      "title": "Tanjazz 2026 Tanger: programma en tickets | Le Vrai Maroc",
+      "desc": "Tanjazz 2026 is aangekondigd van 18 tot 20 september in Tanger. Bevestigde artiesten, officiële ticketing, prijzen en praktische tips.",
+      "canonical": "https://levraimaroc.com/nl/artikelen/tanjazz-2026-tanger",
+      "hero": "/images/articles/editorial-2026-09-05/tanjazz-2026-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/articles/elections-maroc-2026",
+      "locale": "fr",
+      "topic": "elections-maroc-2026",
+      "action": "updated",
+      "status": "200",
+      "h1": "Élections Maroc 2026 : date, calendrier, partis, candidats et mode d’emploi",
+      "title": "Élections Maroc 2026 : date et calendrier | Le Vrai Maroc",
+      "desc": "Les législatives marocaines 2026 ont lieu le 23 septembre. Calendrier officiel, campagne, 1 850 listes, 28 formations, vote et pages liées.",
+      "canonical": "https://levraimaroc.com/articles/elections-maroc-2026",
+      "hero": "/images/articles/editorial-2026-09-05/elections-maroc-2026-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/en/articles/morocco-elections-2026",
+      "locale": "en",
+      "topic": "elections-maroc-2026",
+      "action": "updated",
+      "status": "200",
+      "h1": "Morocco elections 2026: date, calendar, parties, candidates and guide",
+      "title": "Morocco elections 2026: date and calendar | Le Vrai Maroc",
+      "desc": "Morocco’s 2026 legislative elections take place on 23 September. Official calendar, campaign, 1,850 lists, 28 formations, voting and links.",
+      "canonical": "https://levraimaroc.com/en/articles/morocco-elections-2026",
+      "hero": "/images/articles/editorial-2026-09-05/elections-maroc-2026-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/es/articulos/elecciones-marruecos-2026",
+      "locale": "es",
+      "topic": "elections-maroc-2026",
+      "action": "updated",
+      "status": "200",
+      "h1": "Elecciones Marruecos 2026: fecha, calendario, partidos, candidatos y guía",
+      "title": "Elecciones Marruecos 2026: fecha y calendario | Le Vrai Maroc",
+      "desc": "Las legislativas marroquíes 2026 se celebran el 23 de septiembre. Calendario, campaña, 1.850 listas, 28 formaciones, voto y enlaces.",
+      "canonical": "https://levraimaroc.com/es/articulos/elecciones-marruecos-2026",
+      "hero": "/images/articles/editorial-2026-09-05/elections-maroc-2026-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/nl/artikelen/verkiezingen-marokko-2026",
+      "locale": "nl",
+      "topic": "elections-maroc-2026",
+      "action": "updated",
+      "status": "200",
+      "h1": "Verkiezingen Marokko 2026: datum, kalender, partijen, kandidaten en gids",
+      "title": "Verkiezingen Marokko 2026: datum en kalender | Le Vrai Maroc",
+      "desc": "De Marokkaanse parlementsverkiezingen van 2026 vinden plaats op 23 september. Kalender, campagne, 1.850 lijsten, 28 formaties en steminfo.",
+      "canonical": "https://levraimaroc.com/nl/artikelen/verkiezingen-marokko-2026",
+      "hero": "/images/articles/editorial-2026-09-05/elections-maroc-2026-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/articles/rentree-scolaire-maroc-2026-2027",
+      "locale": "fr",
+      "topic": "rentree-scolaire-maroc-2026-2027",
+      "action": "updated",
+      "status": "200",
+      "h1": "Rentrée scolaire Maroc 2026-2027 : dates, vacances, Massar et calendrier officiel",
+      "title": "Rentrée Maroc 2026-2027 : calendrier officiel | Le Vrai Maroc",
+      "desc": "Calendrier officiel de la rentrée scolaire au Maroc 2026-2027 : accueil par niveau, début des cours le 7 septembre, vacances et Massar.",
+      "canonical": "https://levraimaroc.com/articles/rentree-scolaire-maroc-2026-2027",
+      "hero": "/images/articles/editorial-2026-09-05/rentree-scolaire-maroc-2026-2027-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/en/articles/morocco-school-calendar-2026-2027",
+      "locale": "en",
+      "topic": "rentree-scolaire-maroc-2026-2027",
+      "action": "updated",
+      "status": "200",
+      "h1": "Morocco school calendar 2026-2027: dates, holidays, Massar and official calendar",
+      "title": "Morocco school calendar 2026-2027 | Le Vrai Maroc",
+      "desc": "Official Morocco 2026-2027 school calendar: staggered return by level, lessons from 7 September, holidays and Massar checks.",
+      "canonical": "https://levraimaroc.com/en/articles/morocco-school-calendar-2026-2027",
+      "hero": "/images/articles/editorial-2026-09-05/rentree-scolaire-maroc-2026-2027-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/es/articulos/vuelta-colegio-marruecos-2026-2027",
+      "locale": "es",
+      "topic": "rentree-scolaire-maroc-2026-2027",
+      "action": "updated",
+      "status": "200",
+      "h1": "Vuelta al colegio Marruecos 2026-2027: fechas, vacaciones, Massar y calendario oficial",
+      "title": "Calendario escolar Marruecos 2026-2027 | Le Vrai Maroc",
+      "desc": "Calendario escolar oficial de Marruecos 2026-2027: regreso por nivel, clases desde el 7 de septiembre, vacaciones y Massar.",
+      "canonical": "https://levraimaroc.com/es/articulos/vuelta-colegio-marruecos-2026-2027",
+      "hero": "/images/articles/editorial-2026-09-05/rentree-scolaire-maroc-2026-2027-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/nl/artikelen/schooljaar-marokko-2026-2027",
+      "locale": "nl",
+      "topic": "rentree-scolaire-maroc-2026-2027",
+      "action": "updated",
+      "status": "200",
+      "h1": "Schooljaar Marokko 2026-2027: data, vakanties, Massar en officiële kalender",
+      "title": "Schoolkalender Marokko 2026-2027 | Le Vrai Maroc",
+      "desc": "Officiële schoolkalender Marokko 2026-2027: gespreide start per niveau, lessen vanaf 7 september, vakanties en Massar.",
+      "canonical": "https://levraimaroc.com/nl/artikelen/schooljaar-marokko-2026-2027",
+      "hero": "/images/articles/editorial-2026-09-05/rentree-scolaire-maroc-2026-2027-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/articles/smig-5000-dh-maroc-2026",
+      "locale": "fr",
+      "topic": "smig-5000-dh-maroc-2026",
+      "action": "updated",
+      "status": "200",
+      "h1": "SMIG Maroc 2026 : minimum légal, net estimé et proposition à 5 000 DH",
+      "title": "SMIG Maroc 2026 : loi actuelle et 5 000 DH | Le Vrai Maroc",
+      "desc": "Le SMIG marocain n’est pas légalement à 5 000 DH. Taux officiel 2026, calcul brut 191 heures, estimation nette et promesses de campagne.",
+      "canonical": "https://levraimaroc.com/articles/smig-5000-dh-maroc-2026",
+      "hero": "/images/articles/editorial-2026-09-05/smig-5000-dh-maroc-2026-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/en/articles/morocco-minimum-wage-5000-dirhams-2026",
+      "locale": "en",
+      "topic": "smig-5000-dh-maroc-2026",
+      "action": "updated",
+      "status": "200",
+      "h1": "Morocco minimum wage 2026: legal rate, estimated net pay and 5,000 DH proposal",
+      "title": "Morocco minimum wage 2026 and 5,000 DH proposal | Le Vrai Maroc",
+      "desc": "Morocco’s minimum wage is not legally 5,000 DH. Official 2026 rate, 191-hour gross calculation, estimated net and campaign promises.",
+      "canonical": "https://levraimaroc.com/en/articles/morocco-minimum-wage-5000-dirhams-2026",
+      "hero": "/images/articles/editorial-2026-09-05/smig-5000-dh-maroc-2026-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/es/articulos/salario-minimo-marruecos-5000-dirhams-2026",
+      "locale": "es",
+      "topic": "smig-5000-dh-maroc-2026",
+      "action": "updated",
+      "status": "200",
+      "h1": "Salario mínimo Marruecos 2026: mínimo legal, neto estimado y propuesta de 5.000 DH",
+      "title": "Salario mínimo Marruecos 2026 y propuesta de 5.000 DH | Le Vrai Maroc",
+      "desc": "El salario mínimo marroquí no está legalmente en 5.000 DH. Tasa oficial 2026, cálculo bruto 191 horas, neto estimado y promesas.",
+      "canonical": "https://levraimaroc.com/es/articulos/salario-minimo-marruecos-5000-dirhams-2026",
+      "hero": "/images/articles/editorial-2026-09-05/smig-5000-dh-maroc-2026-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/nl/artikelen/minimumloon-marokko-5000-dirham-2026",
+      "locale": "nl",
+      "topic": "smig-5000-dh-maroc-2026",
+      "action": "updated",
+      "status": "200",
+      "h1": "Minimumloon Marokko 2026: wettelijke norm, netto schatting en voorstel van 5.000 DH",
+      "title": "Minimumloon Marokko 2026 en voorstel 5.000 DH | Le Vrai Maroc",
+      "desc": "Het Marokkaanse minimumloon is wettelijk geen 5.000 DH. Officieel tarief 2026, brutoberekening 191 uur, nettoschatting en campagnebeloften.",
+      "canonical": "https://levraimaroc.com/nl/artikelen/minimumloon-marokko-5000-dirham-2026",
+      "hero": "/images/articles/editorial-2026-09-05/smig-5000-dh-maroc-2026-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/articles/aeroports-maroc-trafic-marrakech-casablanca-ete-2026",
+      "locale": "fr",
+      "topic": "aeroports-maroc-trafic-ete-2026",
+      "action": "updated",
+      "status": "200",
+      "h1": "Aéroports Maroc 2026 : trafic, records, Marrakech, Casablanca et été sous tension",
+      "title": "Aéroports Maroc 2026 : trafic et records | Le Vrai Maroc",
+      "desc": "Les aéroports marocains ont accueilli 22,28 millions de passagers à fin juillet 2026. Casablanca, Marrakech, Agadir, Tanger et Rabat en chiffres.",
+      "canonical": "https://levraimaroc.com/articles/aeroports-maroc-trafic-marrakech-casablanca-ete-2026",
+      "hero": "/images/articles/news-2026-08-03/aeroports-maroc-trafic-marrakech-casablanca-ete-2026-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/en/articles/morocco-airports-traffic-marrakech-casablanca-summer-2026",
+      "locale": "en",
+      "topic": "aeroports-maroc-trafic-ete-2026",
+      "action": "updated",
+      "status": "200",
+      "h1": "Morocco airports 2026: traffic, records, Marrakech, Casablanca and summer pressure",
+      "title": "Morocco airports 2026: traffic and records | Le Vrai Maroc",
+      "desc": "Moroccan airports handled 22.28 million passengers by end-July 2026. Casablanca, Marrakech, Agadir, Tangier and Rabat in figures.",
+      "canonical": "https://levraimaroc.com/en/articles/morocco-airports-traffic-marrakech-casablanca-summer-2026",
+      "hero": "/images/articles/news-2026-08-03/aeroports-maroc-trafic-marrakech-casablanca-ete-2026-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/es/articulos/aeropuertos-marruecos-trafico-marrakech-casablanca-verano-2026",
+      "locale": "es",
+      "topic": "aeroports-maroc-trafic-ete-2026",
+      "action": "updated",
+      "status": "200",
+      "h1": "Aeropuertos Marruecos 2026: tráfico, récords, Marrakech, Casablanca y presión de verano",
+      "title": "Aeropuertos Marruecos 2026: tráfico y récords | Le Vrai Maroc",
+      "desc": "Los aeropuertos marroquíes recibieron 22,28 millones de pasajeros a finales de julio de 2026. Casablanca, Marrakech, Agadir, Tánger y Rabat.",
+      "canonical": "https://levraimaroc.com/es/articulos/aeropuertos-marruecos-trafico-marrakech-casablanca-verano-2026",
+      "hero": "/images/articles/news-2026-08-03/aeroports-maroc-trafic-marrakech-casablanca-ete-2026-cover.webp",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/nl/artikelen/luchthavens-marokko-verkeer-marrakech-casablanca-zomer-2026",
+      "locale": "nl",
+      "topic": "aeroports-maroc-trafic-ete-2026",
+      "action": "updated",
+      "status": "200",
+      "h1": "Luchthavens Marokko 2026: verkeer, records, Marrakech, Casablanca en zomerdrukte",
+      "title": "Luchthavens Marokko 2026: verkeer en records | Le Vrai Maroc",
+      "desc": "Marokkaanse luchthavens verwerkten eind juli 2026 22,28 miljoen passagiers. Casablanca, Marrakech, Agadir, Tanger en Rabat in cijfers.",
+      "canonical": "https://levraimaroc.com/nl/artikelen/luchthavens-marokko-verkeer-marrakech-casablanca-zomer-2026",
+      "hero": "/images/articles/news-2026-08-03/aeroports-maroc-trafic-marrakech-casablanca-ete-2026-cover.webp",
+      "issues": []
+    }
+  ],
+  "imageIssues": [],
+  "images": [
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/lboulevard-2026-casablanca-cover.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1600,
+      "height": 900,
+      "expected": "1600x900",
+      "topic": "lboulevard-2026-casablanca",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/lboulevard-2026-casablanca-01.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1200,
+      "height": 800,
+      "expected": "1200x800",
+      "topic": "lboulevard-2026-casablanca",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/lboulevard-2026-casablanca-02.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1200,
+      "height": 800,
+      "expected": "1200x800",
+      "topic": "lboulevard-2026-casablanca",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/lboulevard-2026-casablanca-03.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1200,
+      "height": 800,
+      "expected": "1200x800",
+      "topic": "lboulevard-2026-casablanca",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/elections-maroc-2026-comment-voter-cover.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1600,
+      "height": 900,
+      "expected": "1600x900",
+      "topic": "elections-maroc-2026-comment-voter",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/elections-maroc-2026-comment-voter-01.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1200,
+      "height": 800,
+      "expected": "1200x800",
+      "topic": "elections-maroc-2026-comment-voter",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/elections-maroc-2026-comment-voter-02.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1200,
+      "height": 800,
+      "expected": "1200x800",
+      "topic": "elections-maroc-2026-comment-voter",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/elections-maroc-2026-comment-voter-03.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1200,
+      "height": 800,
+      "expected": "1200x800",
+      "topic": "elections-maroc-2026-comment-voter",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/resultats-elections-maroc-2026-cover.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1600,
+      "height": 900,
+      "expected": "1600x900",
+      "topic": "resultats-elections-maroc-2026",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/resultats-elections-maroc-2026-01.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1200,
+      "height": 800,
+      "expected": "1200x800",
+      "topic": "resultats-elections-maroc-2026",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/resultats-elections-maroc-2026-02.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1200,
+      "height": 800,
+      "expected": "1200x800",
+      "topic": "resultats-elections-maroc-2026",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/resultats-elections-maroc-2026-03.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1200,
+      "height": 800,
+      "expected": "1200x800",
+      "topic": "resultats-elections-maroc-2026",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/finale-coupe-du-monde-2030-maroc-espagne-cover.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1600,
+      "height": 900,
+      "expected": "1600x900",
+      "topic": "finale-coupe-du-monde-2030-maroc-espagne",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/finale-coupe-du-monde-2030-maroc-espagne-01.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1200,
+      "height": 800,
+      "expected": "1200x800",
+      "topic": "finale-coupe-du-monde-2030-maroc-espagne",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/finale-coupe-du-monde-2030-maroc-espagne-02.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1200,
+      "height": 800,
+      "expected": "1200x800",
+      "topic": "finale-coupe-du-monde-2030-maroc-espagne",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/finale-coupe-du-monde-2030-maroc-espagne-03.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1200,
+      "height": 800,
+      "expected": "1200x800",
+      "topic": "finale-coupe-du-monde-2030-maroc-espagne",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/maroc-ia-2030-cover.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1600,
+      "height": 900,
+      "expected": "1600x900",
+      "topic": "maroc-ia-2030",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/maroc-ia-2030-01.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1200,
+      "height": 800,
+      "expected": "1200x800",
+      "topic": "maroc-ia-2030",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/maroc-ia-2030-02.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1200,
+      "height": 800,
+      "expected": "1200x800",
+      "topic": "maroc-ia-2030",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/maroc-ia-2030-03.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1200,
+      "height": 800,
+      "expected": "1200x800",
+      "topic": "maroc-ia-2030",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/moga-essaouira-2026-cover.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1600,
+      "height": 900,
+      "expected": "1600x900",
+      "topic": "moga-essaouira-2026",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/moga-essaouira-2026-01.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1200,
+      "height": 800,
+      "expected": "1200x800",
+      "topic": "moga-essaouira-2026",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/moga-essaouira-2026-02.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1200,
+      "height": 800,
+      "expected": "1200x800",
+      "topic": "moga-essaouira-2026",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/moga-essaouira-2026-03.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1200,
+      "height": 800,
+      "expected": "1200x800",
+      "topic": "moga-essaouira-2026",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/maroc-gabon-2026-date-heure-chaine-stade-cover.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1600,
+      "height": 900,
+      "expected": "1600x900",
+      "topic": "maroc-gabon-2026-date-heure-chaine-stade",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/maroc-gabon-2026-date-heure-chaine-stade-01.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1200,
+      "height": 800,
+      "expected": "1200x800",
+      "topic": "maroc-gabon-2026-date-heure-chaine-stade",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/maroc-gabon-2026-date-heure-chaine-stade-02.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1200,
+      "height": 800,
+      "expected": "1200x800",
+      "topic": "maroc-gabon-2026-date-heure-chaine-stade",
+      "issues": []
+    },
+    {
+      "url": "https://levraimaroc.com/images/articles/editorial-2026-09-14/maroc-gabon-2026-date-heure-chaine-stade-03.webp",
+      "status": "200",
+      "contentType": "image/webp",
+      "width": 1200,
+      "height": 800,
+      "expected": "1200x800",
+      "topic": "maroc-gabon-2026-date-heure-chaine-stade",
+      "issues": []
+    }
+  ],
+  "sitemapIssues": [],
+  "robotsIssues": [],
+  "socialIssues": [],
+  "structuredDataIssues": [],
+  "hreflangIssues": [],
+  "canonicalIssues": [],
+  "mixedLanguage": [
+    {
+      "url": "https://levraimaroc.com/en/articles/lboulevard-2026-casablanca",
+      "locale": "en",
+      "issues": [
+        "French strings in EN page"
+      ]
+    },
+    {
+      "url": "https://levraimaroc.com/es/articulos/lboulevard-2026-casablanca",
+      "locale": "es",
+      "issues": [
+        "French strings in ES page"
+      ]
+    },
+    {
+      "url": "https://levraimaroc.com/nl/artikelen/lboulevard-2026-casablanca",
+      "locale": "nl",
+      "issues": [
+        "French strings in NL page"
+      ]
+    },
+    {
+      "url": "https://levraimaroc.com/en/articles/morocco-elections-2026-how-to-vote",
+      "locale": "en",
+      "issues": [
+        "French strings in EN page"
+      ]
+    },
+    {
+      "url": "https://levraimaroc.com/es/articulos/elecciones-marruecos-2026-como-votar",
+      "locale": "es",
+      "issues": [
+        "French strings in ES page"
+      ]
+    },
+    {
+      "url": "https://levraimaroc.com/nl/artikelen/verkiezingen-marokko-2026-stemmen",
+      "locale": "nl",
+      "issues": [
+        "French strings in NL page"
+      ]
+    },
+    {
+      "url": "https://levraimaroc.com/en/articles/morocco-election-results-2026",
+      "locale": "en",
+      "issues": [
+        "French strings in EN page"
+      ]
+    },
+    {
+      "url": "https://levraimaroc.com/es/articulos/resultados-elecciones-marruecos-2026",
+      "locale": "es",
+      "issues": [
+        "French strings in ES page"
+      ]
+    },
+    {
+      "url": "https://levraimaroc.com/nl/artikelen/verkiezingsuitslagen-marokko-2026",
+      "locale": "nl",
+      "issues": [
+        "French strings in NL page"
+      ]
+    },
+    {
+      "url": "https://levraimaroc.com/en/articles/world-cup-2030-final-morocco-spain",
+      "locale": "en",
+      "issues": [
+        "French strings in EN page"
+      ]
+    },
+    {
+      "url": "https://levraimaroc.com/es/articulos/final-mundial-2030-marruecos-espana",
+      "locale": "es",
+      "issues": [
+        "French strings in ES page"
+      ]
+    },
+    {
+      "url": "https://levraimaroc.com/nl/artikelen/wk-2030-finale-marokko-spanje",
+      "locale": "nl",
+      "issues": [
+        "French strings in NL page"
+      ]
+    },
+    {
+      "url": "https://levraimaroc.com/en/articles/morocco-ai-2030",
+      "locale": "en",
+      "issues": [
+        "French strings in EN page"
+      ]
+    },
+    {
+      "url": "https://levraimaroc.com/es/articulos/marruecos-ia-2030",
+      "locale": "es",
+      "issues": [
+        "French strings in ES page"
+      ]
+    },
+    {
+      "url": "https://levraimaroc.com/nl/artikelen/marokko-ai-2030",
+      "locale": "nl",
+      "issues": [
+        "French strings in NL page"
+      ]
+    },
+    {
+      "url": "https://levraimaroc.com/en/articles/moga-essaouira-2026",
+      "locale": "en",
+      "issues": [
+        "French strings in EN page"
+      ]
+    },
+    {
+      "url": "https://levraimaroc.com/es/articulos/moga-essaouira-2026",
+      "locale": "es",
+      "issues": [
+        "French strings in ES page"
+      ]
+    },
+    {
+      "url": "https://levraimaroc.com/nl/artikelen/moga-essaouira-2026",
+      "locale": "nl",
+      "issues": [
+        "French strings in NL page"
+      ]
+    },
+    {
+      "url": "https://levraimaroc.com/en/articles/morocco-gabon-2026-date-time-tv-stadium",
+      "locale": "en",
+      "issues": [
+        "French strings in EN page"
+      ]
+    },
+    {
+      "url": "https://levraimaroc.com/es/articulos/marruecos-gabon-2026-fecha-hora-tv-estadio",
+      "locale": "es",
+      "issues": [
+        "French strings in ES page"
+      ]
+    },
+    {
+      "url": "https://levraimaroc.com/nl/artikelen/marokko-gabon-2026-datum-tijd-tv-stadion",
+      "locale": "nl",
+      "issues": [
+        "French strings in NL page"
+      ]
+    },
+    {
+      "url": "https://levraimaroc.com/en/articles/morocco-elections-2026",
+      "locale": "en",
+      "issues": [
+        "French strings in EN page"
+      ]
+    },
+    {
+      "url": "https://levraimaroc.com/es/articulos/elecciones-marruecos-2026",
+      "locale": "es",
+      "issues": [
+        "French strings in ES page"
+      ]
+    },
+    {
+      "url": "https://levraimaroc.com/nl/artikelen/verkiezingen-marokko-2026",
+      "locale": "nl",
+      "issues": [
+        "French strings in NL page"
+      ]
+    }
+  ],
+  "internalLinkIssues": [],
+  "safeOccurrences": [
+    {
+      "url": "https://levraimaroc.com/acheter-sur-plan-maroc/",
+      "term": "S.A.F.E immobilier",
+      "context": " un professionnel si l’engagement est important.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'a"
+    },
+    {
+      "url": "https://levraimaroc.com/acheter-sur-plan-maroc/",
+      "term": "S.A.F.E immobilier",
+      "context": "mportant.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'articleS.A.F.E investissement immobilier"
+    },
+    {
+      "url": "https://levraimaroc.com/acheter-sur-plan-marrakech/",
+      "term": "S.A.F.E immobilier",
+      "context": " un professionnel si l’engagement est important.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'a"
+    },
+    {
+      "url": "https://levraimaroc.com/acheter-sur-plan-marrakech/",
+      "term": "S.A.F.E immobilier",
+      "context": "mportant.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'articleS.A.F.E investissement immobilier"
+    },
+    {
+      "url": "https://levraimaroc.com/analyse-projet-immobilier/",
+      "term": "S.A.F.E immobilier",
+      "context": " un professionnel si l’engagement est important.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleS.A.F.E achat sur planLire l'articleS.A.F.E investissement immobilier"
+    },
+    {
+      "url": "https://levraimaroc.com/analyse-projet-immobilier/",
+      "term": "S.A.F.E immobilier",
+      "context": "mportant.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleS.A.F.E achat sur planLire l'articleS.A.F.E investissement immobilierLire l'articlecomment analyser promoteu"
+    },
+    {
+      "url": "https://levraimaroc.com/checklist-achat-sur-plan/",
+      "term": "S.A.F.E immobilier",
+      "context": " un professionnel si l’engagement est important.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'a"
+    },
+    {
+      "url": "https://levraimaroc.com/checklist-achat-sur-plan/",
+      "term": "S.A.F.E immobilier",
+      "context": "mportant.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'articleS.A.F.E investissement immobilier"
+    },
+    {
+      "url": "https://levraimaroc.com/comment-analyser-promoteur/",
+      "term": "S.A.F.E immobilier",
+      "context": " un professionnel si l’engagement est important.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'a"
+    },
+    {
+      "url": "https://levraimaroc.com/comment-analyser-promoteur/",
+      "term": "S.A.F.E immobilier",
+      "context": "mportant.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'articleS.A.F.E investissement immobilier"
+    },
+    {
+      "url": "https://levraimaroc.com/comment-verifier-promoteur-immobilier-maroc/",
+      "term": "S.A.F.E immobilier",
+      "context": " un professionnel si l’engagement est important.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'a"
+    },
+    {
+      "url": "https://levraimaroc.com/comment-verifier-promoteur-immobilier-maroc/",
+      "term": "S.A.F.E immobilier",
+      "context": "mportant.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'articleS.A.F.E investissement immobilier"
+    },
+    {
+      "url": "https://levraimaroc.com/documents-achat-immobilier-maroc/",
+      "term": "S.A.F.E immobilier",
+      "context": " un professionnel si l’engagement est important.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'a"
+    },
+    {
+      "url": "https://levraimaroc.com/documents-achat-immobilier-maroc/",
+      "term": "S.A.F.E immobilier",
+      "context": "mportant.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'articleS.A.F.E investissement immobilier"
+    },
+    {
+      "url": "https://levraimaroc.com/grille-safe-immobilier/",
+      "term": "S.A.F.E immobilier",
+      "context": "assList.add(`hidden`),t?.setAttribute(`aria-expanded`,`false`)})});Accueil/S.A.F.E/grille S.A.F.E immobilierGrille S.A.F.EGrille S.A.F.E immobilier : critères, score couleur et décisionCe guide aide l’acheteur à structurer l’analy"
+    },
+    {
+      "url": "https://levraimaroc.com/grille-safe-immobilier/",
+      "term": "S.A.F.E immobilier",
+      "context": "aria-expanded`,`false`)})});Accueil/S.A.F.E/grille S.A.F.E immobilierGrille S.A.F.EGrille S.A.F.E immobilier : critères, score couleur et décisionCe guide aide l’acheteur à structurer l’analyse d’un projet immobilier avant de s’en"
+    },
+    {
+      "url": "https://levraimaroc.com/grille-safe-immobilier/",
+      "term": "S.A.F.E immobilier",
+      "context": " un professionnel si l’engagement est important.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'articleS.A.F.E investissement immobilier"
+    },
+    {
+      "url": "https://levraimaroc.com/guide-analyse-immobiliere/",
+      "term": "S.A.F.E immobilier",
+      "context": " un professionnel si l’engagement est important.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'a"
+    },
+    {
+      "url": "https://levraimaroc.com/guide-analyse-immobiliere/",
+      "term": "S.A.F.E immobilier",
+      "context": "mportant.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'articleS.A.F.E investissement immobilier"
+    },
+    {
+      "url": "https://levraimaroc.com/livraison-appartement-neuf-maroc/",
+      "term": "S.A.F.E immobilier",
+      "context": " un professionnel si l’engagement est important.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'a"
+    },
+    {
+      "url": "https://levraimaroc.com/livraison-appartement-neuf-maroc/",
+      "term": "S.A.F.E immobilier",
+      "context": "mportant.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'articleS.A.F.E investissement immobilier"
+    },
+    {
+      "url": "https://levraimaroc.com/methode-safe-immobilier/",
+      "term": "S.A.F.E immobilier",
+      "context": "ssList.add(`hidden`),t?.setAttribute(`aria-expanded`,`false`)})});Accueil/S.A.F.E/méthode S.A.F.E immobilierMéthode S.A.F.EMéthode S.A.F.E immobilier : Security, Analysis, Fidelity & Expert GuidanceCe guide aide l’acheteur à struc"
+    },
+    {
+      "url": "https://levraimaroc.com/methode-safe-immobilier/",
+      "term": "S.A.F.E immobilier",
+      "context": "a-expanded`,`false`)})});Accueil/S.A.F.E/méthode S.A.F.E immobilierMéthode S.A.F.EMéthode S.A.F.E immobilier : Security, Analysis, Fidelity & Expert GuidanceCe guide aide l’acheteur à structurer l’analyse d’un projet immobilier av"
+    },
+    {
+      "url": "https://levraimaroc.com/methode-safe-immobilier/",
+      "term": "S.A.F.E immobilier",
+      "context": "r un professionnel si l’engagement est important.Articles liésS.A.F.ELire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'articleS.A.F.E investissement immobilier"
+    },
+    {
+      "url": "https://levraimaroc.com/prix-immobilier-marrakech/",
+      "term": "S.A.F.E immobilier",
+      "context": " un professionnel si l’engagement est important.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'a"
+    },
+    {
+      "url": "https://levraimaroc.com/prix-immobilier-marrakech/",
+      "term": "S.A.F.E immobilier",
+      "context": "mportant.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'articleS.A.F.E investissement immobilier"
+    },
+    {
+      "url": "https://levraimaroc.com/risques-achat-immobilier-maroc/",
+      "term": "S.A.F.E immobilier",
+      "context": " un professionnel si l’engagement est important.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'a"
+    },
+    {
+      "url": "https://levraimaroc.com/risques-achat-immobilier-maroc/",
+      "term": "S.A.F.E immobilier",
+      "context": "mportant.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'articleS.A.F.E investissement immobilier"
+    },
+    {
+      "url": "https://levraimaroc.com/risques-achat-immobilier/",
+      "term": "S.A.F.E immobilier",
+      "context": " un professionnel si l’engagement est important.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'a"
+    },
+    {
+      "url": "https://levraimaroc.com/risques-achat-immobilier/",
+      "term": "S.A.F.E immobilier",
+      "context": "mportant.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'articleS.A.F.E investissement immobilier"
+    },
+    {
+      "url": "https://levraimaroc.com/safe-achat-sur-plan/",
+      "term": "S.A.F.E immobilier",
+      "context": " un professionnel si l’engagement est important.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E investissement immobil"
+    },
+    {
+      "url": "https://levraimaroc.com/safe-achat-sur-plan/",
+      "term": "S.A.F.E immobilier",
+      "context": "mportant.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E investissement immobilierLire l'articlecomment analyser promo"
+    },
+    {
+      "url": "https://levraimaroc.com/safe-certification-immobiliere/",
+      "term": "safeimmobilier",
+      "context": "ncadrement de l’acheteur.Le terme « SAFE immobilier » — parfois recherché sous la forme « safeimmobilier » — désigne ici la méthode S.A.F.E appliquée à l’analyse d’une opportunité immobilière. S.A.F.E ne désigne pas une agence imm"
+    },
+    {
+      "url": "https://levraimaroc.com/safe-certification-immobiliere/",
+      "term": "safeimmobilier",
+      "context": "dans son nom. Il s’agit d’une méthode d’analyse et de présélection immobilière ; le terme safeimmobilier renvoie donc à cette méthode, pas à une agence distincte.Application actuelleOFF MARKET OFFICIAL applique la grille d’analyse"
+    },
+    {
+      "url": "https://levraimaroc.com/safe-certification-immobiliere/",
+      "term": "SAFE immobilier",
+      "context": "e l’investissement, la fiabilité de l’exécution et l’encadrement de l’acheteur.Le terme « SAFE immobilier » — parfois recherché sous la forme « safeimmobilier » — désigne ici la méthode S.A.F.E appliquée à l’analyse d’une opportun"
+    },
+    {
+      "url": "https://levraimaroc.com/safe-certification-immobiliere/",
+      "term": "S.A.F.E immobilier",
+      "context": "iers insuffisamment lisibles et de mieux documenter les opportunités proposées.C’est quoi S.A.F.E immobilier ?S.A.F.E immobilier est une méthode internationale d’analyse et de présélection de projets immobiliers. Son nom signifie "
+    },
+    {
+      "url": "https://levraimaroc.com/safe-certification-immobiliere/",
+      "term": "S.A.F.E immobilier",
+      "context": "lisibles et de mieux documenter les opportunités proposées.C’est quoi S.A.F.E immobilier ?S.A.F.E immobilier est une méthode internationale d’analyse et de présélection de projets immobiliers. Son nom signifie Security, Analysis, "
+    },
+    {
+      "url": "https://levraimaroc.com/safe-certification-immobiliere/",
+      "term": "S.A.F.E immobilier",
+      "context": " des projets et la qualité de l’accompagnement acheteur.Définition complète de la méthode S.A.F.E immobilierS.A.F.E — Security, Analysis, Fidelity & Expert Guidance — est une méthode internationale propriétaire d’analyse et de pré"
+    },
+    {
+      "url": "https://levraimaroc.com/safe-certification-immobiliere/",
+      "term": "S.A.F.E immobilier",
+      "context": "emander au promoteurLire l'articleInvestir à Marrakech en 2026Lire l'articleFAQC’est quoi S.A.F.E immobilier ?S.A.F.E — Security, Analysis, Fidelity & Expert Guidance — est une méthode internationale d’analyse et de présélection i"
+    },
+    {
+      "url": "https://levraimaroc.com/safe-investissement-immobilier/",
+      "term": "S.A.F.E immobilier",
+      "context": " un professionnel si l’engagement est important.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'a"
+    },
+    {
+      "url": "https://levraimaroc.com/safe-investissement-immobilier/",
+      "term": "S.A.F.E immobilier",
+      "context": "mportant.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'articlecomment analyser promoteur immobi"
+    },
+    {
+      "url": "https://levraimaroc.com/vefa-maroc-garanties-risques/",
+      "term": "S.A.F.E immobilier",
+      "context": " un professionnel si l’engagement est important.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'a"
+    },
+    {
+      "url": "https://levraimaroc.com/vefa-maroc-garanties-risques/",
+      "term": "S.A.F.E immobilier",
+      "context": "mportant.Articles liésS.A.F.ELire l'articleméthode S.A.F.E immobilierLire l'articlegrille S.A.F.E immobilierLire l'articleanalyse projet immobilierLire l'articleS.A.F.E achat sur planLire l'articleS.A.F.E investissement immobilier"
+    }
+  ],
+  "safeSummary": {},
+  "priority": {
+    "tanjazz": {
+      "url": "https://levraimaroc.com/articles/tanjazz-2026/",
+      "status": "200",
+      "canonical": "https://levraimaroc.com/articles/tanjazz-2026",
+      "robots": "index, follow, max-image-preview:large",
+      "h1": "Tanjazz 2026 : programme, artistes, billets, prix, horaires et lieux à Tanger",
+      "indexReady": true
+    },
+    "electionsHub": {
+      "url": "https://levraimaroc.com/articles/elections-maroc-2026/",
+      "status": "200",
+      "canonical": "https://levraimaroc.com/articles/elections-maroc-2026",
+      "robots": "index, follow, max-image-preview:large",
+      "h1": "Élections Maroc 2026 : date, calendrier, partis, candidats et mode d’emploi",
+      "indexReady": true
+    },
+    "votingGuide": {
+      "url": "https://levraimaroc.com/articles/elections-maroc-2026-comment-voter/",
+      "status": "200",
+      "canonical": "https://levraimaroc.com/articles/elections-maroc-2026-comment-voter",
+      "robots": "index, follow, max-image-preview:large",
+      "h1": "Élections Maroc 2026 : comment voter, documents, horaires et bureau de vote",
+      "indexReady": true
+    },
+    "worldCup2030": {
+      "url": "https://levraimaroc.com/articles/finale-coupe-du-monde-2030-maroc-espagne/",
+      "status": "200",
+      "canonical": "https://levraimaroc.com/articles/finale-coupe-du-monde-2030-maroc-espagne",
+      "robots": "index, follow, max-image-preview:large",
+      "h1": "Finale Coupe du monde 2030 : Maroc ou Espagne ? Ce qui est réellement décidé",
+      "indexReady": true
+    },
+    "moroccoAI": {
+      "url": "https://levraimaroc.com/articles/maroc-ia-2030/",
+      "status": "200",
+      "canonical": "https://levraimaroc.com/articles/maroc-ia-2030",
+      "robots": "index, follow, max-image-preview:large",
+      "h1": "Maroc IA 2030 : investissements, emplois, talents et stratégie nationale expliqués",
+      "indexReady": true
+    },
+    "moga": {
+      "url": "https://levraimaroc.com/articles/moga-essaouira-2026/",
+      "status": "200",
+      "canonical": "https://levraimaroc.com/articles/moga-essaouira-2026",
+      "robots": "index, follow, max-image-preview:large",
+      "h1": "MOGA Essaouira 2026 : programme, artistes, billets, prix et horaires",
+      "indexReady": true
+    },
+    "school": {
+      "url": "https://levraimaroc.com/articles/rentree-scolaire-maroc-2026-2027/",
+      "status": "200",
+      "canonical": "https://levraimaroc.com/articles/rentree-scolaire-maroc-2026-2027",
+      "robots": "index, follow, max-image-preview:large",
+      "h1": "Rentrée scolaire Maroc 2026-2027 : dates, vacances, Massar et calendrier officiel",
+      "indexReady": true
+    },
+    "minimumWage": {
+      "url": "https://levraimaroc.com/articles/smig-5000-dh-maroc-2026/",
+      "status": "200",
+      "canonical": "https://levraimaroc.com/articles/smig-5000-dh-maroc-2026",
+      "robots": "index, follow, max-image-preview:large",
+      "h1": "SMIG Maroc 2026 : minimum légal, net estimé et proposition à 5 000 DH",
+      "indexReady": true
+    },
+    "airports": {
+      "url": "https://levraimaroc.com/articles/aeroports-maroc-trafic-marrakech-casablanca-ete-2026/",
+      "status": "200",
+      "canonical": "https://levraimaroc.com/articles/aeroports-maroc-trafic-marrakech-casablanca-ete-2026",
+      "robots": "index, follow, max-image-preview:large",
+      "h1": "Aéroports Maroc 2026 : trafic, records, Marrakech, Casablanca et été sous tension",
+      "indexReady": true
+    },
+    "safe": {
+      "url": "https://levraimaroc.com/safe-certification-immobiliere",
+      "status": "not fetched"
+    }
+  },
+  "deployment": {
+    "containsNewRoutes": 28,
+    "containsUpdatedRoutes": 20,
+    "containsNewImages": 28,
+    "safeimmobilierVisible": false,
+    "commitHashExposed": false,
+    "inferredCommit": "c5b8f93 visible by route/content/image presence"
+  },
+  "updatedRoutes": {},
+  "languageSwitcher": {
+    "checkedGroups": 12,
+    "groupsWithCompleteAlternates": 12,
+    "totalDirectionChecks": 192,
+    "errors": 0
+  },
+  "tanjazz": {
+    "hasTanjazz2026": true,
+    "hasBillets": true,
+    "hasPrix": true,
+    "hasProgramme": true,
+    "hasHoraires": true,
+    "hasArtistes": true,
+    "hasLieux": true,
+    "ticketsNearTop": true,
+    "canonical": "https://levraimaroc.com/articles/tanjazz-2026"
+  },
+  "elections": {
+    "pages": [
+      {
+        "url": "https://levraimaroc.com/articles/elections-maroc-2026",
+        "present": true
+      },
+      {
+        "url": "https://levraimaroc.com/articles/elections-maroc-2026-comment-voter",
+        "present": true
+      },
+      {
+        "url": "https://levraimaroc.com/articles/resultats-elections-maroc-2026",
+        "present": true
+      },
+      {
+        "url": "https://levraimaroc.com/articles/comparatif-programmes-elections-maroc-2026",
+        "present": true
+      },
+      {
+        "url": "https://levraimaroc.com/articles/candidats-elections-maroc-2026",
+        "present": true
+      }
+    ],
+    "neutralityChecks": [
+      {
+        "url": "https://levraimaroc.com/articles/elections-maroc-2026",
+        "mentionsOfficial": true,
+        "mentionsPromise": true,
+        "hasPartyAttack": false
+      },
+      {
+        "url": "https://levraimaroc.com/articles/elections-maroc-2026-comment-voter",
+        "mentionsOfficial": true,
+        "mentionsPromise": true,
+        "hasPartyAttack": false
+      },
+      {
+        "url": "https://levraimaroc.com/articles/resultats-elections-maroc-2026",
+        "mentionsOfficial": true,
+        "mentionsPromise": true,
+        "hasPartyAttack": false
+      }
+    ]
+  },
+  "ninef4e02d": {}
+}

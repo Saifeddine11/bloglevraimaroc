@@ -1,0 +1,39 @@
+HTTP/2 301 
+date: Mon, 14 Sep 2026 13:16:04 GMT
+content-type: text/html
+content-length: 795
+location: https://levraimaroc.com/en/articles/lboulevard-2026-casablanca/
+platform: hostinger
+panel: hpanel
+content-security-policy: upgrade-insecure-requests
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+referrer-policy: strict-origin-when-cross-origin
+permissions-policy: camera=(), microphone=(), geolocation=()
+server: hcdn
+alt-svc: h3=":443"; ma=86400
+x-hcdn-request-id: b8c9d28151d0e70155e32aa17fd059ba-srv-edge4
+x-hcdn-cache-status: MISS
+x-hcdn-upstream-rt: 0.016
+
+HTTP/2 200 
+date: Mon, 14 Sep 2026 13:16:04 GMT
+content-type: text/html
+vary: Accept-Encoding
+cache-control: public, max-age=3600
+expires: Mon, 14 Sep 2026 14:16:04 GMT
+last-modified: Mon, 14 Sep 2026 11:24:39 GMT
+etag: W/"b7a8-6aa7d977-9bb3d4dbcd7930d0;gz"
+platform: hostinger
+panel: hpanel
+content-security-policy: upgrade-insecure-requests
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+referrer-policy: strict-origin-when-cross-origin
+permissions-policy: camera=(), microphone=(), geolocation=()
+server: hcdn
+alt-svc: h3=":443"; ma=86400
+x-hcdn-request-id: 9261b98ca015e0fc08f36ef0345b91bc-srv-edge4
+x-hcdn-cache-status: DYNAMIC
+x-hcdn-upstream-rt: 0.018
+

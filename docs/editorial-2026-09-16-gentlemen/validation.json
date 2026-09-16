@@ -1,0 +1,728 @@
+{
+  "generatedAt": "2026-09-16T10:53:33.631Z",
+  "articleFiles": 40,
+  "translationGroups": 10,
+  "errors": [],
+  "rows": [
+    {
+      "locale": "en",
+      "translationKey": "accrocar-mobilite-productions-internationales",
+      "title": "Accrocar: from luxury rental to mobility for international productions",
+      "slug": "accrocar-luxury-mobility-film-productions-morocco",
+      "route": "/en/articles/accrocar-luxury-mobility-film-productions-morocco",
+      "wordCount": 820,
+      "heroImage": "/images/articles/gentlemen-maroc/accrocar-mobilite-productions.webp",
+      "canonical": "https://levraimaroc.com/en/articles/accrocar-luxury-mobility-film-productions-morocco",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "es",
+      "translationKey": "accrocar-mobilite-productions-internationales",
+      "title": "Accrocar: del alquiler de lujo a la movilidad para producciones internacionales",
+      "slug": "accrocar-movilidad-lujo-producciones-internacionales",
+      "route": "/es/articulos/accrocar-movilidad-lujo-producciones-internacionales",
+      "wordCount": 897,
+      "heroImage": "/images/articles/gentlemen-maroc/accrocar-mobilite-productions.webp",
+      "canonical": "https://levraimaroc.com/es/articulos/accrocar-movilidad-lujo-producciones-internacionales",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "fr",
+      "translationKey": "accrocar-mobilite-productions-internationales",
+      "title": "Accrocar, de la location de luxe à la mobilité pour productions internationales",
+      "slug": "accrocar-mobilite-luxe-productions-internationales",
+      "route": "/articles/accrocar-mobilite-luxe-productions-internationales",
+      "wordCount": 941,
+      "heroImage": "/images/articles/gentlemen-maroc/accrocar-mobilite-productions.webp",
+      "canonical": "https://levraimaroc.com/articles/accrocar-mobilite-luxe-productions-internationales",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "nl",
+      "translationKey": "accrocar-mobilite-productions-internationales",
+      "title": "Accrocar: van luxeverhuur naar mobiliteit voor internationale producties",
+      "slug": "accrocar-luxe-mobiliteit-internationale-producties",
+      "route": "/nl/artikelen/accrocar-luxe-mobiliteit-internationale-producties",
+      "wordCount": 761,
+      "heroImage": "/images/articles/gentlemen-maroc/accrocar-mobilite-productions.webp",
+      "canonical": "https://levraimaroc.com/nl/artikelen/accrocar-luxe-mobiliteit-internationale-producties",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "en",
+      "translationKey": "accrocar-vehicules-luxe-the-gentlemen-maroc",
+      "title": "Accrocar and The Gentlemen in Morocco: the documented luxury-vehicle operation",
+      "slug": "accrocar-luxury-vehicles-the-gentlemen-morocco",
+      "route": "/en/articles/accrocar-luxury-vehicles-the-gentlemen-morocco",
+      "wordCount": 848,
+      "heroImage": "/images/articles/gentlemen-maroc/accrocar-vehicules-luxe-gentlemen.webp",
+      "canonical": "https://levraimaroc.com/en/articles/accrocar-luxury-vehicles-the-gentlemen-morocco",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "es",
+      "translationKey": "accrocar-vehicules-luxe-the-gentlemen-maroc",
+      "title": "Accrocar y The Gentlemen en Marruecos: operación de vehículos documentada",
+      "slug": "accrocar-vehiculos-lujo-the-gentlemen-marruecos",
+      "route": "/es/articulos/accrocar-vehiculos-lujo-the-gentlemen-marruecos",
+      "wordCount": 925,
+      "heroImage": "/images/articles/gentlemen-maroc/accrocar-vehicules-luxe-gentlemen.webp",
+      "canonical": "https://levraimaroc.com/es/articulos/accrocar-vehiculos-lujo-the-gentlemen-marruecos",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "fr",
+      "translationKey": "accrocar-vehicules-luxe-the-gentlemen-maroc",
+      "title": "Accrocar et The Gentlemen au Maroc : l'opération véhicules de luxe documentée",
+      "slug": "accrocar-vehicules-luxe-the-gentlemen-maroc",
+      "route": "/articles/accrocar-vehicules-luxe-the-gentlemen-maroc",
+      "wordCount": 997,
+      "heroImage": "/images/articles/gentlemen-maroc/accrocar-vehicules-luxe-gentlemen.webp",
+      "canonical": "https://levraimaroc.com/articles/accrocar-vehicules-luxe-the-gentlemen-maroc",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "nl",
+      "translationKey": "accrocar-vehicules-luxe-the-gentlemen-maroc",
+      "title": "Accrocar en The Gentlemen in Marokko: de gedocumenteerde voertuigoperatie",
+      "slug": "accrocar-luxe-voertuigen-the-gentlemen-marokko",
+      "route": "/nl/artikelen/accrocar-luxe-voertuigen-the-gentlemen-marokko",
+      "wordCount": 804,
+      "heroImage": "/images/articles/gentlemen-maroc/accrocar-vehicules-luxe-gentlemen.webp",
+      "canonical": "https://levraimaroc.com/nl/artikelen/accrocar-luxe-voertuigen-the-gentlemen-marokko",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "en",
+      "translationKey": "coulisses-logistique-automobile-the-gentlemen-maroc",
+      "title": "Behind the car logistics for The Gentlemen in Morocco",
+      "slug": "behind-the-scenes-car-logistics-the-gentlemen-morocco",
+      "route": "/en/articles/behind-the-scenes-car-logistics-the-gentlemen-morocco",
+      "wordCount": 805,
+      "heroImage": "/images/articles/gentlemen-maroc/logistique-automobile-production-maroc.webp",
+      "canonical": "https://levraimaroc.com/en/articles/behind-the-scenes-car-logistics-the-gentlemen-morocco",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "es",
+      "translationKey": "coulisses-logistique-automobile-the-gentlemen-maroc",
+      "title": "La logística de automóviles de The Gentlemen en Marruecos, entre bastidores",
+      "slug": "bastidores-logistica-automovil-the-gentlemen-marruecos",
+      "route": "/es/articulos/bastidores-logistica-automovil-the-gentlemen-marruecos",
+      "wordCount": 870,
+      "heroImage": "/images/articles/gentlemen-maroc/logistique-automobile-production-maroc.webp",
+      "canonical": "https://levraimaroc.com/es/articulos/bastidores-logistica-automovil-the-gentlemen-marruecos",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "fr",
+      "translationKey": "coulisses-logistique-automobile-the-gentlemen-maroc",
+      "title": "Dans les coulisses de la logistique automobile de The Gentlemen au Maroc",
+      "slug": "coulisses-logistique-automobile-the-gentlemen-maroc",
+      "route": "/articles/coulisses-logistique-automobile-the-gentlemen-maroc",
+      "wordCount": 936,
+      "heroImage": "/images/articles/gentlemen-maroc/logistique-automobile-production-maroc.webp",
+      "canonical": "https://levraimaroc.com/articles/coulisses-logistique-automobile-the-gentlemen-maroc",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "nl",
+      "translationKey": "coulisses-logistique-automobile-the-gentlemen-maroc",
+      "title": "Achter de autologistiek van The Gentlemen in Marokko",
+      "slug": "achter-de-schermen-autologistiek-the-gentlemen-marokko",
+      "route": "/nl/artikelen/achter-de-schermen-autologistiek-the-gentlemen-marokko",
+      "wordCount": 749,
+      "heroImage": "/images/articles/gentlemen-maroc/logistique-automobile-production-maroc.webp",
+      "canonical": "https://levraimaroc.com/nl/artikelen/achter-de-schermen-autologistiek-the-gentlemen-marokko",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "en",
+      "translationKey": "ecosysteme-marocain-productions-internationales",
+      "title": "From scouting to transport: Morocco's international-production ecosystem",
+      "slug": "morocco-film-production-ecosystem",
+      "route": "/en/articles/morocco-film-production-ecosystem",
+      "wordCount": 848,
+      "heroImage": "/images/articles/gentlemen-maroc/ecosysteme-production-maroc.webp",
+      "canonical": "https://levraimaroc.com/en/articles/morocco-film-production-ecosystem",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "es",
+      "translationKey": "ecosysteme-marocain-productions-internationales",
+      "title": "De las localizaciones al transporte: el ecosistema de producción marroquí",
+      "slug": "ecosistema-marroqui-producciones-internacionales",
+      "route": "/es/articulos/ecosistema-marroqui-producciones-internacionales",
+      "wordCount": 917,
+      "heroImage": "/images/articles/gentlemen-maroc/ecosysteme-production-maroc.webp",
+      "canonical": "https://levraimaroc.com/es/articulos/ecosistema-marroqui-producciones-internacionales",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "fr",
+      "translationKey": "ecosysteme-marocain-productions-internationales",
+      "title": "Du repérage au transport : l'écosystème marocain des productions internationales",
+      "slug": "ecosysteme-marocain-productions-internationales",
+      "route": "/articles/ecosysteme-marocain-productions-internationales",
+      "wordCount": 974,
+      "heroImage": "/images/articles/gentlemen-maroc/ecosysteme-production-maroc.webp",
+      "canonical": "https://levraimaroc.com/articles/ecosysteme-marocain-productions-internationales",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "nl",
+      "translationKey": "ecosysteme-marocain-productions-internationales",
+      "title": "Van scouting tot vervoer: Marokko's ecosysteem voor internationale producties",
+      "slug": "marokkaans-ecosysteem-internationale-producties",
+      "route": "/nl/artikelen/marokkaans-ecosysteem-internationale-producties",
+      "wordCount": 803,
+      "heroImage": "/images/articles/gentlemen-maroc/ecosysteme-production-maroc.webp",
+      "canonical": "https://levraimaroc.com/nl/artikelen/marokkaans-ecosysteem-internationale-producties",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "en",
+      "translationKey": "lieux-tournage-the-gentlemen-saison-3-maroc",
+      "title": "The Gentlemen Season 3 Morocco filming locations: confirmed, reported or unknown",
+      "slug": "the-gentlemen-season-3-morocco-filming-locations",
+      "route": "/en/articles/the-gentlemen-season-3-morocco-filming-locations",
+      "wordCount": 728,
+      "heroImage": "/images/articles/gentlemen-maroc/gentlemen-lieux-tournage-maroc.webp",
+      "canonical": "https://levraimaroc.com/en/articles/the-gentlemen-season-3-morocco-filming-locations",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "NewsArticle",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "es",
+      "translationKey": "lieux-tournage-the-gentlemen-saison-3-maroc",
+      "title": "Localizaciones de The Gentlemen temporada 3 en Marruecos: confirmado o no",
+      "slug": "localizaciones-rodaje-the-gentlemen-temporada-3-marruecos",
+      "route": "/es/articulos/localizaciones-rodaje-the-gentlemen-temporada-3-marruecos",
+      "wordCount": 794,
+      "heroImage": "/images/articles/gentlemen-maroc/gentlemen-lieux-tournage-maroc.webp",
+      "canonical": "https://levraimaroc.com/es/articulos/localizaciones-rodaje-the-gentlemen-temporada-3-marruecos",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "NewsArticle",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "fr",
+      "translationKey": "lieux-tournage-the-gentlemen-saison-3-maroc",
+      "title": "Lieux de tournage de The Gentlemen saison 3 au Maroc : confirmé, rapporté ou inconnu",
+      "slug": "lieux-tournage-the-gentlemen-saison-3-maroc",
+      "route": "/articles/lieux-tournage-the-gentlemen-saison-3-maroc",
+      "wordCount": 851,
+      "heroImage": "/images/articles/gentlemen-maroc/gentlemen-lieux-tournage-maroc.webp",
+      "canonical": "https://levraimaroc.com/articles/lieux-tournage-the-gentlemen-saison-3-maroc",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "NewsArticle",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "nl",
+      "translationKey": "lieux-tournage-the-gentlemen-saison-3-maroc",
+      "title": "Opnamelocaties van The Gentlemen seizoen 3 in Marokko: feit of gerucht",
+      "slug": "opnamelocaties-the-gentlemen-seizoen-3-marokko",
+      "route": "/nl/artikelen/opnamelocaties-the-gentlemen-seizoen-3-marokko",
+      "wordCount": 698,
+      "heroImage": "/images/articles/gentlemen-maroc/gentlemen-lieux-tournage-maroc.webp",
+      "canonical": "https://levraimaroc.com/nl/artikelen/opnamelocaties-the-gentlemen-seizoen-3-marokko",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "NewsArticle",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "en",
+      "translationKey": "pourquoi-productions-internationales-maroc",
+      "title": "Why international productions choose Morocco",
+      "slug": "why-international-productions-choose-morocco",
+      "route": "/en/articles/why-international-productions-choose-morocco",
+      "wordCount": 787,
+      "heroImage": "/images/articles/gentlemen-maroc/productions-internationales-maroc.webp",
+      "canonical": "https://levraimaroc.com/en/articles/why-international-productions-choose-morocco",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "es",
+      "translationKey": "pourquoi-productions-internationales-maroc",
+      "title": "Por qué las producciones internacionales eligen Marruecos",
+      "slug": "por-que-producciones-internacionales-eligen-marruecos",
+      "route": "/es/articulos/por-que-producciones-internacionales-eligen-marruecos",
+      "wordCount": 861,
+      "heroImage": "/images/articles/gentlemen-maroc/productions-internationales-maroc.webp",
+      "canonical": "https://levraimaroc.com/es/articulos/por-que-producciones-internacionales-eligen-marruecos",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "fr",
+      "translationKey": "pourquoi-productions-internationales-maroc",
+      "title": "Pourquoi les productions internationales choisissent le Maroc",
+      "slug": "pourquoi-productions-internationales-choisissent-maroc",
+      "route": "/articles/pourquoi-productions-internationales-choisissent-maroc",
+      "wordCount": 920,
+      "heroImage": "/images/articles/gentlemen-maroc/productions-internationales-maroc.webp",
+      "canonical": "https://levraimaroc.com/articles/pourquoi-productions-internationales-choisissent-maroc",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "nl",
+      "translationKey": "pourquoi-productions-internationales-maroc",
+      "title": "Waarom internationale producties voor Marokko kiezen",
+      "slug": "waarom-internationale-producties-marokko-kiezen",
+      "route": "/nl/artikelen/waarom-internationale-producties-marokko-kiezen",
+      "wordCount": 746,
+      "heroImage": "/images/articles/gentlemen-maroc/productions-internationales-maroc.webp",
+      "canonical": "https://levraimaroc.com/nl/artikelen/waarom-internationale-producties-marokko-kiezen",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "en",
+      "translationKey": "rolls-royce-bentley-the-gentlemen-maroc",
+      "title": "Rolls-Royce and Bentley in the Morocco Gentlemen material: what the images show",
+      "slug": "rolls-royce-bentley-the-gentlemen-morocco",
+      "route": "/en/articles/rolls-royce-bentley-the-gentlemen-morocco",
+      "wordCount": 852,
+      "heroImage": "/images/articles/gentlemen-maroc/rolls-royce-bentley-gentlemen-maroc.webp",
+      "canonical": "https://levraimaroc.com/en/articles/rolls-royce-bentley-the-gentlemen-morocco",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "es",
+      "translationKey": "rolls-royce-bentley-the-gentlemen-maroc",
+      "title": "Rolls-Royce y Bentley en el material de The Gentlemen en Marruecos",
+      "slug": "rolls-royce-bentley-the-gentlemen-marruecos",
+      "route": "/es/articulos/rolls-royce-bentley-the-gentlemen-marruecos",
+      "wordCount": 923,
+      "heroImage": "/images/articles/gentlemen-maroc/rolls-royce-bentley-gentlemen-maroc.webp",
+      "canonical": "https://levraimaroc.com/es/articulos/rolls-royce-bentley-the-gentlemen-marruecos",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "fr",
+      "translationKey": "rolls-royce-bentley-the-gentlemen-maroc",
+      "title": "Rolls-Royce et Bentley dans le dossier The Gentlemen au Maroc : ce que montrent les images",
+      "slug": "rolls-royce-bentley-the-gentlemen-maroc",
+      "route": "/articles/rolls-royce-bentley-the-gentlemen-maroc",
+      "wordCount": 969,
+      "heroImage": "/images/articles/gentlemen-maroc/rolls-royce-bentley-gentlemen-maroc.webp",
+      "canonical": "https://levraimaroc.com/articles/rolls-royce-bentley-the-gentlemen-maroc",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "nl",
+      "translationKey": "rolls-royce-bentley-the-gentlemen-maroc",
+      "title": "Rolls-Royce en Bentley in het Marokkaanse Gentlemen-materiaal",
+      "slug": "rolls-royce-bentley-the-gentlemen-marokko",
+      "route": "/nl/artikelen/rolls-royce-bentley-the-gentlemen-marokko",
+      "wordCount": 803,
+      "heroImage": "/images/articles/gentlemen-maroc/rolls-royce-bentley-gentlemen-maroc.webp",
+      "canonical": "https://levraimaroc.com/nl/artikelen/rolls-royce-bentley-the-gentlemen-marokko",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "Article",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "en",
+      "translationKey": "the-gentlemen-saison-3-erfoud",
+      "title": "The Gentlemen Season 3 in Erfoud: the pre-Saharan filming trail",
+      "slug": "the-gentlemen-season-3-erfoud-filming",
+      "route": "/en/articles/the-gentlemen-season-3-erfoud-filming",
+      "wordCount": 761,
+      "heroImage": "/images/articles/gentlemen-maroc/gentlemen-saison-3-erfoud.webp",
+      "canonical": "https://levraimaroc.com/en/articles/the-gentlemen-season-3-erfoud-filming",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "NewsArticle",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "es",
+      "translationKey": "the-gentlemen-saison-3-erfoud",
+      "title": "The Gentlemen temporada 3 en Erfoud: la pista presahariana",
+      "slug": "the-gentlemen-temporada-3-rodaje-erfoud",
+      "route": "/es/articulos/the-gentlemen-temporada-3-rodaje-erfoud",
+      "wordCount": 814,
+      "heroImage": "/images/articles/gentlemen-maroc/gentlemen-saison-3-erfoud.webp",
+      "canonical": "https://levraimaroc.com/es/articulos/the-gentlemen-temporada-3-rodaje-erfoud",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "NewsArticle",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "fr",
+      "translationKey": "the-gentlemen-saison-3-erfoud",
+      "title": "The Gentlemen saison 3 à Erfoud : la piste présaharienne du tournage",
+      "slug": "the-gentlemen-saison-3-erfoud-tournage",
+      "route": "/articles/the-gentlemen-saison-3-erfoud-tournage",
+      "wordCount": 870,
+      "heroImage": "/images/articles/gentlemen-maroc/gentlemen-saison-3-erfoud.webp",
+      "canonical": "https://levraimaroc.com/articles/the-gentlemen-saison-3-erfoud-tournage",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "NewsArticle",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "nl",
+      "translationKey": "the-gentlemen-saison-3-erfoud",
+      "title": "The Gentlemen seizoen 3 in Erfoud: het pre-Saharaanse spoor",
+      "slug": "the-gentlemen-seizoen-3-opnames-erfoud",
+      "route": "/nl/artikelen/the-gentlemen-seizoen-3-opnames-erfoud",
+      "wordCount": 710,
+      "heroImage": "/images/articles/gentlemen-maroc/gentlemen-saison-3-erfoud.webp",
+      "canonical": "https://levraimaroc.com/nl/artikelen/the-gentlemen-seizoen-3-opnames-erfoud",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "NewsArticle",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "en",
+      "translationKey": "the-gentlemen-saison-3-maroc-rabat-erfoud",
+      "title": "The Gentlemen Season 3 in Morocco: filming reaches Rabat and Erfoud",
+      "slug": "the-gentlemen-season-3-morocco-rabat-erfoud",
+      "route": "/en/articles/the-gentlemen-season-3-morocco-rabat-erfoud",
+      "wordCount": 825,
+      "heroImage": "/images/articles/gentlemen-maroc/gentlemen-saison-3-maroc.webp",
+      "canonical": "https://levraimaroc.com/en/articles/the-gentlemen-season-3-morocco-rabat-erfoud",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "NewsArticle",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "es",
+      "translationKey": "the-gentlemen-saison-3-maroc-rabat-erfoud",
+      "title": "The Gentlemen temporada 3 en Marruecos: rodaje en Rabat y Erfoud",
+      "slug": "the-gentlemen-temporada-3-marruecos-rabat-erfoud",
+      "route": "/es/articulos/the-gentlemen-temporada-3-marruecos-rabat-erfoud",
+      "wordCount": 901,
+      "heroImage": "/images/articles/gentlemen-maroc/gentlemen-saison-3-maroc.webp",
+      "canonical": "https://levraimaroc.com/es/articulos/the-gentlemen-temporada-3-marruecos-rabat-erfoud",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "NewsArticle",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "fr",
+      "translationKey": "the-gentlemen-saison-3-maroc-rabat-erfoud",
+      "title": "The Gentlemen saison 3 au Maroc : le tournage passe par Rabat et Erfoud",
+      "slug": "the-gentlemen-saison-3-maroc-rabat-erfoud",
+      "route": "/articles/the-gentlemen-saison-3-maroc-rabat-erfoud",
+      "wordCount": 955,
+      "heroImage": "/images/articles/gentlemen-maroc/gentlemen-saison-3-maroc.webp",
+      "canonical": "https://levraimaroc.com/articles/the-gentlemen-saison-3-maroc-rabat-erfoud",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "NewsArticle",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "nl",
+      "translationKey": "the-gentlemen-saison-3-maroc-rabat-erfoud",
+      "title": "The Gentlemen seizoen 3 in Marokko: opnames in Rabat en Erfoud",
+      "slug": "the-gentlemen-seizoen-3-marokko-rabat-erfoud",
+      "route": "/nl/artikelen/the-gentlemen-seizoen-3-marokko-rabat-erfoud",
+      "wordCount": 787,
+      "heroImage": "/images/articles/gentlemen-maroc/gentlemen-saison-3-maroc.webp",
+      "canonical": "https://levraimaroc.com/nl/artikelen/the-gentlemen-seizoen-3-marokko-rabat-erfoud",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "NewsArticle",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "en",
+      "translationKey": "the-gentlemen-saison-3-rabat",
+      "title": "The Gentlemen Season 3 in Rabat: what we know about filming",
+      "slug": "the-gentlemen-season-3-rabat-filming",
+      "route": "/en/articles/the-gentlemen-season-3-rabat-filming",
+      "wordCount": 740,
+      "heroImage": "/images/articles/gentlemen-maroc/gentlemen-saison-3-rabat.webp",
+      "canonical": "https://levraimaroc.com/en/articles/the-gentlemen-season-3-rabat-filming",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "NewsArticle",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "es",
+      "translationKey": "the-gentlemen-saison-3-rabat",
+      "title": "The Gentlemen temporada 3 en Rabat: lo que se sabe del rodaje",
+      "slug": "the-gentlemen-temporada-3-rodaje-rabat",
+      "route": "/es/articulos/the-gentlemen-temporada-3-rodaje-rabat",
+      "wordCount": 796,
+      "heroImage": "/images/articles/gentlemen-maroc/gentlemen-saison-3-rabat.webp",
+      "canonical": "https://levraimaroc.com/es/articulos/the-gentlemen-temporada-3-rodaje-rabat",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "NewsArticle",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "fr",
+      "translationKey": "the-gentlemen-saison-3-rabat",
+      "title": "The Gentlemen saison 3 à Rabat : ce que l'on sait du tournage",
+      "slug": "the-gentlemen-saison-3-rabat-tournage",
+      "route": "/articles/the-gentlemen-saison-3-rabat-tournage",
+      "wordCount": 851,
+      "heroImage": "/images/articles/gentlemen-maroc/gentlemen-saison-3-rabat.webp",
+      "canonical": "https://levraimaroc.com/articles/the-gentlemen-saison-3-rabat-tournage",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "NewsArticle",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    },
+    {
+      "locale": "nl",
+      "translationKey": "the-gentlemen-saison-3-rabat",
+      "title": "The Gentlemen seizoen 3 in Rabat: wat we over de opnames weten",
+      "slug": "the-gentlemen-seizoen-3-opnames-rabat",
+      "route": "/nl/artikelen/the-gentlemen-seizoen-3-opnames-rabat",
+      "wordCount": 699,
+      "heroImage": "/images/articles/gentlemen-maroc/gentlemen-saison-3-rabat.webp",
+      "canonical": "https://levraimaroc.com/nl/artikelen/the-gentlemen-seizoen-3-opnames-rabat",
+      "alternateCount": 5,
+      "schemaTypes": [
+        "Organization",
+        "WebSite",
+        "NewsArticle",
+        "BreadcrumbList",
+        "FAQPage"
+      ]
+    }
+  ]
+}

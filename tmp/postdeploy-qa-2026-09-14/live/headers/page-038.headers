@@ -1,0 +1,39 @@
+HTTP/2 301 
+date: Mon, 14 Sep 2026 13:16:25 GMT
+content-type: text/html
+content-length: 795
+location: https://levraimaroc.com/en/articles/morocco-school-calendar-2026-2027/
+platform: hostinger
+panel: hpanel
+content-security-policy: upgrade-insecure-requests
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+referrer-policy: strict-origin-when-cross-origin
+permissions-policy: camera=(), microphone=(), geolocation=()
+server: hcdn
+alt-svc: h3=":443"; ma=86400
+x-hcdn-request-id: d81d12d51850e5bfa3953d65b3e5ecc8-srv-edge6
+x-hcdn-cache-status: MISS
+x-hcdn-upstream-rt: 0.018
+
+HTTP/2 200 
+date: Mon, 14 Sep 2026 13:16:25 GMT
+content-type: text/html
+vary: Accept-Encoding
+cache-control: public, max-age=3600
+expires: Mon, 14 Sep 2026 14:16:25 GMT
+last-modified: Mon, 14 Sep 2026 11:24:40 GMT
+etag: W/"a9ec-6aa7d978-daab24e723265fc8;gz"
+platform: hostinger
+panel: hpanel
+content-security-policy: upgrade-insecure-requests
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+referrer-policy: strict-origin-when-cross-origin
+permissions-policy: camera=(), microphone=(), geolocation=()
+server: hcdn
+alt-svc: h3=":443"; ma=86400
+x-hcdn-request-id: 211e6b56a6e25c39e5577254cb686b53-srv-edge6
+x-hcdn-cache-status: DYNAMIC
+x-hcdn-upstream-rt: 0.020
+

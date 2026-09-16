@@ -1,0 +1,39 @@
+HTTP/2 301 
+date: Mon, 14 Sep 2026 13:16:30 GMT
+content-type: text/html
+content-length: 795
+location: https://levraimaroc.com/es/articulos/aeropuertos-marruecos-trafico-marrakech-casablanca-verano-2026/
+platform: hostinger
+panel: hpanel
+content-security-policy: upgrade-insecure-requests
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+referrer-policy: strict-origin-when-cross-origin
+permissions-policy: camera=(), microphone=(), geolocation=()
+server: hcdn
+alt-svc: h3=":443"; ma=86400
+x-hcdn-request-id: 8f4b1bc6b9dfedb3ffacb1af2d163950-srv-edge6
+x-hcdn-cache-status: MISS
+x-hcdn-upstream-rt: 0.018
+
+HTTP/2 200 
+date: Mon, 14 Sep 2026 13:16:30 GMT
+content-type: text/html
+vary: Accept-Encoding
+cache-control: public, max-age=3600
+expires: Mon, 14 Sep 2026 14:16:30 GMT
+last-modified: Mon, 14 Sep 2026 11:24:39 GMT
+etag: W/"ae15-6aa7d977-34d374f6ba21f351;gz"
+platform: hostinger
+panel: hpanel
+content-security-policy: upgrade-insecure-requests
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+referrer-policy: strict-origin-when-cross-origin
+permissions-policy: camera=(), microphone=(), geolocation=()
+server: hcdn
+alt-svc: h3=":443"; ma=86400
+x-hcdn-request-id: da7f496c3a36b69288e9647723915c52-srv-edge6
+x-hcdn-cache-status: DYNAMIC
+x-hcdn-upstream-rt: 0.020
+
