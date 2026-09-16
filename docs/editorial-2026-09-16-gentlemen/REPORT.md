@@ -19,94 +19,95 @@ All 40 pages use publication and update date **2026-09-16**. Body counts below e
 | Locale | Title | Final URL | Body words |
 |---|---|---|---:|
 | FR | The Gentlemen saison 3 au Maroc : le tournage passe par Rabat et Erfoud | [/articles/the-gentlemen-saison-3-maroc-rabat-erfoud](https://levraimaroc.com/articles/the-gentlemen-saison-3-maroc-rabat-erfoud) | 955 |
-| EN | The Gentlemen Season 3 in Morocco: filming reaches Rabat and Erfoud | [/en/articles/the-gentlemen-season-3-morocco-rabat-erfoud](https://levraimaroc.com/en/articles/the-gentlemen-season-3-morocco-rabat-erfoud) | 825 |
-| ES | The Gentlemen temporada 3 en Marruecos: rodaje en Rabat y Erfoud | [/es/articulos/the-gentlemen-temporada-3-marruecos-rabat-erfoud](https://levraimaroc.com/es/articulos/the-gentlemen-temporada-3-marruecos-rabat-erfoud) | 901 |
-| NL | The Gentlemen seizoen 3 in Marokko: opnames in Rabat en Erfoud | [/nl/artikelen/the-gentlemen-seizoen-3-marokko-rabat-erfoud](https://levraimaroc.com/nl/artikelen/the-gentlemen-seizoen-3-marokko-rabat-erfoud) | 787 |
+| EN | The Gentlemen Season 3 in Morocco: filming reaches Rabat and Erfoud | [/en/articles/the-gentlemen-season-3-morocco-rabat-erfoud](https://levraimaroc.com/en/articles/the-gentlemen-season-3-morocco-rabat-erfoud) | 833 |
+| ES | The Gentlemen temporada 3 en Marruecos: rodaje en Rabat y Erfoud | [/es/articulos/the-gentlemen-temporada-3-marruecos-rabat-erfoud](https://levraimaroc.com/es/articulos/the-gentlemen-temporada-3-marruecos-rabat-erfoud) | 910 |
+| NL | The Gentlemen seizoen 3 in Marokko: opnames in Rabat en Erfoud | [/nl/artikelen/the-gentlemen-seizoen-3-marokko-rabat-erfoud](https://levraimaroc.com/nl/artikelen/the-gentlemen-seizoen-3-marokko-rabat-erfoud) | 801 |
 
 ### 2. The Gentlemen Rabat filming — city-specific news
 
 | Locale | Title | Final URL | Body words |
 |---|---|---|---:|
-| FR | The Gentlemen saison 3 à Rabat : ce que l'on sait du tournage | [/articles/the-gentlemen-saison-3-rabat-tournage](https://levraimaroc.com/articles/the-gentlemen-saison-3-rabat-tournage) | 851 |
-| EN | The Gentlemen Season 3 in Rabat: what we know about filming | [/en/articles/the-gentlemen-season-3-rabat-filming](https://levraimaroc.com/en/articles/the-gentlemen-season-3-rabat-filming) | 740 |
-| ES | The Gentlemen temporada 3 en Rabat: lo que se sabe del rodaje | [/es/articulos/the-gentlemen-temporada-3-rodaje-rabat](https://levraimaroc.com/es/articulos/the-gentlemen-temporada-3-rodaje-rabat) | 796 |
-| NL | The Gentlemen seizoen 3 in Rabat: wat we over de opnames weten | [/nl/artikelen/the-gentlemen-seizoen-3-opnames-rabat](https://levraimaroc.com/nl/artikelen/the-gentlemen-seizoen-3-opnames-rabat) | 699 |
+| FR | The Gentlemen saison 3 à Rabat : ce que l'on sait du tournage | [/articles/the-gentlemen-saison-3-rabat-tournage](https://levraimaroc.com/articles/the-gentlemen-saison-3-rabat-tournage) | 856 |
+| EN | The Gentlemen Season 3 in Rabat: what we know about filming | [/en/articles/the-gentlemen-season-3-rabat-filming](https://levraimaroc.com/en/articles/the-gentlemen-season-3-rabat-filming) | 753 |
+| ES | The Gentlemen temporada 3 en Rabat: lo que se sabe del rodaje | [/es/articulos/the-gentlemen-temporada-3-rodaje-rabat](https://levraimaroc.com/es/articulos/the-gentlemen-temporada-3-rodaje-rabat) | 809 |
+| NL | The Gentlemen seizoen 3 in Rabat: wat we over de opnames weten | [/nl/artikelen/the-gentlemen-seizoen-3-opnames-rabat](https://levraimaroc.com/nl/artikelen/the-gentlemen-seizoen-3-opnames-rabat) | 714 |
 
 ### 3. The Gentlemen Erfoud filming — south-east geography and logistics
 
 | Locale | Title | Final URL | Body words |
 |---|---|---|---:|
-| FR | The Gentlemen saison 3 à Erfoud : la piste présaharienne du tournage | [/articles/the-gentlemen-saison-3-erfoud-tournage](https://levraimaroc.com/articles/the-gentlemen-saison-3-erfoud-tournage) | 870 |
-| EN | The Gentlemen Season 3 in Erfoud: the pre-Saharan filming trail | [/en/articles/the-gentlemen-season-3-erfoud-filming](https://levraimaroc.com/en/articles/the-gentlemen-season-3-erfoud-filming) | 761 |
-| ES | The Gentlemen temporada 3 en Erfoud: la pista presahariana | [/es/articulos/the-gentlemen-temporada-3-rodaje-erfoud](https://levraimaroc.com/es/articulos/the-gentlemen-temporada-3-rodaje-erfoud) | 814 |
-| NL | The Gentlemen seizoen 3 in Erfoud: het pre-Saharaanse spoor | [/nl/artikelen/the-gentlemen-seizoen-3-opnames-erfoud](https://levraimaroc.com/nl/artikelen/the-gentlemen-seizoen-3-opnames-erfoud) | 710 |
+| FR | The Gentlemen saison 3 à Erfoud : la piste présaharienne du tournage | [/articles/the-gentlemen-saison-3-erfoud-tournage](https://levraimaroc.com/articles/the-gentlemen-saison-3-erfoud-tournage) | 875 |
+| EN | The Gentlemen Season 3 in Erfoud: the pre-Saharan filming trail | [/en/articles/the-gentlemen-season-3-erfoud-filming](https://levraimaroc.com/en/articles/the-gentlemen-season-3-erfoud-filming) | 774 |
+| ES | The Gentlemen temporada 3 en Erfoud: la pista presahariana | [/es/articulos/the-gentlemen-temporada-3-rodaje-erfoud](https://levraimaroc.com/es/articulos/the-gentlemen-temporada-3-rodaje-erfoud) | 827 |
+| NL | The Gentlemen seizoen 3 in Erfoud: het pre-Saharaanse spoor | [/nl/artikelen/the-gentlemen-seizoen-3-opnames-erfoud](https://levraimaroc.com/nl/artikelen/the-gentlemen-seizoen-3-opnames-erfoud) | 725 |
 
 ### 4. The Gentlemen Morocco filming locations — confirmation map
 
 | Locale | Title | Final URL | Body words |
 |---|---|---|---:|
-| FR | Lieux de tournage de The Gentlemen saison 3 au Maroc : confirmé, rapporté ou inconnu | [/articles/lieux-tournage-the-gentlemen-saison-3-maroc](https://levraimaroc.com/articles/lieux-tournage-the-gentlemen-saison-3-maroc) | 851 |
-| EN | The Gentlemen Season 3 Morocco filming locations: confirmed, reported or unknown | [/en/articles/the-gentlemen-season-3-morocco-filming-locations](https://levraimaroc.com/en/articles/the-gentlemen-season-3-morocco-filming-locations) | 728 |
-| ES | Localizaciones de The Gentlemen temporada 3 en Marruecos: confirmado o no | [/es/articulos/localizaciones-rodaje-the-gentlemen-temporada-3-marruecos](https://levraimaroc.com/es/articulos/localizaciones-rodaje-the-gentlemen-temporada-3-marruecos) | 794 |
-| NL | Opnamelocaties van The Gentlemen seizoen 3 in Marokko: feit of gerucht | [/nl/artikelen/opnamelocaties-the-gentlemen-seizoen-3-marokko](https://levraimaroc.com/nl/artikelen/opnamelocaties-the-gentlemen-seizoen-3-marokko) | 698 |
+| FR | Lieux de tournage de The Gentlemen saison 3 au Maroc : confirmé, rapporté ou inconnu | [/articles/lieux-tournage-the-gentlemen-saison-3-maroc](https://levraimaroc.com/articles/lieux-tournage-the-gentlemen-saison-3-maroc) | 856 |
+| EN | The Gentlemen Season 3 Morocco filming locations: confirmed, reported or unknown | [/en/articles/the-gentlemen-season-3-morocco-filming-locations](https://levraimaroc.com/en/articles/the-gentlemen-season-3-morocco-filming-locations) | 741 |
+| ES | Localizaciones de The Gentlemen temporada 3 en Marruecos: confirmado o no | [/es/articulos/localizaciones-rodaje-the-gentlemen-temporada-3-marruecos](https://levraimaroc.com/es/articulos/localizaciones-rodaje-the-gentlemen-temporada-3-marruecos) | 807 |
+| NL | Opnamelocaties van The Gentlemen seizoen 3 in Marokko: feit of gerucht | [/nl/artikelen/opnamelocaties-the-gentlemen-seizoen-3-marokko](https://levraimaroc.com/nl/artikelen/opnamelocaties-the-gentlemen-seizoen-3-marokko) | 713 |
 
 ### 5. International productions in Morocco — national film capacity
 
 | Locale | Title | Final URL | Body words |
 |---|---|---|---:|
-| FR | Pourquoi les productions internationales choisissent le Maroc | [/articles/pourquoi-productions-internationales-choisissent-maroc](https://levraimaroc.com/articles/pourquoi-productions-internationales-choisissent-maroc) | 920 |
-| EN | Why international productions choose Morocco | [/en/articles/why-international-productions-choose-morocco](https://levraimaroc.com/en/articles/why-international-productions-choose-morocco) | 787 |
-| ES | Por qué las producciones internacionales eligen Marruecos | [/es/articulos/por-que-producciones-internacionales-eligen-marruecos](https://levraimaroc.com/es/articulos/por-que-producciones-internacionales-eligen-marruecos) | 861 |
-| NL | Waarom internationale producties voor Marokko kiezen | [/nl/artikelen/waarom-internationale-producties-marokko-kiezen](https://levraimaroc.com/nl/artikelen/waarom-internationale-producties-marokko-kiezen) | 746 |
+| FR | Pourquoi les productions internationales choisissent le Maroc | [/articles/pourquoi-productions-internationales-choisissent-maroc](https://levraimaroc.com/articles/pourquoi-productions-internationales-choisissent-maroc) | 1020 |
+| EN | Why international productions choose Morocco | [/en/articles/why-international-productions-choose-morocco](https://levraimaroc.com/en/articles/why-international-productions-choose-morocco) | 884 |
+| ES | Por qué las producciones internacionales eligen Marruecos | [/es/articulos/por-que-producciones-internacionales-eligen-marruecos](https://levraimaroc.com/es/articulos/por-que-producciones-internacionales-eligen-marruecos) | 957 |
+| NL | Waarom internationale producties voor Marokko kiezen | [/nl/artikelen/waarom-internationale-producties-marokko-kiezen](https://levraimaroc.com/nl/artikelen/waarom-internationale-producties-marokko-kiezen) | 842 |
 
 ### 6. Accrocar + The Gentlemen Morocco — first-party vehicle operation
 
 | Locale | Title | Final URL | Body words |
 |---|---|---|---:|
-| FR | Accrocar et The Gentlemen au Maroc : l'opération véhicules de luxe documentée | [/articles/accrocar-vehicules-luxe-the-gentlemen-maroc](https://levraimaroc.com/articles/accrocar-vehicules-luxe-the-gentlemen-maroc) | 997 |
-| EN | Accrocar and The Gentlemen in Morocco: the documented luxury-vehicle operation | [/en/articles/accrocar-luxury-vehicles-the-gentlemen-morocco](https://levraimaroc.com/en/articles/accrocar-luxury-vehicles-the-gentlemen-morocco) | 848 |
-| ES | Accrocar y The Gentlemen en Marruecos: operación de vehículos documentada | [/es/articulos/accrocar-vehiculos-lujo-the-gentlemen-marruecos](https://levraimaroc.com/es/articulos/accrocar-vehiculos-lujo-the-gentlemen-marruecos) | 925 |
-| NL | Accrocar en The Gentlemen in Marokko: de gedocumenteerde voertuigoperatie | [/nl/artikelen/accrocar-luxe-voertuigen-the-gentlemen-marokko](https://levraimaroc.com/nl/artikelen/accrocar-luxe-voertuigen-the-gentlemen-marokko) | 804 |
+| FR | The Gentlemen au Maroc : Accrocar confirme sa collaboration avec Dune Films et Moonage Pictures | [/articles/accrocar-vehicules-luxe-the-gentlemen-maroc](https://levraimaroc.com/articles/accrocar-vehicules-luxe-the-gentlemen-maroc) | 994 |
+| EN | The Gentlemen in Morocco: Accrocar confirms work with Dune Films and Moonage Pictures | [/en/articles/accrocar-luxury-vehicles-the-gentlemen-morocco](https://levraimaroc.com/en/articles/accrocar-luxury-vehicles-the-gentlemen-morocco) | 863 |
+| ES | The Gentlemen en Marruecos: Accrocar confirma su colaboración con Dune Films y Moonage Pictures | [/es/articulos/accrocar-vehiculos-lujo-the-gentlemen-marruecos](https://levraimaroc.com/es/articulos/accrocar-vehiculos-lujo-the-gentlemen-marruecos) | 934 |
+| NL | The Gentlemen in Marokko: Accrocar bevestigt samenwerking met Dune Films en Moonage Pictures | [/nl/artikelen/accrocar-luxe-voertuigen-the-gentlemen-marokko](https://levraimaroc.com/nl/artikelen/accrocar-luxe-voertuigen-the-gentlemen-marokko) | 825 |
 
 ### 7. Film-production car logistics Morocco — behind the scenes
 
 | Locale | Title | Final URL | Body words |
 |---|---|---|---:|
-| FR | Dans les coulisses de la logistique automobile de The Gentlemen au Maroc | [/articles/coulisses-logistique-automobile-the-gentlemen-maroc](https://levraimaroc.com/articles/coulisses-logistique-automobile-the-gentlemen-maroc) | 936 |
-| EN | Behind the car logistics for The Gentlemen in Morocco | [/en/articles/behind-the-scenes-car-logistics-the-gentlemen-morocco](https://levraimaroc.com/en/articles/behind-the-scenes-car-logistics-the-gentlemen-morocco) | 805 |
-| ES | La logística de automóviles de The Gentlemen en Marruecos, entre bastidores | [/es/articulos/bastidores-logistica-automovil-the-gentlemen-marruecos](https://levraimaroc.com/es/articulos/bastidores-logistica-automovil-the-gentlemen-marruecos) | 870 |
-| NL | Achter de autologistiek van The Gentlemen in Marokko | [/nl/artikelen/achter-de-schermen-autologistiek-the-gentlemen-marokko](https://levraimaroc.com/nl/artikelen/achter-de-schermen-autologistiek-the-gentlemen-marokko) | 749 |
+| FR | Dans les coulisses de The Gentlemen : comment Accrocar a géré les voitures de luxe au Maroc | [/articles/coulisses-logistique-automobile-the-gentlemen-maroc](https://levraimaroc.com/articles/coulisses-logistique-automobile-the-gentlemen-maroc) | 1002 |
+| EN | Behind the scenes of The Gentlemen: how Accrocar handled the luxury cars in Morocco | [/en/articles/behind-the-scenes-car-logistics-the-gentlemen-morocco](https://levraimaroc.com/en/articles/behind-the-scenes-car-logistics-the-gentlemen-morocco) | 883 |
+| ES | Entre bastidores de The Gentlemen: cómo Accrocar gestionó los coches de lujo en Marruecos | [/es/articulos/bastidores-logistica-automovil-the-gentlemen-marruecos](https://levraimaroc.com/es/articulos/bastidores-logistica-automovil-the-gentlemen-marruecos) | 948 |
+| NL | Achter de schermen van The Gentlemen: hoe Accrocar de luxeauto’s in Marokko heeft beheerd | [/nl/artikelen/achter-de-schermen-autologistiek-the-gentlemen-marokko](https://levraimaroc.com/nl/artikelen/achter-de-schermen-autologistiek-the-gentlemen-marokko) | 829 |
 
 ### 8. The Gentlemen luxury cars Morocco — documented models
 
 | Locale | Title | Final URL | Body words |
 |---|---|---|---:|
-| FR | Rolls-Royce et Bentley dans le dossier The Gentlemen au Maroc : ce que montrent les images | [/articles/rolls-royce-bentley-the-gentlemen-maroc](https://levraimaroc.com/articles/rolls-royce-bentley-the-gentlemen-maroc) | 969 |
-| EN | Rolls-Royce and Bentley in the Morocco Gentlemen material: what the images show | [/en/articles/rolls-royce-bentley-the-gentlemen-morocco](https://levraimaroc.com/en/articles/rolls-royce-bentley-the-gentlemen-morocco) | 852 |
-| ES | Rolls-Royce y Bentley en el material de The Gentlemen en Marruecos | [/es/articulos/rolls-royce-bentley-the-gentlemen-marruecos](https://levraimaroc.com/es/articulos/rolls-royce-bentley-the-gentlemen-marruecos) | 923 |
-| NL | Rolls-Royce en Bentley in het Marokkaanse Gentlemen-materiaal | [/nl/artikelen/rolls-royce-bentley-the-gentlemen-marokko](https://levraimaroc.com/nl/artikelen/rolls-royce-bentley-the-gentlemen-marokko) | 803 |
+| FR | Rolls-Royce Cullinan et Bentley Bentayga : les voitures fournies pour The Gentlemen au Maroc | [/articles/rolls-royce-bentley-the-gentlemen-maroc](https://levraimaroc.com/articles/rolls-royce-bentley-the-gentlemen-maroc) | 1031 |
+| EN | Rolls-Royce Cullinan and Bentley Bentayga: cars supplied for The Gentlemen in Morocco | [/en/articles/rolls-royce-bentley-the-gentlemen-morocco](https://levraimaroc.com/en/articles/rolls-royce-bentley-the-gentlemen-morocco) | 927 |
+| ES | Rolls-Royce Cullinan y Bentley Bentayga: los coches suministrados para The Gentlemen en Marruecos | [/es/articulos/rolls-royce-bentley-the-gentlemen-marruecos](https://levraimaroc.com/es/articulos/rolls-royce-bentley-the-gentlemen-marruecos) | 1021 |
+| NL | Rolls-Royce Cullinan en Bentley Bentayga: de auto’s geleverd voor The Gentlemen in Marokko | [/nl/artikelen/rolls-royce-bentley-the-gentlemen-marokko](https://levraimaroc.com/nl/artikelen/rolls-royce-bentley-the-gentlemen-marokko) | 897 |
 
-### 9. Accrocar luxury mobility Morocco — business case study
-
-| Locale | Title | Final URL | Body words |
-|---|---|---|---:|
-| FR | Accrocar, de la location de luxe à la mobilité pour productions internationales | [/articles/accrocar-mobilite-luxe-productions-internationales](https://levraimaroc.com/articles/accrocar-mobilite-luxe-productions-internationales) | 941 |
-| EN | Accrocar: from luxury rental to mobility for international productions | [/en/articles/accrocar-luxury-mobility-film-productions-morocco](https://levraimaroc.com/en/articles/accrocar-luxury-mobility-film-productions-morocco) | 820 |
-| ES | Accrocar: del alquiler de lujo a la movilidad para producciones internacionales | [/es/articulos/accrocar-movilidad-lujo-producciones-internacionales](https://levraimaroc.com/es/articulos/accrocar-movilidad-lujo-producciones-internacionales) | 897 |
-| NL | Accrocar: van luxeverhuur naar mobiliteit voor internationale producties | [/nl/artikelen/accrocar-luxe-mobiliteit-internationale-producties](https://levraimaroc.com/nl/artikelen/accrocar-luxe-mobiliteit-internationale-producties) | 761 |
-
-### 10. Morocco film-production ecosystem — synthesis
+### 9. Dune Films, Moonage Pictures and Accrocar — entity explainer
 
 | Locale | Title | Final URL | Body words |
 |---|---|---|---:|
-| FR | Du repérage au transport : l'écosystème marocain des productions internationales | [/articles/ecosysteme-marocain-productions-internationales](https://levraimaroc.com/articles/ecosysteme-marocain-productions-internationales) | 974 |
-| EN | From scouting to transport: Morocco's international-production ecosystem | [/en/articles/morocco-film-production-ecosystem](https://levraimaroc.com/en/articles/morocco-film-production-ecosystem) | 848 |
-| ES | De las localizaciones al transporte: el ecosistema de producción marroquí | [/es/articulos/ecosistema-marroqui-producciones-internacionales](https://levraimaroc.com/es/articulos/ecosistema-marroqui-producciones-internacionales) | 917 |
-| NL | Van scouting tot vervoer: Marokko's ecosysteem voor internationale producties | [/nl/artikelen/marokkaans-ecosysteem-internationale-producties](https://levraimaroc.com/nl/artikelen/marokkaans-ecosysteem-internationale-producties) | 803 |
+| FR | Dune Films, Moonage Pictures et Accrocar : les entreprises autour de The Gentlemen au Maroc | [/articles/accrocar-mobilite-luxe-productions-internationales](https://levraimaroc.com/articles/accrocar-mobilite-luxe-productions-internationales) | 1305 |
+| EN | Dune Films, Moonage Pictures and Accrocar: the companies around The Gentlemen in Morocco | [/en/articles/accrocar-luxury-mobility-film-productions-morocco](https://levraimaroc.com/en/articles/accrocar-luxury-mobility-film-productions-morocco) | 1182 |
+| ES | Dune Films, Moonage Pictures y Accrocar: las empresas en torno a The Gentlemen en Marruecos | [/es/articulos/accrocar-movilidad-lujo-producciones-internacionales](https://levraimaroc.com/es/articulos/accrocar-movilidad-lujo-producciones-internacionales) | 1267 |
+| NL | Dune Films, Moonage Pictures en Accrocar: de bedrijven rond The Gentlemen in Marokko | [/nl/artikelen/accrocar-luxe-mobiliteit-internationale-producties](https://levraimaroc.com/nl/artikelen/accrocar-luxe-mobiliteit-internationale-producties) | 1094 |
+
+### 10. Morocco film-production ecosystem — Moroccan know-how
+
+| Locale | Title | Final URL | Body words |
+|---|---|---|---:|
+| FR | The Gentlemen au Maroc : derrière les caméras, tout un écosystème marocain accompagne les grandes productions | [/articles/ecosysteme-marocain-productions-internationales](https://levraimaroc.com/articles/ecosysteme-marocain-productions-internationales) | 1081 |
+| EN | The Gentlemen in Morocco: behind the cameras, a Moroccan ecosystem supports major productions | [/en/articles/morocco-film-production-ecosystem](https://levraimaroc.com/en/articles/morocco-film-production-ecosystem) | 977 |
+| ES | The Gentlemen en Marruecos: detrás de las cámaras, un ecosistema marroquí acompaña las grandes producciones | [/es/articulos/ecosistema-marroqui-producciones-internacionales](https://levraimaroc.com/es/articulos/ecosistema-marroqui-producciones-internacionales) | 1047 |
+| NL | The Gentlemen in Marokko: achter de camera’s ondersteunt een Marokkaans ecosysteem grote producties | [/nl/artikelen/marokkaans-ecosysteem-internationale-producties](https://levraimaroc.com/nl/artikelen/marokkaans-ecosysteem-internationale-producties) | 930 |
 
 ## 8. Sources used
 
-- Netflix newsroom and Netflix Tudum for the official Season 3 renewal and Guy Ritchie.
+- Variety (24 August 2026) and Netflix Tudum for Season 3 and Guy Ritchie.
+- Accrocar public blog (16 September 2026) for Accrocar’s own claims about Dune Films, MOONAGE PICTURES (THE GENTLEMEN) LIMITED, vehicles and the absence of a Netflix contract.
 - Le360, published 14 September 2026, for the reported 13 September Rabat start and Erfoud mention.
 - UK Companies House for `MOONAGE PICTURES (THE GENTLEMEN) LIMITED`.
 - Dune Films' official credits page for its established Morocco production work.
@@ -121,7 +122,7 @@ Official: Season 3 exists and Guy Ritchie returns to direct. Publicly reported: 
 
 ## 10. Production-company naming conclusion
 
-Published editorial copy standardizes the production-company reference as **MOONAGE PICTURES LIMITED**. Accrocar's **direct collaboration with Dune Films** on the high-end vehicle operation is first-party confirmed. MOONAGE PICTURES LIMITED is named as the production-company entity in public sources; that is not treated as the same Accrocar contract as the Dune Films relationship. Accrocar is never called an official Netflix partner and no direct Netflix contract is inferred. Companies House source citations keep the registered name of filing `14115797` (`Moonage Pictures (The Gentlemen) Limited`) because that is the exact title of that public record. Dune Films is cited from its official site, [https://dunefilms.com/](https://dunefilms.com/).
+Published copy uses **Moonage Pictures** for the production banner (Variety; ITV Studios majority stake, 1 April 2025) and **MOONAGE PICTURES (THE GENTLEMEN) LIMITED** (Companies House 14115797) for the legal entity Accrocar names as a counterpart. Accrocar’s public blog of 16 September 2026 first-party confirms direct collaboration with both that entity and [Dune Films](https://dunefilms.com/). Accrocar states it has no direct Netflix contract. Accrocar is never called an official Netflix partner. “Montage Pictures” is not used.
 
 ## 11–13. First-party asset inventory, used assets and exclusions
 
@@ -179,17 +180,24 @@ All 40 routes occur in `dist/sitemap-0.xml`. All 10 French entries occur in `dis
 
 ## 24. Unresolved factual uncertainty
 
-- The production-company name in published copy is standardized to MOONAGE PICTURES LIMITED; original first-party evidence files were not altered.
-- Netflix has not published a Morocco location list in the official sources reviewed.
-- Erfoud has been reported, but no exact site or local shoot date is public.
-- No vehicle's appearance in the finished series is established.
-- The direct contractual chain and any fees remain private/unknown.
+- Netflix has not published a Morocco location list in the official sources reviewed. The Netflix newsroom URL previously cited now returns 404; Season 3 is sourced from Variety (24 August 2026) and Netflix Tudum (10 September 2026).
+- Accrocar’s named relationship with MOONAGE PICTURES (THE GENTLEMEN) LIMITED is first-party Accrocar reporting, independently corroborated only as to the company’s existence at Companies House (14115797), not by a Moonage or Netflix statement.
+- Dune Films’ official site does not independently confirm its role on The Gentlemen; Accrocar’s direct collaboration with Dune Films is first-party Accrocar reporting.
+- Erfoud has been reported by Le360, but no exact site or local shoot date is public.
+- No vehicle’s appearance in the finished series is established.
+- Additional vehicles visible in unpublished first-party files were not named as supplied models.
+- Fees, call sheets, hotels and the internal contractual hierarchy remain unpublished.
 
 ## Explicit publication-safety confirmation
 
 - No filming location was invented.
-- No vehicle was invented.
-- No Netflix partnership status was invented.
+- No vehicle was invented as supplied beyond the Cullinan and Bentayga Accrocar names.
+- No on-screen appearance was invented.
+- No Netflix–Accrocar partnership was invented.
+- “Montage Pictures” was not used for Moonage.
+- The exact relevant Moonage legal entity was verified at Companies House before publication.
+- Dune Films was cited and linked via https://dunefilms.com/ where relevant.
+- Accrocar’s public blog was treated as a primary source for Accrocar’s own claims.
+- Original `/coulisse gentlemen/` assets were not modified.
 - No confidential production information was published.
-- No existing unrelated page was intentionally modified.
-- All original `/coulisse gentlemen/` assets remain untouched.
+- Existing unrelated website functionality was preserved.

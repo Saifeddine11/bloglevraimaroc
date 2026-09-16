@@ -26,10 +26,10 @@ heroWidth: 1600
 heroHeight: 900
 featured: false
 sources:
-  - label: "Netflix — renouvellement officiel (23 août 2026)"
-    url: "https://about.netflix.com/en/news/netflix-confirms-renewals-for-uk-favourites-and-debuts-trailer-for-the-gentlemen-season-2"
+  - label: "Variety — renouvellement saison 3 (24 août 2026)"
+    url: "https://variety.com/2026/tv/news/the-gentlemen-season-3-greenlight-1236841374/"
   - label: "Netflix Tudum — saison 3"
-    url: "https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news?inapp=true"
+    url: "https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news"
   - label: "Le360 — tournage au Maroc (14 septembre 2026)"
     url: "https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/"
   - label: "Centre cinématographique marocain — guide du soutien aux productions étrangères"
@@ -62,9 +62,9 @@ Le360 mentionne Erfoud parmi les lieux retenus, sans préciser de site, de date 
 
 ## Ce que les sources permettent d’affirmer
 
-L'annonce Netflix du 23 août établit l'existence de la saison 3 et le retour de Guy Ritchie à la réalisation. Netflix Tudum apporte un contexte officiel supplémentaire. Les lieux marocains reposent sur un autre niveau de preuve: Le360 a rapporté le 14 septembre que le tournage avait commencé à Rabat la veille et qu'Erfoud avait aussi été retenue. Les éléments de première main remis à Le Vrai Maroc corroborent l'existence d'une opération automobile au Maroc.
+Variety a confirmé le 24 août 2026 le renouvellement de The Gentlemen pour une troisième saison de huit épisodes, avec Guy Ritchie à la réalisation et à l’écriture aux côtés de Matthew Read. Netflix Tudum a ensuite consacré un dossier officiel à cette saison 3. Les lieux marocains reposent sur un autre niveau de preuve: Le360 a rapporté le 14 septembre 2026 que le tournage avait commencé à Rabat le 13 septembre et qu’Erfoud faisait partie des décors retenus. Accrocar confirme, sur son site et dans le corpus remis à Le Vrai Maroc, une opération automobile à Rabat en septembre 2026, avec un Rolls-Royce Cullinan et un Bentley Bentayga.
 
-Ces niveaux restent volontairement séparés. Un renouvellement officiel ne confirme pas automatiquement chaque lieu et une image de service de production n'établit pas ce qui apparaîtra dans la série. Dates, lieux et relations sont attribués à la source qui les étaye.
+Ces niveaux restent séparés. Un renouvellement officiel n’établit pas une carte des lieux. Une photographie de service ne prouve pas une apparition à l’écran. Accrocar nomme deux interlocuteurs: [Dune Films](https://dunefilms.com/) et MOONAGE PICTURES (THE GENTLEMEN) LIMITED, société britannique n° 14115797 au registre Companies House. Accrocar indique n’avoir aucun contrat direct avec Netflix.
 
 ## Ce qui reste à confirmer
 
@@ -94,15 +94,15 @@ Rabat et Erfoud donnent deux mesures de cette capacité. La première concentre 
 
 ## Questions fréquentes
 
-<details><summary>La saison 3 de The Gentlemen est-elle officielle ?</summary><p>Oui. Netflix a confirmé la saison 3 le 23 août 2026. Les lieux marocains proviennent toutefois d'un reportage de presse et d'éléments de première main, pas d'une annonce de localisation publiée par Netflix.</p></details>
+<details><summary>La saison 3 de The Gentlemen est-elle officielle ?</summary><p>Oui. Variety a publié le renouvellement le 24 août 2026 et Netflix Tudum le confirme. Les lieux marocains viennent de Le360 et d’éléments de première main, pas d’une carte officielle Netflix.</p></details>
 
 <details><summary>Les véhicules photographiés apparaîtront-ils à l'écran ?</summary><p>Ce n'est pas établi. Les images documentent une opération de mise à disposition liée à la production; elles ne prouvent ni le montage final ni une apparition à l'écran.</p></details>
 
 ## Sources citées
 
-- [Netflix — renouvellement officiel (23 août 2026)](https://about.netflix.com/en/news/netflix-confirms-renewals-for-uk-favourites-and-debuts-trailer-for-the-gentlemen-season-2)
+- [Variety — renouvellement saison 3 (24 août 2026)](https://variety.com/2026/tv/news/the-gentlemen-season-3-greenlight-1236841374/)
 
-- [Netflix Tudum — saison 3](https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news?inapp=true)
+- [Netflix Tudum — saison 3](https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news)
 
 - [Le360 — tournage au Maroc (14 septembre 2026)](https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/)
 

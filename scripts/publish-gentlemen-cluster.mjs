@@ -4,8 +4,8 @@ const root = new URL("../src/content/articles/", import.meta.url);
 const date = "2026-09-16";
 
 const commonSources = [
-  ["Netflix — renouvellement officiel (23 août 2026)", "https://about.netflix.com/en/news/netflix-confirms-renewals-for-uk-favourites-and-debuts-trailer-for-the-gentlemen-season-2"],
-  ["Netflix Tudum — saison 3", "https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news?inapp=true"],
+  ["Variety — renouvellement saison 3 (24 août 2026)", "https://variety.com/2026/tv/news/the-gentlemen-season-3-greenlight-1236841374/"],
+  ["Netflix Tudum — saison 3", "https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news"],
   ["Le360 — tournage au Maroc (14 septembre 2026)", "https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/"],
 ];
 
@@ -28,6 +28,7 @@ const extraSources = {
     ["Accrocar — présentation de l'entreprise", "https://accrocar.com/about"],
     ["Accrocar — services VIP", "https://accrocar.com/vip-services"],
     ["Accrocar — Rolls-Royce Cullinan", "https://accrocar.com/fr/flotte/rolls-royce-cullinan/"],
+    ["Accrocar — collaboration Moonage Pictures et Dune Films", "https://accrocar.com/blog/accrocar-the-gentlemen-moonage-pictures-dune-films"],
   ],
 };
 

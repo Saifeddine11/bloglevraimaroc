@@ -1,11 +1,11 @@
 ---
-title: "Du repérage au transport : l'écosystème marocain des productions internationales"
+title: "The Gentlemen au Maroc : derrière les caméras, tout un écosystème marocain accompagne les grandes productions"
 slug: "ecosysteme-marocain-productions-internationales"
 urlSlug: "ecosysteme-marocain-productions-internationales"
 locale: "fr"
 translationKey: "ecosysteme-marocain-productions-internationales"
-metaTitle: "Du repérage au transport : l'écosystème marocain des productions internationales"
-metaDescription: "Comment travaillent les producteurs exécutifs, techniciens, loueurs et logisticiens qui rendent possibles les tournages internationaux au Maroc."
+metaTitle: "The Gentlemen au Maroc : derrière les caméras, tout un écosystème marocain accompagne les grandes productions"
+metaDescription: "Tournage international au Maroc: équipes, CCM, Dune Films et Accrocar comme exemples concrets, pas comme slogans."
 category: "analyses"
 tags:
   - "The Gentlemen saison 3"
@@ -14,7 +14,7 @@ tags:
 date: 2026-09-16
 updatedDate: 2026-09-16
 readingTime: 6
-excerpt: "Le tournage ne repose pas sur un seul prestataire mais sur une chaîne locale où production exécutive, technique et mobilité doivent s'emboîter."
+excerpt: "The Gentlemen illustre une chaîne locale: institutions, production services, techniciens et fournisseurs spécialisés. Les décors seuls ne suffisent pas."
 heroImage: "/images/articles/gentlemen-maroc/ecosysteme-production-maroc.webp"
 imageAlt: "Ligne de SUV noirs préparés pour une opération audiovisuelle au Maroc"
 articleType: "Article"
@@ -24,10 +24,10 @@ heroWidth: 1600
 heroHeight: 900
 featured: false
 sources:
-  - label: "Netflix — renouvellement officiel (23 août 2026)"
-    url: "https://about.netflix.com/en/news/netflix-confirms-renewals-for-uk-favourites-and-debuts-trailer-for-the-gentlemen-season-2"
+  - label: "Variety — renouvellement saison 3 (24 août 2026)"
+    url: "https://variety.com/2026/tv/news/the-gentlemen-season-3-greenlight-1236841374/"
   - label: "Netflix Tudum — saison 3"
-    url: "https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news?inapp=true"
+    url: "https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news"
   - label: "Le360 — tournage au Maroc (14 septembre 2026)"
     url: "https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/"
   - label: "Centre cinématographique marocain — guide du soutien aux productions étrangères"
@@ -40,6 +40,12 @@ sources:
     url: "https://dunefilms.com/"
   - label: "Dune Films — références de production"
     url: "https://dunefilms.com/credits/"
+  - label: "Accrocar — collaboration Moonage Pictures et Dune Films"
+    url: "https://accrocar.com/blog/accrocar-the-gentlemen-moonage-pictures-dune-films"
+  - label: "CCM — bilan 2025 (PDF)"
+    url: "https://www.ccm.ma/inter/bilans/21-bilan.pdf"
+  - label: "LesEco — investissements étrangers 2025"
+    url: "https://leseco.ma/maroc/maroc-le-cinema-attire-plus-de-12-milliards-de-dh-dinvestissements-etrangers-en-2025.html"
 disclaimer: false
 ---
 Mise à jour: **16 septembre 2026**.
@@ -60,7 +66,7 @@ Le tournage ne repose pas sur un seul prestataire mais sur une chaîne locale o�
 
 Un projet international commence par les repérages et la faisabilité, puis passe par les autorisations, budgets, recrutements, décors, équipements, hébergement, sécurité et transport. Les producteurs exécutifs marocains font le lien avec le territoire; les chefs de poste transforment le plan en journées de travail; les prestataires spécialisés absorbent les besoins précis. Le résultat dépend souvent moins d'un acteur vedette que de la qualité des interfaces.
 
-[Dune Films](https://dunefilms.com/) se présente comme une société de production basée à Marrakech, avec une base à Ouarzazate, active au Maroc depuis 1998 et spécialisée dans les services de production pour les tournages internationaux. Accrocar intervient ici comme prestataire de mobilité de luxe. Selon les informations de première main communiquées à Le Vrai Maroc, les deux entreprises collaborent directement sur le volet automobile de The Gentlemen au Maroc. Les crédits publics associent par ailleurs la série à MOONAGE PICTURES LIMITED, Miramax Television et Toff Guy Films; cette mention ne décrit pas le même lien opérationnel que la collaboration Accrocar–Dune Films.
+[Dune Films](https://dunefilms.com/) se présente comme une société de services de production à Marrakech et Ouarzazate, active depuis 1998. Accrocar documente le maillon mobilité de luxe. Accrocar confirme travailler à la fois avec Dune Films et avec MOONAGE PICTURES (THE GENTLEMEN) LIMITED, sans établir de hiérarchie contractuelle entre ces trois noms. Variety associe par ailleurs la série à Moonage Pictures, Miramax Television — et Guy Ritchie / Toff Guy Films dans d’autres crédits publics.
 
 <figure>
   <img src="/images/articles/gentlemen-maroc/accrocar-vehicules-luxe-gentlemen.webp" alt="Habitacle Rolls-Royce à sellerie orange dans le corpus Accrocar" width="1600" height="900" loading="lazy" />
@@ -69,9 +75,9 @@ Un projet international commence par les repérages et la faisabilité, puis pas
 
 ## Ce que les sources permettent d’affirmer
 
-L'annonce Netflix du 23 août établit l'existence de la saison 3 et le retour de Guy Ritchie à la réalisation. Netflix Tudum apporte un contexte officiel supplémentaire. Les lieux marocains reposent sur un autre niveau de preuve: Le360 a rapporté le 14 septembre que le tournage avait commencé à Rabat la veille et qu'Erfoud avait aussi été retenue. Les éléments de première main remis à Le Vrai Maroc corroborent l'existence d'une opération automobile au Maroc.
+Variety a confirmé le 24 août 2026 le renouvellement de The Gentlemen pour une troisième saison de huit épisodes, avec Guy Ritchie à la réalisation et à l’écriture aux côtés de Matthew Read. Netflix Tudum a ensuite consacré un dossier officiel à cette saison 3. Les lieux marocains reposent sur un autre niveau de preuve: Le360 a rapporté le 14 septembre 2026 que le tournage avait commencé à Rabat le 13 septembre et qu’Erfoud faisait partie des décors retenus. Accrocar confirme, sur son site et dans le corpus remis à Le Vrai Maroc, une opération automobile à Rabat en septembre 2026, avec un Rolls-Royce Cullinan et un Bentley Bentayga.
 
-Ces niveaux restent volontairement séparés. Un renouvellement officiel ne confirme pas automatiquement chaque lieu et une image de service de production n'établit pas ce qui apparaîtra dans la série. Dates, lieux et relations sont attribués à la source qui les étaye.
+Ces niveaux restent séparés. Un renouvellement officiel n’établit pas une carte des lieux. Une photographie de service ne prouve pas une apparition à l’écran. Accrocar nomme deux interlocuteurs: [Dune Films](https://dunefilms.com/) et MOONAGE PICTURES (THE GENTLEMEN) LIMITED, société britannique n° 14115797 au registre Companies House. Accrocar indique n’avoir aucun contrat direct avec Netflix.
 
 ## Ce qui reste à confirmer
 
@@ -95,6 +101,8 @@ Chaque image a été examinée pour distinguer modèle de véhicule, contexte et
 
 ## Pourquoi ce dossier compte pour le Maroc
 
+Le bilan 2025 du Centre cinématographique marocain, tel que repris par la presse économique marocaine, chiffre à 1,213 milliard de dirhams les investissements des productions étrangères tournées au Maroc, pour 48 productions selon une dépêche MAP. Les séries télévisées y pèsent 705,55 millions de dirhams. Le CCM décrit aussi un cash rebate pouvant atteindre 30 % de certaines dépenses locales éligibles, sous conditions. Ces chiffres décrivent 2025; ils ne mesurent pas The Gentlemen.
+
 Ce dossier met aussi en évidence une chaîne de compétences: repérage, production exécutive, régie, équipes techniques, hébergement, sécurité, transport et fournisseurs spécialisés. Une série internationale ne se déplace pas pour un panorama isolé; elle évalue la capacité du territoire à répéter une journée de travail fiable.
 
 Rabat et Erfoud donnent deux mesures de cette capacité. La première concentre institutions et services dans un environnement urbain varié; la seconde exige autonomie et maîtrise des distances. L'intérêt économique et professionnel se trouve dans cette continuité entre lieux, équipes et entreprises marocaines, bien davantage que dans une affirmation publicitaire impossible à vérifier.
@@ -103,23 +111,23 @@ Rabat et Erfoud donnent deux mesures de cette capacité. La première concentre 
 
 - [Pourquoi les productions internationales choisissent le Maroc](/articles/pourquoi-productions-internationales-choisissent-maroc/)
 
-- [Accrocar et The Gentlemen au Maroc : l'opération véhicules de luxe documentée](/articles/accrocar-vehicules-luxe-the-gentlemen-maroc/)
+- [The Gentlemen au Maroc : Accrocar confirme sa collaboration avec Dune Films et Moonage Pictures](/articles/accrocar-vehicules-luxe-the-gentlemen-maroc/)
 
-- [Dans les coulisses de la logistique automobile de The Gentlemen au Maroc](/articles/coulisses-logistique-automobile-the-gentlemen-maroc/)
+- [Dans les coulisses de The Gentlemen : comment Accrocar a géré les voitures de luxe au Maroc](/articles/coulisses-logistique-automobile-the-gentlemen-maroc/)
 
-- [Accrocar, de la location de luxe à la mobilité pour productions internationales](/articles/accrocar-mobilite-luxe-productions-internationales/)
+- [Dune Films, Moonage Pictures et Accrocar : les entreprises autour de The Gentlemen au Maroc](/articles/accrocar-mobilite-luxe-productions-internationales/)
 
 ## Questions fréquentes
 
-<details><summary>La saison 3 de The Gentlemen est-elle officielle ?</summary><p>Oui. Netflix a confirmé la saison 3 le 23 août 2026. Les lieux marocains proviennent toutefois d'un reportage de presse et d'éléments de première main, pas d'une annonce de localisation publiée par Netflix.</p></details>
+<details><summary>La saison 3 de The Gentlemen est-elle officielle ?</summary><p>Oui. Variety a publié le renouvellement le 24 août 2026 et Netflix Tudum le confirme. Les lieux marocains viennent de Le360 et d’éléments de première main, pas d’une carte officielle Netflix.</p></details>
 
 <details><summary>Les véhicules photographiés apparaîtront-ils à l'écran ?</summary><p>Ce n'est pas établi. Les images documentent une opération de mise à disposition liée à la production; elles ne prouvent ni le montage final ni une apparition à l'écran.</p></details>
 
 ## Sources citées
 
-- [Netflix — renouvellement officiel (23 août 2026)](https://about.netflix.com/en/news/netflix-confirms-renewals-for-uk-favourites-and-debuts-trailer-for-the-gentlemen-season-2)
+- [Variety — renouvellement saison 3 (24 août 2026)](https://variety.com/2026/tv/news/the-gentlemen-season-3-greenlight-1236841374/)
 
-- [Netflix Tudum — saison 3](https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news?inapp=true)
+- [Netflix Tudum — saison 3](https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news)
 
 - [Le360 — tournage au Maroc (14 septembre 2026)](https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/)
 

@@ -2,15 +2,16 @@
 
 | Claim | Classification | Basis | Published treatment |
 |---|---|---|---|
-| The Gentlemen Season 3 exists | OFFICIAL | Netflix announcement, 23 August 2026; Netflix Tudum | Stated as official |
+| The Gentlemen Season 3 exists | OFFICIAL | Variety, 24 August 2026; Netflix Tudum, 10 September 2026 | Stated as official; announcement date reported as 24 August 2026 |
 | Production status | OFFICIAL for renewal; PUBLICLY REPORTED for Moroccan filming | Netflix; Le360, 14 September 2026 | Evidence layers separated |
 | Filming in Morocco | PUBLICLY REPORTED + FIRST-PARTY CONFIRMED | Le360 and owner-supplied vehicle corpus | Attributed; not presented as a Netflix location announcement |
 | Rabat | PUBLICLY REPORTED + FIRST-PARTY CONFIRMED | Le360 reports start on 13 September; Rabat-labelled first-party material | Exact addresses withheld / not inferred |
 | Erfoud | PUBLICLY REPORTED | Le360 | No exact site, date or scene claimed |
 | Guy Ritchie involvement | OFFICIAL | Netflix says he returns to direct | Stated as official |
-| Public production-company names | OFFICIAL/PUBLIC RECORD | Companies House records Moonage Pictures (The Gentlemen) Limited; public credits name Moonage Pictures, Miramax Television and Toff Guy Films | Editorial copy standardizes the production-company reference as MOONAGE PICTURES LIMITED; Companies House source labels keep the registered name of that filing |
-| Dune Films relationship | FIRST-PARTY CONFIRMED | Accrocar/site-owner account of a **direct** collaboration on the vehicle operation; Dune Films' official site documents its Morocco production-services activity (Marrakech base, Ouarzazate base, since 1998) but does not independently confirm this title | Direct Accrocar × Dune Films collaboration stated and attributed; Dune Films public profile used only for verified company activity |
-| Accrocar × MOONAGE PICTURES LIMITED | PUBLIC RECORD / NOT EQUATED | Public credits and Companies House; no first-party document establishing the same direct Accrocar contract as with Dune Films | Named as the production-company entity in reporting; not described as identical to the Accrocar–Dune Films relationship |
+| Public production-company names | OFFICIAL/PUBLIC RECORD | Variety: Moonage Pictures produces for Netflix and Miramax TV; Companies House 14115797 is MOONAGE PICTURES (THE GENTLEMEN) LIMITED, active, incorporated 18 May 2022 | Brand “Moonage Pictures” used for the banner; exact legal name used for Accrocar’s named counterpart |
+| Accrocar × Dune Films | FIRST-PARTY CONFIRMED | Accrocar public blog 16 September 2026 plus first-party account to Le Vrai Maroc | Direct collaboration attributed to Accrocar; Dune Films site used only for Dune’s own public profile |
+| Accrocar × MOONAGE PICTURES (THE GENTLEMEN) LIMITED | FIRST-PARTY CONFIRMED (Accrocar) | Accrocar public blog names this UK entity as a counterpart; Companies House independently verifies the company exists | Attributed to Accrocar; not independently confirmed by Moonage or Netflix |
+| Accrocar × Netflix | NOT CLAIMED | Accrocar states it has no direct Netflix contract; Netflix has not named Accrocar | Explicitly not a partnership |
 | Accrocar relationship | FIRST-PARTY CONFIRMED | Owner statement and supplied original assets | Described as production-side vehicle operation, not Netflix partnership |
 | Luxury vehicles supplied | FIRST-PARTY CONFIRMED | Accrocar statement and images | “Supplied for the production”; scope attributed |
 | Rolls-Royce Cullinan | FIRST-PARTY / VISUALLY DOCUMENTED | Clear source images | Named as visible in supplied material |

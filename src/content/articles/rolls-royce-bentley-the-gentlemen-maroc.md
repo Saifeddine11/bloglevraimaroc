@@ -1,11 +1,11 @@
 ---
-title: "Rolls-Royce et Bentley dans le dossier The Gentlemen au Maroc : ce que montrent les images"
+title: "Rolls-Royce Cullinan et Bentley Bentayga : les voitures fournies pour The Gentlemen au Maroc"
 slug: "rolls-royce-bentley-the-gentlemen-maroc"
 urlSlug: "rolls-royce-bentley-the-gentlemen-maroc"
 locale: "fr"
 translationKey: "rolls-royce-bentley-the-gentlemen-maroc"
-metaTitle: "Rolls-Royce et Bentley dans le dossier The Gentlemen au Maroc : ce que montrent les images"
-metaDescription: "Analyse visuelle documentée des Rolls-Royce et Bentley visibles dans le matériel Accrocar lié à l'opération The Gentlemen au Maroc."
+metaTitle: "Rolls-Royce Cullinan et Bentley Bentayga : les voitures fournies pour The Gentlemen au Maroc"
+metaDescription: "Accrocar documente un Rolls-Royce Cullinan et un Bentley Bentayga fournis pour The Gentlemen au Maroc, sans apparition à l’écran confirmée."
 category: "analyses"
 tags:
   - "The Gentlemen saison 3"
@@ -14,7 +14,7 @@ tags:
 date: 2026-09-16
 updatedDate: 2026-09-16
 readingTime: 6
-excerpt: "Le corpus montre notamment un Rolls-Royce Cullinan et un Bentley Bentayga, sans prouver leur présence dans le montage final."
+excerpt: "Deux SUV d’ultra-luxe sont documentés comme fournis à la production. Rien n’établit encore qu’ils apparaîtront dans la saison 3."
 heroImage: "/images/articles/gentlemen-maroc/rolls-royce-bentley-gentlemen-maroc.webp"
 imageAlt: "Silhouettes supérieures d'un Rolls-Royce Cullinan et d'un Bentley Bentayga dans un garage"
 articleType: "Article"
@@ -24,10 +24,10 @@ heroWidth: 1600
 heroHeight: 900
 featured: false
 sources:
-  - label: "Netflix — renouvellement officiel (23 août 2026)"
-    url: "https://about.netflix.com/en/news/netflix-confirms-renewals-for-uk-favourites-and-debuts-trailer-for-the-gentlemen-season-2"
+  - label: "Variety — renouvellement saison 3 (24 août 2026)"
+    url: "https://variety.com/2026/tv/news/the-gentlemen-season-3-greenlight-1236841374/"
   - label: "Netflix Tudum — saison 3"
-    url: "https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news?inapp=true"
+    url: "https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news"
   - label: "Le360 — tournage au Maroc (14 septembre 2026)"
     url: "https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/"
   - label: "Dune Films"
@@ -38,6 +38,8 @@ sources:
     url: "https://accrocar.com/vip-services"
   - label: "Accrocar — Rolls-Royce Cullinan"
     url: "https://accrocar.com/fr/flotte/rolls-royce-cullinan/"
+  - label: "Accrocar — collaboration Moonage Pictures et Dune Films"
+    url: "https://accrocar.com/blog/accrocar-the-gentlemen-moonage-pictures-dune-films"
 disclaimer: false
 ---
 Mise à jour: **16 septembre 2026**.
@@ -58,7 +60,7 @@ Le corpus montre notamment un Rolls-Royce Cullinan et un Bentley Bentayga, sans 
 
 La calandre verticale, le Spirit of Ecstasy, les proportions et les détails de roue permettent d'identifier un Rolls-Royce Cullinan. Le second SUV porte la calandre et l'emblème ailé d'un Bentley Bentayga. Une autre image montre un intérieur Rolls-Royce à sellerie orange. Ces observations décrivent les objets présents dans le corpus fourni.
 
-Elles ne disent pas si les véhicules incarnent ceux d'un personnage, servent au transport hors champ ou ont finalement été utilisés. Le langage exact est donc « véhicules visibles dans les éléments fournis par Accrocar », pas « voitures vues dans la saison 3 ». Les modèles sont documentés; leur rôle narratif ne l'est pas. Les photographies relèvent de la fourniture confiée à Accrocar, qui collabore directement avec [Dune Films](https://dunefilms.com/) selon les informations de première main communiquées à Le Vrai Maroc.
+Elles ne disent pas si les véhicules incarnent ceux d'un personnage, servent au transport hors champ ou ont finalement été utilisés. Le langage exact est donc « véhicules visibles dans les éléments fournis par Accrocar », pas « voitures vues dans la saison 3 ». Les modèles sont documentés; leur rôle narratif ne l'est pas. Les photographies relèvent de la fourniture confiée à Accrocar, qui confirme une collaboration avec [Dune Films](https://dunefilms.com/) et MOONAGE PICTURES (THE GENTLEMEN) LIMITED.
 
 <figure>
   <img src="/images/articles/gentlemen-maroc/rolls-royce-cullinan-rabat-inline.webp" alt="Détail d'un Rolls-Royce Cullinan photographié à Rabat" width="1600" height="900" loading="lazy" />
@@ -72,9 +74,9 @@ Elles ne disent pas si les véhicules incarnent ceux d'un personnage, servent au
 
 ## Ce que les sources permettent d’affirmer
 
-L'annonce Netflix du 23 août établit l'existence de la saison 3 et le retour de Guy Ritchie à la réalisation. Netflix Tudum apporte un contexte officiel supplémentaire. Les lieux marocains reposent sur un autre niveau de preuve: Le360 a rapporté le 14 septembre que le tournage avait commencé à Rabat la veille et qu'Erfoud avait aussi été retenue. Les éléments de première main remis à Le Vrai Maroc corroborent l'existence d'une opération automobile au Maroc.
+Variety a confirmé le 24 août 2026 le renouvellement de The Gentlemen pour une troisième saison de huit épisodes, avec Guy Ritchie à la réalisation et à l’écriture aux côtés de Matthew Read. Netflix Tudum a ensuite consacré un dossier officiel à cette saison 3. Les lieux marocains reposent sur un autre niveau de preuve: Le360 a rapporté le 14 septembre 2026 que le tournage avait commencé à Rabat le 13 septembre et qu’Erfoud faisait partie des décors retenus. Accrocar confirme, sur son site et dans le corpus remis à Le Vrai Maroc, une opération automobile à Rabat en septembre 2026, avec un Rolls-Royce Cullinan et un Bentley Bentayga.
 
-Ces niveaux restent volontairement séparés. Un renouvellement officiel ne confirme pas automatiquement chaque lieu et une image de service de production n'établit pas ce qui apparaîtra dans la série. Dates, lieux et relations sont attribués à la source qui les étaye.
+Ces niveaux restent séparés. Un renouvellement officiel n’établit pas une carte des lieux. Une photographie de service ne prouve pas une apparition à l’écran. Accrocar nomme deux interlocuteurs: [Dune Films](https://dunefilms.com/) et MOONAGE PICTURES (THE GENTLEMEN) LIMITED, société britannique n° 14115797 au registre Companies House. Accrocar indique n’avoir aucun contrat direct avec Netflix.
 
 ## Ce qui reste à confirmer
 
@@ -83,7 +85,7 @@ Aucune source publique consultée ne donne le calendrier marocain complet, les a
 Les images publiées sont des dérivés respectueux de la vie privée: métadonnées supprimées, plaques, personnes et indices sensibles exclus par le cadrage. Les originaux restent hors de l'arborescence publique du site.
 ## Note éditoriale
 
-Accrocar apparaît ici comme source primaire du corpus automobile. Le Vrai Maroc a été informé de première main qu'Accrocar collabore directement avec [Dune Films](https://dunefilms.com/) pour les véhicules qui lui ont été confiés; l'analyse reste indépendante et circonscrite à ce que les pixels permettent de voir. MOONAGE PICTURES LIMITED figure dans le contexte de production de The Gentlemen, sans décrire à elle seule le même contrat.
+Accrocar est la source primaire du corpus. Elle confirme avoir fourni un Cullinan et un Bentayga, en collaboration avec [Dune Films](https://dunefilms.com/) et MOONAGE PICTURES (THE GENTLEMEN) LIMITED. L’analyse visuelle reste limitée à ce que les pixels montrent: aucun rôle à l’écran n’est établi.
 
 Accrocar a fourni le matériel automobile de première main étudié ici. Le Vrai Maroc a choisi indépendamment le cadrage, la formulation et le niveau de preuve. L'article ne déduit ni partenariat officiel avec Netflix ni contrat direct avec Netflix.
 
@@ -104,23 +106,23 @@ Rabat et Erfoud donnent deux mesures de cette capacité. La première concentre 
 
 ## À lire aussi
 
-- [Accrocar et The Gentlemen au Maroc : l'opération véhicules de luxe documentée](/articles/accrocar-vehicules-luxe-the-gentlemen-maroc/)
+- [The Gentlemen au Maroc : Accrocar confirme sa collaboration avec Dune Films et Moonage Pictures](/articles/accrocar-vehicules-luxe-the-gentlemen-maroc/)
 
-- [Dans les coulisses de la logistique automobile de The Gentlemen au Maroc](/articles/coulisses-logistique-automobile-the-gentlemen-maroc/)
+- [Dans les coulisses de The Gentlemen : comment Accrocar a géré les voitures de luxe au Maroc](/articles/coulisses-logistique-automobile-the-gentlemen-maroc/)
 
-- [Accrocar, de la location de luxe à la mobilité pour productions internationales](/articles/accrocar-mobilite-luxe-productions-internationales/)
+- [Dune Films, Moonage Pictures et Accrocar : les entreprises autour de The Gentlemen au Maroc](/articles/accrocar-mobilite-luxe-productions-internationales/)
 
 ## Questions fréquentes
 
-<details><summary>La saison 3 de The Gentlemen est-elle officielle ?</summary><p>Oui. Netflix a confirmé la saison 3 le 23 août 2026. Les lieux marocains proviennent toutefois d'un reportage de presse et d'éléments de première main, pas d'une annonce de localisation publiée par Netflix.</p></details>
+<details><summary>La saison 3 de The Gentlemen est-elle officielle ?</summary><p>Oui. Variety a publié le renouvellement le 24 août 2026 et Netflix Tudum le confirme. Les lieux marocains viennent de Le360 et d’éléments de première main, pas d’une carte officielle Netflix.</p></details>
 
 <details><summary>Les véhicules photographiés apparaîtront-ils à l'écran ?</summary><p>Ce n'est pas établi. Les images documentent une opération de mise à disposition liée à la production; elles ne prouvent ni le montage final ni une apparition à l'écran.</p></details>
 
 ## Sources citées
 
-- [Netflix — renouvellement officiel (23 août 2026)](https://about.netflix.com/en/news/netflix-confirms-renewals-for-uk-favourites-and-debuts-trailer-for-the-gentlemen-season-2)
+- [Variety — renouvellement saison 3 (24 août 2026)](https://variety.com/2026/tv/news/the-gentlemen-season-3-greenlight-1236841374/)
 
-- [Netflix Tudum — saison 3](https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news?inapp=true)
+- [Netflix Tudum — saison 3](https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news)
 
 - [Le360 — tournage au Maroc (14 septembre 2026)](https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/)
 
