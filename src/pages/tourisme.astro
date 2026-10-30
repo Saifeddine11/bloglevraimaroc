@@ -6,15 +6,18 @@ import { getCollection } from 'astro:content';
 import { getCategoryInfo } from '@/data/categories';
 import CategoryIcon from '@/components/CategoryIcon.astro';
 import { articleLocale } from '@/i18n/articles';
+import { isVisibleInBlogGrid, isVisibleInFeatured } from '@/lib/articleVisibility';
 
 const cat = getCategoryInfo('tourisme');
-const allArticles = (await getCollection('articles')).filter((article) => articleLocale(article) === 'fr');
+const allArticles = (await getCollection('articles')).filter(
+  (article) => articleLocale(article) === 'fr' && isVisibleInBlogGrid(article),
+);
 const articles = allArticles
   .filter((a) => a.data.category === 'tourisme')
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
-const featured = articles[0];
-const rest = articles.slice(1);
+const featured = articles.find(isVisibleInFeatured);
+const rest = articles.filter((article) => article.id !== featured?.id);
 ---
 
 <BaseLayout

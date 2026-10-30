@@ -2,10 +2,11 @@
 import { getCollection, render } from 'astro:content';
 import ArticleLayout from '@/layouts/ArticleLayout.astro';
 import { articleAlternates, articleLocale, articleSlug } from '@/i18n/articles';
+import { isPublished, isVisibleInRelatedArticles } from '@/lib/articleVisibility';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles');
-  return articles.filter((article) => articleLocale(article) === 'fr').map((article) => ({
+  return articles.filter((article) => isPublished(article) && articleLocale(article) === 'fr').map((article) => ({
     params: { slug: articleSlug(article) },
     props: { article },
   }));
@@ -22,6 +23,7 @@ const related = allArticles
   .filter(
     (a) =>
       a.id !== article.id &&
+      isVisibleInRelatedArticles(a) &&
       articleLocale(a) === 'fr' &&
       a.data.category === article.data.category &&
       (!currentUsesEditorialImages || a.data.heroImage.includes('/editorial-2026-09-05/'))

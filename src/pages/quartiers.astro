@@ -6,9 +6,12 @@ import { getCollection } from 'astro:content';
 import { getCategoryInfo } from '@/data/categories';
 import CategoryIcon from '@/components/CategoryIcon.astro';
 import { articleLocale } from '@/i18n/articles';
+import { isVisibleInBlogGrid } from '@/lib/articleVisibility';
 
 const cat = getCategoryInfo('quartiers');
-const allArticles = (await getCollection('articles')).filter((article) => articleLocale(article) === 'fr');
+const allArticles = (await getCollection('articles')).filter(
+  (article) => articleLocale(article) === 'fr' && isVisibleInBlogGrid(article),
+);
 const articles = allArticles
   .filter((a) => a.data.category === 'quartiers')
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());

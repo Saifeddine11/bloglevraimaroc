@@ -56,6 +56,14 @@ const articles = defineCollection({
       .optional()
       .default([]),
     featured: z.boolean().optional().default(false),
+    published: z.boolean().optional().default(true),
+    indexable: z.boolean().optional().default(true),
+    showOnHomepage: z.boolean().optional().default(true),
+    showInBlogGrid: z.boolean().optional().default(true),
+    showInRelatedArticles: z.boolean().optional().default(true),
+    showInFeatured: z.boolean().optional().default(true),
+    showInSearchUI: z.boolean().optional().default(true),
+    includeInSitemap: z.boolean().optional().default(true),
     sources: z
       .array(
         z.object({

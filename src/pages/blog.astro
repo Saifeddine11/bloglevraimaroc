@@ -7,8 +7,11 @@ import CategoryIcon from '@/components/CategoryIcon.astro';
 import { getCollection } from 'astro:content';
 import { CATEGORIES } from '@/data/categories';
 import { articleLocale } from '@/i18n/articles';
+import { isVisibleInBlogGrid, isVisibleInSearchUI } from '@/lib/articleVisibility';
 
-const allArticles = (await getCollection('articles')).filter((article) => articleLocale(article) === 'fr');
+const allArticles = (await getCollection('articles')).filter(
+  (article) => articleLocale(article) === 'fr' && isVisibleInBlogGrid(article),
+);
 const sorted = allArticles.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
 const categoryFilters = Object.values(CATEGORIES);
@@ -77,6 +80,7 @@ const categoryFilters = Object.values(CATEGORIES);
             data-title={article.data.title.toLowerCase()}
             data-excerpt={article.data.excerpt.toLowerCase()}
             data-tags={article.data.tags.join(' ').toLowerCase()}
+            data-searchable={isVisibleInSearchUI(article) ? 'true' : 'false'}
             class="article-item"
           >
             <ArticleCard article={article} />
@@ -112,7 +116,7 @@ const categoryFilters = Object.values(CATEGORIES);
       const cat = item.dataset.category ?? '';
       const text = [item.dataset.title, item.dataset.excerpt, item.dataset.tags].join(' ');
       const catMatch = currentCategory === 'all' || cat === currentCategory;
-      const queryMatch = !currentQuery || text.includes(currentQuery.toLowerCase());
+      const queryMatch = !currentQuery || (item.dataset.searchable !== 'false' && text.includes(currentQuery.toLowerCase()));
       const show = catMatch && queryMatch;
       item.style.display = show ? '' : 'none';
       if (show) visible++;

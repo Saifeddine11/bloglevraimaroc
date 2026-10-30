@@ -14,6 +14,12 @@ import { articleLocale, sortArticlesByDate } from '@/i18n/articles';
 import { categoryCopies, homeCopy, safeClusterCopies, safePageCopies, staticPages } from '@/i18n/pages';
 import { absoluteUrl, categoryRouteKeys, localizedPath, staticAlternates, withXDefault, type RouteKey } from '@/i18n/routes';
 import { ui } from '@/i18n/ui';
+import {
+  isVisibleInBlogGrid,
+  isVisibleInFeatured,
+  isVisibleInSearchUI,
+  isVisibleOnHomepage,
+} from '@/lib/articleVisibility';
 
 interface Props {
   locale: Locale;
@@ -26,7 +32,18 @@ const localeInfo = localeMeta[locale];
 const canonicalURL = absoluteUrl(localizedPath(locale, routeKey));
 const alternates = withXDefault(staticAlternates(routeKey));
 const allArticles = await getCollection('articles');
-const articles = sortArticlesByDate(allArticles.filter((article) => articleLocale(article) === locale));
+const isCategoryRoute = Object.values(categoryRouteKeys).includes(
+  routeKey as (typeof categoryRouteKeys)[keyof typeof categoryRouteKeys],
+);
+const visibilityFilter =
+  routeKey === 'home'
+    ? isVisibleOnHomepage
+    : routeKey === 'blog' || isCategoryRoute
+      ? isVisibleInBlogGrid
+      : isVisibleInFeatured;
+const articles = sortArticlesByDate(
+  allArticles.filter((article) => articleLocale(article) === locale && visibilityFilter(article)),
+);
 const categoryEntries = Object.values(CATEGORIES).map((cat) => {
   const key = cat.slug as keyof typeof categoryCopies[typeof locale];
   return {
@@ -380,7 +397,7 @@ const latestArticles = articles.slice(0, 6);
           <p class="text-sm text-rdm-gray mb-6" id="results-count">{articles.length} {copy.labels.allArticles.toLowerCase()}</p>
           <div id="articles-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {articles.map((article) => (
-              <div data-category={article.data.category} data-title={article.data.title.toLowerCase()} data-excerpt={article.data.excerpt.toLowerCase()} data-tags={article.data.tags.join(' ').toLowerCase()} class="article-item">
+              <div data-category={article.data.category} data-title={article.data.title.toLowerCase()} data-excerpt={article.data.excerpt.toLowerCase()} data-tags={article.data.tags.join(' ').toLowerCase()} data-searchable={isVisibleInSearchUI(article) ? 'true' : 'false'} class="article-item">
                 <ArticleCard article={article} locale={locale} />
               </div>
             ))}
@@ -737,7 +754,9 @@ const latestArticles = articles.slice(0, 6);
     items.forEach((item) => {
       const cat = item.dataset.category ?? '';
       const text = [item.dataset.title, item.dataset.excerpt, item.dataset.tags].join(' ');
-      const show = (currentCategory === 'all' || cat === currentCategory) && (!currentQuery || text.includes(currentQuery.toLowerCase()));
+      const show =
+        (currentCategory === 'all' || cat === currentCategory) &&
+        (!currentQuery || (item.dataset.searchable === 'true' && text.includes(currentQuery.toLowerCase())));
       item.style.display = show ? '' : 'none';
       if (show) visible += 1;
     });

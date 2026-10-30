@@ -252,6 +252,7 @@ const forecastCopy = {
   ogImage={ogImageAbsolute}
   canonicalURL={canonicalURL}
   article={true}
+  noindex={!article.data.indexable}
   publishDate={date}
   modifiedDate={updatedDate ?? date}
   imageAlt={imageAlt}

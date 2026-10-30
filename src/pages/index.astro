@@ -8,8 +8,11 @@ import CategoryIcon from '@/components/CategoryIcon.astro';
 import { getCollection } from 'astro:content';
 import { CATEGORIES } from '@/data/categories';
 import { articleLocale } from '@/i18n/articles';
+import { isVisibleOnHomepage } from '@/lib/articleVisibility';
 
-const allArticles = (await getCollection('articles')).filter((article) => articleLocale(article) === 'fr');
+const allArticles = (await getCollection('articles')).filter(
+  (article) => articleLocale(article) === 'fr' && isVisibleOnHomepage(article),
+);
 const sorted = allArticles.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
 const latestArticles = sorted.slice(0, 5);

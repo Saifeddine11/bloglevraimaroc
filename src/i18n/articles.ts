@@ -1,6 +1,7 @@
 import type { CollectionEntry } from 'astro:content';
 import { defaultLocale, locales, type Locale } from './config';
 import { absoluteUrl, articlePath, withXDefault } from './routes';
+import { isPublished } from '@/lib/articleVisibility';
 
 export type ArticleEntry = CollectionEntry<'articles'>;
 
@@ -30,7 +31,9 @@ export function sortArticlesByDate(articles: ArticleEntry[]): ArticleEntry[] {
 
 export function articleAlternates(article: ArticleEntry, allArticles: ArticleEntry[]): Record<Locale | 'x-default', string> {
   const key = articleTranslationKey(article);
-  const matches = allArticles.filter((candidate) => articleTranslationKey(candidate) === key);
+  const matches = allArticles.filter(
+    (candidate) => isPublished(candidate) && articleTranslationKey(candidate) === key,
+  );
   const byLocale = Object.fromEntries(matches.map((candidate) => [articleLocale(candidate), candidate])) as Partial<
     Record<Locale, ArticleEntry>
   >;

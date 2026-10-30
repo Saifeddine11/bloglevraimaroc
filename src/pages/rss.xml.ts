@@ -3,9 +3,12 @@ import { getCollection } from 'astro:content';
 import { SITE } from '@/data/site';
 import type { APIContext } from 'astro';
 import { articleHref, articleLocale } from '@/i18n/articles';
+import { isVisibleInBlogGrid } from '@/lib/articleVisibility';
 
 export async function GET(context: APIContext) {
-  const articles = (await getCollection('articles')).filter((article) => articleLocale(article) === 'fr');
+  const articles = (await getCollection('articles')).filter(
+    (article) => isVisibleInBlogGrid(article) && articleLocale(article) === 'fr',
+  );
   const sorted = articles.sort(
     (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
   );

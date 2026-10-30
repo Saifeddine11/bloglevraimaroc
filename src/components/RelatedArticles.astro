@@ -3,6 +3,7 @@ import ArticleCard from './ArticleCard.astro';
 import type { CollectionEntry } from 'astro:content';
 import { type Locale } from '@/i18n/config';
 import { ui } from '@/i18n/ui';
+import { isVisibleInRelatedArticles } from '@/lib/articleVisibility';
 
 interface Props {
   articles: CollectionEntry<'articles'>[];
@@ -12,9 +13,10 @@ interface Props {
 
 const { articles, locale = 'fr' } = Astro.props;
 const title = Astro.props.title ?? ui[locale].labels.relatedArticles;
+const visibleArticles = articles.filter(isVisibleInRelatedArticles);
 ---
 
-{articles.length > 0 && (
+{visibleArticles.length > 0 && (
   <section class="py-16 bg-rdm-bg" aria-labelledby="related-heading">
     <div class="container-rdm">
       <div class="flex items-center gap-4 mb-8">
@@ -22,7 +24,7 @@ const title = Astro.props.title ?? ui[locale].labels.relatedArticles;
         <h2 id="related-heading" class="text-lg font-bold text-rdm-black">{title}</h2>
       </div>
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-        {articles.slice(0, 3).map((article) => (
+        {visibleArticles.slice(0, 3).map((article) => (
           <ArticleCard article={article} locale={locale} />
         ))}
       </div>
