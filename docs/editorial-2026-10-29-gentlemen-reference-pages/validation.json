@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T19:03:26.873Z",
+  "generatedAt": "2026-10-30T18:50:57.654Z",
   "articleFiles": 40,
   "translationGroups": 10,
   "errors": [],
@@ -263,10 +263,10 @@
     {
       "locale": "en",
       "translationKey": "the-gentlemen-saison-3-maroc-rabat-erfoud",
-      "title": "The Gentlemen Season 3 in Morocco: filming reaches Rabat and Erfoud",
+      "title": "The Gentlemen Season 3 in Morocco: Filming, Cast and Behind the Scenes",
       "route": "/en/articles/the-gentlemen-season-3-morocco-rabat-erfoud",
       "url": "https://levraimaroc.com/en/articles/the-gentlemen-season-3-morocco-rabat-erfoud",
-      "heroImage": "/images/articles/gentlemen-maroc/gentlemen-saison-3-maroc.webp"
+      "heroImage": "/images/articles/gentlemen-maroc/gentlemen-lieux-tournage-maroc.webp"
     },
     {
       "locale": "es",
@@ -279,10 +279,10 @@
     {
       "locale": "fr",
       "translationKey": "the-gentlemen-saison-3-maroc-rabat-erfoud",
-      "title": "The Gentlemen saison 3 au Maroc : le tournage passe par Rabat et Erfoud",
+      "title": "The Gentlemen saison 3 au Maroc : tournage à Rabat, Erfoud et coulisses",
       "route": "/articles/the-gentlemen-saison-3-maroc-rabat-erfoud",
       "url": "https://levraimaroc.com/articles/the-gentlemen-saison-3-maroc-rabat-erfoud",
-      "heroImage": "/images/articles/gentlemen-maroc/gentlemen-saison-3-maroc.webp"
+      "heroImage": "/images/articles/gentlemen-maroc/gentlemen-lieux-tournage-maroc.webp"
     },
     {
       "locale": "nl",

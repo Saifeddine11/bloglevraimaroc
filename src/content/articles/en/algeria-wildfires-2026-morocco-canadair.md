@@ -7,7 +7,15 @@ translationKey: "incendies-algerie-2026-canadair-maroc"
 metaTitle: "Algeria Wildfires 2026: Toll, Canadairs and What's Confirmed"
 metaDescription: "Algeria wildfires in July 2026: six deaths confirmed, dozens of active fires, evacuations in Annaba. The verified picture, and the still-unconfirmed question of Moroccan Canadairs."
 category: "analyses"
-tags: ["Algeria wildfires 2026", "Canadair", "Morocco", "Civil Protection", "Maghreb heatwave", "Annaba"]
+tags:
+  [
+    "Algeria wildfires 2026",
+    "Canadair",
+    "Morocco",
+    "Civil Protection",
+    "Maghreb heatwave",
+    "Annaba",
+  ]
 date: 2026-07-23
 updatedDate: 2026-07-23
 readingTime: 11
@@ -30,6 +38,7 @@ sources:
     url: "https://en.wikipedia.org/wiki/Canadair_CL-415"
 disclaimer: false
 ---
+
 <div class="article-summary"><span class="article-kicker">In short</span><p>Since mid-July 2026, Algeria has been battling an exceptional wave of wildfires driven by a heatwave topping 49 °C. The Interior Ministry has confirmed <strong>six deaths</strong>. In its latest daily update, Civil Protection reported <strong>195 fire starts in 24 hours</strong>, 142 brought under control and 53 still active. A source contacted by Le Vrai Maroc reports the involvement of <strong>Moroccan Canadairs</strong>; at this stage that information is <strong>confirmed by no authority and no news outlet</strong>.</p></div>
 
 <div class="article-warning"><p><strong>Editorial transparency:</strong> this article strictly separates three levels of information — what is officially confirmed, what is reported by several reliable media, and what comes from a single unverified direct source. The mention of Moroccan aircraft belongs to the third category and is not presented as an established fact.</p></div>
@@ -155,6 +164,7 @@ Civil Protection warns that the risk remains high as long as the heatwave lasts.
 Algeria is going through one of its most difficult summers since 2021 on the wildfire front: six deaths, thousands of fire starts, evacuations and hectares gone up in smoke, against a backdrop of extreme heat. On this base of verified facts, one question remains open: that of a possible participation of Moroccan aircraft, reported to Le Vrai Maroc by a direct source, but unconfirmed and made improbable by the state of bilateral relations. We will keep following the story and, with every update, keep separating the verified from the unverified. Explore our other <a href="/en/analysis">analyses</a> and follow the news on the <a href="/en">homepage</a>.
 
 ## FAQ
+
 <details><summary>How many people died in Algeria's July 2026 wildfires?</summary><p>The Algerian Interior Ministry confirmed six deaths in the wildfires that struck several provinces in recent days.</p></details>
 <details><summary>Did Moroccan Canadairs take part in operations in Algeria?</summary><p>A direct source contacted by Le Vrai Maroc says so, but no authority and no news agency has confirmed it. The claim is not established and should be treated with reserve, especially as Algerian airspace has been closed to Moroccan aircraft since 2021.</p></details>
 <details><summary>Which regions of Algeria are worst affected?</summary><p>Mainly the north and north-east: Annaba, Souk Ahras, Skikda, Guelma, Bejaia, Bouira, Medea, Mila, El-Tarf, Jijel, Constantine, Tlemcen, Mascara and Saida are among the provinces cited.</p></details>
@@ -163,27 +173,8 @@ Algeria is going through one of its most difficult summers since 2021 on the wil
 
 <div class="article-warning"><p><strong>Update note:</strong> published on 23 July 2026 based on the tolls available that day. Figures change daily. Any information on a participation of Moroccan aircraft will be added only if confirmed by an official source or a recognised news agency.</p></div>
 
-<div class="article-cta"><p><strong>Read also:</strong> our <a href="/en/analysis">analyses</a> and news from Marrakech and Morocco on <a href="/en">Le Vrai Maroc</a>.</p></div>
+<div class="article-cta"><p><strong>Read also:</strong> our <a href="/en/analysis">analyses</a> and Morocco news on <a href="/en">Le Vrai Maroc</a>.</p></div>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Algeria wildfires: six dead, dozens of active fires and a question over Moroccan Canadairs",
-  "description": "Algeria wildfires in July 2026: six deaths confirmed, dozens of active fires, evacuations in Annaba. The verified picture, and the still-unconfirmed question of Moroccan Canadairs.",
-  "image": ["https://levraimaroc.com/images/articles/incendies-algerie-2026-canadair-cl415-cover.webp"],
-  "datePublished": "2026-07-23T09:00:00+01:00",
-  "dateModified": "2026-07-23T09:00:00+01:00",
-  "inLanguage": "en",
-  "author": { "@type": "Organization", "name": "Le Vrai Maroc", "url": "https://levraimaroc.com" },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Le Vrai Maroc",
-    "logo": { "@type": "ImageObject", "url": "https://levraimaroc.com/images/og/default.webp" }
-  },
-  "mainEntityOfPage": { "@type": "WebPage", "@id": "https://levraimaroc.com/en/articles/algeria-wildfires-2026-morocco-canadair" }
-}
-</script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

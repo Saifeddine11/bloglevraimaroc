@@ -58,6 +58,8 @@ disclaimer: false
 ---
 Updated: **16 September 2026**.
 
+For the official production status, confirmed cast and reported Morocco locations, see our central reference page: [The Gentlemen Season 3 in Morocco: Filming, Cast and Behind the Scenes](/en/articles/the-gentlemen-season-3-morocco-rabat-erfoud/).
+
 A shoot relies on a local chain in which production services, technical departments and mobility must fit together.
 
 ## Key points

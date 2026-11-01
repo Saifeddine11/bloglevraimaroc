@@ -52,6 +52,8 @@ disclaimer: false
 ---
 Mise à jour: **16 septembre 2026**.
 
+Ce dossier logistique complète notre page de référence [The Gentlemen saison 3 au Maroc : tournage à Rabat, Erfoud et coulisses](/articles/the-gentlemen-saison-3-maroc-rabat-erfoud/), mise à jour après l’annonce officielle de Netflix du 23 octobre 2026.
+
 Derrière une ligne de véhicules se cachent des horaires, des contrôles, des conducteurs, des itinéraires de repli et une stricte confidentialité.
 
 ## L’essentiel

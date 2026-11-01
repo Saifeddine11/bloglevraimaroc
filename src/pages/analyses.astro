@@ -6,6 +6,9 @@ import { getCollection } from 'astro:content';
 import { getCategoryInfo } from '@/data/categories';
 import CategoryIcon from '@/components/CategoryIcon.astro';
 import { articleLocale } from '@/i18n/articles';
+import { ui } from '@/i18n/ui';
+import { absoluteUrl, localizedPath } from '@/i18n/routes';
+import { categoryCopies } from '@/i18n/pages';
 import { isVisibleInBlogGrid } from '@/lib/articleVisibility';
 
 const cat = getCategoryInfo('analyses');
@@ -18,8 +21,12 @@ const articles = allArticles
 ---
 
 <BaseLayout
-  title="Analyses de marché Marrakech — Immobilier et tourisme"
-  description="Analyses de fond sur l'immobilier et le tourisme à Marrakech. Perspectives de marché, scénarios 2026–2030, données macroéconomiques."
+  title="Analyses Maroc — Économie, immobilier, tourisme et société"
+  description="Analyses de fond sur le Maroc : économie, immobilier, tourisme, infrastructures, culture, société et signaux de marché."
+  breadcrumbs={[
+    { name: ui.fr.labels.home, item: absoluteUrl(localizedPath('fr', 'home')) },
+    { name: categoryCopies.fr.analyses.label },
+  ]}
 >
   <section class="py-16 bg-rdm-bg border-b border-rdm-border">
     <div class="container-rdm">
@@ -32,7 +39,7 @@ const articles = allArticles
         <span class="text-rdm-orange">de marché</span>
       </h1>
       <p class="text-rdm-gray max-w-lg leading-relaxed">
-        Nos analyses de fond sur l'immobilier, le tourisme et les dynamiques économiques de Marrakech.
+        Nos analyses de fond sur l'économie, l'immobilier, le tourisme et les dynamiques sociales du Maroc.
         Des textes longs, sourcés, écrits pour comprendre — pas pour vendre.
       </p>
     </div>

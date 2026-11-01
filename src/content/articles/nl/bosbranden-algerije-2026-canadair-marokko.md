@@ -7,7 +7,15 @@ translationKey: "incendies-algerie-2026-canadair-maroc"
 metaTitle: "Bosbranden Algerije 2026: balans, Canadairs en wat vaststaat"
 metaDescription: "Bosbranden in Algerije in juli 2026: zes doden bevestigd, tientallen actieve haarden, evacuaties in Annaba. Het geverifieerde beeld en de nog onbevestigde vraag over Marokkaanse Canadairs."
 category: "analyses"
-tags: ["Bosbranden Algerije 2026", "Canadair", "Marokko", "Civiele Bescherming", "Hittegolf Maghreb", "Annaba"]
+tags:
+  [
+    "Bosbranden Algerije 2026",
+    "Canadair",
+    "Marokko",
+    "Civiele Bescherming",
+    "Hittegolf Maghreb",
+    "Annaba",
+  ]
 date: 2026-07-23
 updatedDate: 2026-07-23
 readingTime: 11
@@ -30,6 +38,7 @@ sources:
     url: "https://en.wikipedia.org/wiki/Canadair_CL-415"
 disclaimer: false
 ---
+
 <div class="article-summary"><span class="article-kicker">In het kort</span><p>Sinds medio juli 2026 bestrijdt Algerije een uitzonderlijke golf bosbranden, gedreven door een hittegolf van ruim 49 °C. Binnenlandse Zaken bevestigde <strong>zes doden</strong>. In de recentste dagbalans meldde de Civiele Bescherming <strong>195 brandhaarden in 24 uur</strong>, waarvan 142 onder controle en 53 nog actief. Een bron die Le Vrai Maroc benaderde spreekt van de inzet van <strong>Marokkaanse Canadairs</strong>; die informatie is vooralsnog <strong>door geen enkele autoriteit of medium bevestigd</strong>.</p></div>
 
 <div class="article-warning"><p><strong>Redactionele transparantie:</strong> dit artikel scheidt strikt drie niveaus van informatie — wat officieel bevestigd is, wat door meerdere betrouwbare media wordt gemeld, en wat afkomstig is van één onbevestigde directe bron. De vermelding van Marokkaanse toestellen valt in de derde categorie en wordt niet als vaststaand feit gepresenteerd.</p></div>
@@ -155,6 +164,7 @@ De Civiele Bescherming waarschuwt dat het risico hoog blijft zolang de hittegolf
 Algerije beleeft een van zijn moeilijkste zomers sinds 2021 op het vlak van bosbranden: zes doden, duizenden brandhaarden, evacuaties en in rook opgegane hectares, tegen een achtergrond van extreme hitte. Op deze basis van geverifieerde feiten blijft één vraag open: die van een mogelijke deelname van Marokkaanse toestellen, aan Le Vrai Maroc gemeld door een directe bron, maar onbevestigd en onwaarschijnlijk gezien de staat van de bilaterale betrekkingen. We blijven het dossier volgen en bij elke update het geverifieerde van het niet-geverifieerde scheiden. Ontdek onze andere <a href="/nl/analyses">analyses</a> en volg het nieuws op de <a href="/nl">startpagina</a>.
 
 ## FAQ
+
 <details><summary>Hoeveel doden vielen er bij de bosbranden in Algerije in juli 2026?</summary><p>Het Algerijnse ministerie van Binnenlandse Zaken bevestigde zes doden bij de bosbranden die de afgelopen dagen meerdere provincies troffen.</p></details>
 <details><summary>Namen Marokkaanse Canadairs deel aan operaties in Algerije?</summary><p>Een directe bron die Le Vrai Maroc benaderde beweert dat, maar geen enkele autoriteit of persbureau heeft het bevestigd. De bewering staat niet vast en moet met voorbehoud worden behandeld, temeer omdat het Algerijnse luchtruim sinds 2021 gesloten is voor Marokkaanse vliegtuigen.</p></details>
 <details><summary>Welke regio's van Algerije zijn het zwaarst getroffen?</summary><p>Vooral het noorden en noordoosten: Annaba, Souk Ahras, Skikda, Guelma, Bejaia, Bouira, Médéa, Mila, El-Tarf, Jijel, Constantine, Tlemcen, Mascara en Saida behoren tot de genoemde provincies.</p></details>
@@ -165,25 +175,6 @@ Algerije beleeft een van zijn moeilijkste zomers sinds 2021 op het vlak van bosb
 
 <div class="article-cta"><p><strong>Lees ook:</strong> onze <a href="/nl/analyses">analyses</a> en het nieuws uit Marrakech en Marokko op <a href="/nl">Le Vrai Maroc</a>.</p></div>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Bosbranden in Algerije: zes doden, tientallen actieve haarden en vragen over Marokkaanse Canadairs",
-  "description": "Bosbranden in Algerije in juli 2026: zes doden bevestigd, tientallen actieve haarden, evacuaties in Annaba. Het geverifieerde beeld en de nog onbevestigde vraag over Marokkaanse Canadairs.",
-  "image": ["https://levraimaroc.com/images/articles/incendies-algerie-2026-canadair-cl415-cover.webp"],
-  "datePublished": "2026-07-23T09:00:00+01:00",
-  "dateModified": "2026-07-23T09:00:00+01:00",
-  "inLanguage": "nl",
-  "author": { "@type": "Organization", "name": "Le Vrai Maroc", "url": "https://levraimaroc.com" },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Le Vrai Maroc",
-    "logo": { "@type": "ImageObject", "url": "https://levraimaroc.com/images/og/default.webp" }
-  },
-  "mainEntityOfPage": { "@type": "WebPage", "@id": "https://levraimaroc.com/nl/artikelen/bosbranden-algerije-2026-canadair-marokko" }
-}
-</script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

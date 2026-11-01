@@ -6,6 +6,9 @@ import { getCollection } from 'astro:content';
 import { getCategoryInfo } from '@/data/categories';
 import CategoryIcon from '@/components/CategoryIcon.astro';
 import { articleLocale } from '@/i18n/articles';
+import { ui } from '@/i18n/ui';
+import { absoluteUrl, localizedPath } from '@/i18n/routes';
+import { categoryCopies } from '@/i18n/pages';
 import { isVisibleInBlogGrid } from '@/lib/articleVisibility';
 
 const cat = getCategoryInfo('guides');
@@ -18,8 +21,12 @@ const articles = allArticles
 ---
 
 <BaseLayout
-  title="Guides pratiques Marrakech — Achat, investissement, installation"
-  description="Guides pratiques pour acheter, investir, louer ou s'installer à Marrakech. Procédures, pièges à éviter, conseils d'experts."
+  title="Guides pratiques Maroc — Achat, investissement, installation"
+  description="Guides pratiques pour acheter, investir, louer ou s'installer au Maroc : procédures, risques, documents et points de vigilance."
+  breadcrumbs={[
+    { name: ui.fr.labels.home, item: absoluteUrl(localizedPath('fr', 'home')) },
+    { name: categoryCopies.fr.guides.label },
+  ]}
 >
   <section class="py-16 bg-rdm-bg border-b border-rdm-border">
     <div class="container-rdm">
@@ -32,7 +39,7 @@ const articles = allArticles
         <span class="text-rdm-orange">pratiques</span>
       </h1>
       <p class="text-rdm-gray max-w-lg leading-relaxed">
-        Tout ce que vous devez savoir avant d'acheter, d'investir ou de vous installer à Marrakech.
+        Tout ce que vous devez savoir avant d'acheter, d'investir ou de vous installer au Maroc.
         Des guides clairs, vérifiés et régulièrement mis à jour.
       </p>
     </div>

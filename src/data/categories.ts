@@ -14,7 +14,7 @@ export const CATEGORIES: Record<string, Category> = {
     label: 'Immobilier',
     labelPlural: 'Immobilier',
     description:
-      'Prix, tendances, quartiers, guides d\'achat et actualité du marché immobilier à Marrakech.',
+      'Prix, tendances, guides d\'achat et actualité du marché immobilier au Maroc.',
     color: 'text-blue-700',
     bgColor: 'bg-blue-50',
     icon: 'building-2',
@@ -24,7 +24,7 @@ export const CATEGORIES: Record<string, Category> = {
     label: 'Tourisme',
     labelPlural: 'Tourisme',
     description:
-      'Tendances touristiques, hôtellerie, événements et impact économique du tourisme à Marrakech.',
+      'Tendances touristiques, hôtellerie, événements et impact économique du tourisme au Maroc.',
     color: 'text-emerald-700',
     bgColor: 'bg-emerald-50',
     icon: 'plane',
@@ -34,7 +34,7 @@ export const CATEGORIES: Record<string, Category> = {
     label: 'Investissement',
     labelPlural: 'Investissement',
     description:
-      'Rendements, fiscalité, risques et opportunités pour les investisseurs immobiliers à Marrakech.',
+      'Rendements, fiscalité, risques et opportunités pour les investisseurs au Maroc.',
     color: 'text-rdm-orange',
     bgColor: 'bg-rdm-orange-soft',
     icon: 'trending-up',
@@ -44,7 +44,7 @@ export const CATEGORIES: Record<string, Category> = {
     label: 'Quartiers',
     labelPlural: 'Quartiers',
     description:
-      'Guides détaillés sur les quartiers de Marrakech : ambiance, prix, accessibilité, profil d\'acheteur.',
+      'Guides détaillés sur les villes, quartiers et zones d\'expansion au Maroc.',
     color: 'text-purple-700',
     bgColor: 'bg-purple-50',
     icon: 'map-pin',
@@ -54,7 +54,7 @@ export const CATEGORIES: Record<string, Category> = {
     label: 'Guides pratiques',
     labelPlural: 'Guides pratiques',
     description:
-      'Guides pratiques pour acheter, investir, louer ou s\'installer à Marrakech.',
+      'Guides pratiques pour acheter, investir, louer ou s\'installer au Maroc.',
     color: 'text-teal-700',
     bgColor: 'bg-teal-50',
     icon: 'clipboard-list',
@@ -64,7 +64,7 @@ export const CATEGORIES: Record<string, Category> = {
     label: 'Analyses',
     labelPlural: 'Analyses',
     description:
-      'Analyses de fond et perspectives de marché sur l\'immobilier et le tourisme à Marrakech.',
+      'Analyses de fond sur l\'économie, l\'immobilier, le tourisme et les transformations du Maroc.',
     color: 'text-slate-700',
     bgColor: 'bg-slate-50',
     icon: 'search',

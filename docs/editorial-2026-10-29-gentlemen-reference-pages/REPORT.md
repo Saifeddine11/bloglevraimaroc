@@ -1,12 +1,13 @@
 # The Gentlemen reference-page restoration
 
-Generated 2026-10-29T19:03:26.873Z.
+Generated 2026-10-30T18:50:57.654Z.
 
 ## Outcome
 
 - 40 public, indexable reference pages across 10 translation groups.
-- Preserved publication and update date: 2026-09-16.
-- Excluded from homepage, blog/category grids, featured modules, related modules, search UI, RSS, and Google News sitemap.
+- Preserved original publication date: 2026-09-16. The FR/EN pillar dateModified is 2026-10-30 after a substantive official-source update.
+- Excluded from homepage, listing grids, featured modules, related modules, search UI, RSS, and Google News sitemap.
+- One contextual pillar link is present on each localized tourism category page.
 - Included in the standard sitemap with self-canonical, hreflang, Article schema, and Open Graph metadata.
 - Deployment status: not deployed by this repository task.
 
@@ -50,9 +51,9 @@ PASS — no validation errors.
 | ES | The Gentlemen temporada 3 en Erfoud: la pista presahariana | [https://levraimaroc.com/es/articulos/the-gentlemen-temporada-3-rodaje-erfoud](https://levraimaroc.com/es/articulos/the-gentlemen-temporada-3-rodaje-erfoud) |
 | FR | The Gentlemen saison 3 à Erfoud : la piste présaharienne du tournage | [https://levraimaroc.com/articles/the-gentlemen-saison-3-erfoud-tournage](https://levraimaroc.com/articles/the-gentlemen-saison-3-erfoud-tournage) |
 | NL | The Gentlemen seizoen 3 in Erfoud: het pre-Saharaanse spoor | [https://levraimaroc.com/nl/artikelen/the-gentlemen-seizoen-3-opnames-erfoud](https://levraimaroc.com/nl/artikelen/the-gentlemen-seizoen-3-opnames-erfoud) |
-| EN | The Gentlemen Season 3 in Morocco: filming reaches Rabat and Erfoud | [https://levraimaroc.com/en/articles/the-gentlemen-season-3-morocco-rabat-erfoud](https://levraimaroc.com/en/articles/the-gentlemen-season-3-morocco-rabat-erfoud) |
+| EN | The Gentlemen Season 3 in Morocco: Filming, Cast and Behind the Scenes | [https://levraimaroc.com/en/articles/the-gentlemen-season-3-morocco-rabat-erfoud](https://levraimaroc.com/en/articles/the-gentlemen-season-3-morocco-rabat-erfoud) |
 | ES | The Gentlemen temporada 3 en Marruecos: rodaje en Rabat y Erfoud | [https://levraimaroc.com/es/articulos/the-gentlemen-temporada-3-marruecos-rabat-erfoud](https://levraimaroc.com/es/articulos/the-gentlemen-temporada-3-marruecos-rabat-erfoud) |
-| FR | The Gentlemen saison 3 au Maroc : le tournage passe par Rabat et Erfoud | [https://levraimaroc.com/articles/the-gentlemen-saison-3-maroc-rabat-erfoud](https://levraimaroc.com/articles/the-gentlemen-saison-3-maroc-rabat-erfoud) |
+| FR | The Gentlemen saison 3 au Maroc : tournage à Rabat, Erfoud et coulisses | [https://levraimaroc.com/articles/the-gentlemen-saison-3-maroc-rabat-erfoud](https://levraimaroc.com/articles/the-gentlemen-saison-3-maroc-rabat-erfoud) |
 | NL | The Gentlemen seizoen 3 in Marokko: opnames in Rabat en Erfoud | [https://levraimaroc.com/nl/artikelen/the-gentlemen-seizoen-3-marokko-rabat-erfoud](https://levraimaroc.com/nl/artikelen/the-gentlemen-seizoen-3-marokko-rabat-erfoud) |
 | EN | The Gentlemen Season 3 in Rabat: what we know about filming | [https://levraimaroc.com/en/articles/the-gentlemen-season-3-rabat-filming](https://levraimaroc.com/en/articles/the-gentlemen-season-3-rabat-filming) |
 | ES | The Gentlemen temporada 3 en Rabat: lo que se sabe del rodaje | [https://levraimaroc.com/es/articulos/the-gentlemen-temporada-3-rodaje-rabat](https://levraimaroc.com/es/articulos/the-gentlemen-temporada-3-rodaje-rabat) |

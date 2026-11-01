@@ -1,12 +1,18 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import { SITE } from '@/data/site';
+import { ui } from '@/i18n/ui';
+import { absoluteUrl, localizedPath } from '@/i18n/routes';
 ---
 
 <BaseLayout
   title="Politique de confidentialité"
   description="Politique de confidentialité et traitement des données personnelles du site Le Vrai Maroc."
   noindex={true}
+  breadcrumbs={[
+    { name: ui.fr.labels.home, item: absoluteUrl(localizedPath('fr', 'home')) },
+    { name: 'Politique de confidentialité' },
+  ]}
 >
   <section class="py-16">
     <div class="container-rdm max-w-2xl">

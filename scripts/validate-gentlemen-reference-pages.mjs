@@ -27,6 +27,8 @@ const referenceFlags = {
 };
 const errors = [];
 const rows = [];
+const pillarTranslationKey = "the-gentlemen-saison-3-maroc-rabat-erfoud";
+const pillarUpdatedLocales = new Set(["fr", "en"]);
 
 async function walk(directory) {
   const entries = await readdir(directory, { withFileTypes: true });
@@ -55,11 +57,54 @@ for (const filename of await walk(contentRoot)) {
       errors.push(`${route}: ${flag} must be ${expected}`);
     }
   }
-  if (data.date !== "2026-09-16" || data.updatedDate !== "2026-09-16") {
-    errors.push(`${route}: publication/update dates changed`);
+  const expectedUpdatedDate =
+    data.translationKey === pillarTranslationKey && pillarUpdatedLocales.has(locale)
+      ? "2026-10-30"
+      : "2026-09-16";
+  if (data.date !== "2026-09-16") {
+    errors.push(`${route}: original publication date changed`);
+  }
+  if (data.updatedDate !== expectedUpdatedDate) {
+    errors.push(`${route}: updatedDate must be ${expectedUpdatedDate}`);
   }
   if (/Montage Pictures/i.test(source)) {
     errors.push(`${route}: contains the incorrect name Montage Pictures`);
+  }
+  if (
+    data.translationKey === pillarTranslationKey &&
+    pillarUpdatedLocales.has(locale)
+  ) {
+    for (const required of [
+      "Rabat",
+      "Erfoud",
+      "Robert Carlyle",
+      "Elijah Wood",
+      "Orlando Bloom",
+      "Rolls-Royce Cullinan",
+      "Bentley Bentayga",
+      "https://accrocar.com/",
+      "MOONAGE PICTURES (THE GENTLEMEN) LIMITED",
+    ]) {
+      if (!source.includes(required)) {
+        errors.push(`${route}: pillar is missing ${required}`);
+      }
+    }
+    const hasOfficialUpdateDate =
+      locale === "fr"
+        ? source.includes("23 octobre 2026")
+        : source.includes("23 October 2026");
+    if (!hasOfficialUpdateDate) {
+      errors.push(`${route}: pillar is missing the 23 October Netflix update`);
+    }
+    if (/<details>/i.test(source)) {
+      errors.push(`${route}: pillar must not generate FAQPage markup from details elements`);
+    }
+    if (!/no official (date|release)|aucune date[^\n]+officielle/i.test(source)) {
+      errors.push(`${route}: pillar must state that no official release date exists`);
+    }
+    if (!/does not prove|ne prouve pas/i.test(source)) {
+      errors.push(`${route}: pillar must distinguish supply from on-screen use`);
+    }
   }
   const imagePath = path.join(root, "public", data.heroImage.replace(/^\//, ""));
   try {
@@ -140,6 +185,33 @@ for (const row of rows) {
   if (!schemas.some((schema) => schema["@type"] === "Article")) {
     errors.push(`${row.route}: missing Article schema`);
   }
+  if (
+    row.translationKey === pillarTranslationKey &&
+    pillarUpdatedLocales.has(row.locale)
+  ) {
+    const articleSchema = schemas.find((schema) => schema["@type"] === "Article");
+    if (!articleSchema?.image || articleSchema.image["@type"] !== "ImageObject") {
+      errors.push(`${row.route}: pillar Article schema is missing ImageObject`);
+    }
+    if (!schemas.some((schema) => schema["@type"] === "BreadcrumbList")) {
+      errors.push(`${row.route}: pillar is missing BreadcrumbList schema`);
+    }
+    if (schemas.some((schema) => schema["@type"] === "FAQPage")) {
+      errors.push(`${row.route}: pillar must not emit FAQPage schema`);
+    }
+    if (!String(articleSchema?.dateModified ?? "").startsWith("2026-10-30")) {
+      errors.push(`${row.route}: pillar dateModified is not 2026-10-30`);
+    }
+    if (!document.querySelector('meta[name="twitter:image"]')) {
+      errors.push(`${row.route}: pillar is missing Twitter image metadata`);
+    }
+    if (document.querySelectorAll('a[href="https://accrocar.com/"]').length !== 1) {
+      errors.push(`${row.route}: pillar must contain one prominent Accrocar homepage link`);
+    }
+    if (document.querySelectorAll('article img[src*="/gentlemen-maroc/"]').length < 2) {
+      errors.push(`${row.route}: pillar must contain original inline production images`);
+    }
+  }
   if (!document.querySelector('meta[property="og:image"]')) {
     errors.push(`${row.route}: missing Open Graph image`);
   }
@@ -167,11 +239,32 @@ for (const [locale, routes] of Object.entries(listingRoutes)) {
   for (const route of routes) {
     const htmlPath = path.join(root, "dist", route.replace(/^\//, ""), "index.html");
     const html = await readFile(htmlPath, "utf8");
+    const { document } = parseHTML(html);
     for (const reference of localizedReferences) {
-      if (html.includes(`${reference.route}/`)) {
-        errors.push(`${reference.route}: leaked into discovery page ${route}`);
+      const links = [
+        ...document.querySelectorAll(`a[href="${reference.route}/"]`),
+      ];
+      if (links.some((link) => link.closest("article"))) {
+        errors.push(`${reference.route}: leaked into a listing card on ${route}`);
       }
     }
+  }
+}
+
+const tourismContextRoutes = {
+  fr: "/tourisme/",
+  en: "/en/tourism/",
+  es: "/es/turismo/",
+  nl: "/nl/toerisme/",
+};
+for (const [locale, route] of Object.entries(tourismContextRoutes)) {
+  const pillar = rows.find(
+    (row) => row.locale === locale && row.translationKey === pillarTranslationKey,
+  );
+  const htmlPath = path.join(root, "dist", route.replace(/^\//, ""), "index.html");
+  const html = await readFile(htmlPath, "utf8");
+  if (!pillar || !html.includes(`href="${pillar.route}/"`)) {
+    errors.push(`${route}: missing the limited contextual pillar link`);
   }
 }
 
@@ -187,7 +280,7 @@ await writeFile(
   path.join(outputRoot, "validation.json"),
   `${JSON.stringify(report, null, 2)}\n`,
 );
-const reportMarkdown = `# The Gentlemen reference-page restoration\n\nGenerated ${report.generatedAt}.\n\n## Outcome\n\n- ${rows.length} public, indexable reference pages across ${groups.size} translation groups.\n- Preserved publication and update date: 2026-09-16.\n- Excluded from homepage, blog/category grids, featured modules, related modules, search UI, RSS, and Google News sitemap.\n- Included in the standard sitemap with self-canonical, hreflang, Article schema, and Open Graph metadata.\n- Deployment status: not deployed by this repository task.\n\n## Validation\n\n${errors.length === 0 ? "PASS — no validation errors." : `FAIL — ${errors.length} error(s).`}\n\n## Complete URL and title inventory\n\n| Locale | Title | Intended production URL |\n|---|---|---|\n${rows.map((row) => `| ${row.locale.toUpperCase()} | ${row.title.replace(/\|/g, "\\|")} | [${row.url}](${row.url}) |`).join("\n")}\n`;
+const reportMarkdown = `# The Gentlemen reference-page restoration\n\nGenerated ${report.generatedAt}.\n\n## Outcome\n\n- ${rows.length} public, indexable reference pages across ${groups.size} translation groups.\n- Preserved original publication date: 2026-09-16. The FR/EN pillar dateModified is 2026-10-30 after a substantive official-source update.\n- Excluded from homepage, listing grids, featured modules, related modules, search UI, RSS, and Google News sitemap.\n- One contextual pillar link is present on each localized tourism category page.\n- Included in the standard sitemap with self-canonical, hreflang, Article schema, and Open Graph metadata.\n- Deployment status: not deployed by this repository task.\n\n## Validation\n\n${errors.length === 0 ? "PASS — no validation errors." : `FAIL — ${errors.length} error(s).`}\n\n## Complete URL and title inventory\n\n| Locale | Title | Intended production URL |\n|---|---|---|\n${rows.map((row) => `| ${row.locale.toUpperCase()} | ${row.title.replace(/\|/g, "\\|")} | [${row.url}](${row.url}) |`).join("\n")}\n`;
 await writeFile(path.join(outputRoot, "REPORT.md"), reportMarkdown);
 
 if (errors.length > 0) {

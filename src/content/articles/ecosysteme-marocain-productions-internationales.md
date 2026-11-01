@@ -58,6 +58,8 @@ disclaimer: false
 ---
 Mise à jour: **16 septembre 2026**.
 
+Pour le statut officiel, le casting et les lieux marocains rapportés, consulter notre page de référence [The Gentlemen saison 3 au Maroc : tournage à Rabat, Erfoud et coulisses](/articles/the-gentlemen-saison-3-maroc-rabat-erfoud/).
+
 Le tournage ne repose pas sur un seul prestataire mais sur une chaîne locale où production exécutive, technique et mobilité doivent s'emboîter.
 
 ## L’essentiel

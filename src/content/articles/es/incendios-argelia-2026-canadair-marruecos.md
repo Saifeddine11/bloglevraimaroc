@@ -7,7 +7,15 @@ translationKey: "incendies-algerie-2026-canadair-maroc"
 metaTitle: "Incendios Argelia 2026: balance, Canadair y lo confirmado"
 metaDescription: "Incendios en Argelia en julio de 2026: seis muertos confirmados, decenas de focos activos, evacuaciones en Annaba. Lo verificado y la incógnita, aún sin confirmar, de unos Canadair marroquíes."
 category: "analyses"
-tags: ["Incendios Argelia 2026", "Canadair", "Marruecos", "Protección Civil", "Ola de calor Magreb", "Annaba"]
+tags:
+  [
+    "Incendios Argelia 2026",
+    "Canadair",
+    "Marruecos",
+    "Protección Civil",
+    "Ola de calor Magreb",
+    "Annaba",
+  ]
 date: 2026-07-23
 updatedDate: 2026-07-23
 readingTime: 11
@@ -30,6 +38,7 @@ sources:
     url: "https://en.wikipedia.org/wiki/Canadair_CL-415"
 disclaimer: false
 ---
+
 <div class="article-summary"><span class="article-kicker">Lo esencial</span><p>Desde mediados de julio de 2026, Argelia combate una ola excepcional de incendios impulsada por una ola de calor que supera los 49 °C. El Ministerio del Interior ha confirmado <strong>seis muertos</strong>. En su último balance diario, Protección Civil informó de <strong>195 focos en 24 horas</strong>, 142 controlados y 53 aún activos. Una fuente contactada por Le Vrai Maroc menciona la intervención de <strong>Canadair marroquíes</strong>; por ahora, esa información <strong>no está confirmada por ninguna autoridad ni medio</strong>.</p></div>
 
 <div class="article-warning"><p><strong>Transparencia editorial:</strong> este artículo separa estrictamente tres niveles de información — lo confirmado oficialmente, lo que informan varios medios fiables y lo que procede de una única fuente directa no verificada. La mención de aviones marroquíes pertenece a la tercera categoría y no se presenta como un hecho probado.</p></div>
@@ -155,6 +164,7 @@ Protección Civil advierte de que el riesgo sigue siendo alto mientras dure la o
 Argelia atraviesa uno de sus veranos más difíciles desde 2021 en el frente de los incendios: seis muertos, miles de focos, evacuaciones y hectáreas calcinadas, en un contexto de calor extremo. Sobre esta base de hechos verificados, queda una pregunta abierta: la de una posible participación de aviones marroquíes, comunicada a Le Vrai Maroc por una fuente directa, pero sin confirmar y poco probable dado el estado de las relaciones bilaterales. Seguiremos el asunto y, en cada actualización, seguiremos distinguiendo lo verificado de lo no verificado. Descubre nuestros otros <a href="/es/analisis">análisis</a> y sigue la actualidad en la <a href="/es">página de inicio</a>.
 
 ## FAQ
+
 <details><summary>¿Cuántos muertos han dejado los incendios de Argelia en julio de 2026?</summary><p>El Ministerio del Interior argelino confirmó seis muertos en los incendios que afectaron a varias provincias en los últimos días.</p></details>
 <details><summary>¿Participaron Canadair marroquíes en las operaciones en Argelia?</summary><p>Una fuente directa contactada por Le Vrai Maroc lo afirma, pero ninguna autoridad ni agencia de prensa lo ha confirmado. La afirmación no está probada y debe tratarse con reserva, sobre todo porque el espacio aéreo argelino está cerrado a los aviones marroquíes desde 2021.</p></details>
 <details><summary>¿Qué regiones de Argelia son las más afectadas?</summary><p>Sobre todo el norte y el noreste: Annaba, Souk Ahras, Skikda, Guelma, Bejaia, Bouira, Médéa, Mila, El-Tarf, Jijel, Constantina, Tlemcen, Mascara y Saida figuran entre las provincias citadas.</p></details>
@@ -165,25 +175,6 @@ Argelia atraviesa uno de sus veranos más difíciles desde 2021 en el frente de 
 
 <div class="article-cta"><p><strong>Lee también:</strong> nuestros <a href="/es/analisis">análisis</a> y la actualidad de Marrakech y Marruecos en <a href="/es">Le Vrai Maroc</a>.</p></div>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Incendios en Argelia: seis muertos, decenas de focos activos y la incógnita de unos Canadair marroquíes",
-  "description": "Incendios en Argelia en julio de 2026: seis muertos confirmados, decenas de focos activos, evacuaciones en Annaba. Lo verificado y la incógnita, aún sin confirmar, de unos Canadair marroquíes.",
-  "image": ["https://levraimaroc.com/images/articles/incendies-algerie-2026-canadair-cl415-cover.webp"],
-  "datePublished": "2026-07-23T09:00:00+01:00",
-  "dateModified": "2026-07-23T09:00:00+01:00",
-  "inLanguage": "es",
-  "author": { "@type": "Organization", "name": "Le Vrai Maroc", "url": "https://levraimaroc.com" },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Le Vrai Maroc",
-    "logo": { "@type": "ImageObject", "url": "https://levraimaroc.com/images/og/default.webp" }
-  },
-  "mainEntityOfPage": { "@type": "WebPage", "@id": "https://levraimaroc.com/es/articulos/incendios-argelia-2026-canadair-marruecos" }
-}
-</script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

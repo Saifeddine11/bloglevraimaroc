@@ -6,6 +6,9 @@ import CategoryIcon from '@/components/CategoryIcon.astro';
 import { getCollection } from 'astro:content';
 import { getCategoryInfo } from '@/data/categories';
 import { articleLocale } from '@/i18n/articles';
+import { ui } from '@/i18n/ui';
+import { absoluteUrl, localizedPath } from '@/i18n/routes';
+import { categoryCopies } from '@/i18n/pages';
 import { isVisibleInBlogGrid, isVisibleInFeatured } from '@/lib/articleVisibility';
 
 const cat = getCategoryInfo('immobilier');
@@ -21,8 +24,12 @@ const rest = articles.filter((article) => article.id !== featured?.id);
 ---
 
 <BaseLayout
-  title="Immobilier à Marrakech — Prix, tendances et guides d'achat"
-  description="Toutes nos analyses sur le marché immobilier à Marrakech : prix au m², tendances 2026, guides d'achat, comparatif quartiers, riads et villas."
+  title="Immobilier au Maroc — Prix, tendances et guides d'achat"
+  description="Analyses du marché immobilier au Maroc : prix, tendances, guides d'achat, villes, quartiers, riads, villas et programmes neufs."
+  breadcrumbs={[
+    { name: ui.fr.labels.home, item: absoluteUrl(localizedPath('fr', 'home')) },
+    { name: categoryCopies.fr.immobilier.label },
+  ]}
 >
   <!-- Category hero -->
   <section class="py-16 bg-rdm-bg border-b border-rdm-border">
@@ -33,7 +40,7 @@ const rest = articles.filter((article) => article.id !== featured?.id);
       </div>
       <h1 class="text-headline font-black text-rdm-black mb-4">
         Immobilier<br />
-        <span class="text-rdm-orange">à Marrakech</span>
+        <span class="text-rdm-orange">au Maroc</span>
       </h1>
       <p class="text-rdm-gray max-w-lg leading-relaxed">
         {cat.description}

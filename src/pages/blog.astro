@@ -7,6 +7,8 @@ import CategoryIcon from '@/components/CategoryIcon.astro';
 import { getCollection } from 'astro:content';
 import { CATEGORIES } from '@/data/categories';
 import { articleLocale } from '@/i18n/articles';
+import { ui } from '@/i18n/ui';
+import { absoluteUrl, localizedPath } from '@/i18n/routes';
 import { isVisibleInBlogGrid, isVisibleInSearchUI } from '@/lib/articleVisibility';
 
 const allArticles = (await getCollection('articles')).filter(
@@ -19,7 +21,11 @@ const categoryFilters = Object.values(CATEGORIES);
 
 <BaseLayout
   title="Blog — Toutes les analyses"
-  description="Toutes nos analyses éditoriales sur l'immobilier, le tourisme et l'investissement à Marrakech. Filtrez par catégorie ou recherchez un sujet."
+  description="Toutes nos analyses éditoriales sur l'actualité, l'économie, l'immobilier, le tourisme et l'investissement au Maroc."
+  breadcrumbs={[
+    { name: ui.fr.labels.home, item: absoluteUrl(localizedPath('fr', 'home')) },
+    { name: ui.fr.labels.blog },
+  ]}
 >
   <!-- Page header -->
   <section class="py-16 bg-rdm-bg border-b border-rdm-border">
@@ -29,7 +35,7 @@ const categoryFilters = Object.values(CATEGORIES);
         Le blog <span class="text-rdm-orange">Le Vrai Maroc</span>
       </h1>
       <p class="text-rdm-gray max-w-xl mb-8">
-        Analyses de marché, guides pratiques, décryptages. Tout ce qu'il faut comprendre avant d'acheter, d'investir ou de visiter Marrakech.
+        Actualités expliquées, analyses de marché, guides pratiques et décryptages pour comprendre les développements du Maroc.
       </p>
 
       <!-- Search + filters -->
@@ -116,7 +122,9 @@ const categoryFilters = Object.values(CATEGORIES);
       const cat = item.dataset.category ?? '';
       const text = [item.dataset.title, item.dataset.excerpt, item.dataset.tags].join(' ');
       const catMatch = currentCategory === 'all' || cat === currentCategory;
-      const queryMatch = !currentQuery || (item.dataset.searchable !== 'false' && text.includes(currentQuery.toLowerCase()));
+      const queryMatch =
+        !currentQuery ||
+        (item.dataset.searchable === 'true' && text.includes(currentQuery.toLowerCase()));
       const show = catMatch && queryMatch;
       item.style.display = show ? '' : 'none';
       if (show) visible++;

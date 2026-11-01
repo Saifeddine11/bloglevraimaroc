@@ -52,6 +52,8 @@ disclaimer: false
 ---
 Updated: **16 September 2026**.
 
+This vehicle analysis documents one specific part of our central reference page, [The Gentlemen Season 3 in Morocco: Filming, Cast and Behind the Scenes](/en/articles/the-gentlemen-season-3-morocco-rabat-erfoud/).
+
 The material shows a Rolls-Royce Cullinan and Bentley Bentayga, without proving inclusion in the final edit.
 
 ## Key points

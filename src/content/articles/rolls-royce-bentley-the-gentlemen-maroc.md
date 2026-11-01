@@ -52,6 +52,8 @@ disclaimer: false
 ---
 Mise à jour: **16 septembre 2026**.
 
+Cette analyse automobile documente un volet précis de notre page de référence [The Gentlemen saison 3 au Maroc : tournage à Rabat, Erfoud et coulisses](/articles/the-gentlemen-saison-3-maroc-rabat-erfoud/).
+
 Le corpus montre notamment un Rolls-Royce Cullinan et un Bentley Bentayga, sans prouver leur présence dans le montage final.
 
 ## L’essentiel

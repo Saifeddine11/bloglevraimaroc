@@ -6,6 +6,9 @@ import { getCollection } from 'astro:content';
 import { getCategoryInfo } from '@/data/categories';
 import CategoryIcon from '@/components/CategoryIcon.astro';
 import { articleLocale } from '@/i18n/articles';
+import { ui } from '@/i18n/ui';
+import { absoluteUrl, localizedPath } from '@/i18n/routes';
+import { categoryCopies } from '@/i18n/pages';
 import { isVisibleInBlogGrid, isVisibleInFeatured } from '@/lib/articleVisibility';
 
 const cat = getCategoryInfo('tourisme');
@@ -21,8 +24,12 @@ const rest = articles.filter((article) => article.id !== featured?.id);
 ---
 
 <BaseLayout
-  title="Tourisme à Marrakech — Tendances, chiffres et analyses 2026"
-  description="Analyses éditoriales sur le tourisme à Marrakech : fréquentation, hôtellerie, Coupe du Monde 2030, saisonnalité et impact économique."
+  title="Tourisme au Maroc — Tendances, hôtellerie et économie"
+  description="Analyses éditoriales sur le tourisme au Maroc : fréquentation, hôtellerie, événements, infrastructures et impact économique."
+  breadcrumbs={[
+    { name: ui.fr.labels.home, item: absoluteUrl(localizedPath('fr', 'home')) },
+    { name: categoryCopies.fr.tourisme.label },
+  ]}
 >
   <section class="py-16 bg-rdm-bg border-b border-rdm-border">
     <div class="container-rdm">
@@ -32,9 +39,15 @@ const rest = articles.filter((article) => article.id !== featured?.id);
       </div>
       <h1 class="text-headline font-black text-rdm-black mb-4">
         Tourisme<br />
-        <span class="text-rdm-orange">à Marrakech</span>
+        <span class="text-rdm-orange">au Maroc</span>
       </h1>
       <p class="text-rdm-gray max-w-lg leading-relaxed">{cat.description}</p>
+      <p class="mt-5 max-w-2xl text-sm text-rdm-gray">
+        Dossier de référence : <a
+          href="/articles/the-gentlemen-saison-3-maroc-rabat-erfoud/"
+          class="font-semibold text-rdm-orange hover:underline"
+        >The Gentlemen saison 3 au Maroc — tournage, casting et coulisses</a>.
+      </p>
     </div>
   </section>
 

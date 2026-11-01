@@ -10,6 +10,7 @@
     "astro": "astro",
     "check": "astro check",
     "lint": "node scripts/validate-editorial.mjs && node scripts/validate-editorial-2026-09-14.mjs",
+    "check:jsonld": "node scripts/validate-jsonld.mjs",
     "format:check": "node scripts/format-editorial.mjs --check",
     "format:editorial": "node scripts/format-editorial.mjs --write"
   },

@@ -6,6 +6,9 @@ import { getCollection } from 'astro:content';
 import { getCategoryInfo } from '@/data/categories';
 import CategoryIcon from '@/components/CategoryIcon.astro';
 import { articleLocale } from '@/i18n/articles';
+import { ui } from '@/i18n/ui';
+import { absoluteUrl, localizedPath } from '@/i18n/routes';
+import { categoryCopies } from '@/i18n/pages';
 import { isVisibleInBlogGrid, isVisibleInFeatured } from '@/lib/articleVisibility';
 
 const cat = getCategoryInfo('investissement');
@@ -21,8 +24,12 @@ const rest = articles.filter((article) => article.id !== featured?.id);
 ---
 
 <BaseLayout
-  title="Investissement immobilier à Marrakech — Rendements, risques et opportunités"
-  description="Guides et analyses sur l'investissement immobilier à Marrakech : rendement locatif, fiscalité, short-term rental, riads, villas et profils d'investisseurs."
+  title="Investissement au Maroc — Rendements, risques et opportunités"
+  description="Guides et analyses sur l'investissement au Maroc : rendement, fiscalité, immobilier, risques et profils d'investisseurs."
+  breadcrumbs={[
+    { name: ui.fr.labels.home, item: absoluteUrl(localizedPath('fr', 'home')) },
+    { name: categoryCopies.fr.investissement.label },
+  ]}
 >
   <section class="py-16 bg-rdm-bg border-b border-rdm-border">
     <div class="container-rdm">
@@ -32,7 +39,7 @@ const rest = articles.filter((article) => article.id !== featured?.id);
       </div>
       <h1 class="text-headline font-black text-rdm-black mb-4">
         Investissement<br />
-        <span class="text-rdm-orange">immobilier</span>
+        <span class="text-rdm-orange">au Maroc</span>
       </h1>
       <p class="text-rdm-gray max-w-lg leading-relaxed">{cat.description}</p>
       <div class="mt-5 p-4 rounded-xl bg-amber-50 border border-amber-200 max-w-lg">

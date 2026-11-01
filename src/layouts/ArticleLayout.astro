@@ -11,6 +11,7 @@ import { categoryCopies } from "@/i18n/pages";
 import { articleHref, articleLocale } from "@/i18n/articles";
 import { absoluteUrl, categoryRouteKeys, localizedPath } from "@/i18n/routes";
 import { ui } from "@/i18n/ui";
+import { breadcrumbListSchema, pruneJsonLd } from "@/lib/jsonld";
 
 interface Props {
   article: CollectionEntry<"articles">;
@@ -48,16 +49,24 @@ const editorialRoleLabel = {
   nl: "Redactionele analyse",
 }[locale];
 const authorLabel = {
-  fr: SITE.author,
+  fr: "La rédaction Le Vrai Maroc",
   en: "Le Vrai Maroc editorial team",
   es: "Redacción de Le Vrai Maroc",
   nl: "Redactie Le Vrai Maroc",
 }[locale];
+const authorHref = localizedPath(locale, "editorialTeam");
+const authorUrl = absoluteUrl(authorHref);
 const updatedDateLabel = {
   fr: "Mis à jour le",
   en: "Updated on",
   es: "Actualizado el",
   nl: "Bijgewerkt op",
+}[locale];
+const publishedDateLabel = {
+  fr: "Publié le",
+  en: "Published on",
+  es: "Publicado el",
+  nl: "Gepubliceerd op",
 }[locale];
 const breadcrumbLabel = {
   fr: "Fil d'Ariane",
@@ -108,7 +117,7 @@ const formattedUpdatedDate = updatedDate
     }).format(updatedDate)
   : undefined;
 
-const blogPostingSchema = {
+const blogPostingSchema = pruneJsonLd({
   "@context": "https://schema.org",
   "@type": article.data.articleType,
   headline: title,
@@ -129,7 +138,7 @@ const blogPostingSchema = {
   author: {
     "@type": "Organization",
     name: authorLabel,
-    url: SITE.url,
+    url: authorUrl,
   },
   publisher: {
     "@type": "Organization",
@@ -147,66 +156,64 @@ const blogPostingSchema = {
   articleSection: categoryCopy.label,
   inLanguage: localeInfo.htmlLang,
   url: canonicalURL,
-};
+});
 
-const breadcrumbSchema = {
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  itemListElement: [
-    {
-      "@type": "ListItem",
-      position: 1,
-      name: currentUi.labels.home,
-      item: new URL(localizedPath(locale, "home"), SITE.url).href,
-    },
-    {
-      "@type": "ListItem",
-      position: 2,
-      name: categoryCopy.label,
-      item: new URL(categoryHref, SITE.url).href,
-    },
-    { "@type": "ListItem", position: 3, name: title, item: canonicalURL },
-  ],
-};
+const breadcrumbSchema = breadcrumbListSchema([
+  {
+    name: currentUi.labels.home,
+    item: absoluteUrl(localizedPath(locale, "home")),
+  },
+  {
+    name: categoryCopy.label,
+    item: absoluteUrl(categoryHref),
+  },
+  { name: title, item: canonicalURL },
+]);
 
 const faqSchema =
   faqItemsFromDetails.length > 0
-    ? {
+    ? pruneJsonLd({
         "@context": "https://schema.org",
         "@type": "FAQPage",
-        mainEntity: faqItemsFromDetails.map((item) => ({
-          "@type": "Question",
-          name: item.question,
-          acceptedAnswer: {
-            "@type": "Answer",
-            text: item.answer,
-          },
-        })),
-      }
+        mainEntity: faqItemsFromDetails
+          .filter((item) => item.question && item.answer)
+          .map((item) => ({
+            "@type": "Question",
+            name: item.question,
+            acceptedAnswer: {
+              "@type": "Answer",
+              text: item.answer,
+            },
+          })),
+      })
     : undefined;
 
-const eventSchemas = article.data.events.map((event) => ({
-  "@context": "https://schema.org",
-  "@type": "MusicEvent",
-  name: event.name,
-  description: excerpt,
-  startDate: event.startDate,
-  endDate: event.endDate,
-  eventAttendanceMode: "https://schema.org/OfflineEventAttendanceMode",
-  location: {
-    "@type": "Place",
-    name: event.location,
-    address: {
-      "@type": "PostalAddress",
-      streetAddress: event.street,
-      addressLocality: event.city,
-      addressCountry: "MA",
-    },
-  },
-  image: ogImageAbsolute,
-  url: event.url,
-  inLanguage: localeInfo.htmlLang,
-}));
+const eventSchemas = article.data.events
+  .map((event) =>
+    pruneJsonLd({
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      name: event.name,
+      description: excerpt,
+      startDate: event.startDate,
+      endDate: event.endDate,
+      eventAttendanceMode: "https://schema.org/OfflineEventAttendanceMode",
+      location: {
+        "@type": "Place",
+        name: event.location,
+        address: {
+          "@type": "PostalAddress",
+          streetAddress: event.street,
+          addressLocality: event.city,
+          addressCountry: "MA",
+        },
+      },
+      image: ogImageAbsolute,
+      url: event.url,
+      inLanguage: localeInfo.htmlLang,
+    }),
+  )
+  .filter(Boolean);
 const forecastExpiry = article.data.forecastValidUntil?.toISOString();
 const forecastDateLabel = forecastExpiry
   ? new Intl.DateTimeFormat(localeInfo.htmlLang, {
@@ -267,10 +274,14 @@ const forecastCopy = {
       type="application/ld+json"
       set:html={JSON.stringify(blogPostingSchema)}
     />
-    <script
-      type="application/ld+json"
-      set:html={JSON.stringify(breadcrumbSchema)}
-    />
+    {
+      breadcrumbSchema && (
+        <script
+          type="application/ld+json"
+          set:html={JSON.stringify(breadcrumbSchema)}
+        />
+      )
+    }
     {
       faqSchema && !hasEmbeddedFaqSchema && (
         <script
@@ -355,7 +366,11 @@ const forecastCopy = {
           >
             R
           </div>
-          <span class="font-medium text-rdm-black">{authorLabel}</span>
+          <a
+            href={authorHref}
+            class="font-medium text-rdm-black hover:text-rdm-orange transition-colors"
+            >{authorLabel}</a
+          >
           <span class="hidden sm:inline text-rdm-gray"
             >· {editorialRoleLabel}</span
           >
@@ -374,7 +389,7 @@ const forecastCopy = {
               d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 012.25-2.25h13.5A2.25 2.25 0 0121 7.5v11.25m-18 0A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75m-18 0v-7.5A2.25 2.25 0 015.25 9h13.5A2.25 2.25 0 0121 11.25v7.5"
             ></path>
           </svg>
-          {formattedDate}
+          <span>{publishedDateLabel} {formattedDate}</span>
         </time>
         <span class="flex items-center gap-1">
           <svg

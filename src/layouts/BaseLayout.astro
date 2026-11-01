@@ -5,6 +5,11 @@ import Footer from "@/components/Footer.astro";
 import { getLocaleFromPathname, localeMeta, type Locale } from "@/i18n/config";
 import { alternatesForPath, localizedPath, type RouteKey } from "@/i18n/routes";
 import { homeCopy } from "@/i18n/pages";
+import {
+  pruneJsonLd,
+  breadcrumbListSchema,
+  type BreadcrumbCrumb,
+} from "@/lib/jsonld";
 import "../styles/global.css";
 
 interface Props {
@@ -27,6 +32,7 @@ interface Props {
   locale?: Locale;
   alternates?: Record<Locale | "x-default", string>;
   routeKey?: RouteKey;
+  breadcrumbs?: BreadcrumbCrumb[];
 }
 
 const {
@@ -49,6 +55,7 @@ const {
   locale = getLocaleFromPathname(Astro.url.pathname),
   alternates = alternatesForPath(Astro.url.pathname),
   routeKey,
+  breadcrumbs,
 } = Astro.props;
 
 const localeInfo = localeMeta[locale];
@@ -67,21 +74,20 @@ const ogImageAbsolute = ogImage.startsWith("http")
   : `${SITE.url}${ogImage}`;
 const searchUrl = new URL(localizedPath(locale, "blog"), SITE.url).href;
 
-const organizationSchema = {
+const organizationSchema = pruneJsonLd({
   "@context": "https://schema.org",
   "@type": "Organization",
   name: SITE.name,
   url: SITE.url,
   logo: `${SITE.url}/images/og/default.webp`,
-  sameAs: [],
   contactPoint: {
     "@type": "ContactPoint",
     email: SITE.email,
     contactType: "editorial",
   },
-};
+});
 
-const websiteSchema = {
+const websiteSchema = pruneJsonLd({
   "@context": "https://schema.org",
   "@type": "WebSite",
   name: SITE.name,
@@ -93,7 +99,14 @@ const websiteSchema = {
     target: `${searchUrl}?q={search_term_string}`,
     "query-input": "required name=search_term_string",
   },
-};
+});
+const breadcrumbSchema = breadcrumbListSchema(
+  (breadcrumbs ?? []).map((crumb, index, list) =>
+    index === list.length - 1
+      ? { name: crumb.name, item: crumb.item ?? canonicalURL }
+      : crumb,
+  ),
+);
 ---
 
 <!doctype html>
@@ -180,6 +193,14 @@ const websiteSchema = {
       type="application/ld+json"
       set:html={JSON.stringify(websiteSchema)}
     />
+    {
+      breadcrumbSchema && (
+        <script
+          type="application/ld+json"
+          set:html={JSON.stringify(breadcrumbSchema)}
+        />
+      )
+    }
     <script
       src="https://analytics.ahrefs.com/analytics.js"
       data-key="yP55gqnaYyxJ2QTGSB0IAA"

@@ -1,24 +1,25 @@
 ---
-title: "The Gentlemen saison 3 au Maroc : le tournage passe par Rabat et Erfoud"
+title: "The Gentlemen saison 3 au Maroc : tournage à Rabat, Erfoud et coulisses"
 slug: "the-gentlemen-saison-3-maroc-rabat-erfoud"
 urlSlug: "the-gentlemen-saison-3-maroc-rabat-erfoud"
 locale: "fr"
 translationKey: "the-gentlemen-saison-3-maroc-rabat-erfoud"
-metaTitle: "The Gentlemen saison 3 au Maroc : le tournage passe par Rabat et Erfoud"
-metaDescription: "The Gentlemen saison 3 se tourne au Maroc : ce qui est confirmé sur Rabat, Erfoud, Guy Ritchie et les partenaires de production."
+metaTitle: "The Gentlemen Maroc : tournage à Rabat, Erfoud et coulisses"
+metaDescription: "The Gentlemen saison 3 se tourne au Maroc et au Royaume-Uni. Rabat, Erfoud, casting confirmé, production et rôle documenté d’Accrocar."
 category: "tourisme"
 tags:
+  - "The Gentlemen Maroc"
   - "The Gentlemen saison 3"
-  - "tournage au Maroc"
-  - "Rabat et Erfoud"
+  - "tournage Rabat Erfoud"
+  - "Accrocar"
 date: 2026-09-16
-updatedDate: 2026-09-16
-readingTime: 6
-excerpt: "Netflix a confirmé la saison 3; Le360 situe le tournage à Rabat et annonce Erfoud parmi les étapes marocaines."
-heroImage: "/images/articles/gentlemen-maroc/gentlemen-saison-3-maroc.webp"
-imageAlt: "Convoi de véhicules noirs préparé à Rabat dans le cadre d'une opération liée à une production audiovisuelle"
+updatedDate: 2026-10-30
+readingTime: 11
+excerpt: "Netflix confirme le tournage de la saison 3 au Maroc et au Royaume-Uni. Le360 situe le départ à Rabat et cite Erfoud; voici les faits, le casting et les coulisses documentées."
+heroImage: "/images/articles/gentlemen-maroc/gentlemen-lieux-tournage-maroc.webp"
+imageAlt: "Rolls-Royce Cullinan préparé au Maroc dans le corpus automobile fourni par Accrocar"
 articleType: "Article"
-heroCaption: "Image de première main fournie par Accrocar. Elle documente une opération automobile à Rabat, sans identifier un décor ni garantir une apparition à l'écran."
+heroCaption: "Image de première main fournie par Accrocar. Elle documente une opération automobile à Rabat, sans identifier un décor ni garantir une apparition à l’écran."
 heroCredit: "Photo fournie par Accrocar"
 heroWidth: 1600
 heroHeight: 900
@@ -32,99 +33,167 @@ showInFeatured: false
 showInSearchUI: false
 includeInSitemap: true
 sources:
-  - label: "Variety — renouvellement saison 3 (24 août 2026)"
-    url: "https://variety.com/2026/tv/news/the-gentlemen-season-3-greenlight-1236841374/"
-  - label: "Netflix Tudum — saison 3"
+  - label: "Netflix Tudum — production et casting de la saison 3 (23 octobre 2026)"
     url: "https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news"
-  - label: "Le360 — tournage au Maroc (14 septembre 2026)"
+  - label: "Le360 — tournage à Rabat et Erfoud (14 septembre 2026)"
     url: "https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/"
-  - label: "Companies House — Moonage Pictures (The Gentlemen) Limited"
-    url: "https://find-and-update.company-information.service.gov.uk/company/14115797"
-  - label: "Dune Films"
-    url: "https://dunefilms.com/"
-  - label: "Dune Films — références de production"
-    url: "https://dunefilms.com/credits/"
-  - label: "ITV Studios — majority stake in Moonage Pictures"
+  - label: "Variety — renouvellement de la saison 3 (24 août 2026)"
+    url: "https://variety.com/2026/tv/news/the-gentlemen-season-3-greenlight-1236841374/"
+  - label: "ITV Studios — Moonage Pictures et The Gentlemen"
     url: "https://www.itv.com/presscentre/media-releases/itv-studios-acquires-majority-stake-moonage-pictures"
+  - label: "Companies House — MOONAGE PICTURES (THE GENTLEMEN) LIMITED"
+    url: "https://find-and-update.company-information.service.gov.uk/company/14115797"
+  - label: "Dune Films — services de production au Maroc"
+    url: "https://dunefilms.com/"
+  - label: "Accrocar — services automobiles pour les productions au Maroc"
+    url: "https://accrocar.com/blog/luxury-car-rental-film-production-morocco"
 disclaimer: false
 ---
-Mise à jour: **16 septembre 2026**.
+Mise à jour éditoriale substantielle : **30 octobre 2026**. Date de publication originale conservée : 16 septembre 2026.
 
-Netflix a confirmé la saison 3; Le360 situe le tournage à Rabat et annonce Erfoud parmi les étapes marocaines.
+**The Gentlemen saison 3 est officiellement en production au Maroc et au Royaume-Uni.** Netflix l’a confirmé le 23 octobre 2026. Au Maroc, Le360 rapporte un début de tournage à Rabat le 13 septembre et cite Erfoud comme autre étape. Netflix n’a toutefois publié ni calendrier marocain détaillé, ni liste d’adresses, ni date de sortie.
 
-## L’essentiel
+## L’essentiel en 30 secondes
 
-- Netflix a confirmé la saison 3 le 24 août 2026.
+- **Statut officiel :** la saison 3 est en tournage au Royaume-Uni et au Maroc, selon Netflix Tudum.
+- **Lieux marocains rapportés :** Rabat et Erfoud, selon Le360; ce ne sont pas des adresses de plateau publiées par Netflix.
+- **Casting confirmé le 23 octobre :** Theo James et Kaya Scodelario, rejoints notamment par Robert Carlyle, Elijah Wood et Orlando Bloom.
+- **Production :** Moonage Pictures est la société de production publiquement associée à la série; l’entité juridique dédiée est **MOONAGE PICTURES (THE GENTLEMEN) LIMITED**, société britannique n° 14115797.
+- **Voitures au Maroc :** Accrocar déclare à Le Vrai Maroc avoir fourni un Rolls-Royce Cullinan et un Bentley Bentayga dans le cadre de l’opération marocaine.
+- **Limite essentielle :** une fourniture pour la production ne prouve pas qu’un véhicule figurera dans le montage final.
+- **Sortie :** aucune date ni fenêtre officielle annoncée au 30 octobre 2026.
 
-- Le360 rapporte un début de tournage à Rabat le dimanche 13 septembre 2026.
+## Ce que Netflix a officiellement confirmé
 
-- Le même article indique qu'Erfoud fait partie des lieux retenus.
+Le 23 octobre 2026, Netflix Tudum a annoncé que la troisième saison était **en cours de tournage au Royaume-Uni et au Maroc**. Cette publication constitue la source officielle la plus récente sur le statut de production. Elle confirme également le retour de Theo James dans le rôle d’Eddie Horniman et de Kaya Scodelario dans celui de Susie Glass.
 
-- Netflix n'a pas publié de liste officielle des lieux marocains.
+Le dossier officiel décrit une nouvelle phase de l’ambition d’Eddie, sans publier de carte des lieux marocains. Il ne faut donc pas transformer la mention « Maroc » en liste de scènes, d’hôtels ou d’adresses. Netflix n’a pas non plus communiqué de date de diffusion.
 
-## Pourquoi Rabat et Erfoud forment un tandem narratif
+Guy Ritchie reste le créateur et réalisateur associé à la série. La nouvelle saison prolonge l’univers criminel lancé en 2024, mais le fait que le tournage passe par le Maroc ne permet pas, à lui seul, de déduire si Rabat ou Erfoud seront identifiées comme telles à l’écran.
 
-Rabat apporte une capitale construite par couches: avenues du XXe siècle, institutions, jardins, remparts et lumière atlantique. Erfoud ouvre un autre registre, celui des plateaux présahariens, des routes minérales et des grandes distances. Pour une série qui joue sur le contraste entre pouvoir, élégance et danger, ce passage d'un décor urbain maîtrisé à un horizon aride offre une grammaire visuelle immédiatement lisible.
+## Tournage au Maroc : ce qui est établi sur Rabat et Erfoud
 
-Il faut pourtant résister à la tentation de transformer cette logique en liste de scènes. Aucun document public consulté ne détaille les séquences, les adresses ou les jours de présence des acteurs. La bonne information, au 16 septembre, tient en trois niveaux: la saison est officielle; un média marocain crédible rapporte un démarrage à Rabat le 13 septembre; Erfoud est annoncée comme autre étape du tournage.
+Le360 a publié le 14 septembre 2026 que le tournage avait commencé la veille, dimanche 13 septembre, à **Rabat**. Le média ajoute, en attribuant cette information à une source, qu’**Erfoud** a également été retenue pour des scènes.
 
+| Élément | Ce que la source établit | Niveau de preuve |
+|---|---|---|
+| Saison 3 en production | Tournage au Royaume-Uni et au Maroc | Confirmation officielle Netflix |
+| Rabat | Début de tournage rapporté le 13 septembre 2026 | Information attribuée à Le360 |
+| Erfoud | Lieu de tournage rapporté par une source de Le360 | Information attribuée, sans adresse publique |
+| Autres lieux marocains | Aucun autre lieu retenu dans ce dossier | Non confirmé |
+| Date de sortie | Aucune date ou fenêtre officielle | Inconnue |
 
+Rabat et Erfoud proposent des registres très différents. La capitale offre un tissu urbain, institutionnel et atlantique; Erfoud ouvre sur un environnement présaharien et des distances logistiques plus importantes. Cette lecture explique leur intérêt potentiel pour une production, mais elle ne constitue pas une description des scènes tournées.
 
-## Ce que les sources permettent d’affirmer
+## Casting confirmé de la saison 3
 
-Variety a confirmé le 24 août 2026 le renouvellement de The Gentlemen pour une troisième saison de huit épisodes, avec Guy Ritchie à la réalisation et à l’écriture aux côtés de Matthew Read. Netflix Tudum a ensuite consacré un dossier officiel à cette saison 3. Les lieux marocains reposent sur un autre niveau de preuve: Le360 a rapporté le 14 septembre 2026 que le tournage avait commencé à Rabat le 13 septembre et qu’Erfoud faisait partie des décors retenus. Accrocar confirme, sur son site et dans le corpus remis à Le Vrai Maroc, une opération automobile à Rabat en septembre 2026, avec un Rolls-Royce Cullinan et un Bentley Bentayga.
+La mise à jour Netflix du 23 octobre confirme **Theo James** et **Kaya Scodelario**, ainsi que neuf nouveaux noms :
 
-Ces niveaux restent séparés. Un renouvellement officiel n’établit pas une carte des lieux. Une photographie de service ne prouve pas une apparition à l’écran. Accrocar nomme deux interlocuteurs: [Dune Films](https://dunefilms.com/) et MOONAGE PICTURES (THE GENTLEMEN) LIMITED, société britannique n° 14115797 au registre Companies House. Accrocar indique n’avoir aucun contrat direct avec Netflix.
+- Robert Carlyle;
+- Elijah Wood;
+- Orlando Bloom;
+- Dexter Fletcher;
+- Bruna Marquezine;
+- Ed Speleers;
+- Saffron Burrows;
+- Philip Arditti;
+- Bugzy Malone.
 
-## Ce qui reste à confirmer
+Netflix ne détaille pas encore leurs personnages dans cette annonce. Les articles antérieurs peuvent citer d’autres acteurs, mais cette page distingue la liste officiellement publiée le 23 octobre des attentes, rumeurs ou extrapolations.
 
-Aucune source publique consultée ne donne le calendrier marocain complet, les adresses précises, les scènes ou la liste finale des véhicules. Netflix n'a pas publiquement confirmé Accrocar comme partenaire.
+## Sociétés de production et écosystème marocain
 
-Les images publiées sont des dérivés respectueux de la vie privée: métadonnées supprimées, plaques, personnes et indices sensibles exclus par le cadrage. Les originaux restent hors de l'arborescence publique du site.
+ITV Studios présente **Moonage Pictures** comme le producteur de *The Gentlemen*. Le registre britannique Companies House identifie séparément **MOONAGE PICTURES (THE GENTLEMEN) LIMITED**, société active n° 14115797, dont l’activité déclarée est la production de programmes télévisés. Ces deux éléments sont publics et vérifiables.
 
-Accrocar confirme, sur son site et auprès de Le Vrai Maroc, une collaboration directe avec [Dune Films](https://dunefilms.com/) et avec MOONAGE PICTURES (THE GENTLEMEN) LIMITED pour le volet automobile au Maroc. Accrocar indique n’avoir aucun contrat direct avec Netflix.
+[Dune Films](https://dunefilms.com/) se présente comme une société marocaine de services de production. Son site documente une expérience sur de nombreux tournages internationaux, mais sa page de références publique ne liste pas actuellement *The Gentlemen*. L’implication spécifique de Dune Films dans l’opération décrite ici est donc attribuée aux déclarations et matériaux de première main remis par Accrocar à Le Vrai Maroc, et non à une annonce Netflix.
 
+Cette distinction est importante : Netflix confirme la série et les pays de tournage; Le360 rapporte Rabat et Erfoud; les entreprises concernées décrivent leurs propres prestations. Une source ne remplace pas l’autre.
 
-## Comment nous avons vérifié cette information
+## Accrocar : les véhicules de luxe mobilisés pour la production au Maroc
 
-Nous avons confronté trois familles de preuves: les annonces de Netflix, les sources publiques institutionnelles ou médiatiques, puis le corpus de première main confié par Accrocar. Cette méthode explique pourquoi « Netflix a confirmé la saison 3 le 24 août 2026. » et « Le360 rapporte un début de tournage à Rabat le dimanche 13 septembre 2026. » ne portent pas nécessairement le même niveau de confirmation. Une date publiée par Netflix est officielle; une localisation rapportée par un média reste attribuée; une photographie originale établit ce qu'elle montre, mais pas ce qui se passe hors cadre.
+<section class="not-prose my-10 overflow-hidden rounded-2xl border border-rdm-border bg-white shadow-card" aria-labelledby="accrocar-production-maroc">
+  <div class="bg-rdm-black px-6 py-7 text-white sm:px-8">
+    <p class="mb-2 text-xs font-semibold uppercase tracking-[0.18em] text-rdm-orange">Information de première main</p>
+    <h3 id="accrocar-production-maroc" class="m-0 text-2xl font-black text-white">Accrocar et la logistique automobile au Maroc</h3>
+    <p class="mt-4 max-w-2xl leading-relaxed text-white/80">Accrocar, société marocaine de mobilité de luxe, déclare à Le Vrai Maroc avoir préparé et fourni un Rolls-Royce Cullinan et un Bentley Bentayga pour les besoins qui lui ont été confiés sur l’opération marocaine.</p>
+    <a href="https://accrocar.com/" class="mt-5 inline-flex rounded-full bg-rdm-orange px-5 py-3 text-sm font-bold text-white no-underline transition-opacity hover:opacity-90">Découvrir Accrocar</a>
+  </div>
+  <div class="grid sm:grid-cols-2">
+    <figure class="m-0 border-b border-rdm-border sm:border-b-0 sm:border-r">
+      <img src="/images/articles/gentlemen-maroc/rolls-royce-bentley-gentlemen-maroc.webp" alt="Véhicules de luxe photographiés dans le corpus automobile fourni par Accrocar" width="1600" height="900" loading="lazy" class="aspect-video h-full w-full object-cover" />
+      <figcaption class="px-5 py-3 text-xs leading-relaxed text-rdm-gray">Véhicules photographiés dans le cadre de l’opération documentée. Photo fournie par Accrocar; aucune plaque d’immatriculation n’est exposée.</figcaption>
+    </figure>
+    <figure class="m-0">
+      <img src="/images/articles/gentlemen-maroc/rolls-royce-interieur-inline.webp" alt="Habitacle orange et noir d’un Rolls-Royce Cullinan préparé pour une opération de production au Maroc" width="1600" height="900" loading="lazy" class="aspect-video h-full w-full object-cover" />
+      <figcaption class="px-5 py-3 text-xs leading-relaxed text-rdm-gray">Préparation intérieure documentée par Accrocar. L’image ne prouve pas une apparition dans la série.</figcaption>
+    </figure>
+  </div>
+  <div class="px-6 py-6 sm:px-8">
+    <ul class="m-0 grid gap-3 p-0 text-sm text-rdm-black sm:grid-cols-2">
+      <li class="list-none rounded-xl bg-rdm-bg p-4"><strong>Véhicules déclarés :</strong> Rolls-Royce Cullinan et Bentley Bentayga.</li>
+      <li class="list-none rounded-xl bg-rdm-bg p-4"><strong>Travail décrit :</strong> préparation, disponibilité, livraison et coordination opérationnelle.</li>
+      <li class="list-none rounded-xl bg-rdm-bg p-4"><strong>Attribution :</strong> déclaration et photographies de première main fournies par Accrocar.</li>
+      <li class="list-none rounded-xl bg-rdm-bg p-4"><strong>Ce qui n’est pas affirmé :</strong> partenariat officiel Netflix ou présence garantie à l’écran.</li>
+    </ul>
+  </div>
+</section>
 
-Chaque image a été examinée pour distinguer modèle de véhicule, contexte et éléments sensibles. Nous avons écarté les fichiers révélant un hôtel, un emplacement opérationnel, une plaque ou une personne identifiable. Nous n'avons utilisé ni légende de réseau social non vérifiée, ni rapprochement visuel pour inventer une adresse. Cette prudence réduit le spectaculaire, mais donne au lecteur une information durable et révisable si de nouvelles annonces paraissent.
+Le site public d’Accrocar décrit son offre B2B pour les productions, shootings et publicités au Maroc, mais ne nomme pas ses clients. Les détails propres à *The Gentlemen* proviennent de matériaux autorisés et de déclarations directes à Le Vrai Maroc. Pour le dossier automobile complet, voir [les véhicules de luxe fournis pour The Gentlemen au Maroc](/articles/rolls-royce-bentley-the-gentlemen-maroc/).
 
-## Pourquoi ce dossier compte pour le Maroc
+Accrocar indique avoir travaillé sur ce volet avec Dune Films et avec MOONAGE PICTURES (THE GENTLEMEN) LIMITED. L’entreprise précise ne pas avoir de contrat direct avec Netflix. Le Vrai Maroc n’a consulté aucun contrat public permettant d’élargir cette formulation.
 
-Ce dossier met aussi en évidence une chaîne de compétences: repérage, production exécutive, régie, équipes techniques, hébergement, sécurité, transport et fournisseurs spécialisés. Une série internationale ne se déplace pas pour un panorama isolé; elle évalue la capacité du territoire à répéter une journée de travail fiable.
+## Ce que les photographies prouvent — et ce qu’elles ne prouvent pas
 
-Rabat et Erfoud donnent deux mesures de cette capacité. La première concentre institutions et services dans un environnement urbain varié; la seconde exige autonomie et maîtrise des distances. L'intérêt économique et professionnel se trouve dans cette continuité entre lieux, équipes et entreprises marocaines, bien davantage que dans une affirmation publicitaire impossible à vérifier.
+Les photographies autorisées montrent des véhicules préparés dans un contexte opérationnel au Maroc. Elles permettent d’identifier les modèles et d’illustrer le niveau de préparation. Elles ne révèlent ni feuille de service, ni planning privé, ni personne identifiable, ni plaque exploitable.
 
-## À lire aussi
+Elles ne permettent pas d’affirmer qu’un Cullinan ou un Bentayga apparaîtra dans un épisode. Entre la fourniture d’un véhicule, son éventuelle utilisation pendant le tournage et sa présence dans le montage final, trois étapes différentes doivent être distinguées.
 
-- [The Gentlemen saison 3 à Rabat : ce que l'on sait du tournage](/articles/the-gentlemen-saison-3-rabat-tournage/)
+## Chronologie vérifiée
 
-- [The Gentlemen saison 3 à Erfoud : la piste présaharienne du tournage](/articles/the-gentlemen-saison-3-erfoud-tournage/)
+- **24 août 2026 :** Variety rapporte le renouvellement de la série pour une troisième saison.
+- **13 septembre 2026 :** début de tournage à Rabat rapporté le lendemain par Le360; Erfoud est également citée.
+- **23 octobre 2026 :** Netflix confirme officiellement que la saison 3 est en tournage au Royaume-Uni et au Maroc et publie les nouveaux noms du casting.
+- **30 octobre 2026 :** cette page est mise à jour avec l’annonce Netflix et une cartographie plus stricte des niveaux de preuve.
 
-- [Lieux de tournage de The Gentlemen saison 3 au Maroc : confirmé, rapporté ou inconnu](/articles/lieux-tournage-the-gentlemen-saison-3-maroc/)
+## Pourquoi le Maroc compte dans cette production
 
-- [Pourquoi les productions internationales choisissent le Maroc](/articles/pourquoi-productions-internationales-choisissent-maroc/)
+Le Maroc ne fournit pas seulement des paysages. Une production internationale mobilise des services de production, des équipes techniques, des transports, de la sécurité, des hébergements, des ateliers et des fournisseurs spécialisés. Rabat teste une organisation urbaine; Erfoud exige davantage d’autonomie et de maîtrise des distances.
 
-- [The Gentlemen au Maroc : Accrocar confirme sa collaboration avec Dune Films et Moonage Pictures](/articles/accrocar-vehicules-luxe-the-gentlemen-maroc/)
+L’exemple automobile donne une mesure concrète de cette chaîne. Un véhicule de luxe destiné à une production doit être préparé, documenté, transporté et disponible au moment demandé, sans exposer le planning ni les personnes. Cette capacité opérationnelle constitue l’information originale de ce dossier.
 
-## Questions fréquentes
+## Dossiers complémentaires, sans doublonner cette page
 
-<details><summary>La saison 3 de The Gentlemen est-elle officielle ?</summary><p>Oui. Variety a publié le renouvellement le 24 août 2026 et Netflix Tudum le confirme. Les lieux marocains viennent de Le360 et d’éléments de première main, pas d’une carte officielle Netflix.</p></details>
+- [Accrocar, Dune Films et Moonage Pictures : qui fait quoi autour de la production ?](/articles/accrocar-mobilite-luxe-productions-internationales/)
+- [Rolls-Royce Cullinan et Bentley Bentayga : les véhicules documentés](/articles/rolls-royce-bentley-the-gentlemen-maroc/)
+- [Dans les coulisses : comment s’organise la logistique automobile](/articles/coulisses-logistique-automobile-the-gentlemen-maroc/)
+- [Lieux de tournage au Maroc : confirmé, rapporté ou inconnu](/articles/lieux-tournage-the-gentlemen-saison-3-maroc/)
+- [Rabat : ce que l’on sait précisément du tournage](/articles/the-gentlemen-saison-3-rabat-tournage/)
+- [Erfoud : la piste présaharienne](/articles/the-gentlemen-saison-3-erfoud-tournage/)
 
-<details><summary>Les véhicules photographiés apparaîtront-ils à l'écran ?</summary><p>Ce n'est pas établi. Les images documentent une opération de mise à disposition liée à la production; elles ne prouvent ni le montage final ni une apparition à l'écran.</p></details>
+## Questions directes
 
-## Sources citées
+### La saison 3 de The Gentlemen est-elle officiellement en tournage au Maroc ?
 
-- [Variety — renouvellement saison 3 (24 août 2026)](https://variety.com/2026/tv/news/the-gentlemen-season-3-greenlight-1236841374/)
+Oui. Netflix Tudum confirme depuis le 23 octobre 2026 que la saison 3 est en cours de tournage au Royaume-Uni et au Maroc.
 
-- [Netflix Tudum — saison 3](https://www.netflix.com/tudum/articles/the-gentlemen-season-3-release-date-cast-news)
+### Où The Gentlemen saison 3 est-elle tournée au Maroc ?
 
-- [Le360 — tournage au Maroc (14 septembre 2026)](https://fr.le360.ma/culture/le-tournage-de-la-troisieme-saison-de-the-gentlemen-demarre-au-maroc_IXADD4LCGVCEDE3M5HT6IG5HHQ/)
+Le360 rapporte Rabat et Erfoud. Netflix confirme le Maroc, mais n’a pas publié de liste officielle détaillée des villes ou des adresses de tournage.
 
-- [Companies House — Moonage Pictures (The Gentlemen) Limited](https://find-and-update.company-information.service.gov.uk/company/14115797)
+### Qui est confirmé au casting ?
 
-- [Dune Films](https://dunefilms.com/)
+Netflix confirme Theo James et Kaya Scodelario, ainsi que Robert Carlyle, Elijah Wood, Orlando Bloom, Dexter Fletcher, Bruna Marquezine, Ed Speleers, Saffron Burrows, Philip Arditti et Bugzy Malone.
 
-- [Dune Films — références de production](https://dunefilms.com/credits/)
+### Quand sortira la saison 3 ?
+
+Aucune date ni fenêtre de sortie n’a été annoncée officiellement au 30 octobre 2026. Toute estimation plus précise reste spéculative.
+
+### Quel est le rôle d’Accrocar ?
+
+Accrocar déclare avoir préparé et fourni des véhicules de luxe, dont un Rolls-Royce Cullinan et un Bentley Bentayga, pour l’opération marocaine confiée à l’entreprise. Cette déclaration ne constitue ni une approbation de Netflix, ni une preuve d’apparition à l’écran.
+
+## Méthode de vérification
+
+Le Vrai Maroc sépare quatre niveaux de preuve : annonce officielle de Netflix; information locale attribuée à Le360; registres et sites institutionnels; déclarations et images de première main fournies par les entreprises. Aucun document confidentiel, contrat, horaire privé, plaque lisible ou identité personnelle n’est publié.
+
+Cette page sera corrigée si Netflix précise les lieux, les personnages ou la date de sortie. Une mise à jour ne changera la date de publication originale que si un nouvel article est créé; ici, seule la date de modification reflète le travail éditorial du 30 octobre.

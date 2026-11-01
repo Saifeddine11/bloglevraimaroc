@@ -171,10 +171,22 @@ for (const a of manifest) {
     article?.dateModified === new Date(front.updatedDate).toISOString(),
     `${a.route}: modified date`,
   );
+  const breadcrumb = schemas.find((s) => s["@type"] === "BreadcrumbList");
   assert(
     schemas.some((s) => s["@type"] === "BreadcrumbList"),
     `${a.route}: breadcrumb schema`,
   );
+  for (const [index, element] of (
+    breadcrumb?.itemListElement ?? []
+  ).entries()) {
+    const name =
+      typeof element?.name === "string"
+        ? element.name
+        : typeof element?.item?.name === "string"
+          ? element.item.name
+          : "";
+    assert(!!name.trim(), `${a.route}: breadcrumb ${index + 1} missing name`);
+  }
   const faq = schemas.find((s) => s["@type"] === "FAQPage");
   const visibleFaqs = [...document.querySelectorAll("article details")];
   assert(

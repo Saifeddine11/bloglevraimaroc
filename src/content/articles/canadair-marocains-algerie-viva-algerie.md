@@ -6,7 +6,14 @@ translationKey: "canadair-marocains-algerie-viva-algerie"
 metaTitle: "Canadair marocains en Algérie : que dit Viva Algérie ?"
 metaDescription: "Selon Viva Algérie, des Canadair marocains seraient intervenus contre les incendies en Algérie. Le Vrai Maroc examine ce récit, son niveau de certitude et la portée d'une coopération d'urgence."
 category: "analyses"
-tags: ["Canadair marocains Algérie", "Maroc aide Algérie incendies", "Viva Algérie", "coopération Maroc Algérie", "feux de forêt Algérie"]
+tags:
+  [
+    "Canadair marocains Algérie",
+    "Maroc aide Algérie incendies",
+    "Viva Algérie",
+    "coopération Maroc Algérie",
+    "feux de forêt Algérie",
+  ]
 date: 2026-07-23
 updatedDate: 2026-07-23
 readingTime: 10
@@ -27,6 +34,7 @@ sources:
     url: "https://www.yabiladi.com/articles/details/113313/maroc-propose-deux-canadairs-renfort.html"
 disclaimer: false
 ---
+
 <div class="article-summary"><span class="article-kicker">Réponse immédiate</span><p>Une assistance marocaine aurait été engagée dans la lutte contre les récents incendies en Algérie. <strong>Selon une information publiée par Viva Algérie</strong>, des Canadair marocains seraient intervenus dans les opérations aériennes menées contre plusieurs foyers. Le média algérien présente lui-même cette information comme <strong>rapportée mais non confirmée officiellement</strong> : elle repose sur un témoignage direct transmis à sa rédaction. À l'heure de publication, ni les autorités algériennes ni les autorités marocaines n'ont diffusé de communiqué détaillant une telle opération.</p></div>
 
 <div class="article-warning"><p><strong>Transparence :</strong> cet article reprend et analyse une information de presse. Il distingue en permanence ce qui est officiellement confirmé, ce qui est corroboré de manière indépendante, et ce qui est seulement rapporté par Viva Algérie. Une information de presse attribuée n'équivaut pas à une annonce bilatérale officielle.</p></div>
@@ -57,7 +65,7 @@ Le verdict éditorial de Viva Algérie est donc : information **plausible mais n
 
 En l'état des informations publiques, il n'est pas possible de reconstituer une chronologie de vol : ni départ, ni entrée en opération, ni zones de largage, ni durée ne sont documentés par une source vérifiable. Le Vrai Maroc ne fabrique pas de trajectoire ni de calendrier d'intervention.
 
-Ce que l'on peut dire prudemment : *si* des Canadair marocains étaient intervenus, ils l'auraient fait en appui d'un dispositif algérien déjà largement déployé, sur des foyers précis, sans se substituer aux moyens nationaux. Toute description plus détaillée relèverait, à ce stade, de la spéculation. Le média Viva Algérie lui-même s'en tient au conditionnel et poursuit ses vérifications auprès de sources officielles et indépendantes.
+Ce que l'on peut dire prudemment : _si_ des Canadair marocains étaient intervenus, ils l'auraient fait en appui d'un dispositif algérien déjà largement déployé, sur des foyers précis, sans se substituer aux moyens nationaux. Toute description plus détaillée relèverait, à ce stade, de la spéculation. Le média Viva Algérie lui-même s'en tient au conditionnel et poursuit ses vérifications auprès de sources officielles et indépendantes.
 
 ## Les équipes algériennes au cœur du dispositif
 
@@ -134,6 +142,7 @@ Si elle venait à être confirmée, une contribution marocaine constituerait un 
 Le récit publié par Viva Algérie pose une question légitime : le Maroc a-t-il, discrètement, prêté main-forte à l'Algérie par la voie des airs ? À l'heure où nous écrivons, la réponse honnête est : c'est rapporté, c'est plausible, mais ce n'est pas prouvé. La solidarité humaine et la capacité opérationnelle marocaine sont réelles ; l'effort algérien, massif, l'est tout autant ; l'urgence environnementale, elle, ne fait aucun doute. La meilleure suite serait moins une polémique qu'une coopération maghrébine assumée face à un risque devenu commun. Nous actualiserons cet article dès qu'une autorité diffusera un bilan opérationnel vérifiable. À lire également : notre point complet sur les <a href="/articles/incendies-algerie-2026-canadair-maroc">incendies en Algérie et le bilan vérifié</a>, ainsi que nos autres <a href="/analyses">analyses</a>.
 
 ## FAQ
+
 <details><summary>Le Maroc a-t-il envoyé des Canadair en Algérie ?</summary><p>C'est ce que rapporte le média Viva Algérie, sur la base d'un témoignage direct transmis à sa rédaction. Cette information n'était pas confirmée officiellement au moment de la publication, et Le Vrai Maroc n'a identifié aucune preuve indépendante.</p></details>
 <details><summary>Quelle est la source de cette information ?</summary><p>Un article de Viva Algérie mis à jour le 23 juillet 2026, qui dit s'appuyer sur une information directe communiquée à sa rédaction — et non sur un communiqué officiel.</p></details>
 <details><summary>Viva Algérie a-t-il confirmé l'intervention marocaine ?</summary><p>Non. Viva Algérie assume son récit mais le classe explicitement comme « rapporté / non vérifié », en employant le conditionnel. Le média poursuit ses vérifications.</p></details>
@@ -147,26 +156,6 @@ Le récit publié par Viva Algérie pose une question légitime : le Maroc a-t-i
 
 <div class="article-cta"><p><strong>À lire ensuite :</strong> <a href="/articles/incendies-algerie-2026-canadair-maroc">Incendies en Algérie : le bilan vérifié</a> et nos <a href="/analyses">analyses</a>.</p></div>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Incendies en Algérie : des Canadair marocains seraient intervenus, selon Viva Algérie",
-  "description": "Selon Viva Algérie, des Canadair marocains seraient intervenus contre les incendies en Algérie. Information rapportée mais non confirmée officiellement.",
-  "image": ["https://levraimaroc.com/images/articles/incendies-algerie-2026-canadair-cl415-cover.webp"],
-  "datePublished": "2026-07-23T19:30:00+01:00",
-  "dateModified": "2026-07-23T19:30:00+01:00",
-  "inLanguage": "fr",
-  "author": { "@type": "Organization", "name": "Le Vrai Maroc", "url": "https://levraimaroc.com" },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Le Vrai Maroc",
-    "logo": { "@type": "ImageObject", "url": "https://levraimaroc.com/images/og/default.webp" }
-  },
-  "mainEntityOfPage": { "@type": "WebPage", "@id": "https://levraimaroc.com/articles/canadair-marocains-algerie-viva-algerie" },
-  "isBasedOn": "https://vivaalgerie.com/articles/incendies-algerie-canadair-maroc-intervention/"
-}
-</script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

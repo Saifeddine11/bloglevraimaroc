@@ -6,7 +6,15 @@ translationKey: "incendies-algerie-2026-canadair-maroc"
 metaTitle: "Incendies Algérie 2026 : bilan, Canadair et ce qui est confirmé"
 metaDescription: "Incendies en Algérie en juillet 2026 : six morts confirmés, des dizaines de foyers actifs, évacuations à Annaba. Le point vérifié, et la question des Canadair marocains, encore non confirmée."
 category: "analyses"
-tags: ["Incendies Algérie 2026", "Canadair", "Maroc", "Protection civile", "Canicule Maghreb", "Annaba"]
+tags:
+  [
+    "Incendies Algérie 2026",
+    "Canadair",
+    "Maroc",
+    "Protection civile",
+    "Canicule Maghreb",
+    "Annaba",
+  ]
 date: 2026-07-23
 updatedDate: 2026-07-23
 readingTime: 11
@@ -29,6 +37,7 @@ sources:
     url: "https://en.wikipedia.org/wiki/Canadair_CL-415"
 disclaimer: false
 ---
+
 <div class="article-summary"><span class="article-kicker">L'essentiel</span><p>L'Algérie affronte depuis la mi-juillet 2026 une vague exceptionnelle d'incendies attisée par une canicule dépassant 49 °C. Le ministère de l'Intérieur a confirmé <strong>six morts</strong>. La Protection civile a fait état, dans son dernier bilan quotidien, de <strong>195 départs de feu en 24 heures</strong>, dont 142 maîtrisés et 53 encore actifs. Une source contactée par Le Vrai Maroc évoque la participation de <strong>Canadair marocains</strong> ; cette information n'est, à ce stade, <strong>confirmée par aucune autorité ni aucun média</strong>.</p></div>
 
 <div class="article-warning"><p><strong>Transparence éditoriale :</strong> cet article sépare strictement trois niveaux d'information — ce qui est officiellement confirmé, ce qui est rapporté par plusieurs médias fiables, et ce qui relève d'une source directe non vérifiée. La mention d'avions marocains appartient à la troisième catégorie et n'est pas présentée comme un fait établi.</p></div>
@@ -154,6 +163,7 @@ La Protection civile prévient que le risque reste élevé tant que dure la cani
 L'Algérie traverse l'un de ses étés les plus difficiles depuis 2021 sur le front des incendies : six morts, des milliers de départs de feu, des évacuations et des hectares partis en fumée, dans un contexte de canicule extrême. Sur ce socle de faits vérifiés, une question demeure ouverte : celle d'une éventuelle participation d'appareils marocains, rapportée à Le Vrai Maroc par une source directe, mais non confirmée et rendue improbable par l'état des relations bilatérales. Nous continuerons à suivre le dossier et à distinguer, à chaque mise à jour, le vérifié de l'invérifié. Retrouvez nos autres <a href="/analyses">analyses</a> et suivez l'actualité sur la <a href="/">page d'accueil</a>.
 
 ## FAQ
+
 <details><summary>Combien de morts dans les incendies en Algérie en juillet 2026 ?</summary><p>Le ministère algérien de l'Intérieur a confirmé six morts dans les incendies ayant frappé plusieurs wilayas ces derniers jours.</p></details>
 <details><summary>Des Canadair marocains ont-ils participé aux opérations en Algérie ?</summary><p>Une source directe contactée par Le Vrai Maroc l'affirme, mais aucune autorité ni aucune agence de presse ne l'a confirmé. Cette information n'est pas établie et doit être traitée avec réserve, d'autant que l'espace aérien algérien est fermé aux avions marocains depuis 2021.</p></details>
 <details><summary>Quelles régions d'Algérie sont les plus touchées ?</summary><p>Principalement le nord et le nord-est : Annaba, Souk Ahras, Skikda, Guelma, Béjaïa, Bouira, Médéa, Mila, El-Tarf, Jijel, Constantine, Tlemcen, Mascara et Saïda figurent parmi les wilayas citées.</p></details>
@@ -162,27 +172,8 @@ L'Algérie traverse l'un de ses étés les plus difficiles depuis 2021 sur le fr
 
 <div class="article-warning"><p><strong>Note de mise à jour :</strong> article publié le 23 juillet 2026 à partir des bilans disponibles ce jour. Les chiffres évoluent quotidiennement. Toute information sur une participation d'appareils marocains sera ajoutée uniquement si elle est confirmée par une source officielle ou une agence de presse reconnue.</p></div>
 
-<div class="article-cta"><p><strong>À lire aussi :</strong> nos <a href="/analyses">analyses</a> et l'actualité de Marrakech et du Maroc sur <a href="/">Le Vrai Maroc</a>.</p></div>
+<div class="article-cta"><p><strong>À lire aussi :</strong> nos <a href="/analyses">analyses</a> et l'actualité du Maroc sur <a href="/">Le Vrai Maroc</a>.</p></div>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NewsArticle",
-  "headline": "Incendies en Algérie : six morts, des dizaines de foyers actifs et une question sur des Canadair marocains",
-  "description": "Incendies en Algérie en juillet 2026 : six morts confirmés, des dizaines de foyers actifs, évacuations à Annaba. Le point vérifié, et la question des Canadair marocains, encore non confirmée.",
-  "image": ["https://levraimaroc.com/images/articles/incendies-algerie-2026-canadair-cl415-cover.webp"],
-  "datePublished": "2026-07-23T09:00:00+01:00",
-  "dateModified": "2026-07-23T09:00:00+01:00",
-  "inLanguage": "fr",
-  "author": { "@type": "Organization", "name": "Le Vrai Maroc", "url": "https://levraimaroc.com" },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Le Vrai Maroc",
-    "logo": { "@type": "ImageObject", "url": "https://levraimaroc.com/images/og/default.webp" }
-  },
-  "mainEntityOfPage": { "@type": "WebPage", "@id": "https://levraimaroc.com/articles/incendies-algerie-2026-canadair-maroc" }
-}
-</script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

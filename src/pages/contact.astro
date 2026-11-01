@@ -1,11 +1,17 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import { SITE } from '@/data/site';
+import { ui } from '@/i18n/ui';
+import { absoluteUrl, localizedPath } from '@/i18n/routes';
 ---
 
 <BaseLayout
   title="Contact"
   description="Contactez l'équipe éditoriale Le Vrai Maroc pour des suggestions d'articles, questions d'investisseurs, ou demandes de partenariat éditorial."
+  breadcrumbs={[
+    { name: ui.fr.labels.home, item: absoluteUrl(localizedPath('fr', 'home')) },
+    { name: ui.fr.labels.contact },
+  ]}
 >
   <section class="py-20">
     <div class="container-rdm">
@@ -18,7 +24,7 @@ import { SITE } from '@/data/site';
             <span class="text-rdm-orange">la rédaction</span>
           </h1>
           <p class="text-rdm-gray leading-relaxed mb-8">
-            Vous avez une question sur le marché immobilier de Marrakech, une suggestion d'article,
+            Vous avez une question sur un sujet au Maroc, une suggestion d'article,
             ou vous souhaitez nous signaler une information ? Nous lisons tous les messages.
           </p>
 

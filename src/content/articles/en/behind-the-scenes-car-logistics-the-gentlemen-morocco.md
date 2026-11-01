@@ -52,6 +52,8 @@ disclaimer: false
 ---
 Updated: **16 September 2026**.
 
+This logistics briefing supports our central reference page, [The Gentlemen Season 3 in Morocco: Filming, Cast and Behind the Scenes](/en/articles/the-gentlemen-season-3-morocco-rabat-erfoud/), updated after Netflix’s official 23 October 2026 announcement.
+
 Behind a line of vehicles sit schedules, checks, drivers, backup routes and strict confidentiality.
 
 ## Key points

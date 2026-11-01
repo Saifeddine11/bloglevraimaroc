@@ -146,6 +146,38 @@
       "default": false,
       "type": "boolean"
     },
+    "published": {
+      "default": true,
+      "type": "boolean"
+    },
+    "indexable": {
+      "default": true,
+      "type": "boolean"
+    },
+    "showOnHomepage": {
+      "default": true,
+      "type": "boolean"
+    },
+    "showInBlogGrid": {
+      "default": true,
+      "type": "boolean"
+    },
+    "showInRelatedArticles": {
+      "default": true,
+      "type": "boolean"
+    },
+    "showInFeatured": {
+      "default": true,
+      "type": "boolean"
+    },
+    "showInSearchUI": {
+      "default": true,
+      "type": "boolean"
+    },
+    "includeInSitemap": {
+      "default": true,
+      "type": "boolean"
+    },
     "sources": {
       "default": [],
       "type": "array",

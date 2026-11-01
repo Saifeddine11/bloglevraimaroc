@@ -6,6 +6,9 @@ import { getCollection } from 'astro:content';
 import { getCategoryInfo } from '@/data/categories';
 import CategoryIcon from '@/components/CategoryIcon.astro';
 import { articleLocale } from '@/i18n/articles';
+import { ui } from '@/i18n/ui';
+import { absoluteUrl, localizedPath } from '@/i18n/routes';
+import { categoryCopies } from '@/i18n/pages';
 import { isVisibleInBlogGrid } from '@/lib/articleVisibility';
 
 const cat = getCategoryInfo('quartiers');
@@ -103,6 +106,10 @@ const neighborhoods = [
 <BaseLayout
   title="Quartiers de Marrakech — Guide immobilier par zone"
   description="Guide complet des quartiers de Marrakech : Guéliz, Hivernage, Palmeraie, Médina, Agdal, Route d'Amizmiz. Prix, profils d'acheteurs et potentiel locatif."
+  breadcrumbs={[
+    { name: ui.fr.labels.home, item: absoluteUrl(localizedPath('fr', 'home')) },
+    { name: categoryCopies.fr.quartiers.label },
+  ]}
 >
   <section class="py-16 bg-rdm-bg border-b border-rdm-border">
     <div class="container-rdm">
